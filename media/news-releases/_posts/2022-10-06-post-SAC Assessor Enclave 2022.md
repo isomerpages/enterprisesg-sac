@@ -16,5 +16,3 @@ In addition, SAC also wishes to thank all volunteers for their support in SAC’
 
 
 * [Congratulatory AD for SAC Assessor Enclave 2022](/files/Documents/SAC-Congratulatory_ad-for-assessors2022.pdf)
-
-  
