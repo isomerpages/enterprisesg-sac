@@ -15,6 +15,10 @@ Updates on new developments such as the SACiNet 2.0 platform and revamped SAC Kn
 The event recognised 53 assessors who have contributed significantly to SAC’s assessment. As we give our heartiest congratulations to these assessors, we would also like to extend our appreciation to all assessors for their continued support and commitment to SAC, especially for their support of new initiatives in the SAC Strategic Plan 2025.
 
  
+ 
+ 
+ [SAC-Congratulatory_ad-for-assessors-2021.pdf](/files/Documents/SAC-Congratulatory_ad-for-assessors-2021.pdf)
+ 
    
 [SAC Congratulatory_ad for assessors 2021](/files/documents/SAC-Congratulatory_ad-for-assessors-2021.pdf)
  
