@@ -19,8 +19,6 @@ The event recognised 53 assessors who have contributed significantly to SAC’s 
  
  [SAC-Congratulatory_ad-for-assessors-2021.pdf](/files/Documents/SAC-Congratulatory_ad-for-assessors-2021.pdf)
  
-   
-[SAC Congratulatory_ad for assessors 2021](/files/documents/SAC-Congratulatory_ad-for-assessors-2021.pdf)
- 
+
 
 [SAC Congratulatory_ad for assessors 2021](/files/documents/SAC-Congratulatory_ad-for-assessors-2021.pdf){:target="_blank"}
