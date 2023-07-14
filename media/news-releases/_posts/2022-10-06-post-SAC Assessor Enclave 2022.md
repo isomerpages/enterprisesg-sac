@@ -15,4 +15,6 @@ The event recognised 36 assessors who have contributed significantly to SAC’s 
 In addition, SAC also wishes to thank all volunteers for their support in SAC’s APAC Peer Evaluation in 2022. 
 
 
+[SAC-Congratulatory_ad-for-assessors2022.pdf](/files/Documents/SAC-Congratulatory_ad-for-assessors2022.pdf)
+
 [Congratulatory AD for SAC Assessor Enclave 2022](/files/documents/SAC-Congratulatory\_ad-for-assessors2022.pdf){:target="_blank"}
