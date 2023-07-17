@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Launch of New Accreditation Areas for Certification of Good Agricultural Practice (GAP) and Green Urban ** Farms
+**Launch of New Accreditation Areas for Certification of Good Agricultural Practice (GAP) and Green Urban Farms**
 
 In support of the national initiative for Singapore to be a leading food and agriculture technology hub, Singapore Accreditation Council (SAC) is pleased to expand our Accreditation Scheme for Product Certification to include certification of Good Agricultural Practice (GAP) and Clean &amp; Green Urban Farms with effect from 25 November 2021.
 
