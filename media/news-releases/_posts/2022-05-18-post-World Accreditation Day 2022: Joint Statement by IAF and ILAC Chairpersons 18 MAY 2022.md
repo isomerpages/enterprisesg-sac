@@ -54,7 +54,3 @@ You may find the World Accreditation Day 2022 brochure and poster below:
 * [World Accreditation Day 2022 Brochure](/files/Documents/WAD2022-Brochure-WEB_V3-1.pdf){:target="_blank"}
 
 * [World Accreditation Day 2022 Poster][](/files/Documents/WAD2022_POSTER_FOR-PRINT.pdf){:target="_blank"}
-
-
-
-
