@@ -10,8 +10,9 @@ image: ""
 **NTU Singapore and CSA Singapore launch joint centre for cybersecurity evaluation, research, and education**
 
 
- ![Picture2.png](/images/press-release/photos/Picture2.png)
- The launch of NiCE on May 18, 2022. Photo: NTU Singapore and CSA
+[Picture2.png](/images/press-release/photos/Picture2.png)
+
+The launch of NiCE on May 18, 2022. Photo: NTU Singapore and CSA
   
 To meet the demands of Singapore’s cybersecurity evaluation needs, Nanyang Technological University, Singapore (NTU) and the Cyber Security Agency of Singapore (CSA) established the National Integrated Centre for Evaluation (NiCE). The centre was officially launched by the Minister for Communications and Information and Minister-in-charge of Smart Nation and Cybersecurity, Mrs Josephine Teo on 18 May 2022. 
 
