@@ -12,17 +12,13 @@ Our accreditation schemes provide independent third-party attestation of
 * [Auditing Organisations](https://www.sac-accreditation.gov.sg/services/accreditation-services/auditing-organisations)
 * [Auditing Organisations](/services/accreditation-services/auditing-organisations)
 * [Management System Certification Bodies](/services/accreditation-services/management-system-certification-bodies)
-* [Product Certification Bodies](/services/accreditation-services/product-certification-bodies) 
+* [Product Certification Bodies](/services/accreditation-services/product-certification-bodies)
+* [Personnel Certification Bodies](/services/accreditation-services/personnel-certification-bodies)
+* [Laboratories](/services/accreditation-services/laboratories)
+* [Inspection Bodies](/services/accreditation-services/inspection-bodies)
+* [Proficiency Testing Providers](/services/accreditation-services/proficiency-testing-providers)
+* [Validation & Verification Bodies](/services/accreditation-services/validation-and-verification-bodies)
 
-
-
-
-\* \[Personnel Certification Bodies\](personnel-certification-bodies)
-\* \[Laboratories\](laboratories) 
-\* \[Inspection Bodies\](inspection-bodies) 
-\* \[Proficiency Testing Providers\](proficiency-testing-providers)
-\* \[Validation & Verification Bodies\](validation-and-verification-bodies)
-
-We also administer the \[Singapore Good Laboratory Practice (GLP) Compliance Programme\](glp-compliance-monitoring).
+We also administer the [Singapore Good Laboratory Practice (GLP) Compliance Programme](/services/accreditation-services/glp-compliance-monitoring).
 
 We organise accreditation-related training courses such as scheme-specific conformity requirements, technical and management skillsets as well as updates on international requirements.
