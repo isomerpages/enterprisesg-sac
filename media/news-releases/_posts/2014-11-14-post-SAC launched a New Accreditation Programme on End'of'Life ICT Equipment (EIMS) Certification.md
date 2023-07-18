@@ -9,7 +9,7 @@ image: ""
 ---
 The Singapore Accreditation Council (SAC) has launched a new accreditation programme for End-Of-Life ICT Equipment Management System (EIMS) Certification on 12 November 2014 during the Electronics Recycling Asia event.
  
-This Accreditation Programme is to assess and grant third-party recognition to certification bodies (CBs) certifying companies to SS 587:2013 \*Specification for Management of end-of-life ICT equipment\*. The SS 587, launched by SPRING Singapore last year, provides specifications for businesses and industries using ICT equipment with a framework to manage the equipment in sustainable and environmentally responsible ways when they reach the end of their life cycle.
+This Accreditation Programme is to assess and grant third-party recognition to certification bodies (CBs) certifying companies to SS 587:2013 *Specification for Management of end-of-life ICT equipment*. The SS 587, launched by SPRING Singapore last year, provides specifications for businesses and industries using ICT equipment with a framework to manage the equipment in sustainable and environmentally responsible ways when they reach the end of their life cycle.
  
 SS 587 can be adopted by all companies and organizations using ICT equipment, such as computers and mobile devices, in daily operation.  Environmentally responsible ways of managing end-of-life ICT equipment include processes such as reuse, repair, material recovery and responsible disposal. SMEs interested to adopt the SS 587 can tap on SPRING's Capability Development Grant (CDG) which covers up to 70% of qualifying project costs.  
  
