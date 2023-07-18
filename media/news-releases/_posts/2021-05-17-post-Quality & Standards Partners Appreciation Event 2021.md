@@ -94,4 +94,4 @@ Specially available on demand
 
 All livestreamed content is now available to watch on demand at your own pace - including speeches, video montage, presentations and panel discussion.
 
- Watch the full recording here [Event](https://youtu.be/mlUpsh9eZXc)
+ Watch the full recording here [Event](https://youtu.be/mlUpsh9eZXc){:target="_blank}
