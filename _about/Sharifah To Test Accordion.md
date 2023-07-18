@@ -9,7 +9,6 @@ description: ""
 
 <img style="width:100px" alt="Tan Kai Hoe" src="/images/about/our-organisation-structure/TanKaiHoe.jpg">
 
-
 <img style="width:HEIGHTpx" alt="NAME OF IMAGE" src="PATH TO IMAGE">
 
 
