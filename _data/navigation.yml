@@ -21,13 +21,6 @@ links:
     collection: resources
   - title: Media
     resource_room: true
-  - title: Accredited Organisation
-    url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
-    sublinks:
-      - title: to delete
-        url: /to-delete1
-      - title: To delete
-        url: /to-delete2
   - title: Contact Us
     url: /contact-us/
   - title: To delete
