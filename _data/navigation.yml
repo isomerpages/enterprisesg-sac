@@ -24,6 +24,8 @@ links:
   - title: Accredited Organisation
     url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
     sublinks:
+      - title: Search Accredited Org
+        url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
       - title: CAB Status Update
         url: /accreditated-organisation/cab-status-update/
   - title: Contact Us
