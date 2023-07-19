@@ -6,7 +6,7 @@ colors:
   secondary-color: "#414042"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#e7131a"
     - title: media-color-two
       color: "#c00a32"
     - title: media-color-three
