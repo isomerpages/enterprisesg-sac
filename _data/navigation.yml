@@ -22,9 +22,9 @@ links:
   - title: Media
     resource_room: true
   - title: Accredited Organisation
-    collection: accredited-organisation
-  - title: Contact Us
-    url: /contact-us/
-  - title: Accredited Organisation
     url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
     sublinks: []
+  - title: Contact Us
+    url: /contact-us/
+  - title: To delete
+    collection: accredited-organisation
