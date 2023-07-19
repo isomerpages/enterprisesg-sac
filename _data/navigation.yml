@@ -23,7 +23,13 @@ links:
     resource_room: true
   - title: Accredited Organisation
     url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
-    sublinks: []
+    sublinks:
+      - title: CAB Status Update
+        url: /accreditated-organisation/cab-status-update/
+      - title: Submenu Title
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
   - title: To delete
