@@ -26,10 +26,10 @@ links:
     sublinks:
       - title: CAB Status Update
         url: /accreditated-organisation/cab-status-update/
-      - title: Submenu Title
-        url: /permalink
-      - title: Submenu Title
-        url: /permalink
+      - title: to delete
+        url: /to-delete1
+      - title: To delete
+        url: /to-delete2
   - title: Contact Us
     url: /contact-us/
   - title: To delete
