@@ -7,12 +7,9 @@ description: ""
 
 [Comm-Book-2016.png]((/images/brochures/Comm-Book-2016.png)
 
-[Commemorative Booklet: 50 Years of Quality and Standards](/images/brochures/Comm-Book-2016.png)
-   
-	 
-	 list:    
-      - img: Comm-Book-2016.png
-        url: https://spring.enterprisesg.gov.sg/Resources/Documents/50\_years\_of\_quality\_and\_standards/web/html5/index.html
+
+[Comm-Book-2016.png]
+(/https://spring.enterprisesg.gov.sg/Resources/Documents/50\_years\_of\_quality\_and\_standards/web/html5/index.html)
  
  
 **SAC Brochures**
