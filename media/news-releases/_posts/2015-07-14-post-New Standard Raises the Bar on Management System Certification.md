@@ -12,4 +12,5 @@ The first edition of ISO/IEC 17021-1 cancels and replaces ISO/IEC 17021:2011, wh
  
 **More can be found here:** [www.iso.org/iso/home/news\_index/news\_archive/news.htm?refid=Ref1972\](http://www.iso.org/iso/home/news\_index/news\_archive/news.htm?refid=Ref1972){:target="\_blank"}
  
-IAF has endorsed a 2 year transition period for the implementation of ISO/IEC 17021-1:2015 and published an informative document, IAD ID11*Information on the Transition of Management System Accreditation to ISO/IEC 17021-1:2015 from ISO/IEC 17021:2011*. SAC will inform the certification bodies on the details for the transition soon.
+IAF has endorsed a 2 year transition period for the implementation of ISO/IEC 17021-1:2015 and published an informative document, IAD ID11 *Information on the Transition of Management System Accreditation to ISO/IEC 17021-1:2015 from ISO/IEC 17021:2011*. SAC will inform the certification bodies on the details for the transition soon.
+ 
