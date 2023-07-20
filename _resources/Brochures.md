@@ -5,7 +5,7 @@ description: ""
 ---
 **Commemorative Booklet: 50 Years of Quality and Standards**
 
-[Comm-Book-2016.png]((/images/brochures/Comm-Book-2016.png)
+[Comm-Book-2016.png](/images/brochures/Comm-Book-2016.png)
 
 
 [Comm-Book-2016.png]
