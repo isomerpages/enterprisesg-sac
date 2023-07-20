@@ -23,7 +23,7 @@ description: ""
 
 
 
-
+![](/images/brochures/Certification.jpg)
 
 list:    
       - name: "SAC Booklet"
