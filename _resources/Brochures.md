@@ -7,12 +7,20 @@ brochures:
   imgFolderPath: /images/brochures/
   docFolderPath: /files/brochures/
   categories:
-    - title: "Commemorative Booklet: 50 Years of Quality and Standards"
-      list:    
+
+**Commemorative Booklet: 50 Years of Quality and Standards**
+
+![Commemorative Booklet: 50 Years of Quality and Standards[](![](/images/brochures/Comm-Book-2016.png))
+   
+	 
+	 list:    
       - img: Comm-Book-2016.png
         url: https://spring.enterprisesg.gov.sg/Resources/Documents/50\_years\_of\_quality\_and\_standards/web/html5/index.html
-    - title: "SAC Brochures"
-      list:    
+ 
+ 
+**SAC Brochures**
+
+list:    
       - name: "SAC Booklet"
         img: SAC-Booklet.jpg
         doc: SAC-Booklet.pdf
