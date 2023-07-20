@@ -8,10 +8,6 @@ description: ""
 [Comm-Book-2016.png](/images/brochures/Comm-Book-2016.png)
 
 
-[Comm-Book-2016.png]
-(/https://spring.enterprisesg.gov.sg/Resources/Documents/50\_years\_of\_quality\_and\_standards/web/html5/index.html)
- 
- 
 **SAC Brochures**
 
 
