@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-ISO had published [ISO/IEC 17021-1:2015\](http://www.iso.org/obp/ui/#iso:std:iso-iec:17021:-1:ed-1:v1:en){:target="\_blank"}, \*Conformity assessment – Requirements for bodies providing audit and certification of management systems, Part 1: Requirements\* on 15 June 2015. This standard relates to the competence of certification bodies themselves and their auditors. It applies to the auditing and certification of all types of management systems in order to increase their value to public- and private-sector organizations worldwide.
+ISO had published [ISO/IEC 17021-1:2015](http://www.iso.org/obp/ui/#iso:std:iso-iec:17021:-1:ed-1:v1:en){:target="\_blank"}, *Conformity assessment – Requirements for bodies providing audit and certification of management systems, Part 1: Requirements\* on 15 June 2015. This standard relates to the competence of certification bodies themselves and their auditors. It applies to the auditing and certification of all types of management systems in order to increase their value to public- and private-sector organizations worldwide.
  
 The first edition of ISO/IEC 17021-1 cancels and replaces ISO/IEC 17021:2011, which has been technically revised.  
  
