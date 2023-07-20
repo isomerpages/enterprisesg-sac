@@ -15,7 +15,7 @@ description: ""
 **SAC Brochures**
 
 
-(/images/brochures/SAC-Booklet.jpg)
+[SAC Booklet](/images/brochures/SAC-Booklet.jpg)
 
 list:    
       - name: "SAC Booklet"
