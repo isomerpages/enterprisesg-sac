@@ -10,7 +10,7 @@ brochures:
 
 **Commemorative Booklet: 50 Years of Quality and Standards**
 
-![Commemorative Booklet: 50 Years of Quality and Standards[](![](/images/brochures/Comm-Book-2016.png))
+[Commemorative Booklet: 50 Years of Quality and Standards](/images/brochures/Comm-Book-2016.png))
    
 	 
 	 list:    
