@@ -9,6 +9,7 @@ image: ""
 ---
 **NTU Singapore and CSA Singapore launch joint centre for cybersecurity evaluation, research, and education**
 
+![[Picture2.png](/images/press-release/photos/Picture2.png)
 
 [[Picture2.png](/images/press-release/photos/Picture2.png)
 
