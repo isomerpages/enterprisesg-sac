@@ -22,7 +22,7 @@ Accreditation Scheme for Inspection Bodies
 | 
 |  [Accreditation Scheme for Management System Certification Bodies"](/images/brochures/Certification.jpg)
 Accreditation Scheme for Management System Certification Bodies 
-|  [Personnel Certification Bodies ]      (/images/brochures/Personnel.jpg)
+|  [Personnel Certification Bodies]      (/images/brochures/Personnel.jpg)
 Personnel  Certification Bodies
 Accreditation Scheme for Management System Personnel Certification Bodies
 |  [Good Laboratory Practice Compliance Programme](/images/brochures/GLP.jpg)
