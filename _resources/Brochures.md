@@ -21,14 +21,13 @@ SAC Booklet
 Accreditation Scheme for Inspection Bodies  
 | 
 |  [Accre| ditation Scheme for Management System Certification Bodies"](/images/brochures/Certification.jpg)
-Accreditation Scheme for Management System Certification Bodies | 
-
+Accreditation Scheme for Management System Certification Bodies 
 |  [Good Laboratory Practice Compliance Programme](/images/brochures/GLP.jpg)
-Good Laboratory Practive Compliance Programme |  
+Good Laboratory Practive Compliance Programme 
 |   [Accreditation Scheme for Proficiency Testing Providers](/images/brochures/SAC-Brochures-PTP.jpg)
-Accreditation Scheme for Proficiency Testing Providers  |    
-[SAC Accreditaton Programmes for the Building and Construction Industry](/images/brochures/SAC-Brochures-Building_Construction.PNG)
-
+Accreditation Scheme for Proficiency Testing Providers  
+|  [SAC Accreditaton Programmes for the Building and Construction Industry](/images/brochures/SAC-Brochures-Building_Construction.PNG)
+|
 |    [SAC Accreditaton Programmes for the Building and Construction Industry](/images/brochures/SAC-Brochures-Building_Construction.PNG)
 SAC Accreditaton Programmes for the Building and Construction Industry   |  
 
