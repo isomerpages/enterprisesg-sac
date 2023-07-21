@@ -19,8 +19,8 @@ SAC Booklet
  Accreditation Scheme for Laboratories  
  | [Accreditation Scheme for Inspection Bodies](/images/brochures/Inspection.jpg)
 Accreditation Scheme for Inspection Bodies  
-
-|  [Accreditation Scheme for Management System Certification Bodies"](/images/brochures/Certification.jpg)
+| 
+|  [Accre| ditation Scheme for Management System Certification Bodies"](/images/brochures/Certification.jpg)
 Accreditation Scheme for Management System Certification Bodies | 
 
 |  [Good Laboratory Practice Compliance Programme](/images/brochures/GLP.jpg)
