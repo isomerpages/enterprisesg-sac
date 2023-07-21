@@ -37,15 +37,17 @@ Accreditation Scheme for Management System Personnel Certification Bodies
 
 
 
+[Good Laboratory Practice Compliance Programme](/images/brochures/GLP.jpg)
 
-![](/images/brochures/Certification.jpg)
-![](/images/brochures/SAC-Brochures-MS.jpg)
+Good Laboratory Practive Compliance Programme
 
-![](/images/brochures/GLP.jpg)
 
-![](/images/brochures/Personnel.jpg)
+[Accreditation Scheme for Proficiency Testing Providers](/images/brochures/SAC-Brochures-PTP.jpg)
 
-![](/images/brochures/Product.jpg)
+Accreditation Scheme for Proficiency Testing Providers
+
+
+
 
 
 
