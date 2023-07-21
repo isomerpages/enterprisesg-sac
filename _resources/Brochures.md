@@ -49,8 +49,8 @@ Good Laboratory Practive Compliance Programme |
 
 |    [Accreditation Scheme for Proficiency Testing Providers](/images/brochures/SAC-Brochures-PTP.jpg)
 
-Accreditation Scheme for Proficiency Testing Providers
-|  
+Accreditation Scheme for Proficiency Testing Providers  |  
+
 
 
 
