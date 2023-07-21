@@ -12,7 +12,7 @@ description: ""
 
 
 
-|         |                       |                                |
+|     Title     |            Image           |               Doc                 |
 |----------------------|----------------------------|----------------------------------------------|
 
 |  [SAC Booklet](/images/brochures/SAC-Booklet.jpg)
