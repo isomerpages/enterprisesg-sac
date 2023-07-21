@@ -13,13 +13,12 @@ description: ""
 
 [SAC Booklet](/images/brochures/SAC-Booklet.jpg)
 
-![SAC Booklet](/images/brochures/SAC-Booklet.jpg)
+SAC Booklet
 
 
-[SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf]
-(/images/brochures/Laboratories.jpg)
 
 
+[SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf](/images/brochures/SAC-Brochures-LA.jpg)
 
 
 
@@ -28,6 +27,13 @@ description: ""
 
 
 ![](/images/brochures/Certification.jpg)
+
+
+
+
+[SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf](/files/Brochures/Laboratories.pdf)
+
+
 
 list:    
       - name: "SAC Booklet"
