@@ -29,10 +29,11 @@ Once the application is completed with the documents submission and fee payment,
 Please ensure you have read SAC's Terms &amp; Conditions and Fee Schedule before application.  
 
 Please click the links below for the Terms and Conditions for different schemes:
- 
-\* \[SAC-01 Terms and Conditions for Accreditation\](/files/documents/SAC-01-16-Feb-2020.pdf){:target="\_blank"}
-\* \[Procedures and Conditions for GLP Registration\](/files/documents/glp/GLP-01-16-Feb-2020.pdf){:target="\_blank"}
-<!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
+
+[SAC-01 Terms and Conditions for Accreditation](/files/Documents/SAC-01-16-Feb-2020.pdf)
+
+[Procedures and Conditions for GLP Registration](/files/Documents/Glp/GLP-01-16-Feb-2020.pdf)
+
 
 Please click the links below for the fee schedule for different schemes: 
 <!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
