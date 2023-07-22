@@ -9,7 +9,6 @@ SAC is the national accreditation body in Singapore. It operates a range of accr
 The accreditation criteria for determining the competence of companies are based on the relevant international standard (eg. ISO/IEC 17025, ISO 15189, ISO/IEC 17020, ISO/IEC 17021-1, ISO/IEC 17024, ISO/IEC 17065, ISO/IEC 17043).
 
 Our accreditation schemes provide independent third-party attestation of 
-* [Auditing Organisations](https://www.sac-accreditation.gov.sg/services/accreditation-services/auditing-organisations)
 * [Auditing Organisations](/services/accreditation-services/auditing-organisations)
 * [Management System Certification Bodies](/services/accreditation-services/management-system-certification-bodies)
 * [Product Certification Bodies](/services/accreditation-services/product-certification-bodies)
