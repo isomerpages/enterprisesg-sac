@@ -38,6 +38,7 @@ sections:
         inspection and certification are conducted professionally and meet
         globally-recognised standards.
       image: /images/homepage/info-section.jpg
+      alt: APAC
   - resources:
       title: Be in the know
       button: MORE NEWS & EVENTS
