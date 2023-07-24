@@ -26,8 +26,7 @@ Accreditation Scheme for Product Certification Scheme
 Good Laboratory Practice Compliance Programme
 | [Accreditation Scheme for Proficiency Testing Providers](/files/Brochures/SAC-Brochure-Accreditation-Scheme-for-Proficiency-Testing-Providers.pdf)
 Accreditation Scheme for Proficiency Testing Providers 
-| [SAC Accreditation Marks]
-(/[](/files/Brochures/SAC-Brochure-SAC-Accreditation-Mark.pdf)
+| [SAC Accreditation Marks](/files/Brochures/SAC-Brochure-SAC-Accreditation-Mark.pdf)
 SAC Accreditation Marks
 
 
