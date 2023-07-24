@@ -30,8 +30,6 @@ sections:
         - title: OVERVIEW
           description: Download Documents
           url: /resources/SAC-documents/
-  - infobar:
-      url: /faq/
   - infopic:
       title: What is Accreditation?
       subtitle: Infopic Subtitle
