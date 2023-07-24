@@ -10,9 +10,10 @@ description: ""
 **SAC Brochures**
 
 | [SAC Booklet](/SAC-Booklet.pdf) SAC Booklet 
-| [Accreditation Scheme for Laboratories] (/Accreditation-Scheme-for-Laboratories.pdf)| Accreditation Scheme for Laboratories 
-
-| | | 
+| [Accreditation Scheme for Laboratories] 
+(/SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf) 
+Accreditation Scheme for Laboratories 
+|[Accreditation Scheme for Inspection Bodies](/SAC-Brochure-Accreditation-Scheme-for-Inspection-Bodies.pdf)  Accreditation Scheme for Inspection Bodies | | 
 
 | | | 
 
