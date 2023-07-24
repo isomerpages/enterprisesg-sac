@@ -19,11 +19,11 @@ Accreditation Scheme for Laboratories
 Accreditation Scheme for Management System Certification Bodies
 |[Accreditation Scheme for Product Certification Bodies](/SAC-Brochure-Accreditation-Scheme-for-Product-Certification-Bodies.pdf)  
 Accreditation Scheme for Product Certification Scheme
-|   |
+|  [](/files/Brochures/GLP.pdf)   |
 
 | [Good Laboraotry Practice Compliance Programme](/SAC-Brochure-Good-Laboratory-Practice-Compliance-Programme.pdf)
 Good Laboratory Practice Compliance Programme
-|   
+|    
 
 
 
