@@ -9,8 +9,8 @@ description: ""
 
 **SAC Brochures**
 
-| [SAC Booklet](/SAC-Booklet.pdf) SAC Booklet |
-| | | 
+| [SAC Booklet](/SAC-Booklet.pdf) SAC Booklet 
+| [Accreditation Scheme for Laboratories] (/Accreditation-Scheme-for-Laboratories.pdf)| Accreditation Scheme for Laboratories 
 
 | | | 
 
