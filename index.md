@@ -32,7 +32,6 @@ sections:
           url: /resources/SAC-documents/
   - infopic:
       title: What is Accreditation?
-      subtitle: Infopic Subtitle
       button: MORE ABOUT SAC
       alt: Image alt text
       url: /about/our-role
