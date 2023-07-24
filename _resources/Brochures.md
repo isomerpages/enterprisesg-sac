@@ -7,10 +7,15 @@ description: ""
 
 ![Comm-Book-2016.png](/images/brochures/Comm-Book-2016.png)
 
+
+
 **SAC Brochures**
 
-| [SAC Booklet](/SAC-Booklet.pdf) 
-SAC Booklet 
+
+
+| [SAC Booklet](/files/Brochures/SAC-Booklet.pdf)
+
+
 | [Accreditation Scheme for Laboratories] 
 (/SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf) 
 Accreditation Scheme for Laboratories 
