@@ -25,7 +25,7 @@ Accreditation Scheme for Laboratories
 Accreditation Scheme for Inspection Bodies  
 
 | ![Accreditation Scheme for Management System Certification Bodies](/images/brochures/Certification.jpg)
-| [Accreditation Scheme for Personnel Certification Bodies](/files/Brochures/Personnel-Certification-Bodies.pdf)
+| ![Accreditation Scheme for Personnel Certification Bodies](/files/Brochures/Personnel-Certification-Bodies.pdf)
 Accreditation Scheme for Management System Certification Bodies 
 
 | ![Personnel Certification Bodies](/images/brochures/Personnel.jpg)
