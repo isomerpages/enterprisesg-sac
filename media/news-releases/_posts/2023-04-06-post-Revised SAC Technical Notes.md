@@ -16,7 +16,6 @@ The following SAC Technical Notes have been revised and published on 8 March 202
 
 The revised SAC Technical Notes are available on the SAC website:- [SACiNet](https://sacinet2.enterprisesg.gov.sg/landing){:target="_blank}
 
-
 The summary of changes are as follows: 
 
 [Revised SAC Technical Notes](/files/documents/revised-sac-technical-notes.pdf){:target="_blank"}
