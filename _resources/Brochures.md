@@ -42,8 +42,7 @@ Good Laboratory Practive Compliance Programme
 Accreditation Scheme for Proficiency Testing Providers  
 
 | ![SAC Accreditaton Programmes for the Building and Construction Industry](/images/brochures/SAC-Brochures-Building_Construction.PNG)
-
-
+[Accreditation Programmes for the Building and Construction Industry](/files/Brochures/SAC-Accreditation-Programmes-for-the-Building-and-Construction-Industry.pdf)
 SAC Accreditaton Programmes for the Building and Construction Industry   
 
 
