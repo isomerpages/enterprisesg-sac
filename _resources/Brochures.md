@@ -86,8 +86,6 @@ SAC Accreditaton Programmes for the Building and Construction Industry
 |  [SAC Accreditation Marks]
 (/images/brochures/SAC-Brochures-SAC-Accreditation-Marks.jpg)
 | [SAC Accreditation Marks](/files/Brochures/SAC-Brochure-SAC-Accreditation-Mark.pdf)
-
-SAC-Brochure-SAC-Accreditation-Mark.pdf 
 SAC Accreditation Marks
 
 
