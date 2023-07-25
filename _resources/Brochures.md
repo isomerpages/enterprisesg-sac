@@ -8,10 +8,14 @@ description: ""
 ![Comm-Book-2016.png](/images/brochures/Comm-Book-2016.png)
 
 
+
 **SAC Brochures**
 
-|  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg)[hyperlink]((/SAC-Booklet.pdf)
+|  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg)
+
+[SAC Booklet](/files/Brochures/SAC-Booklet.pdf) 
 SAC Booklet
+
 
 
 
@@ -33,7 +37,10 @@ SAC Booklet
 
 
 
-|  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg)(/SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf)
+|  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg]
+[](/files/Brochures/SAC-Booklet.pdf)
+
+(/SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf)
 SAC Booklet
 
 
