@@ -11,14 +11,12 @@ description: ""
 **SAC Brochures**
 
 |  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg)[hyperlink]((/SAC-Booklet.pdf)
+SAC Booklet
 
 
 
 
 
-
-
-[undefined](https://www.sac-accreditation.gov.sg/files/brochures/SAC-Booklet.pdf)
 
 [SAC Booklet](/files/Brochures/SAC-Booklet.pdf) 
 SAC Booklet
