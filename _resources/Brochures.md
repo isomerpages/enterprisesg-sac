@@ -10,7 +10,9 @@ description: ""
 
 **SAC Brochures**
 
-|  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg) [SAC Booklet](/files/Brochures/SAC-Booklet.pdf) 
+|  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg) 
+
+[SAC Booklet](/files/Brochures/SAC-Booklet.pdf) 
 SAC Booklet
 
 
