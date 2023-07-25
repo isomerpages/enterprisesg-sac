@@ -10,7 +10,9 @@ description: ""
 
 **SAC Brochures**
 
-|  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg)[SAC Booklet](https://www.sac-accreditation.gov.sg/files/brochures/SAC-Booklet.pdf)
+|  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg)[hyperlink]((/SAC-Booklet.pdf)
+
+
 
 
 
