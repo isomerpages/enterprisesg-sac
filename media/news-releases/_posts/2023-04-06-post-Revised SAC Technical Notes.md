@@ -14,8 +14,7 @@ The following SAC Technical Notes have been revised and published on 8 March 202
   
   •	FFT 01 – General Criteria for Testing of Health Related Properties of Foods
 
-The revised SAC Technical Notes are available on the SAC website:-
-{:target="_blank'}
+The revised SAC Technical Notes are available on the SAC website:- [SACiNet](https://sacinet2.enterprisesg.gov.sg/landing){:target="_blank}
 
 
 The summary of changes are as follows: 
