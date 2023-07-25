@@ -19,27 +19,6 @@ SAC Booklet
 
 
 
-
-
-
-[SAC Booklet](/files/Brochures/SAC-Booklet.pdf) 
-SAC Booklet
-
-
-
-
-
-| [SAC Booklet](/files/Brochures/SAC-Booklet.pdf)
-
-SAC Booklet
-
-
-
-
-
-|  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg]
-[](/files/Brochures/SAC-Booklet.pdf)
-
 (/SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf)
 SAC Booklet
 
@@ -71,10 +50,14 @@ SAC Accreditation Marks
 
 
 |  ![SAC Booklet](/images/brochures/SAC-Booklet.jpg)
-SAC Booklet 
+[SAC Booklet](/files/Brochures/SAC-Booklet.pdf) 
+SAC Booklet
+
 |  ! [Accreditation Scheme for Laboratories](/images/brochures/SAC-Brochures-LA.jpg)
- Accreditation Scheme for Laboratories  
- |  ![Accreditation Scheme for Inspection Bodies](/images/brochures/Inspection.jpg)
+[Accreditation Scheme for Laboratories](/files/Brochures/Laboratories.pdf)
+Accreditation Scheme for Laboratories  
+
+|  ![Accreditation Scheme for Inspection Bodies](/images/brochures/Inspection.jpg)
 Accreditation Scheme for Inspection Bodies  
 | 
 |  ![Accreditation Scheme for Management System Certification Bodies](/images/brochures/Certification.jpg)
