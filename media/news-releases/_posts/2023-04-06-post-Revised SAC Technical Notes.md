@@ -23,5 +23,3 @@ The summary of changes are as follows:
 
 [Revised SAC Technical Notes]
 (/files/Documents/revised-sac-technical-notes.pdf){:target="_blank"}
-
-
