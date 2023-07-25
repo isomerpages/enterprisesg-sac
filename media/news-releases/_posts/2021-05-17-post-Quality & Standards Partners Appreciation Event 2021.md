@@ -26,6 +26,13 @@ Ms Choy acknowledged our partners for their unwavering support to meet key achie
 
 Joint Opening Remarks by Mr Robert Chew, Chairman of Singapore Standards Council
 
+<img style="width:177px" alt="Mr Chew" src="/images/press-release/photos/7FFA4EC2-C45B-42EB-A9B5-D76708CE694E.jpeg)">		
+					
+					
+					
+/images/press-release/photos/160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg" alt="Choy Saau Kook" style="width:177px"&gt;
+
+
 ![7FFA4EC2-C45B-42EB-A9B5-D76708CE694E](/images/press-release/photos/7FFA4EC2-C45B-42EB-A9B5-D76708CE694E.jpeg)
 
 Mr Chew thanked our partners for their leadership and contributions and shared about the Standards Council’s next five-year plan to build a robust standardisation ecosystem.
