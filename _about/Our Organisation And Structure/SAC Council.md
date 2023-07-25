@@ -11,8 +11,9 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 #### Term of Office: 1 April 2021 - 31 March 2024
 
 **Chairman**
+  
 
-![Tan Kai Hoe ](/images/about/our-organisation-structure/TanKaiHoe.jpg)
+<img style="width:177px" alt="Tan Kai Hoe" src="/images/about/our-organisation-structure/TanKaiHoe.jpg">
 
 <!-- Comment: the '{:style=""}' at the end of the markdown image syntax is used to align the image to the left of the screen and also to resize the image {: style="margin-left:0; width: 150px;"}  -->
 
