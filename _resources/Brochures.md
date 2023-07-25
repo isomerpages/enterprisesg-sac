@@ -16,7 +16,7 @@ description: ""
 [SAC Booklet](/files/Brochures/SAC-Booklet.pdf) 
 SAC Booklet
 
-| ! [Accreditation Scheme for Laboratories](/images/brochures/SAC-Brochures-LA.jpg)
+| ![Accreditation Scheme for Laboratories](/images/brochures/SAC-Brochures-LA.jpg)
 [Accreditation Scheme for Laboratories](/files/Brochures/Laboratories.pdf)
 Accreditation Scheme for Laboratories  
 
