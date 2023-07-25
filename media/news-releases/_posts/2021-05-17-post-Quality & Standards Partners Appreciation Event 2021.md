@@ -19,7 +19,8 @@ Welcome Address by Ms Choy Sauw Kook, Director-General of Enterprise Singapore
 
 ![160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg](/images/press-release/photos/160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg)
 
-![Choy Sau Kook](/images/press-release/photos/160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg)
+<img style="width:177px" alt="Tan Kai Hoe" src="/images/about/our-organisation-structure/TanKaiHoe.jpg">
+
 
 <img style="width177px" alt="Choy Sau Kook" src="/images/press-release/photos/160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg)">
 
