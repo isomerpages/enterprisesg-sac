@@ -18,7 +18,6 @@ The revised SAC Technical Notes are available on the SAC website:-
 
 [Overview (sac-accreditation.gov.sg)](https://www.sac-accreditation.gov.sg/resources/sac-documents){:target="_blank"}
 
-
 The summary of changes are as follows: 
 
 [Revised SAC Technical Notes]
