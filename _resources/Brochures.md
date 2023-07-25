@@ -84,9 +84,7 @@ SAC Accreditaton Programmes for the Building and Construction Industry
 
 
 |  [SAC Accreditation Marks]
-
-
-(/images/brochures/SAC-Brochures-SAC-Accreditation%20Marks.jpg)
+(/images/brochures/SAC-Brochures-SAC-Accreditation-Marks.jpg)
 SAC Accreditation Marks
 
 
@@ -102,11 +100,6 @@ currently old one  2016/2017
 * World Accreditation Day  latest?
 * iILAC brochures
 * IAF brochures
-
-
-
-|        |                      |                            |
-|----------------------|----------------------------|----------------------------------------------|
 
 
 
