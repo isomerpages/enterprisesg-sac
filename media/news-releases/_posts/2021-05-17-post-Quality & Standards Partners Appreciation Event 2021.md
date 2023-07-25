@@ -6,9 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
-Title: Quality & Standards Partners Appreciation Event 2021
+Title: Quality &amp; Standards Partners Appreciation Event 2021
 
-The Quality & Standards Partners Appreciation Event 2021,q which took place on 20 April 2021, was attended by over 300 participants. Jointly organised by Enterprise Singapore, the Singapore Accreditation Council (SAC) and Singapore Standards Council (SSC), the event sought to show appreciation to our SAC and SSC partners for their tremendous contributions to Singapore’s Standards and Accreditation programmes. The Distinguished Partners Award (DPA) was jointly presented by Enterprise Singapore and SAC to our awardees in recognition of their outstanding leadership and contributions in raising Singapore’s standardisation and accreditation profile nationally and internationally. In addition, the event recognised and celebrated our [Commendation Award](https://www.enterprisesg.gov.sg/-/media/C1EFD50DF2334344B1F7215DEE0CDF14.ashx), (CA) recipients from SAC and SSC through an appreciation video [CA](https://youtu.be/diuTFDlhWOM). We have also published a congratulatory announcement on The Business Times on 20 April 2021, highlighting all our award recipients. 
+The Quality &amp; Standards Partners Appreciation Event 2021,q which took place on 20 April 2021, was attended by over 300 participants. Jointly organised by Enterprise Singapore, the Singapore Accreditation Council (SAC) and Singapore Standards Council (SSC), the event sought to show appreciation to our SAC and SSC partners for their tremendous contributions to Singapore’s Standards and Accreditation programmes. The Distinguished Partners Award (DPA) was jointly presented by Enterprise Singapore and SAC to our awardees in recognition of their outstanding leadership and contributions in raising Singapore’s standardisation and accreditation profile nationally and internationally. In addition, the event recognised and celebrated our [Commendation Award](https://www.enterprisesg.gov.sg/-/media/C1EFD50DF2334344B1F7215DEE0CDF14.ashx), (CA) recipients from SAC and SSC through an appreciation video [CA](https://youtu.be/diuTFDlhWOM). We have also published a congratulatory announcement on The Business Times on 20 April 2021, highlighting all our award recipients. 
 
 
 
@@ -18,6 +18,9 @@ Here are some of our key event highlights:
 Welcome Address by Ms Choy Sauw Kook, Director-General of Enterprise Singapore
 
 ![160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg](/images/press-release/photos/160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg)
+
+<img style="width:177px" alt="Choy Sau Kook" src="//images/press-release/photos/160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg)">
+
 
 Ms Choy acknowledged our partners for their unwavering support to meet key achievements last year. These included the development of 134 standards (of which 41 are new), accredited 42 new Conformity Assessment Bodies, stepped up international participation in standards development and expanded partnerships through MOUs. She further provided insights on future directions for Quality and Standards. 
 
@@ -36,7 +39,7 @@ Joint Opening Remarks by Mr Tan Kai Hoe, Chairman of Singapore Accreditation Cou
 
 ![62E045E4-9835-4FD3-9BC2-E6B50C39E328](/images/press-release/photos/62E045E4-9835-4FD3-9BC2-E6B50C39E328.jpeg)
 
-Mr Tan recognised our partners for their contributions and spoke of SAC’s efforts in the 2025 strategic plan, and highlighted upcoming focuses on areas such as environmental sustainability. He underscored the importance of Quality & Standards in the identified growth areas. SAC will also support industry TIC demand by providing a more robust accreditation infrastructure.
+Mr Tan recognised our partners for their contributions and spoke of SAC’s efforts in the 2025 strategic plan, and highlighted upcoming focuses on areas such as environmental sustainability. He underscored the importance of Quality &amp; Standards in the identified growth areas. SAC will also support industry TIC demand by providing a more robust accreditation infrastructure.
  
 
 
