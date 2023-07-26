@@ -49,12 +49,8 @@ Dr Shu noted how the IEC plays an important role in developing global standards 
 Ms Hanane Taidi, Director-General of TIC Council
 
 
-
-
 <img style="width:177px" alt="Ms Hanane" src="/images/press-release/photos/96D40772-2250-4D10-B637-6725DC38F552.jpeg">					
-					
-
-
+			
 Ms Taidi explained how environmental, social and governance considerations are driving the development of new conformity assessment programmes to meet industry and regulatory demands.
 
 
@@ -62,10 +58,8 @@ Ms Taidi explained how environmental, social and governance considerations are d
 Dr Winston Chow, Associate Professor of Singapore Management University
 
 
-<img style="width:177px" alt="Choy Saau Kook" src="/images/press-release/photos/160533E5-3F82-4757-BC9D-A3A478E99EE5.jpeg">
+<img style="width:177px" alt="Winston" src="/images/press-release/photos/CF083F80-B515-4A85-930D-872029435665.jpeg">				
 
-
-![CF083F80-B515-4A85-930D-872029435665.jpeg](/images/press-release/photos/CF083F80-B515-4A85-930D-872029435665.jpeg)
 
 Dr Chow, in his capacity as lead author of the Cities chapter in the “Assessment Report on Climate Change” at Intergovernmental Panel on Climate Change, spoke about the trends, agreement and regulations on environmental sustainability. He also shared perspectives on sustainability pathways that enterprises may adopt to align with the United Nations Sustainability Development Goals essential for climate action.
  
