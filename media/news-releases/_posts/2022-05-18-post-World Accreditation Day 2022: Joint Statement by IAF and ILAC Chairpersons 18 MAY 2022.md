@@ -9,7 +9,7 @@ image: ""
 ---
 **World Accreditation Day 2022: Joint Statement by IAF and ILAC Chairpersons**
 
-The global accreditation organizations IAF and ILAC once again come together on 9 June to celebrate \[World Accreditation Day\](https://www.iaf.nu/en/world-accreditation-day). The 2022 theme is Accreditation: Sustainability in Economic Growth and the Environment and aims to draw attention to how accreditation and conformity assessment provide global solutions for global issues.
+The global accreditation organizations IAF and ILAC once again come together on 9 June to celebrate \[World Accreditation Day](https://www.iaf.nu/en/world-accreditation-day). The 2022 theme is Accreditation: Sustainability in Economic Growth and the Environment and aims to draw attention to how accreditation and conformity assessment provide global solutions for global issues.
 
  
 
