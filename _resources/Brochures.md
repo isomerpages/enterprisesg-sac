@@ -50,11 +50,12 @@ Good Laboratory Practive Compliance Programme
  ![Accreditation Scheme for Proficiency Testing Providers](/files/Brochures/SAC-Brochure-Accreditation-Scheme-for-Proficiency-Testing-Providers.pdf)
 Accreditation Scheme for Proficiency Testing Providers  
 
-
-
-| <img style="width:177px" alt="Building" src="/images/press-release/photos/images/brochures/SAC-Brochures-Building_Construction.PNG">
+<img style="width:177px" alt="Building" src="/images/press-release/photos/images/brochures/SAC-Brochures-Building_Construction.PNG">
 [Accreditation Programmes for the Building and Construction Industry](/files/Brochures/SAC-Accreditation-Programmes-for-the-Building-and-Construction-Industry.pdf)
 SAC Accreditaton Programmes for the Building and Construction Industry   
 
 
+<img style="width:177px" alt="Marks" src="/images/brochures/SAC-Brochures-SAC-Accreditation-Marks.jpg">
+| [SAC Accreditation Marks](/files/Brochures/SAC-Brochure-SAC-Accreditation-Mark.pdf)
+SAC Accreditation Marks
 |
