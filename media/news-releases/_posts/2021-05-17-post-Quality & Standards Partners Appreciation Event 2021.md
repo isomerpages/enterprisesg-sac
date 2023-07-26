@@ -86,8 +86,6 @@ Sharing of sustainability-related case studies from our experts in industry sect
 How new and emerging Standards and Conformance practices can help businesses achieve their sustainability goals and access new business opportunities, particularly in many of the focused areas of development, aligned to our national initiatives.
  
 
- 
-
 Specially available on demand
 
 All livestreamed content is now available to watch on demand at your own pace - including speeches, video montage, presentations and panel discussion.
