@@ -23,7 +23,7 @@ locations:
       - sac@enterprise.gov.sg
     operating_hours: []
     maps_link: ""
-    title: "Contact Us "
+    title: Contact Us
 contacts:
   - content:
       - phone: +65 6123 4567
