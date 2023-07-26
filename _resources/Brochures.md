@@ -36,6 +36,12 @@ Accreditation Scheme for Management System Certification Bodies
 
 
 
+<img style="width:177px" alt="Product" src="/images/brochures/Product.jpg"> 
+![Accreditation Scheme for Product Certification Bodies](/files/Brochures/Product-Certification-Bodies.pdf)
+Accreditation Scheme for Management System Certification Bodies 
+
+
+
 
 <img style="width:177px" alt="GLP" src="/images/brochures/GLP.jpg"> 
 [Good Laboraotry Practice Compliance Programme](/SAC-Brochure-Good-Laboratory-Practice-Compliance-Programme.pdf)
