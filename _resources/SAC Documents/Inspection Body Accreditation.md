@@ -65,4 +65,4 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 **Building Façade Inspection using Drones**
 
- * 
+*   [SAC Technical Note : FI 01 – Specific Requirements for the Accreditation of Inspection Bodies in Building Façade Inspection using Unmanned Aircraft Systems (UAS)](/(/files/Documents/fi-01-final-edition-with-sac-mark.pdf){:target="_blank"}
