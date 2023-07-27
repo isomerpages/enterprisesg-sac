@@ -10,15 +10,16 @@ In this section, you will find the SAC publications relating to its programmes, 
 
 * [Laboratory Accreditation (SINGLAS)](/resources/sac-documents/laboratory-accreditation)
 
+* [Inspection Body Accreditation](/resources/sac-documents/inspection-body-accreditation) 
+
+* [Good Laboratory Practice Registration](/resources/sac-documents/good-laboratory-practice-registration)
 
 
-* [Inspection Body Accreditation](/resources/SAC-Documents/inspection-body-accreditation)
 
-* [Good Laboratory Practice Registration](/resources/SAC-Documents/good-laboratory-practice-registration) 
 
-* [Proficiency Testing Provider Accreditation](/resources/SAC-Documents/proficiency-testing-provider-accreditation)
+* [Proficiency Testing Provider Accreditation](/resources/sac-documents/proficiency-testing-provider-accreditation) 
 
-* [Validation &amp; Verification Body Accreditation](/resources/SAC-Documents/validation-and-verification-body-accreditation)
+* [Validation &amp; Verification Body Accreditation](/resources/sac-documents/validation-and-verification-body-accreditation)
 
 Companies are required to comply with current editions of all SAC publications relevant to their accreditation or application. For ISO or Singapore Standards, companies can purchase the standards from: 
 
