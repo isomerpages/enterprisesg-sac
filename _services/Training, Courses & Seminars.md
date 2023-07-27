@@ -21,7 +21,7 @@ For more information on the course details, please click on the options below:
 
 
 **Past**
-* [Laboratory Management Course (based on ISO/IEC 17025](/files/Training/Course-Objectives-LM.pdf))
+* [Laboratory Management Course (based on ISO/IEC 17025](//files/Training/Course-Objectives-LM.pdf))
 {:target="_blank"}
 * [Internal Audit Course](/files/Training/Course-Objectives-IA.pdf){:target="_blank"}
 
