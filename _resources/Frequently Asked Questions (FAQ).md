@@ -327,7 +327,7 @@ Companies that can benefit from GLP registration include:
 
 \* Research laboratories in the pharmaceutical, pesticides, veterinary drug products and industrial chemicals industries
 
-\* Contract research organisations</p>
+* Contract research organisations</p>
 
 </div></li>
 
@@ -351,9 +351,9 @@ Companies that can benefit from GLP registration include:
 
 <label for="accordion14g">Where can I access the OECD Principles of GLP?</label><div>
 
-<p>Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the \[OECD website\](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="\_blank"}.
+p&gt;Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="\_blank"}.
 
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
+<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --><p></p>
 
 </div></li>
 
