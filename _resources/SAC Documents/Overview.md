@@ -6,9 +6,12 @@ third_nav_title: SAC Documents
 ---
 In this section, you will find the SAC publications relating to its programmes, which include the application forms, accreditation criteria documents, technical notes, checklists and other related information. The publications are available to download from the pages under this section.
 
-* [Certification Body Accreditation](/resources/SAC-Documents/certification-body-accreditation)
+* [Certification Body Accreditation](/resources/sac-documents/certification-body-accreditation)
 
-[Certification Body Accreditation (sac-accreditation.gov.sg)](https://www.sac-accreditation.gov.sg/resources/sac-documents/certification-body-accreditation)
+* [Certification Body Accreditation ](https://www.sac-accreditation.gov.sg/resources/sac-documents/certification-body-accreditation)
+
+
+* [Certification Body Accreditation](/resources/SAC-Documents/certification-body-accreditation)
 
 * [Laboratory Accreditation (SINGLAS](/resources/SAC-Documents/laboratory-accreditation)
 
