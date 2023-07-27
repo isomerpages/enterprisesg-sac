@@ -65,4 +65,4 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 **Building Façade Inspection using Drones**
 
-
+ * 
