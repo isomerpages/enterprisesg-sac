@@ -47,9 +47,6 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 * [Technical Note: SI 01: 18 Feb 2020 - Specific Requirements for Site Investigation](/files/Documents/Inspection%20body%20accreditation/SI-01\-18\-Feb-2020.pdf){:target="_blank"}
 
-*  [Technical Note M 01-2022\_SAC Mark - Specific Requirements for the Accreditation of Inspection Bodies for Instrumentation Monitoring](/files/Documents/Inspection-body-accreditation/TechNote-IM01-2022.pdf){:target="_blank"}
-
-
 *   [Technical Note I&amp;M 01-2022\_SAC Mark - Specific Requirements for the Accreditation of Inspection Bodies for Instrumentation &amp; Monitoring](/files/Documents/Inspection%20body%20accreditation/TechNote-IM01-2022.pdf){:target="_blank"}
 
 
@@ -69,4 +66,4 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 **Building Façade Inspection using Drones**
 
-*   [SAC Technical Note : FI 01 – Specific Requirements for the Accreditation of Inspection Bodies in Building Façade Inspection using Unmanned Aircraft Systems (UAS)](/(/files/Documents/fi-01-final-edition-with-sac-mark.pdf){:target="_blank"}
+*   [SAC Technical Note : FI 01 – Specific Requirements for the Accreditation of Inspection Bodies in Building Façade Inspection using Unmanned Aircraft Systems (UAS)](/files/Documents/fi-01-final-edition-with-sac-mark.pdf){:target="_blank"}
