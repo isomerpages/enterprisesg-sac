@@ -49,6 +49,11 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 * [Technical Note: SS-01: 27 Aug 2020 - Specific Requirements for SSI](/files/Documents/Inspection%20body%20accreditation/SS-01-27-Aug2020.pdf){:target="\_blank"}
 
+
+
+*  [Technical Note I&amp;M 01-2022\_SAC Mark - Specific Requirements for the Accreditation of Inspection Bodies for Instrumentation &amp; Monitoring](/files/Documents/Inspection%20body%20accreditation/TechNote-IM01-2022.pdf{:target="_blank"})
+
+
 **Structural Steelwork Inspection Field**
 
 * [Technical Note: SS-01: 27 Aug 2020 - Specific Requirements for in Structural Steelwork Inspection](/files/Documents/Inspection%20body%20accreditation/SS-01-27-Aug2020.pdf){:target="\_blank"}
