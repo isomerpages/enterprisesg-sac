@@ -351,7 +351,7 @@ Companies that can benefit from GLP registration include:
 
 <label for="accordion14g">Where can I access the OECD Principles of GLP?</label><div>
 
-p&gt;Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="\_blank"}.
+p&gt;Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}.
 
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --><p></p>
 
@@ -369,7 +369,7 @@ p&gt;Copies of the OECD Principles of GLP, Consensus Documents and useful guidan
 
 <label for="accordion16g">Any other enquiries?</label><div>
 
-<p>If you have any questions or doubts, you can drop us an email or call us directly through the \[Contact Us\](/contact-us) section.</p>
+<p>If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.</p>
 
 </div></li>
 
