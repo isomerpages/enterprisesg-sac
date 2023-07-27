@@ -28,8 +28,11 @@ Singapore 237994\
 **Fax** : (65) 6820 3341\
 **Email** : 
 (singaporestandardseshop@toppanleefung.com)
-singaporestandardseshop@toppanleefung.com
-**Website** : (https://www.singaporestandardseshop.sg)
+singaporestandardseshop@toppanle
+efung.com\
+**Website** : 
+[Singapore Standards (singaporestandardseshop.sg)](https://www.singaporestandardseshop.sg/)
+
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
 
 
