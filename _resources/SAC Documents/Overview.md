@@ -8,9 +8,9 @@ In this section, you will find the SAC publications relating to its programmes, 
 
 * [Certification Body Accreditation](/resources/sac-documents/certification-body-accreditation)
 
-* [Laboratory Accreditation (SINGLAS)](/resources/sac-documents/laboratory-accreditation)
+* [Laboratory Accreditation (SINGLAS)](/resources/sac-documents/laboratory-creditation)
 
-* [Inspection Body Accreditation](/resources/sac-documents/inspection-body-accreditation) 
+* [Inspection Body Accreditation](/resources/sac-documents/inspection-body-accreditation)
 
 * [Good Laboratory Practice Registration](/resources/sac-documents/good-laboratory-practice-registration)
 
