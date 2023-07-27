@@ -14,9 +14,6 @@ In this section, you will find the SAC publications relating to its programmes, 
 
 * [Good Laboratory Practice Registration](/resources/sac-documents/good-laboratory-practice-registration)
 
-
-
-
 * [Proficiency Testing Provider Accreditation](/resources/sac-documents/proficiency-testing-provider-accreditation) 
 
 * [Validation &amp; Verification Body Accreditation](/resources/sac-documents/validation-and-verification-body-accreditation)
@@ -24,13 +21,13 @@ In this section, you will find the SAC publications relating to its programmes, 
 Companies are required to comply with current editions of all SAC publications relevant to their accreditation or application. For ISO or Singapore Standards, companies can purchase the standards from: 
 
 #### Toppan Leefung Pte Ltd 
-1 Kim Seng Promenade #18-01\\\\ <!--COMMENT: the double backslashes is used to denote a line break without any paragraph spacing-->
+1 Kim Seng Promenade #18-01\ <!--COMMENT: the double backslashes is used to denote a line break without any paragraph spacing-->
 Great World City East Tower\
 Singapore 237994\
 **Customer Service Hotline** : (65) 6826 9691\
 **Fax** : (65) 6820 3341\
 **Email** : \
-**Website** : \[https://www.singaporestandardseshop.sg\](https://www.singaporestandardseshop.sg){:target="_blank"}\
+**Website** : [Website}(/]https://www.singaporestandardseshop.sg](https://www.singaporestandardseshop.sg){:target="_blank"}\
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (\*Closed on Saturdays, Sundays and Public Holidays\*)
 
 
