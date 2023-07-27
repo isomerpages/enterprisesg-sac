@@ -13,8 +13,11 @@ For more information on the course details, please click on the options below:
 
 **Upcoming**
 
-* [Method Validation in Chemical Analysis Workshop](/files/training/MV-(chemical)-workshop.pdf){:target="_blank"}
-* [Measurement Uncertainty in Chemical Analysis Workshop](/files/training/MU-(chemical)-workshop.pdf){:target="_blank"}
+* [Method Validation in Chemical Analysis Workshop](/files/Training/MV-(chemical)-workshop.pdf){:target="\_blank"}
+
+
+
+* [Measurement Uncertainty in Chemical Analysis Workshop](/files/Training/MU-(chemical)-workshop.pdf){:target="_blank"}
 
 
 **Past**
