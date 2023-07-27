@@ -8,8 +8,6 @@ In this section, you will find the SAC publications relating to its programmes, 
 
 * [Certification Body Accreditation](/resources/sac-documents/certification-body-accreditation)
 
-* [Certification Body Accreditation](/resources/SAC-Documents/certification-body-accreditation)
-
 * [Laboratory Accreditation (SINGLAS)](/resources/sac-documents/laboratory-accreditation)
 
 
