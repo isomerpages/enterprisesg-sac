@@ -18,7 +18,7 @@ description: ""
 <table class="tg">
 <thead>
 	 <tr>
-    <td class="tg-ogew"><a href="https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html"><img height="150" width="300" src="https://d33wubrfki0l68.cloudfront.net/b1937abe44769cefc51fbf3c4d4e2e18cad96c32/f39c8/images/brochures/comm-book-2016.png"><span style="text-decoration:none;color:inherit"></span></a></td>    
+    <td class="tg-ogew"><a href="https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html"><img style="width:30%" src="https://d33wubrfki0l68.cloudfront.net/b1937abe44769cefc51fbf3c4d4e2e18cad96c32/f39c8/images/brochures/comm-book-2016.png"><span style="text-decoration:none;color:inherit"></span></a></td>    
 		 <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
@@ -52,7 +52,7 @@ description: ""
 <h4>SAC Directory</h4>
 
 	 
-<a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Directory-16-17-Final.pdf"><img height="150" width="300" src="https://d33wubrfki0l68.cloudfront.net/580f0b52b9d7e69d9ce6ced07bccd2452f5bc620/18af7/images/brochures/sac-directory-cover-1617.png"><span style="text-decoration:none;color:inherit"></span></a>    
+<a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Directory-16-17-Final.pdf"><img style="width:30%" src="https://d33wubrfki0l68.cloudfront.net/580f0b52b9d7e69d9ce6ced07bccd2452f5bc620/18af7/images/brochures/sac-directory-cover-1617.png"><span style="text-decoration:none;color:inherit"></span></a>    
 		 
     
   
