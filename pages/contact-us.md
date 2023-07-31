@@ -16,7 +16,7 @@ locations:
           Closed on Public Holidays and
           Public Holidays
     maps_link: ""
-    title: S'pore Accreditation Council
+    title: Singapore Accreditation Counci
 contacts:
   - content:
       - phone: +65 6279 1800
