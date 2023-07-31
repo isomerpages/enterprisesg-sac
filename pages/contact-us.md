@@ -13,8 +13,7 @@ locations:
         time: 8.30am - 6.00pm
         description: |-
           Fri : 830am - 5;30pm
-          Closed on Public Holidays and
-          Public Holidays
+          Closed on Weekends and Public Holidays
     maps_link: ""
     title: SAC
 contacts:
