@@ -11,9 +11,10 @@ locations:
     operating_hours:
       - days: Mon-Thu
         time: 8.30am - 6.00pm
-        description: |-
-          Fri: 8.30am - 5.30pm
-          <br> Closed on Weekends and Public Holidays
+        description: ""
+      - days: Fri
+        time: 8.30am - 5.30pm
+        description: Closed on Weekends and Public Holidays
     maps_link: ""
     title: SAC
 contacts:
