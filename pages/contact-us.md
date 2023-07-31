@@ -17,22 +17,15 @@ locations:
           Public Holidays
     maps_link: ""
     title: S'pore Accreditation Council
-  - address:
-      - General Enquiries & Feedback
-      - 279 1800 / 1855 / 1856
-      - sac@enterprise.gov.sg
-    operating_hours: []
-    maps_link: ""
-    title: Contact Us
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6279 1800
+      - email: sac@enterprisesg.gov.sg
+      - other: Feedback cant save
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: sacinet_admin@enterprisesg.gov.sg
       - other: ""
-    title: Careers
+    title: SACiNet-related Enquiries
 ---
