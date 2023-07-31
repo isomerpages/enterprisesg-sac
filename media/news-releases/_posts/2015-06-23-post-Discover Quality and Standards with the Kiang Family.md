@@ -13,4 +13,3 @@ image: ""
 </div>
 
 Click the picture to follow the Kiang family for a day to learn more about how Quality and Assurance affects your daily life!
-
