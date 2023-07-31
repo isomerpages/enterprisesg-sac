@@ -13,13 +13,13 @@ description: ""
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
-<h4>Commemorative Booklet: 50 Years of Quality and Standards</h4>
+
 
 
 <table class="tg">
 <thead>
 	 <tr>
-    <th class="tg-ogew"><a href="https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html"><img src="https://d33wubrfki0l68.cloudfront.net/b1937abe44769cefc51fbf3c4d4e2e18cad96c32/f39c8/images/brochures/comm-book-2016.png"><span style="text-decoration:none;color:inherit"></span></a></th>    
+    <td class="tg-ogew"><a href="https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html"><img height="150" width="300" src="https://d33wubrfki0l68.cloudfront.net/b1937abe44769cefc51fbf3c4d4e2e18cad96c32/f39c8/images/brochures/comm-book-2016.png"><span style="text-decoration:none;color:inherit"></span></a></td>    
 		 <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
