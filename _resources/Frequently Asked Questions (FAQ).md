@@ -94,29 +94,26 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 &nbsp;</li>
 <br>
 
-<b></b><li><b>Accreditation Scheme for Management Systems Certification Bodies Quality Management System (QMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).</li>
+<b></b><li><b>Accreditation Scheme for Management Systems Certification Bodies Quality Management System (QMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).
+<ul><li><b>Business Continuity Management System (BCM):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 540 or ISO 22301 certification, based on the general requirements of ISO/IEC 17021 and CT 08 - SAC Criteria for Certification Bodies (BCM).
+<br></li>
+<li><b>Energy Management System (ENMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements n Bodies (ENMS) SAC Criteria for Certifi.cation Bodies (ENMS)
+<br>
+	<br></li>
+<li><b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatoryand Health Management System (OSHMS): This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC&nbsp; 17021 and CT 02 - SAC CriteriCertification Bodies (OSHMS).
+<br>
+<br></li>
+<li><b>HACCP based Food Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing&nbsp; SAC HACCP Doc 2 certification, based on the general requirements of ISO/IEC 17021 and&nbsp; SAC HACCP Doc&nbsp; 01.
+<br>
+<br></li>
+<li><b>Food Safety Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 22000 certification, based on the general requirements of ISO/TS 22003 and CT 07 - SAC Criteria for Certification Bodies (FSMS).
+<br>
+<br></li>
+	<li><b>Accreditation Scheme for Product Certification:</b>&nbsp; This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.</li>
+	</ul>	
+</li>
 </ul>
-<br>
-
-<b>Business Continuity Management System (BCM):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 540 or ISO 22301 certification, based on the general requirements of ISO/IEC 17021 and CT 08 - SAC Criteria for Certification Bodies (BCM).
-<br>
-
-<b>Energy Management System (ENMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements n Bodies (ENMS) SAC Criteria for Certifi.cation Bodies (ENMS)
-<br>
-	<br>
-<b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatoryand Health Management System (OSHMS): This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC&nbsp; 17021 and CT 02 - SAC CriteriCertification Bodies (OSHMS).
-<br>
-<br>
-	
-<b>HACCP based Food Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing&nbsp; SAC HACCP Doc 2 certification, based on the general requirements of ISO/IEC 17021 and&nbsp; SAC HACCP Doc&nbsp; 01.
-<br>
-<br>
-<b>Food Safety Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 22000 certification, based on the general requirements of ISO/TS 22003 and CT 07 - SAC Criteria for Certification Bodies (FSMS).
-<br>
-<br>
-<b>Accreditation Scheme for Product Certification:</b>&nbsp; This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
-
-   
+<br>   
 More information for each accreditation scheme, can be obtained at 
 	<a target="”_blank”" href="”accreditation-services/”">Accreditation Services</a> 
 	
