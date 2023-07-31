@@ -12,15 +12,27 @@ description: ""
 .tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+
+<h4>Commemorative Booklet: 50 Years of Quality and Standards</h4>
+
+
 <table class="tg">
 <thead>
-  <tr>
+	 <tr>
+    <th class="tg-ogew"><a href="https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html"><img src="https://d33wubrfki0l68.cloudfront.net/b1937abe44769cefc51fbf3c4d4e2e18cad96c32/f39c8/images/brochures/comm-book-2016.png"><span style="text-decoration:none;color:inherit"></span></a></th>    
+		 <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+	</thead></table>
+<h4>SAC Brochures</h4>
+<table class="tg">
+  <tbody><tr>
     <th class="tg-ogew"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Booklet.pdf"><img src="https://d33wubrfki0l68.cloudfront.net/d3e042dfeed89ee8ab6ebd62597f9e1b282d4bd8/4074e/images/brochures/sac-booklet.jpg"><span style="text-decoration:none;color:inherit">SAC Booklet</span></a></th>
     <th class="tg-ogew"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf"><img src="https://d33wubrfki0l68.cloudfront.net/9a415faf7ad2a6b74430a9d8c525f2b8600d6b14/11397/images/brochures/laboratories.jpg"><span style="text-decoration:none;color:inherit">Accreditation Scheme for Laboratories</span></a></th>
     <th class="tg-ogew"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Inspection-Bodies.pdf"><img src="https://d33wubrfki0l68.cloudfront.net/567a3955f002452e4547ebec6704081bb5aca84f/c408b/images/brochures/inspection.jpg"><span style="text-decoration:none;color:inherit">Accreditation Scheme for Inspection Bodies</span></a></th>
   </tr>
-</thead>
-<tbody>
+
+</tbody><tbody>
   <tr>
     <td class="tg-ogew"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Managament-System-Certification-Bodies.pdf"><img src="https://d33wubrfki0l68.cloudfront.net/2368f44f119d2c07895e578376958836a47eace0/9e941/images/brochures/certification.jpg"><span style="text-decoration:none;color:inherit">Accreditation Scheme for Management System Certification Bodies</span></a></td>
     <td class="tg-ogew"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Product-Certification-Bodies.pdf"><img src="https://d33wubrfki0l68.cloudfront.net/bc991f92814755a4d8484f3de3f5a08c63fbfd19/d5faf/images/brochures/personnel.jpg"><span style="text-decoration:none;color:inherit">Accreditation Scheme for Management System Personnel Certification Bodies</span></a></td>
