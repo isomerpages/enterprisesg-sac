@@ -36,12 +36,12 @@ Please click the links below for the Terms and Conditions for different schemes:
 Please click the links below for the fee schedule for different schemes: 
 
 * [Good Laboratory Programme Registration](/files/Documents/Glp/GLP02-GLP-Fee-structure-11Oct2019.pdf)
-* [Inspection Body Accreditation](/files/Documents/inspection-body-accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf)
-* [Laboratory Accreditation (SINGLAS)](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf)
-* [Management System Certification Body Accreditation](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf)
-* [Medical Laboratory and Medical Imaging Facility](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf)
-* [Product Certification Accreditation](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf)
-* [Personnel Certification Accreditation](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf)
-* [Proficiency Testing Providers](/files/documents/proficiency-testing-providers/PTP-002-(18-April-2018).pdf)
-* [Auditing Organisations](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf)
+* [Inspection Body Accreditation](/files/documents/inspection-body-accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf){:target="\_blank"}
+* [Laboratory Accreditation (SINGLAS)](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf){:target="\_blank"}
+* [Management System Certification Body Accreditation](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="\_blank"}
+* [Medical Laboratory and Medical Imaging Facility](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf){:target="\_blank"}
+* [Product Certification Accreditation](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf){:target="\_blank"}
+* [Personnel Certification Accreditation](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf){:target="\_blank"}
+* [Proficiency Testing Providers](/files/documents/proficiency-testing-providers/PTP-002-(18-April-2018).pdf){:target="\_blank"}
+* [Auditing Organisations](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="\_blank"}
 * [Validation and Verification Bodies](/files/documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf)
