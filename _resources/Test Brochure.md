@@ -3,3 +3,38 @@ title: Test Brochure
 permalink: /resources/testbrochure/
 description: ""
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/d3e042dfeed89ee8ab6ebd62597f9e1b282d4bd8/4074e/images/brochures/sac-booklet.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Booklet.pdf"><span style="text-decoration:none;color:inherit">#SAC Booklet</span></a></th>
+    <th class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/9a415faf7ad2a6b74430a9d8c525f2b8600d6b14/11397/images/brochures/laboratories.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf"><span style="text-decoration:none;color:inherit">#Accreditation Scheme for Laboratories</span></a></th>
+    <th class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/567a3955f002452e4547ebec6704081bb5aca84f/c408b/images/brochures/inspection.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Inspection-Bodies.pdf"><span style="text-decoration:none;color:inherit">#Accreditation Scheme for Inspection Bodies</span></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/2368f44f119d2c07895e578376958836a47eace0/9e941/images/brochures/certification.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Managament-System-Certification-Bodies.pdf"><span style="text-decoration:none;color:inherit">#Accreditation Scheme for Management System Certification Bodies</span></a></td>
+    <td class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/bc991f92814755a4d8484f3de3f5a08c63fbfd19/d5faf/images/brochures/personnel.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Product-Certification-Bodies.pdf"><span style="text-decoration:none;color:inherit">#Accreditation Scheme for Management System Personnel Certification Bodies</span></a></td>
+    <td class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/a915b721f8c59e0eefa908a03b3ab457e9c04c0a/83e52/images/brochures/glp.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Good-Laboratory-Practice-Compliance-Programme.pdf"><span style="text-decoration:none;color:inherit">#Good Laboratory Practice Compliance Programme</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/bc991f92814755a4d8484f3de3f5a08c63fbfd19/d5faf/images/brochures/personnel.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Personnel-Certification-Bodies.pdf"><span style="text-decoration:none;color:inherit">#Accreditation Scheme for Personnel Certification Bodies</span></a></td>
+    <td class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/34d3d17164d837b970bffa2ea98edad1a36540ce/bc07f/images/brochures/proficiency.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Proficiency-Testing-Providers.pdf"><span style="text-decoration:none;color:inherit">#Accreditation Scheme for Proficiency Testing Providers</span></a></td>
+    <td class="tg-ogew"><img src="https://www.sac-accreditation.gov.sg/images/brochures/SAC-Brochures-SAC-Accreditation%20Marks.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-SAC-Accreditation-Mark.pdf"><span style="text-decoration:none;color:inherit">#SAC Accreditation Marks</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/56849558d177589e8c440ef349035eff90f48084/f2099/images/brochures/sac-brochures-building_construction.png"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Accreditation-Programmes-for-the-Building-and-Construction-Industry.pdf"><span style="text-decoration:none;color:inherit">#SAC Accreditation Programmes for the Building and Construction Industry</span></a></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
