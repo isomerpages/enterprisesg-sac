@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: sac
+agency_name: Singapore Accreditation Council
 locations:
   - address:
       - "230 Victoria Street, #09-00"
@@ -16,7 +16,7 @@ locations:
           Closed on Public Holidays and
           Public Holidays
     maps_link: ""
-    title: Singapore Accreditation Counci
+    title: SAC
 contacts:
   - content:
       - phone: +65 6279 1800
