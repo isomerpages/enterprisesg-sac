@@ -13,7 +13,7 @@ description: ""
 
 
 
-<a href="/files/Brochures/SAC-Booklet.pdf)"><img style="width:177px" alt="SAC Booklet" src="/images/brochures/SAC-Booklet.jpg"></a>
+<a href="/files/Brochures/SAC-Booklet.pdf"><img style="width:177px" alt="SAC Booklet" src="/images/brochures/SAC-Booklet.jpg"></a>
 
 <img style="width:177px" alt="LA" src="/images/brochures/SAC-Brochures-LA.jpg"> 
 [Accreditation Scheme for Laboratories](/files/Brochures/Laboratories.pdf)
