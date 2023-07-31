@@ -21,7 +21,7 @@ contacts:
   - content:
       - phone: +65 6279 1800
       - email: sac@enterprisesg.gov.sg
-      - other: Feedback cant save
+      - other: Feedback cant save, max 400 characters
     title: General Enquiries & Feedback
   - content:
       - phone: ""
