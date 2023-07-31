@@ -10,9 +10,9 @@ The Accreditation Scheme for Auditing Organisations (AOs) was launched in 2017. 
 
 The primary objectives of Auditing Organisations Scheme are to
 
-\* provide by means of assessment, the assurance that the professional practice by auditing organisations are in accordance with relevant criteria such as CT 17, regulatory requirements and relevant SAC documents;
-\* ensure that the auditing processes are carried out with professionalism and integrity;
-\* build the capabilities of auditing organisations and auditors to meet regulatory requirements.
+* provide by means of assessment, the assurance that the professional practice by auditing organisations are in accordance with relevant criteria such as CT 17, regulatory requirements and relevant SAC documents;
+* ensure that the auditing processes are carried out with professionalism and integrity;
+* build the capabilities of auditing organisations and auditors to meet regulatory requirements.
 <!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
 
 The Auditing Organisation Scheme gives formal recognition to auditing organisations that have been independently assessed and found to comply with the criteria established by SAC. Accreditation is granted for the scopes applied, and is not a blanket approval for its total operations.
