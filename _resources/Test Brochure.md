@@ -15,7 +15,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/d3e042dfeed89ee8ab6ebd62597f9e1b282d4bd8/4074e/images/brochures/sac-booklet.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Booklet.pdf"><span style="text-decoration:none;color:inherit">#SAC Booklet</span></a></th>
+    <th class="tg-ogew"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Booklet.pdf"><img src="https://d33wubrfki0l68.cloudfront.net/d3e042dfeed89ee8ab6ebd62597f9e1b282d4bd8/4074e/images/brochures/sac-booklet.jpg"><span style="text-decoration:none;color:inherit">#SAC Booklet</span></a></th>
     <th class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/9a415faf7ad2a6b74430a9d8c525f2b8600d6b14/11397/images/brochures/laboratories.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Laboratories.pdf"><span style="text-decoration:none;color:inherit">#Accreditation Scheme for Laboratories</span></a></th>
     <th class="tg-ogew"><img src="https://d33wubrfki0l68.cloudfront.net/567a3955f002452e4547ebec6704081bb5aca84f/c408b/images/brochures/inspection.jpg"><a href="https://www.sac-accreditation.gov.sg/files/brochures/SAC-Brochure-Accreditation-Scheme-for-Inspection-Bodies.pdf"><span style="text-decoration:none;color:inherit">#Accreditation Scheme for Inspection Bodies</span></a></th>
   </tr>
