@@ -16,4 +16,4 @@ The SAC document, CT 21:*SAC Criteria for Certification Bodies (Anti-Bribery Man
 
 [![CT21_cover](/images/press-release/documents/CT21_cover.PNG){: style="width:242px;"}](/services/accreditation-services/management-system-certification-bodies){: target="\_blank"}
 
-Application for accreditation of ABMS certification is now open through the SAC Accreditation Portal,[SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="\_blank"}.
+Application for accreditation of ABMS certification is now open through the SAC Accreditation Portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg){:target="\_blank"}.
