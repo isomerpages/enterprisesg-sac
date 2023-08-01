@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 <img style="width:567px" alt="WAD 2017" src="/images/press-release/documents/WAD2017_1.png">
 
 9 June 2017 marks World Accreditation Day, a global initiative established by the International Accreditation Forum (IAF) and the International Laboratory Accreditation Cooperation (ILAC). This year’s theme focuses on how accreditation delivers confidence in construction and the built environment.
