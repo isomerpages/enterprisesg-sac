@@ -13,8 +13,8 @@ the logo, the accredited scheme and the certificate number.
 * The accreditation marks must be reproduced in the official colours - red (Pantone 032C) and dark grey (Pantone 432C) - or in a single colour only. The font used for the certificate number is Arial. When an accredited organisation is accredited for more than 1 programme/field, the accredited organisation can choose to list all certificate numbers under 1 SAC mark, after obtaining approval from SAC in writing.
 
 * The SAC accreditation mark may be uniformly enlarged or reduced, but shall not be less than 30mm in width and 15mm in height. The SAC accreditation mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. The certificate number must be readable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated.  
-![sac-mark-15mm]({{page.imgFolderPath}}sac-mark-15mm.jpg)
 
+![how-to-use-sac-ilac-iaf-marks](/images/how-to-use-marks/sac-mark-15mm.jpg)
 * An accredited organisation may use the SAC accreditation mark on publicity and other stationery materials such as brochures, business cards, letterhead paper, quotations, websites and vehicles. However, the use of the SAC accreditation mark or any reference to SAC accreditation in advertising and promotional publications shall be vetted and pre-approved by SAC.
 
 * Please refer to [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks ](/files/Documents/Laboratory%20Accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"} for more information.
@@ -25,14 +25,16 @@ the logo, the accredited scheme and the certificate number.
 * An accredited laboratory or inspection body is encouraged to use the Accredited CAB Combined ILAC MRA Mark to demonstrate that the
 laboratory or inspection body is accredited by a signatory of the International Laboratory Accreditation Cooperation (ILAC) Mutual Recognition Arrangement. The ILAC MRA Mark shall only be used in combination with the SAC accreditation mark, which is then known as the "Accredited CAB Combined ILAC MRA Mark". 
 
-![Combined ILAC MRA Mark for Accredited Laboratory]({{page.imgFolderPath}}ilac-mra-mark-laboratory.jpg){: style="width: 300px"} for Accredited Laboratory ![Combined ILAC MRA Mark for Accredited Inspection Body]({{page.imgFolderPath}}ilac-mra-mark-inspection-body.jpg){: style="width: 300px"} for Accredited Inspection Body
+![how-to-use-sac-ilac-iaf-marks](/images/how-to-use-marks/ilac-mra-mark-laboratory.jpg)
+![how-to-use-sac-ilac-iaf-marks](/images/how-to-use-marks/ilac-mra-mark-inspection-body.jpg)
 
 <!-- COMMENT: The '{: style="width: 300px"}' syntax at the end of the Markdown image is used to resize the image -->
 
 * The "Accredited CAB Combined ILAC MRA Mark" can be used on reports that deal solely with calibrations or tests/inspections covered under the terms of accreditation, business cards, communication tools, corporate stationery, event materials and displays and online applications such as websites. 
 
 * The ILAC MRA Mark may be reproduced in black and white or colour, provided the approved colours are used. Embossed, relief, or die-stamped versions are allowable.  
-![ILAC MRA Mark]({{page.imgFolderPath}}ilac-mra-mark.jpg)
+
+![How%20to%20use%20SAC%2C%20ILAC%2C%20IAF%20Marks.md](/images/how-to-use-marks/ilac-mra-mark.jpg)
 
 * The ILAC MRA mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. It shall not appear in a size that renders the ILAC MRA words unreadable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated. It shall maintain similar proportions to the SAC accreditation mark within the Accredited CAB Combined ILAC MRA Mark. The ILAC MRA mark must be based upon the original artwork to ensure high-quality production. 
 
