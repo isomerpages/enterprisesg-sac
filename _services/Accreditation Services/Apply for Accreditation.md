@@ -40,9 +40,8 @@ Please click the links below for the fee schedule for different schemes:
 *  [Laboratory Accreditation (SINGLAS)](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf)
 * [Management System Certification Body Accreditation](/files/Documents/Management%20system%20and%20products%20certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf)
 * [Medical Laboratory and Medical Imaging Facility](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf)
+* [Product Certification Accreditation](/files/Documents/Management%20system%20and%20products%20certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf)
 
-
-* [Medical Laboratory and Medical Imaging Facility](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf)
 * [Product Certification Accreditation](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf)
 * [Personnel Certification Accreditation](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf)
 * [Proficiency Testing Providers](/files/documents/proficiency-testing-providers/PTP-002-(18-April-2018).pdf)
