@@ -10,4 +10,4 @@ Videos of the IAF MD 20 Workshop held at the 2016 IAF/ILAC Annual Meetings are n
 
 ![videos/iaf-md-20-workshop-videos](/images/press-release/documents/IAF-MD-20-Workshop-Videos.jpg)
 
-Please click [here](https://www.iaf.nu/articles/IAF\_MD\_20\_Workshop\_Videos/519){:target="\_blank"} for more information.
+<img style="width:135px" alt="IAF MD 20 Workshop Video">
