@@ -42,9 +42,10 @@ Please click the links below for the fee schedule for different schemes:
 * [Medical Laboratory and Medical Imaging Facility](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf)
 * [Product Certification Accreditation](/files/Documents/Management%20system%20and%20products%20certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf)
 * [Personnel Certification Accreditation](/files/Documents/Management%20system%20and%20products%20certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf)
+* [Proficiency Testing Providers](/files/Documents/proficiency-testing-providers/PTP-002-(18-April-2018).pdf)
 
 
-* [Personnel Certification Accreditation](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf)
+
 * [Proficiency Testing Providers](/files/documents/proficiency-testing-providers/PTP-002-(18-April-2018).pdf)
 * [Auditing Organisations](/files/documents/management-system-and-products-certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf)
 * [Validation and Verification Bodies](/files/documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf)
