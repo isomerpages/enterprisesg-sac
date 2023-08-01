@@ -21,8 +21,8 @@ To apply for SAC accreditation, a CAB must first provide evidence of fulfilling 
 Upon fulfilling the basic requirements, the CAB can apply online through the [SACiNet website](https://sacinet2.enterprisesg.gov.sg/).
 
 #### 3. Application Submission
-Once the application is completed with the documents submission and fee payment, the accreditation process proceed as shown below:
-![sac accreditation process flow chart](/images/services/sac-accreditation-process-flowchart.jpg)
+Once the application is completed with the documents submission and fee payment, the accreditation process proceed as shown below:  
+![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg)
 
 Please ensure you have read SAC's Terms &amp; Conditions and Fee Schedule before application.  
 
