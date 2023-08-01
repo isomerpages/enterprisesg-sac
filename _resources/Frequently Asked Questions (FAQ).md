@@ -258,23 +258,23 @@ This document is produced by the OECD GLP Working Group and is available at&nbsp
 <p>
 
 The facility must first comply with the OECD Series on Principles of Good Laboratory Practice. Other compliance documents include:
-
+<br>
 a. Quality Assurance and GLP
-
+<br>
 b. Compliance with Laboratory Suppliers with GLP Principles
-
+<br>
 c. The Application of the GLP Principles to Field Studies
-
+<br>
 d. The Application of GLP Principles to Short Term Studies
-
+<br>
 e. The Role and Responsibilities of the Study Director in GLP Studies
-
+<br>
 f. The Application of Principles of GLP to Computer Systems
-
+<br>
 g. The Application of the OECD Principles of GLP to the Organisation and Management of Multi-site Studies
-
+<br>
 h. The Application of the Principles of GLP to In Vitro Studied
-
+<br>
 i. Establishment and Control of Archives that Operate in Compliance with the Principles of GLP</p>
 
 </div></li>
