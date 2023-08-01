@@ -5,7 +5,7 @@ description: ""
 ---
 ### General Conditions for Use of SAC Accreditation Marks
 
-![SAC Accreditation Marks]({{page.imgFolderPath}}SAC-accreditation-marks.jpg)
+![how-to-use-sac-ilac-iaf-marks](/images/how-to-use-marks/SAC-accreditation-marks.jpg)
 
 * When reference to SAC accreditation status is made by an accredited organisation using SAC accreditation marks, the Certificate Number issued to the accredited organisation shall be indicated. Specimens of the SAC accreditation marks are shown above, which include
 the logo, the accredited scheme and the certificate number. 
