@@ -55,5 +55,5 @@ laboratory or inspection body is accredited by a signatory of the International 
   ii. On a clearly contrasting background; and  
   iii. In a size which makes all the words of the IAF MLA Mark clearly distinguishable, with the width of the IAF MLA Mark no less than 20mm for printed media and 75 pixels for digital media.
 
-* Please refer to [IAF ML-2 General Principles on the use of the IAF MLA Mark](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"} for more information on the IAF MLA mark and sublicense agreement.
+* Please refer to [IAF ML-2 General Principles on the use of the IAF MLA Mark](/files/Documents/Management%20system%20and%20products%20certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"} for more information on the IAF MLA mark and sublicense agreement.
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
