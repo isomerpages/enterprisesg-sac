@@ -13,5 +13,4 @@ SAC has been appointed as Myanmar's partner accreditation body to provide accred
 
 <img style="width:437px" alt="Myanmar MOU" src="/images/press-release/photos/Myanmar-MOU.png">
 
-![Myanmmar MOU](/images/press-release/photos/Myanmar-MOU.png)
 *SPRING Singapore's Assistant Chief Executive Choy Sauw Kook and Myanmar Department of Research and Innovation's (DRI) Director-General Win Khaing Moe signing the MOU between SPRING and Myanmar DRI on partner accreditation body to enhance the national infrastructure in Myanmar for accreditation of conformity assessment bodies. The signing was witnessed by Singapore Minister for Trade and Industry (Trade) Mr Lim Hng Kiang and Myanmar Union Minister for Planning and Finance and Chairman of the Myanmar Investment Commission (MIC) U Kyaw Win.*
