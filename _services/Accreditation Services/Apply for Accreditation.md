@@ -37,11 +37,11 @@ Please click the links below for the fee schedule for different schemes:
 
 * [Good Laboratory Programme Registration](/files/Documents/Glp/GLP02-GLP-Fee-structure-11Oct2019.pdf)
 * [Inspection Body Accreditation](/files/Documents/Inspection%20body%20accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf)
-*  
+*  [Laboratory Accreditation (SINGLAS)](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf)
+* [Management System Certification Body Accreditation](/files/Documents/Management%20system%20and%20products%20certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf)
+* [Medical Laboratory and Medical Imaging Facility](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf)
 
 
-* [Laboratory Accreditation (SINGLAS)](/files/documents/laboratory-accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf)
-* [Management System Certification Body Accreditation](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf)
 * [Medical Laboratory and Medical Imaging Facility](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf)
 * [Product Certification Accreditation](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf)
 * [Personnel Certification Accreditation](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf)
