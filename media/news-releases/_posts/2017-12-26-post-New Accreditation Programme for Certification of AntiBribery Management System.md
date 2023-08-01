@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-he Singapore Accreditation Council (SAC) has launched a new accreditation programme for the certification of Anti-Bribery Management Systems (ABMS) on 26 December 2017. The programme aims to increase the industry's confidence in accredited ABMS certification bodies (CBs) by providing third party assurance on their competency and impartiality of practices.
+The Singapore Accreditation Council (SAC) has launched a new accreditation programme for the certification of Anti-Bribery Management Systems (ABMS) on 26 December 2017. The programme aims to increase the industry's confidence in accredited ABMS certification bodies (CBs) by providing third party assurance on their competency and impartiality of practices.
 
 The programme requires ABMS CBs to follow a systematic and impartial approach in the assessment of the companies in areas such as the organisational context, anti-bribery management system, bribery risk assessment, leadership commitment, anti-bribery policy, employment process, anti-bribery compliance function, financial and non-financial controls, due diligence, as well as investigating and dealing with bribery.
 
