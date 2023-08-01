@@ -23,11 +23,10 @@ A validation/verification body must be fully conversant and comply with the rele
 * [ISO 14066:2011  Green House Gases Competence requirements for Greenhouse validation teams and verfication teams]
 * [ISO 14064-3:2019 Greenhouse gases – Part 3: Specification with guidance for the validation and verification of greenhouse gas statements]
 * [ISO 14064-3:2006 Greenhouse gases – Part 3: Specification with guidance for the validation and verification of greenhouse gas assertions]
-* [IAF MD 6:2014 IAF Mandatory Document for the Application of ISO 14065:2013](/files/documents/validation-and-verification-bodies/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf)
-* [Fee Schedule, 10 October 2018](/files/documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf)
-* [Assessment Checklist (ISO 14065:2013), 10 Oct 2018](/files/documents/validation-and-verification-bodies/Assessment-Checklist-(ISO-14065)-10-October-2018.docx)
-* [Assessment Checklist (ISO/IEC 17029:2019), 12 April 2022](/files/documents/validation-and-verification-bodies/CTFM02-VB-ISO-IEC-17029.docx)
-
+* [IAF MD 6:2014 IAF Mandatory Document for the Application of ISO 14065:2013](/files/Documents/validation-and-verification-bodies/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="\_blank"}
+* [Fee Schedule, 10 October 2018](/files/Documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf){:target="\_blank"}
+* [Assessment Checklist (ISO 14065:2013), 10 Oct 2018](/files/Documents/validation-and-verification-bodies/Assessment-Checklist-(ISO-14065)-10-October-2018.docx){:target="\_blank"}
+* [Assessment Checklist (ISO/IEC 17029:2019), 12 April 2022](/files/Documents/validation-and-verification-bodies/CTFM02-VB-ISO-IEC-17029.docx){:target="\_blank"}
 
 
 <!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
