@@ -15,7 +15,7 @@ The SAC Customer Day 2021 was held on 16 November 2021. The theme for this yearâ
 At the event, Mr Tan Kai Hoe, SAC Chairman, launched the new accreditation programme for Cold Chain Management System (CCMS) Certification, based on SS 668: Part 1: 2020 Cold chain management of chilled and frozen foods â€“ Part 1: General requirements. 
  
  
- <img style="width:177px" alt="PIC2" src="/images/press-release/photos/PIC2.png"> 
+ <img style="width:316px" alt="PIC2" src="/images/press-release/photos/PIC2.png"> 
 
  
 The highlight for this year event was an interactive panel presentation which shared insightful views and exchanges on how standards and accreditation can support the Singapore Green Plan and other environmental sustainability initiatives. The session was well-received by the participants and we would like to extend our heartfelt appreciation to the industry experts from ERI@N (Mr Alex Chong), Building &amp; Construction Authority (Mr Jeffery Neng), National Environment Agency (Mr Dalson Chong), ComCorp (Mr Allan Lim) and National University of Singapore (Prof Seeram Ramakrishna) and our panel moderator, SAC Dy Chairman, Mr Jagadish CV.
