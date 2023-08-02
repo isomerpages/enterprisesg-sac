@@ -9,7 +9,8 @@ image: ""
 ---
 **NTU Singapore and CSA Singapore launch joint centre for cybersecurity evaluation, research, and education**
 
-<img style="width:177px" alt="Picture2" src="/images/press-release/photos/Picture2.png"> 
+
+<img style="width:602px" alt="Picture2" src="/images/press-release/photos/Picture2.png"> 
 
 
 The launch of NiCE on May 18, 2022. Photo: NTU Singapore and CSA
