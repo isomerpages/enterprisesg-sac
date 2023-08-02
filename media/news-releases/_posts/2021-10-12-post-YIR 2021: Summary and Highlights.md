@@ -36,5 +36,12 @@ Accreditation also seeks to build the relevant infrastructure and skills to addr
 
 Mr Tan Kai Hoe, Chairman of the Singapore Accreditation Council, said, “For consumers and businesses to trust what they buy and use, they must be certain that regulators and industries are equally committed to comply with internationally recognised and peer reviewed best practices. They must also be sure that there are quality infrastructure, enterprise capabilities, a skilled and experienced workforce to safeguard these best practices.  One cannot exist without the other. That is why Quality and Standards are considered twin pillars that support Singapore’ economic growth. It will be even more important to industries, in this post COVID business environment as business prioritise transparency and accountability across supply chains to achieve sustainable and resilient outcomes.”
 
+
+
+Click [here]([https://www.sac-accreditation.gov.sg/media/news-releases/yr2021](https://www.sac-accreditation.gov.sg/media/news-releases/yr2021)
+
+
+
+
 Read the full media coverage [here]
 (https://www.enterprisesg.gov.sg/media-centre/media-releases/2021/september/mr06921\_singapore-standards-council-and-singapore-accreditation-council-set-quality-and-sustainable-benchmarks-for-urban-farms)
