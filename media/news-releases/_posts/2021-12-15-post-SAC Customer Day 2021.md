@@ -10,7 +10,7 @@ image: ""
 
 The SAC Customer Day 2021 was held on 16 November 2021. The theme for this year’s event was “Unlock a Green Future Through Accreditation” with the objective to raise awareness and uncover the business opportunities in the sustainability sector. Due to the COVID-19 situation, it was a hybrid event attended by more than 210 participants which included SAC accredited conformity assessment bodies (CABs), SAC partners and volunteers. 
   
-<img style="width:177px" alt="PIC1" src="/images/press-release/photos/PIC1.png"> 	
+<img style="width:594px" alt="PIC1" src="/images/press-release/photos/PIC1.png"> 	
 
 At the event, Mr Tan Kai Hoe, SAC Chairman, launched the new accreditation programme for Cold Chain Management System (CCMS) Certification, based on SS 668: Part 1: 2020 Cold chain management of chilled and frozen foods – Part 1: General requirements. 
  
