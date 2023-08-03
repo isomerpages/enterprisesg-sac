@@ -29,11 +29,11 @@ Accreditation for inspection bodies is granted for a specific scope of inspectio
 ### Benefits
 Accreditation will: 
 
-* Gain new business: As more specifiers and users are stipulating the use of accredited services, a SAC-accredited inspection body will help you to garner acceptance of your products and services. This results in better competitiveness and market access.
+* **Gain new business**: As more specifiers and users are stipulating the use of accredited services, a SAC-accredited inspection body will help you to garner acceptance of your products and services. This results in better competitiveness and market access.et access.
 
-* Reduce cost: Properly inspeted products and services are more cost-effective, thus reducing downtime and avoiding any unnecessary cost for rework or re-inspection.
+* **Reduce cost**: Properly inspeted products and services are more cost-effective, thus reducing downtime and avoiding any unnecessary cost for rework or re-inspection.
 
-* Lower risk: With the technical proficiency of a SAC-accredited inspection body, your products are assured of their reliability and competence. This mitigates claims and unnecessary recall of your products. 
+* **Lower risk**: With the technical proficiency of a SAC-accredited inspection body, your products are assured of their reliability and competence. This mitigates claims and unnecessary recall of your products. 
 
 Aside from attaining a systematic and well-designed quality system, accredited organisations also stand to gain from the Mutual Recognition Arrangements (MRAs) that SAC has signed. This allows them access to international markets. 
 
