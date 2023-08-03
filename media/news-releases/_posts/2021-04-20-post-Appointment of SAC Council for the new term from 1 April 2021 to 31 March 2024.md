@@ -8,10 +8,6 @@ image: ""
 ---
 ![Tan Kai Hoe](/images/about/our-organisation-structure/TanKaiHoe.jpg){: style="margin-left:0;width: 150px;"}
 
-<img style="width:150px" alt="Tan Kai Hoe" src="/images/press-release/photos/62E045E4-9835-4FD3-9BC2-E6B50C39E328.jpeg">				
-
-
-
 
 
 **Mr Tan Kai Hoe**  <b>
