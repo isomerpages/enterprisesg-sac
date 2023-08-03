@@ -53,7 +53,8 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="\_blank"}
 * [IAF MD 22:2023 - Application of ISO/IEC 17021-1 for the Certification of OHSMS](/files/iaf-md-22-issue2-version2-2023.pdf){:target="_blank"}
-* [IAF MD 23:2023 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/iaf-md-23-2023.  pdf){:target="_blank"}
+
+* [IAF MD 23:2023 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/iaf-md-23-2023.pdf){:target="_blank"}
 * [IAF MD 24:2021 - Transition Requirements for ISO 50003:2021](/files/documents/IAF-MD-2-Issue-1.pdf){:target="_blank"}
 
 * [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/Documents/iaf_md26_issue_2_15012023.pdf){:target="_blank"}
