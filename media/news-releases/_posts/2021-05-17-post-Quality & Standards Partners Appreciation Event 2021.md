@@ -49,7 +49,7 @@ Dr Shu noted how the IEC plays an important role in developing global standards 
 Ms Hanane Taidi, Director-General of TIC Council
 
 
-<img style="width:177px" alt="Ms Hanane" src="/images/press-release/photos/96D40772-2250-4D10-B637-6725DC38F552.jpeg">					
+<img style="width:599px" alt="Ms Hanane" src="/images/press-release/photos/96D40772-2250-4D10-B637-6725DC38F552.jpeg">					
 			
 Ms Taidi explained how environmental, social and governance considerations are driving the development of new conformity assessment programmes to meet industry and regulatory demands.
 
