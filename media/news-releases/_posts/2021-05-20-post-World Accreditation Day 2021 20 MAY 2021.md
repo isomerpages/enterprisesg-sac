@@ -27,6 +27,9 @@ Youtube Links:
 
 WAD 2021 - Meeting the needs of people - Accreditation: Supporting the implementation of SDGs
 
+[People](https://youtu.be/qqViC-qA6Ww)
+
+
 People: https://youtu.be/qqViC-qA6Ww
 
 WAD 2021 - Protecting the planet - Accreditation: Supporting the implementation of SDGs
