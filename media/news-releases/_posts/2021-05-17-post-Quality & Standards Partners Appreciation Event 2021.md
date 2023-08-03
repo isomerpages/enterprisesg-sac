@@ -40,7 +40,7 @@ Mr Tan recognised our partners for their contributions and spoke of SAC’s effo
 
 Keynote Speaker: Dr Shu Yinbiao, President of the International Electrotechnical Commission (IEC)
 
-<img style="width:177px" alt="Shu Yinbiao" src="/images/press-release/photos/AF051619-C2EF-4966-B11E-4C494753A7A3.jpeg">				
+<img style="width:206px" alt="Shu Yinbiao" src="/images/press-release/photos/AF051619-C2EF-4966-B11E-4C494753A7A3.jpeg">				
 	
 
 Dr Shu noted how the IEC plays an important role in developing global standards and conformity assessment solutions that support regulators' sustainability policies, as well as in the industry on new and sustainable product innovations.  
