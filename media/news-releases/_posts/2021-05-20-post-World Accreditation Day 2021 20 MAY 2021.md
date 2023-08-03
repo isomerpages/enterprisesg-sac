@@ -30,12 +30,11 @@ WAD 2021 - Meeting the needs of people - Accreditation: Supporting the implement
 [People](https://youtu.be/qqViC-qA6Ww)
 
 
-People: https://youtu.be/qqViC-qA6Ww
-
 WAD 2021 - Protecting the planet - Accreditation: Supporting the implementation of SDGs
 
-Planet: https://youtu.be/J9N7Hn5tUV4
+[Planet](https://youtu.be/J9N7Hn5tUV4)
 
 WAD 2021 - Building prosperity - Accreditation: Supporting the implementation of SDGs
 
-Prosperity: https://youtu.be/7lPF2pSV1Vk
+[Prosperity](https://youtu.be/7lPF2pSV1Vk)
+
