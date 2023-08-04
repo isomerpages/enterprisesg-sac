@@ -11,7 +11,7 @@ image: ""
 
 
 **Mr Tan Kai Hoe**
-SAC Chairman
+<br>SAC Chairman<br>
 
 
 The SAC Council has been appointed for the new term from 1 April 2021 to 31 March 2024. The composition of SAC Council for the new term can be found at: https://www.sac-accreditation.gov.sg/about/our-organisation-and-structure/sac-council.
