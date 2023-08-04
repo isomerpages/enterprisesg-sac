@@ -15,4 +15,4 @@ They were announced at a media briefing on Thursday (Aug 29) by Enterprise Singa
 
 [Click here to view the full article](https://www.straitstimes.com/business/six-new-accreditation-programmes-to-ensure-businesses-meet-standards){:target="_blank"}
 
-[Click here to view the full article](https://www.straitstimes.com/business/six-new-accreditation-programmes-to-ensure-businesses-meet-standards){:target="_blank"}
+
