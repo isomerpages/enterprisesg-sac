@@ -19,7 +19,7 @@ Application for accreditation is now open through the SAC accreditation portal,
 Please contact your account manager for more information.
 
 
-<img style="width398px" alt="MOU-SAC and ACSI" src="/images/press-release/photos/mou-between-sac-and-asci-for-isasecure®-industrial-cybersecurity-certification-scheme">
+<img style="width250px" alt="MOU-SAC and ASCI" src="/images/press-release/photos/mou-between-sac-and-asci-for-isasecure®-industrial-cybersecurity-certification-scheme">
 
 
 
