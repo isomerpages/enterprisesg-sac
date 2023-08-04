@@ -19,9 +19,12 @@ Application for accreditation is now open through the SAC accreditation portal,
 Please contact your account manager for more information.
 
 
-<img style="width250px" alt="MOU-ASCI" src="/images/press-release/photos/MOU-ISA.jpg">
+<img style="width398px" alt="MOU-ASCI" src="/images/press-release/photos/MOU-ISA.jpg">
 
 
+
+
+<img style="width:290px" alt="Mr Chew" src="/images/press-release/photos/7FFA4EC2-C45B-42EB-A9B5-D76708CE694E.jpeg">		
 
 
 
