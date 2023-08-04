@@ -23,15 +23,4 @@ Please contact your account manager for more information.
 
 
 
-
-<img style="width:290px" alt="Mr Chew" src="/images/press-release/photos/7FFA4EC2-C45B-42EB-A9B5-D76708CE694E.jpeg">		
-
-
-
-
-
-
-![MOU-SAC and ASCI](/images/press-release/photos/MOU-ISA.jpg)
-
-
 *Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI*
