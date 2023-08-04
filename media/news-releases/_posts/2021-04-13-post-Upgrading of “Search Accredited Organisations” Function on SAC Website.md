@@ -15,4 +15,4 @@ We apologise for any inconvenience caused.
 Information available is best viewed in Microsoft Edge, and is accurate as of 9th April 2021. 
 
 
-* [User Guide](/images/press-release/photos/User Guide.pdf){:target="\_blank"}
+* [User Guide](/images/press-release/photos/User Guide.pdf){:target="_blank"}
