@@ -38,8 +38,12 @@ Mr Tan Kai Hoe, Chairman of the Singapore Accreditation Council, said, “For co
 
 
 
-Click [here]([https://www.sac-accreditation.gov.sg/media/news-releases/yr2021](https://www.sac-accreditation.gov.sg/media/news-releases/yr2021)
+Click[here](https://www.sac-accreditation.gov.sg/media/news-releases/yr2021](https://www.sac-accreditation.gov.sg/media/news-releases/yr2021)
 
+
+
+
+[here](https://www.enterprisesg.gov.sg/media-centre/media-releases/2021/september/mr06921_singapore-standards-council-and-singapore-accreditation-council-set-quality-and-sustainable-benchmarks-for-urban-farms)
 
 
 
