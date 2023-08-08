@@ -43,5 +43,4 @@ Click [here]([https://www.sac-accreditation.gov.sg/media/news-releases/yr2021](h
 
 
 
-Read the full media coverage [here]
-(https://www.enterprisesg.gov.sg/media-centre/media-releases/2021/september/mr06921\_singapore-standards-council-and-singapore-accreditation-council-set-quality-and-sustainable-benchmarks-for-urban-farms)
+Read the full media coverage [here](https://www.enterprisesg.gov.sg/media-centre/media-releases/2021/september/mr06921\_singapore-standards-council-and-singapore-accreditation-council-set-quality-and-sustainable-benchmarks-for-urban-farms)
