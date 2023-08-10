@@ -18,14 +18,8 @@ Application for accreditation is now open through the SAC accreditation portal,
 
 Please contact your account manager for more information.
 
-[MOU-SAC and ASCI](https://go.gov.sg/mou-sac-and-asci)
-
 
 <img style="width398px" alt="MOU-ASCI" src="/images/press-release/photos/MOU-ISA.jpg">
-
-
-[MOU-SAC and ASCI](https://go.gov.sg/mou-sacandasci)
-
 
 
 *Signing of MoU by Ms Chang Kwei Fern, Director of SAC and Mr. Andre Ristaino, Managing Director from ASCI*
