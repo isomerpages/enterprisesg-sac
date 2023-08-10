@@ -15,7 +15,7 @@ image: ""
 SAC Chairman
 
 
-The SAC Council has been appointed for the new term from 1 April 2021 to 31 March 2024. The composition of SAC Council for the new term can be found at: ![](https://www.sac-accreditation.gov.sg/about/our-organisation-and-structure/sac-council)
+The SAC Council has been appointed for the new term from 1 April 2021 to 31 March 2024. The composition of SAC Council for the new term can be found at: (https://www.sac-accreditation.gov.sg/about/our-organisation-and-structure/sac-council)
 
 
 Mr Tan Kai Hoe, President &amp; CEO of Accuron Technologies, has been appointed as the new SAC Chairman in  the new term.  Mr Tan, with his wealth of experience in both the public and private sectors, will lead the SAC Council to set directions and drive new initiatives identified in the SAC Strategic Plan 2025. In particular, for SAC to deliver a coordinated approach to support national and industry needs for assurance in the emerging and growth sectors such as medical &amp; healthcare, food &amp; Agriculture, environmental sustainability and digitalisation &amp; cybersecurity.
