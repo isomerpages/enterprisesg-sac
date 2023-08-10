@@ -11,7 +11,6 @@ image: ""
 
 
 **Mr Tan Kai Hoe**
-
 SAC Chairman
 
 
