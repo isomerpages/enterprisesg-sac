@@ -119,7 +119,7 @@ More information for each accreditation scheme, can be obtained at
 
 
 More information for each accreditation scheme, can be obtained at 
-[Accreditation Services Section](accreditation-services/)"target="”_blank”"&gt;Accreditation Services 
+[Accreditation Services Section](accreditation-services/) 
 	
 	
 	
