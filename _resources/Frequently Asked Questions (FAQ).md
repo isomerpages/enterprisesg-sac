@@ -117,12 +117,6 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 More information for each accreditation scheme, can be obtained at 
 	<a target="”_blank”" href="”accreditation-services/”">Accreditation Services</a> 
 
-
-More information for each accreditation scheme, can be obtained at 
-[Accreditation Services Section](accreditation-services/) 
-	
-	
-	
 	
 </div></li>
 
