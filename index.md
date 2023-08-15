@@ -15,7 +15,6 @@ sections:
       title: Singapore Accreditation Council
       subtitle: Your Trusted Partner in Accreditation
       background: /images/homepage/homepage-montage.jpg
-      button: Contact Us
       url: /contact-us/
       key_highlights:
         - title: SEARCH
