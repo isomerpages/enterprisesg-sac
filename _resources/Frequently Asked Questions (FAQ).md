@@ -61,7 +61,7 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 
 <br>
 <br>
-<b>International Recognition:</b> Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body or accept your test results/insections if you are an accredited laboratory or inspection body.
+<b>International Recognition:</b> Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body or accept your test results/inspections if you are an accredited laboratory or inspection body.
 <br>
 <br>
 
