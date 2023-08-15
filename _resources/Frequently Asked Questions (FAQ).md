@@ -217,8 +217,7 @@ Product registration in overseas markets are typically referred to the US FDA fo
 
 This document is produced by the OECD GLP Working Group and is available at&nbsp; [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}.
 
-[OECD Website](overview-of-good-laboratory-practice.htm)
-	
+
 	
 <!-- COMMENT: The {:target="\\\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
 
