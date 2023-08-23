@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+[![wccm-and-since-singapore-brochure-cover](/images/press-release/photos/wccm-and-since-singapore-brochure-cover.jpg)](/files/wccm-and-since-singapore-2019.pdf)
