@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![TIC-Asia-2019-brochure-cover](/images/brochures/TIC-Asia-2019.png)
