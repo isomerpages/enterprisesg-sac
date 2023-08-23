@@ -13,17 +13,17 @@ The International Accreditation Forum (IAF) - International Laboratory Accredita
 Some key developments and resolutions made at the meetings are:
 
 *Expiry of ISO 9001:2008 and ISO 14001:2004 certificates:
-All ISO 9001:2008 and ISO 14001:2014 shall expire or be withdrawn when the three-year transition period ends on 15 September 2018. A resolution was passed at IAF that as of 15 March 2018, certification bodies must conduct all ISO 9001 and ISO 14001 initial, surveillance and recertification audits to the new versions (i.e. ISO 9001:2015 and ISO 14001:2015). \[Click here\](/images/press-release/documents/IAF\_communique__Important_information\_for_Certification\_Bodies.pdf){:target="\_blank"} for more details on the IAF Communique.
+All ISO 9001:2008 and ISO 14001:2014 shall expire or be withdrawn when the three-year transition period ends on 15 September 2018. A resolution was passed at IAF that as of 15 March 2018, certification bodies must conduct all ISO 9001 and ISO 14001 initial, surveillance and recertification audits to the new versions (i.e. ISO 9001:2015 and ISO 14001:2015). [Click here](/images/press-release/documents/IAF_communique__Important_informatio\_for_Certification\_Bodies.pdf)for more details on the IAF Communique.
  
 *Mandatory issuance of accredited personnel certifications:  
 IAF accreditation body members shall have legally enforceable arrangements with their accredited certification bodies for personnel certification to ISO/IEC 17024 that prevents the certification bodies from issuing non-accredited persons certificates in scopes for which they are accredited, and shall require full implementation within 3 years from 30 October 2017.
  
 SAC will keep accredited certification bodies informed on any IAF updates regularly. More information on the IAF resolutions can be found [here](http://www.iaf.nu/upFiles/VancouverGAResolutions_Final.pdf){:target="\_blank"}.
 
-*New signatories into ILAC Mutual Recognition Arrangement:
+**New signatories into ILAC Mutual Recognition Arrangement:
 * Egypt (EGAC) and Botswana (SADCAS) for medical testing (ISO 15189) and inspection body (ISO/IEC 17020);
-\* Ethiopia (ENAO) for testing (ISO/IEC 17025) and medical testing (ISO 15189);
-\* Kenya (KENAS) for calibration and testing (ISO/IEC 17025), medical testing (ISO 15189) and inspection body (ISO/IEC 17020).
+* Ethiopia (ENAO) for testing (ISO/IEC 17025) and medical testing (ISO 15189);
+* Kenya (KENAS) for calibration and testing (ISO/IEC 17025), medical testing (ISO 15189) and inspection body (ISO/IEC 17020).
  
 Arab Accreditation Cooperation (ARAC) was recognized as a new regional cooperation body in ILAC for the ARAC MLA for the accreditation of calibration (ISO/IEC 17025), testing (ISO/IEC 17025), medical testing (ISO 15189) and inspection (ISO/IEC 17020), and in IAF for ARAC MLA for ISO 9001, ISO 14001 and ISO 22000.
  
