@@ -28,7 +28,7 @@ sections:
           url: /services/accreditation-services/apply-for-accreditation
         - title: OVERVIEW
           description: Download Documents
-          url: /resources/SAC-documents/
+          url: /resources/sac-documents/
   - infopic:
       title: What is Accreditation?
       button: MORE ABOUT SAC
