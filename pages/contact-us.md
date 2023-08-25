@@ -21,7 +21,7 @@ contacts:
   - content:
       - phone: +65 6279 1800
       - email: sac@enterprisesg.gov.sg
-      - other: Feedback cant save, max 400 characters
+      - other: Feedback limited to 400 characters, existing para is too long.
     title: General Enquiries & Feedback
   - content:
       - phone: ""
