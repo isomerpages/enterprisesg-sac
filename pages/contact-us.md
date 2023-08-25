@@ -21,7 +21,12 @@ contacts:
   - content:
       - phone: +65 6279 1800
       - email: sac@enterprisesg.gov.sg
-      - other: Feedback limited to 400 characters, existing para is too long.
+      - other: SAC values feedback to improve and monitor accredited organizations.
+          Complaints or feedback about SAC accreditation or accredited
+          organizations can be sent to sac@enterprisesg.gov.sg. Written
+          complaints should have objective evidence for investigation.
+          Accredited organizations will be asked to address and correct
+          complaints related to them or their clients.
     title: General Enquiries & Feedback
   - content:
       - phone: ""
