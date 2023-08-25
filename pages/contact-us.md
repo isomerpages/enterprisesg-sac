@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Singapore Accreditation Council (SAC)
 locations:
   - address:
-      - "230 Victoria Street, #09-00"
+      - "230 Victoria Street, #09-00,"
       - Bugis Junction, Office Tower
       - Singapore 188024
     operating_hours:
