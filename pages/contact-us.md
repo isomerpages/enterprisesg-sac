@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Singapore Accreditation Council
+agency_name: Singapore Accreditation Council (SAC)
 locations:
   - address:
       - "230 Victoria Street, #09-00"
