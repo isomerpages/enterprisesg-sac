@@ -16,7 +16,6 @@ the logo, the accredited scheme and the certificate number.
 
 <img style="width:600px" alt="Accredited Laboratory SAC-SINGLAS" src="/images/how-to-use-marks/sac-mark-15mm.jpg">
 
-![how-to-use-sac-ilac-iaf-marks](/images/how-to-use-marks/sac-mark-15mm.jpg)
 * An accredited organisation may use the SAC accreditation mark on publicity and other stationery materials such as brochures, business cards, letterhead paper, quotations, websites and vehicles. However, the use of the SAC accreditation mark or any reference to SAC accreditation in advertising and promotional publications shall be vetted and pre-approved by SAC.
 
 * Please refer to [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks ](/files/Documents/Laboratory%20Accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"} for more information.
