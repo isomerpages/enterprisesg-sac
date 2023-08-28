@@ -42,11 +42,7 @@ laboratory or inspection body is accredited by a signatory of the International 
 
 ## Use of IAF MLA Mark by Accredited Certification Bodies
 
-![](/images/iaf-mark.jpg)
-
 <img style="width:779px" alt="IAF MLA Mark" src="/images/iaf-mark.jpg">
-
-![How%20to%20use%20SAC%2C%20ILAC%2C%20IAF%20Marks.md](/images/how-to-use-marks/combined-mark-certification-bodies.jpg)
 
 * An accredited certification body is encouraged to use the IAF MLA Mark to demonstrate that it is accredited by a signatory of the International Accreditation Forum (IAF) Multilateral Recognition Arrangement. The IAF MLA Mark shall only be used in combination with the SAC Accreditation Mark which is then known as the "Combined Mark". 
 
