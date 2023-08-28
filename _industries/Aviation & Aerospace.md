@@ -27,8 +27,8 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
 
 <table>
 	<tbody><tr>
-		<td> **Scheme** </td>
-		<td> Field </td>
+		<th> Scheme </th>
+		<th> Field </th>
 	</tr>
 	<tr>
 		<td> Laboratories (SAC-SINGLAS) </td>
