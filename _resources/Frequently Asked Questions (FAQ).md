@@ -80,8 +80,8 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 
 <label for="accordion4"> What are the SAC accreditation schemes?</label><div>
 
-<p>Currently SAC operates the following accreditation schemes:<br>
-</p><ul>&nbsp;
+<p>Currently SAC operates the following accreditation schemes:
+</p><ul>
 <b></b><li><b> Accreditation Sc]heme for Laboratories (SAC-SINGLAS: </b>This scheme&nbsp; evaluate s the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.</li>
 &nbsp;<br>
 
