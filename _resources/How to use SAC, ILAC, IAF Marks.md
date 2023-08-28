@@ -44,6 +44,8 @@ laboratory or inspection body is accredited by a signatory of the International 
 ## Use of IAF MLA Mark by Accredited Certification Bodies
 ![](/images/iaf-mark.jpg)
 
+<img style="width:779" alt="IAF mark" src="use of IAF MLA mark">/images/how-to-use-marks/combined-mark-certification-bodies.jpg 
+
 
 ![How%20to%20use%20SAC%2C%20ILAC%2C%20IAF%20Marks.md](/images/how-to-use-marks/combined-mark-certification-bodies.jpg)
 
