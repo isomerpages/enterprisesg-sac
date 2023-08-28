@@ -3,11 +3,11 @@ title: Aviation & Aerospace
 permalink: /industries/aviation-and-aerospace/
 description: ""
 ---
-![Aviation & Aerospace Industries](/images/industries/aviation-and-aerospace.jpg)
+![Aviation &amp; Aerospace Industries](/images/industries/aviation-and-aerospace.jpg)
 
 Singapore's aerospace industry has grown exponentially with the rise of global air travel and the accompanying technological advancements. It accounts for about a quarter of Asia’s MRO (Maintenance, Repair and Overhaul) output. 
 
-The country also hosts one of  Asia’s largest cargo airports. Changi Airport and the Seletar Aerospace Park are leading facilities for air freight and travel; these position Singapore as a leading aerospace hub, equipped with both R&D and manufacturing capabilities.
+The country also hosts one of  Asia’s largest cargo airports. Changi Airport and the Seletar Aerospace Park are leading facilities for air freight and travel; these position Singapore as a leading aerospace hub, equipped with both R&amp;D and manufacturing capabilities.
 
 Singapore's aerospace industry is tightly regulated. Any failure to comply with standards could result in significant repercussions, ranging from fines to suspension of business licenses. Conformity assessment thus plays a key role in ensuring the safety, quality, and performance of aircraft and aviation components. Accreditation by the Singapore Accreditation Council (SAC) helps to increase confidence in the quality of testing, inspection and certification services provided by the Conformity Assessment Bodies (CABs).
 
@@ -25,20 +25,34 @@ The Civil Aviation Authority of Singapore (CAAS) is the regulatory body governin
 
 The following SAC accreditation schemes are applicable to the Aviation and Aerospace industry:
 
+<table>
+	<tbody><tr>
+		<td> **Scheme** </td>
+		<td> Field </td>
+	</tr>
+	<tr>
+		<td> Laboratories (SAC-SINGLAS) </td>
+		<td> Calibration &amp; Measurement </td>
+	</tr>
+	<tr>
+		<td> </td>
+		<td> Non-destructive Testing </td>
+	</tr>
+</tbody></table>
 
 | Scheme                                          | Field                                          |
 |-------------------------------------------------|------------------------------------------------|
-| Laboratories (SAC-SINGLAS)                      | Calibration & Measurement                      |
+| Laboratories (SAC-SINGLAS)                      | Calibration &amp; Measurement                      |
 |                                                 | Non-destructive Testing                        |
 |                                                 | Environmental Testing                          |
 |-------------------------------------------------|------------------------------------------------|
 | Management Systems Certification Bodies         | Environmental Management System                |
 |                                                 | Learning Service Providers                     |
-|                                                 | Occupational Safety & Health Management System |
+|                                                 | Occupational Safety &amp; Health Management System |
 |                                                 | Quality Management System                      |
 |-------------------------------------------------|------------------------------------------------|
 | Personnel Certification Bodies                  | Certified Personnel (NDT)                      |
 |-------------------------------------------------|------------------------------------------------|
-| Validation & Verification Bodies                | Greenhouse Gases                               |
+| Validation &amp; Verification Bodies                | Greenhouse Gases                               |
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
