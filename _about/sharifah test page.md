@@ -6,8 +6,8 @@ description: ""
 <table>
 	<tbody><tr>
 		<th>7</th>
-		<td>3</td>
-		<td>0</td>
+		<th>3</th>
+		<th>0</th>
 	</tr>
 	<tr>
 		<td>1</td>
