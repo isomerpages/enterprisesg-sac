@@ -6,9 +6,9 @@ description: ""
 <table>
 	<tbody>
 	<tr>
-		<th>7</th>
-		<th>3</th>
-		<th>0</th>
+		<th>ABC</th>
+		<th>def</th>
+		<th>gHi</th>
 	</tr>
 	<tr>
 		<td>1</td>
