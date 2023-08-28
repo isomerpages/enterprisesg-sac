@@ -203,7 +203,7 @@ There will also be periodic surveillance assessments to ensure your continued co
 <p>Any facility claiming to be in compliance with the Principles of Good Laboratory Practice of the Organisation for Economic Cooperation and Development (OECD) under the Singapore compliance-monitoring programme must be recognised by SAC for that compliance.
 
 In 1981, a decision was made by the OECD Council that data generated in an OECD member country under its national compliance monitoring programme is accepted in other OECD member countries for the purposes of product registration (Mutual Acceptance of Data). Since January 2010, Singapore has been accepted as a non-OECD member country to be a member of the OECD Mutual Acceptance of Data framework. With this adherence, GLP studies conducted in Singapore will be accepted in more than 30 OECD and non-OECD member countries.
-
+<br>
 Product registration in overseas markets are typically referred to the US FDA for pharmaceuticals and the European authority (EMEA). In Singapore, the relevant registration authorities are Health Sciences Authority (HSA for pharmaceuticals), Agri-Food &amp; Veterinary Authority (AVA for biologics and agricultural chemicals) and National Environment Agency (NEA for pesticides and industrial chemicals). With the MAD adherence, the Singapore GLP Compliance programme will provide greater assurance of test data for non-clinical studies. These regulators will be able to accept the test data with confidence in the assessment of health and safety for product approvals. </p>
 
 </div></li>
@@ -213,7 +213,7 @@ Product registration in overseas markets are typically referred to the US FDA fo
 <label for="accordion3g">What are the OECD Principles?</label><div>
 
 <p>The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998
-
+<br>
 This document is produced by the OECD GLP Working Group and is available at&nbsp; [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}.
 
 
