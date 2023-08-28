@@ -11,11 +11,10 @@ Below are some questions and answers that would help you understand what accredi
 
 <!-- NOTE: Each Q&A must be preceded with a '{: #qn{Number}}' (e.g. {: #qn1}) as a unique identifier -->
 
-   
+ 
 
 <ul class="jekyllcodex_accordion">
-  
-    
+
 
 <li><input type="checkbox" id="accordion1">
 
