@@ -4,7 +4,8 @@ permalink: /about/sharifah-test-page/
 description: ""
 ---
 <table>
-	<tbody><tr>
+	<tbody>
+	<tr>
 		<th>7</th>
 		<th>3</th>
 		<th>0</th>
@@ -24,7 +25,8 @@ description: ""
 		<td>K</td>
 		<td>W</td>
 	</tr>
-</tbody></table>
+</tbody>
+</table>
 
 
 
