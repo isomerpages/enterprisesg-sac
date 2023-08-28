@@ -14,7 +14,7 @@ the logo, the accredited scheme and the certificate number.
 
 * The SAC accreditation mark may be uniformly enlarged or reduced, but shall not be less than 30mm in width and 15mm in height. The SAC accreditation mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. The certificate number must be readable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated.  
 
-<img style="width:435px" alt="Accredited Laboratory SAC-SINGLAS" src="/images/how-to-use-marks/sac-mark-15mm.jpg">
+<img style="width:440px" alt="Accredited Laboratory SAC-SINGLAS" src="/images/how-to-use-marks/sac-mark-15mm.jpg">
 
 ![how-to-use-sac-ilac-iaf-marks](/images/how-to-use-marks/sac-mark-15mm.jpg)
 * An accredited organisation may use the SAC accreditation mark on publicity and other stationery materials such as brochures, business cards, letterhead paper, quotations, websites and vehicles. However, the use of the SAC accreditation mark or any reference to SAC accreditation in advertising and promotional publications shall be vetted and pre-approved by SAC.
