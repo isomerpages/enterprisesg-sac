@@ -36,8 +36,8 @@ laboratory or inspection body is accredited by a signatory of the International 
 * The "Accredited CAB Combined ILAC MRA Mark" can be used on reports that deal solely with calibrations or tests/inspections covered under the terms of accreditation, business cards, communication tools, corporate stationery, event materials and displays and online applications such as websites. 
 
 * The ILAC MRA Mark may be reproduced in black and white or colour, provided the approved colours are used. Embossed, relief, or die-stamped versions are allowable.  
-<img style="width:593Tpx" alt="ilac-MRA">
-
+* ![](/images/ilac-mra-mark.jpg)
+<img style="width:593px" alt="ILAC-MRA-Mark" src="/images/ilac-mra-mark.jpg">
 
 ![How%20to%20use%20SAC%2C%20ILAC%2C%20IAF%20Marks.md](/images/how-to-use-marks/ilac-mra-mark.jpg)
 
@@ -47,7 +47,7 @@ laboratory or inspection body is accredited by a signatory of the International 
 
 ![](/images/iaf-mark.jpg)
 
-<img style="width:593px" alt="IAF MLA Mark" src="/images/iaf-mark.jpg">
+<img style="width:779px" alt="IAF MLA Mark" src="/images/iaf-mark.jpg">
 
 ![How%20to%20use%20SAC%2C%20ILAC%2C%20IAF%20Marks.md](/images/how-to-use-marks/combined-mark-certification-bodies.jpg)
 
