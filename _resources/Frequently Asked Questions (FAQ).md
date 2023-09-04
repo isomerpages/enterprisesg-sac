@@ -16,7 +16,7 @@ Below are some questions and answers that would help you understand what accredi
 <ul class="jekyllcodex_accordion">
 
 
-<li><input type="checkbox" id="accordion1">
+<li><input id="accordion1" type="checkbox">
 
 <label for="accordion1">What is accreditation?</label><div>
 
@@ -24,7 +24,7 @@ Below are some questions and answers that would help you understand what accredi
 
 </div></li>
 
-<li><input type="checkbox" id="accordion2">
+<li><input id="accordion2" type="checkbox">
 
 <label for="accordion2">What is the difference between accreditation and certification?</label><div>
 
@@ -40,13 +40,13 @@ Below are some questions and answers that would help you understand what accredi
 
 <br>
 
-ILAC and&nbsp; IAF have published an informative article titled <a target="”_blank”" href="”http://ilac.org/?download=119879">“Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace”</a> in <i>Standards Engineering</i>, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
+ILAC and&nbsp; IAF have published an informative article titled <a href="”http://ilac.org/?download=119879" target="”_blank”">“Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace”</a> in <i>Standards Engineering</i>, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
 
 <!-- COMMENT: The {:target="\\\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
 
 </div></li>
 
-<li><input type="checkbox" id="accordion3">
+<li><input id="accordion3" type="checkbox">
 
 <label for="accordion3">What are the benefits of being accredited?</label><div>
 
@@ -76,7 +76,7 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 
 </div></li>
 
-<li><input type="checkbox" id="accordion4">
+<li><input id="accordion4" type="checkbox">
 
 <label for="accordion4"> What are the SAC accreditation schemes?</label><div>
 
@@ -95,7 +95,10 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 <li><b>Energy Management System (ENMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements of ISO.IEC 17021 and CT 10 - SAC Criteria for Certification Bodies (ENMS).
 <br>
 <br></li>
-<li><b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatoryand Health Management System (OSHMS): This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC&nbsp; 17021 and CT 02 - SAC Criteria Certification Bodies (OSHMS).
+<li><b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents.
+
+	
+</li><li><b>Occupational Safety and Health Management System (OSHMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC 17021 and CT 02 - SAC Criteria Certification Bodies (OSHMS).
 <br>
 <br></li>
 <li><b>HACCP based Food Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing&nbsp; SAC HACCP Doc 2 certification, based on the general requirements of ISO/IEC 17021 and&nbsp; SAC HACCP Doc&nbsp; 01.
@@ -110,12 +113,12 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 </ul>
 <br>   
 More information for each accreditation scheme, can be obtained at 
-	<a target="”_blank”" href="”accreditation-services/”">Accreditation Services</a> 
+	<a href="”accreditation-services/”" target="”_blank”">Accreditation Services</a> 
 
 	
 </div></li>
 
-<li><input type="checkbox" id="accordion5">
+<li><input id="accordion5" type="checkbox">
 
 <label for="accordion5">What is the general procedure for getting accreditation?</label><div>
 
@@ -153,7 +156,7 @@ More information for each accreditation scheme, can be obtained at
 
 </div></li>
 
-<li><input type="checkbox" id="accordion6">
+<li><input id="accordion6" type="checkbox">
 
 <label for="accordion6">How long does it take to get SAC accreditation?</label><div>
 
@@ -161,7 +164,7 @@ More information for each accreditation scheme, can be obtained at
 
 </div></li>
 
-<li><input type="checkbox" id="accordion7">
+<li><input id="accordion7" type="checkbox">
 
 <label for="accordion7">What happens after getting accredited?</label><div>
 
@@ -172,7 +175,7 @@ There will also be periodic surveillance assessments to ensure your continued co
 
 </div></li>
 
-<li><input type="checkbox" id="accordion8">
+<li><input id="accordion8" type="checkbox">
 
 <label for="accordion8">Any other enquiries?</label><div>
 
@@ -188,7 +191,7 @@ There will also be periodic surveillance assessments to ensure your continued co
 
 <ul class="jekyllcodex_accordion">
 
-<li><input type="checkbox" id="accordion1g">
+<li><input id="accordion1g" type="checkbox">
 
 <label for="accordion1g">What is the difference between GLP recognition and ISO/IEC 17025 accreditation?</label><div>
 
@@ -196,7 +199,7 @@ There will also be periodic surveillance assessments to ensure your continued co
 
 </div></li>
 
-<li><input type="checkbox" id="accordion2g">
+<li><input id="accordion2g" type="checkbox">
 
 <label for="accordion2g">Why should I Seek GLP Recognition with SAC?</label><div>
 
@@ -210,7 +213,7 @@ Product registration in overseas markets are typically referred to the US FDA fo
 
 </div></li>
 
-<li><input type="checkbox" id="accordion3g">
+<li><input id="accordion3g" type="checkbox">
 
 <label for="accordion3g">What are the OECD Principles?</label><div>
 
@@ -224,7 +227,7 @@ This document is produced by the OECD GLP Working Group and is available at&nbsp
 
 </div></li>
 
-<li><input type="checkbox" id="accordion4g">
+<li><input id="accordion4g" type="checkbox">
 
 <label for="accordion4g"> Where do I apply the GLP studies?</label><div>
 
@@ -232,7 +235,7 @@ This document is produced by the OECD GLP Working Group and is available at&nbsp
 
 </div></li>
 
-<li><input type="checkbox" id="accordion5g">
+<li><input id="accordion5g" type="checkbox">
 
 <label for="accordion5g">What information is required for submission to SAC?</label><div>
 
@@ -251,7 +254,7 @@ This document is produced by the OECD GLP Working Group and is available at&nbsp
 
 </div></li>
 
-<li><input type="checkbox" id="accordion6g">
+<li><input id="accordion6g" type="checkbox">
 
 <label for="accordion6g">What are the criteria that a facility must follow?</label><div>
 
@@ -279,7 +282,7 @@ i. Establishment and Control of Archives that Operate in Compliance with the Pri
 
 </div></li>
 
-<li><input type="checkbox" id="accordion7g">
+<li><input id="accordion7g" type="checkbox">
 
 <label for="accordion7g">What is the registration process like?</label><div>
 
@@ -291,7 +294,7 @@ After registration, there will be an annual visit for study audits and inspectio
 
 </div></li>
 
-<li><input type="checkbox" id="accordion8g">
+<li><input id="accordion8g" type="checkbox">
 
 <label for="accordion8g">How long does it take for a facility to be registered from the time of enquiry to get registration from SAC?</label><div>
 
@@ -299,7 +302,7 @@ After registration, there will be an annual visit for study audits and inspectio
 
 </div></li>
 
-<li><input type="checkbox" id="accordion9g">
+<li><input id="accordion9g" type="checkbox">
 
 <label for="accordion9g">Is this programme mandatory?</label><div>
 
@@ -307,7 +310,7 @@ After registration, there will be an annual visit for study audits and inspectio
 
 </div></li>
 
-<li><input type="checkbox" id="accordion10g">
+<li><input id="accordion10g" type="checkbox">
 
 <label for="accordion10g">What is Mutual Acceptance of Data (MAD)?</label><div>
 
@@ -315,7 +318,7 @@ After registration, there will be an annual visit for study audits and inspectio
 
 </div></li>
 
-<li><input type="checkbox" id="accordion11g">
+<li><input id="accordion11g" type="checkbox">
 
 <label for="accordion11g">Who can participate in the GLP Compliance Programme?</label><div>
 
@@ -329,7 +332,7 @@ Companies that can benefit from GLP registration include:
 
 </div></li>
 
-<li><input type="checkbox" id="accordion12g">
+<li><input id="accordion12g" type="checkbox">
 
 <label for="accordion12g">What about GLP and Clinical Studies?</label><div>
 
@@ -337,7 +340,7 @@ Companies that can benefit from GLP registration include:
 
 </div></li>
 
-<li><input type="checkbox" id="accordion13g">
+<li><input id="accordion13g" type="checkbox">
 
 <label for="accordion13g">How do I gain GLP Recognition?</label><div>
 
@@ -345,7 +348,7 @@ Companies that can benefit from GLP registration include:
 
 </div></li>
 
-<li><input type="checkbox" id="accordion14g">
+<li><input id="accordion14g" type="checkbox">
 
 <label for="accordion14g">Where can I access the OECD Principles of GLP?</label><div>
 
@@ -355,7 +358,7 @@ p&gt;Copies of the OECD Principles of GLP, Consensus Documents and useful guidan
 
 </div></li>
 
-<li><input type="checkbox" id="accordion15g">
+<li><input id="accordion15g" type="checkbox">
 
 <label for="accordion15g">Where can I get more information?</label><div>
 
@@ -363,7 +366,7 @@ p&gt;Copies of the OECD Principles of GLP, Consensus Documents and useful guidan
 
 </div></li>
 
-<li><input type="checkbox" id="accordion16g">
+<li><input id="accordion16g" type="checkbox">
 
 <label for="accordion16g">Any other enquiries?</label><div>
 
