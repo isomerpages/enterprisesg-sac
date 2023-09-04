@@ -98,46 +98,46 @@ NIL
 ### 3. Withdrawn Conformity Assessment Bodies (CABs)
 
 
-#### \*\*Voluntary Withdrawal by CABs\*\*
+#### **Voluntary Withdrawal by CABs**
 
 #### Laboratory
 
-\* Calibration & Measurement
-  \* Flotech Controls Pte Ltd (31 May 2023)
+* Calibration & Measurement
+   * Flotech Controls Pte Ltd (31 May 2023)
 
-\* Chemical & Biological Testing
-  \* Institute of Sustainability for Chemicals, Energy and Environment (ISCE2) (16 May 2023)
-  \* Singapore Food Agency (19 June 2023) (Cert No: LA-2019-0718-A)
+* Chemical & Biological Testing
+   * Institute of Sustainability for Chemicals, Energy and Environment (ISCE2) (16 May 2023)
+   * Singapore Food Agency (19 June 2023) (Cert No: LA-2019-0718-A)
 
-\* Civil Engineering Testing
-  \* NC Consult Services Pte Ltd (18 June 2023)
+* Civil Engineering Testing
+   * NC Consult Services Pte Ltd (18 June 2023)
 
-\* Environmental Testing
-  \* Singapore Environmental Consultancy and Solutions Pte Ltd (12 May 2023)
-  \* Singapore Food Agency (19 June 2023) (Cert No: LA-2019-0719-F)
+* Environmental Testing
+   * Singapore Environmental Consultancy and Solutions Pte Ltd (12 May 2023)
+   * Singapore Food Agency (19 June 2023) (Cert No: LA-2019-0719-F)
 
-\* Mechanical Testing
-  \* Bureau Veritas Consumer Products Services Sdn Bhd (30 May 2023)
+* Mechanical Testing
+   * Bureau Veritas Consumer Products Services Sdn Bhd (30 May 2023)
 
 
 #### Inspection Body
 
-\* Site Investigation
-  \* Sino Geo Pte Ltd (15 May 2023)
+* Site Investigation
+   * Sino Geo Pte Ltd (15 May 2023)
 
 
 #### Certification Body
 
-\* Auditing Organisation
-  \* Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 2023)
-  \* QA Technic Pte Ltd (04 May 2023) 
-  \* QuESH Consultants (Pte) Ltd (08  August 2023)
+* Auditing Organisation
+   * Greencross Safety Fire and Equipment Consultants Pte Ltd (24 March 2023)
+   * QA Technic Pte Ltd (04 May 2023) 
+   * QuESH Consultants (Pte) Ltd (08  August 2023)
 
-\* Management Systems
-  \* ICR Singapore Certification Pte Ltd (02 June 2023)
+* Management Systems
+   * ICR Singapore Certification Pte Ltd (02 June 2023)
 
 
-#### \*\*Withdrawal by SAC\*\*
+#### **Withdrawal by SAC**
 
 #### Inspection Body
 
