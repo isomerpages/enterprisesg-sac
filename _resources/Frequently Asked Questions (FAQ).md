@@ -97,8 +97,8 @@ ILAC and&nbsp; IAF have published an informative article titled <a href="”http
 <br></li>
 <li><b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents.
 <br>
-<br></li><li>
-<b>Occupational Safety and Health Management System (OSHMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC 17021 and CT 02 - SAC Criteria Certification Bodies (OSHMS).
+<br></li>
+<li><b>Occupational Safety and Health Management System (OSHMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC 17021 and CT 02 - SAC Criteria Certification Bodies (OSHMS).
 <br>
 <br></li>
 <li><b>HACCP based Food Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing&nbsp; SAC HACCP Doc 2 certification, based on the general requirements of ISO/IEC 17021 and&nbsp; SAC HACCP Doc&nbsp; 01.
