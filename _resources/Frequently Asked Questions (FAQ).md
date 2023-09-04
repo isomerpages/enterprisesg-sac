@@ -116,7 +116,7 @@ More information for each accreditation scheme, can be obtained at
 	<a href="”accreditation-services/”" target="”_blank”">Accreditation Schemes Section.</a> 
 
 
-	[Accreditation Services Section](accreditation-services/)
+	[Accreditation Services Section](/accreditation-services/)
 	
 	
 	
