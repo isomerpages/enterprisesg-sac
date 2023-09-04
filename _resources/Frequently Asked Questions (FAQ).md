@@ -92,9 +92,9 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 <b></b><li><b>Accreditation Scheme for Management Systems Certification Bodies Quality Management System (QMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).
 <ul><li><b>Business Continuity Management System (BCM):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 540 or ISO 22301 certification, based on the general requirements of ISO/IEC 17021 and CT 08 - SAC Criteria for Certification Bodies (BCM).
 <br><br></li>
-<li><b>Energy Management System (ENMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements n Bodies (ENMS) SAC Criteria for Certification Bodies (ENMS)
+<li><b>Energy Management System (ENMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements of ISO.IEC 17021 and CT 10 - SAC Criteria for Certification Bodies (ENMS).
 <br>
-	<br></li>
+<br></li>
 <li><b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatoryand Health Management System (OSHMS): This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC&nbsp; 17021 and CT 02 - SAC Criteria Certification Bodies (OSHMS).
 <br>
 <br></li>
