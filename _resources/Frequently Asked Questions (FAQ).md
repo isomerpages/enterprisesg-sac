@@ -114,12 +114,10 @@ ILAC and&nbsp; IAF have published an informative article titled <a href="”http
 <b> 
 </b>More information for each accreditation scheme, can be obtained at 
 
- <a href="(https://www.sac-accreditation.gov.sg/services/accreditation-services)" target="”_blank”">“[Accreditation Scheme Section”</a> 	
+ <a href="(https://www.sac-accreditation.gov.sg/services/accreditation-services)" target="”_blank”">“Accreditation Scheme Section”</a> 	
 		
 	
-	
-	![Accreditation Scheme Section](https://www.sac-accreditation.gov.sg/services/accreditation-services)<br>	
-	
+
 
 	
 	
