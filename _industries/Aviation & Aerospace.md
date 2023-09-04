@@ -25,6 +25,48 @@ The Civil Aviation Authority of Singapore (CAAS) is the regulatory body governin
 
 The following SAC accreditation schemes are applicable to the Aviation and Aerospace industry:
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-wa1i"> Scheme </th>
+    <th class="tg-wa1i"> Field </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3" class="tg-0lax"> Laboratories (SAC-SINGLAS) </td>
+    <td class="tg-cly1"> Calibration &amp; Measurement </td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"> Non-destructive Testing </td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"> Environmental Testing </td>
+  </tr>
+  <tr>
+    <td rowspan="3" class="tg-0lax"> Management Systems Certification Bodies</td>
+    <td class="tg-cly1"> Environmental Management System </td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"> Learning Service Providers </td>
+  </tr>
+  <tr>
+    <td class="tg-cly1"> Occupational Safety &amp; Health Management System </td>
+  </tr>
+</tbody>
+</table>
+
+
 <table>
 	<tbody><tr>
 		<th> Scheme </th>
