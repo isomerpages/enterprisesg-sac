@@ -132,19 +132,16 @@ More information for each accreditation scheme, can be obtained at
 <br>
 
 <b>Preliminary Assessment (Optional):</b> An SAC assessor will conduct a preliminary assessment to check if the applicant is ready to be accredited.
-
 <br>
 
 <br>
 
 <b>Initial Assessment:</b> A team consisting of SAC assessor and/or technical experts will conduct the initial assessment.
-
 <br>
 
 <br>
 
 <b>Recommendation by Assessment Team:</b> The team will make a recommendation to the Review Committee for accreditation decision if the applicant has rectified any non-conformity satisfactorily.
-
 <br>
 
 <br>
