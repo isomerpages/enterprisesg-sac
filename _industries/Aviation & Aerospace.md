@@ -67,51 +67,6 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
 </table>
 
 
-<table>
-	<tbody><tr>
-		<th> Scheme </th>
-		<th> Field </th>
-	</tr>
-	<tr>
-		<td> Laboratories (SAC-SINGLAS) </td>
-		<td> Calibration &amp; Measurement </td>
-	</tr>
-	<tr>
-		<td> </td>
-		<td> Non-destructive Testing </td>
-	</tr>
-		<tr>
-		<td> </td>
-		<td> Environmental Testing </td>
-	</tr>
-		<tr>
-		<td> Management Systems Certification Bodies</td>
-		<td> Environmental Management System </td>
-	</tr>
-		<tr>
-		<td> </td>
-		<td> Learning Service Providers </td>
-	</tr>
-			
-		<tr>
-		<td> </td>
-		<td> Occupational Safety &amp; Health Management System </td>
-	</tr>
-</tbody></table>
 
-| Scheme                                          | Field                                          |
-|-------------------------------------------------|------------------------------------------------|
-| Laboratories (SAC-SINGLAS)                      | Calibration &amp; Measurement                      |
-|                                                 | Non-destructive Testing                        |
-|                                                 | Environmental Testing                          |
-|-------------------------------------------------|------------------------------------------------|
-| Management Systems Certification Bodies         | Environmental Management System                |
-|                                                 | Learning Service Providers                     |
-|                                                 | Occupational Safety &amp; Health Management System |
-|                                                 | Quality Management System                      |
-|-------------------------------------------------|------------------------------------------------|
-| Personnel Certification Bodies                  | Certified Personnel (NDT)                      |
-|-------------------------------------------------|------------------------------------------------|
-| Validation &amp; Verification Bodies                | Greenhouse Gases                               |
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
