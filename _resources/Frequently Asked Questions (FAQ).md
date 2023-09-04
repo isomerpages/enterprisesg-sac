@@ -127,7 +127,6 @@ More information for each accreditation scheme, can be obtained at
 
 	<br>
 <b>Enquiry and Formal Application:</b> Applicants will submit an application form to SAC with the necessary documents and a non-refundable application fee. An SAC Officer will contact the applicant and make the necessary arrangements.
-
 <br>
 
 <br>
