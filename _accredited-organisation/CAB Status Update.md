@@ -141,14 +141,14 @@ NIL
 
 #### Inspection Body
 
-\* Cargo Inspection
-  \* Cordial Marine Inspection Pte Ltd (12 December 2022)
+* Cargo Inspection
+   * Cordial Marine Inspection Pte Ltd (12 December 2022)
 
 
 #### Laboratory
 
-\* Civil Engineering Testing
-  \* Building Research Laboratories. (6  September 2022)
+* Civil Engineering Testing
+   * Building Research Laboratories. (6  September 2022)
   
   
 
