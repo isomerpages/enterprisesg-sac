@@ -4,6 +4,180 @@ permalink: /about/sharifah-test-page/
 description: ""
 ---
 <table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Dr Leslie Retnam</td>
+    <td>National University of Singapore</td>
+  </tr>
+  <tr>
+    <td>Deputy Chairman</td>
+    <td>A/P Joanne Chan Sheot Harn</td>
+    <td>Singapore Food Agency</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Mrs Reshmy Pillay</td>
+    <td>National Metrology Centre</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Tony Low<br>(Alternate: Dr Steven Wong)</td>
+    <td>Association of Information Security Professionals</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Gao Chun Ping</td>
+    <td>Building and Construction Authority</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Rodney Tan</td>
+    <td>Cyber Security Agency of Singapore (CSA)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Teo Tang Lin</td>
+    <td>Health Sciences Authority</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Kenneth Choy</td>
+    <td>Ministry of Manpower</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Joel Lee</td>
+    <td>Nanyang Polytechnic</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Tan Boon Chong</td>
+    <td>Singapore Manufacturing Federation</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Stanley Ong</td>
+    <td>Singapore Manufacturing Federation - TIC Interest Group - Laboratory</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Zong Yun</td>
+    <td>Singapore National Institute of Chemistry</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Ong Eng Hong</td>
+    <td>Singapore University of Technology &amp; Design</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Prof Chew Soon Hoe</td>
+    <td>The Institute of Engineers, Singapore</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Ms Lim Lee Fang</td>
+    <td>SAC Secretariat</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Mr Silas Sng Wee Kiat</td>
+    <td>Ministry of Manpower</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Er. Yong Fen Leong</td>
+    <td>Association of Consulting Engineers, Singapore</td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>Mr Loh Lock Mun</td>
+    <td>Association of Process Industry</td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>Mr Andrew Alexander Malcolm</td>
+    <td>Advanced Remanufacturing and Technology Centre (ARTC)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Poh Teoh Yaw            </td>
+    <td>Building &amp; Construction Authority</td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>Er. Merlyn Thong            </td>
+    <td>Land Transport Authority        </td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>A/Prof Leong Eng Choon      </td>
+    <td>Nanyang Technological University</td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>Mr Victor Li               </td>
+    <td>Singapore Food Agency</td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>Mr Adrian Lo              </td>
+    <td>Singapore Manufacturing Federation – TIC Interest Group</td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>Dr Ho Nyok Yong            </td>
+    <td>The Singapore Contractors Association Ltd</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr Tang Kok Min</td>
+    <td>Singapore Accreditation Council</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
 	<tbody>
 	<tr>
 		<th>ABC</th>
