@@ -3,7 +3,9 @@ title: sharifah test page
 permalink: /about/sharifah-test-page/
 description: ""
 ---
-## Council Committee For Laboratory (CCL)
+<ul class="jekyllcodex_accordion">
+<li><input type="checkbox" id="accordion1">  
+<label for="accordion1">## Council Committee For Laboratory (CCL)</label><div><p>
 ### Term : 1 July 2021 - 30 June 2024
 <table>
 <thead>
@@ -91,9 +93,11 @@ description: ""
   </tr>
 </tbody>
 </table>
+</p>
+</div></li>	
 
-
-## Council Committee For Inspection (CCI)
+<li><input type="checkbox" id="accordion2">  
+<label for="accordion2">## Council Committee For Inspection (CCI)</label><div><p>
 ### Term: 1 July 2021 - 30 June 2024
 <table>
 <thead>
@@ -161,7 +165,10 @@ description: ""
   </tr>
 </tbody>
 </table>
+</p>
+</div></li>	
 
+</ul>
 
 
 
