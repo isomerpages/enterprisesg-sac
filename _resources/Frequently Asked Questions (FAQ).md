@@ -365,12 +365,13 @@ p&gt;Copies of the OECD Principles of GLP, Consensus Documents and useful guidan
 
 </div></li>
 
-<li><input id="accordion16g" type="checkbox">
+</a><li><a><input id="accordion16g" type="checkbox">
 
-<label for="accordion16g">Any other enquiries?</label><div>
+<label for="accordion16g">Any other enquiries?</label></a><div><a>
 
-<p>If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.</p>
+</a><p><a>If you have any questions or doubts, you can drop us an email or call us directly through the </a><a href="/contact -us" target="_blank">"Contact Us"</a> 	</p>
 
+	
 </div></li>
 
-</a></ul>
+</ul>
