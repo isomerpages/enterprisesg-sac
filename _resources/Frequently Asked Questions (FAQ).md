@@ -372,7 +372,7 @@ Group and is available at&nbsp;
 
 <label for="accordion16g">Any other enquiries?</label></a><div><a>
 
-</a><p><a>If you have any questions or doubts, you can drop us an email or call us directly through the </a><a href="/contact -us" target="_blank">"Contact Us"</a> 	</p>
+</a><p><a>If you have any questions or doubts, you can drop us an email or call us directly through the </a><a href="/contact -us" target="_blank">Contact Us</a> 	</p>
 
 	
 </div></li>
