@@ -216,9 +216,11 @@ Product registration in overseas markets are typically referred to the US FDA fo
 
 <p>The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998
 <br>
-This document is produced by the OECD GLP Working Group and is available at&nbsp; [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}.
+This document is produced by the OECD GLP Working Group and is available at&nbsp; 
 
-
+	<a href="overview-of-good-laboratory-practice.htm" target="_blank">OECD website”</a> 
+	
+	
 	
 <!-- COMMENT: The {:target="\\\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
 
@@ -342,7 +344,7 @@ Companies that can benefit from GLP registration include:
 
 <label for="accordion13g">How do I gain GLP Recognition?</label><div>
 
-<p>A facility seeking recognition for compliance with OECD Principles of GLPg should apply to SAC, stating the proposed scope of recognition, type of studies etc. An on-site assessment is done to determine compliance with the Principles. At least one GLP compliant study must be completed prior to the initial assessment. Re-assessments are done every two years and a study audit is done annually.</p>
+<p>A facility seeking recognition for compliance with OECD Principles of GLP should apply to SAC, stating the proposed scope of recognition, type of studies etc. An on-site assessment is done to determine compliance with the Principles. At least one GLP compliant study must be completed prior to the initial assessment. Re-assessments are done every two years and a study audit is done annually.</p>
 
 </div></li>
 
@@ -350,7 +352,9 @@ Companies that can benefit from GLP registration include:
 
 <label for="accordion14g">Where can I access the OECD Principles of GLP?</label><div>
 
-p&gt;Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the  <a>OECD website
+p&gt;Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the  
+		
+	<a>OECD website
 
 	
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --><p></p>
