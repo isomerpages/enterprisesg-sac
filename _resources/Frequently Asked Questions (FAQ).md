@@ -175,7 +175,7 @@ There will also be periodic surveillance assessments to ensure your continued co
 
 <label for="accordion8">Any other enquiries?</label><div>
 
-<p>If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact -us" target="_blank">"Contact Us"</a> 	</p>
+<p>If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact -us" target="_blank">Contact Us</a> 	</p>
 
 	
 	
