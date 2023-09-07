@@ -370,7 +370,7 @@ Group and is available at&nbsp;
 
 <label for="accordion15g">Where can I get more information?</label><div>
 	
-Further information on the Singapore compliance monitoring programme should be sent to
+Further information on the Singapore compliance monitoring programme should be sent to <a href="mailto:lim_lee_fang@enterprisesg.gov.sg">lim_lee_fang@enterprisesg.gov.sg</a>
 	
 	
 </div></li><li><input id="accordion116g" type="checkbox">
