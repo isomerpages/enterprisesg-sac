@@ -368,7 +368,7 @@ Group and is available at&nbsp;
 
 <label for="accordion15g">Where can I get more information?</label><div>
 
-<p>Further information on the Singapore compliance monitoring programme should be sent to .</p>
+Further information on the Singapore compliance monitoring programme should be sent to .
 
 </div></li>
 
@@ -376,7 +376,9 @@ Group and is available at&nbsp;
 
 <label for="accordion16g">Any other enquiries?</label></a><div><a>
 
-</a><p><a>If you have any questions or doubts, you can drop us an email or call us directly through the </a><a href="/contact-us" target="_blank">Contact Us</a> 	</p>
+If you have any questions or doubts, you can drop us an email or call us directly through the  
+</a><a href="/contact-us">Contact Us</a>
+	
 
 	
 </div></li>
