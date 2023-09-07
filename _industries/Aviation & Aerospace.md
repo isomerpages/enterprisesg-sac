@@ -69,33 +69,32 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
 </tbody>
 </table>
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wa1i"> Scheme </th>
-    <th class="tg-wa1i"> Field </th>
+<table>
+  <tbody><tr>
+    <th> Scheme </th>
+    <th> Field </th>
   </tr>
-</thead>
-<tbody>
   <tr>
-    <td class="tg-0lax"> Laboratories (SAC-SINGLAS) </td>
-    <td class="tg-cly1"> 
+    <td> Laboratories (SAC-SINGLAS) </td>
+    <td> 
 			Calibration &amp; Measurement<br>
 			Non-destructive Testing<br>
-			Environmental Testing </td>
+			Environmental Testing<br>
+		abc<br>
+		def</td>
   </tr>
   <tr>
-    <td class="tg-0lax"> Management Systems Certification Bodies</td>
-    <td class="tg-cly1"> 
+    <td> Management Systems Certification Bodies</td>
+    <td> 
 			Environmental Management System<br>
 			Learning Service Providers <br>
 			Occupational Safety &amp; Health Management System </td>
 	</tr>
 	<tr>
 		<td></td>
+  	<td></td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 
 
 
