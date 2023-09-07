@@ -18,7 +18,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 <!-- Comment: the '{:style=""}' at the end of the markdown image syntax is used to align the image to the left of the screen and also to resize the image {: style="margin-left:0; width: 150px;"}  -->
 
 **Mr Tan Kai Hoe**
-Accuron Technologies Limited 
+<br>Accuron Technologies Limited 
 
 | Designation	| Name	| Organisation |
 |-------------|-------|--------------|
