@@ -365,7 +365,12 @@ Group and is available at&nbsp;
 	
 Further information on the Singapore compliance monitoring programme should be sent to&nbsp;[lim_lee_fang@enterprisesg.gov.sg
 	
+</div></li><li><input id="accordion116g" type="checkbox">
+
+<label for="accordion116g">Any other enquiries?</label><div>
 	
+	
+Any other enquiries?
 	
 If you have any questions or doubts, you can drop us an email or call us directly through the&nbsp;[Contact Us](https://www.sac-accreditation.gov.sg/contact-us)&nbsp;section.
 	
