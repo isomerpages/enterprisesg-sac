@@ -357,28 +357,21 @@ Group and is available at&nbsp;
 	<a href="https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm">OECD Website</a>
 
 
+</div></li>
+
+<li><input id="accordion15g" type="checkbox">
+
+<label for="accordion15g">Where can I get more information?</label><div>
+	
+Further information on the Singapore compliance monitoring programme should be sent to&nbsp;[lim_lee_fang@enterprisesg.gov.sg
+	
+	
 	
 	
 	
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --><p></p>
 
-</div></li><a>
 
-<li><input id="accordion15g" type="checkbox">
-
-<label for="accordion15g">Where can I get more information?</label><div>
-
-Further information on the Singapore compliance monitoring programme should be sent to .
-
-</div></li>
-
-</a><li><a><input id="accordion16g" type="checkbox">
-
-<label for="accordion16g">Any other enquiries?</label></a><div><a>
-
-If you have any questions or doubts, you can drop us an email or call us directly through the  
-</a><a href="/contact-us">Contact Us</a>
-	
 
 	
 </div></li>
