@@ -42,7 +42,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [Technical Note: MV 01: 09 July 2018 - Specific Requirements for Accreditation of Motor Vehicles Inspection](/files/Documents/Inspection%20body%20accreditation/MV-01-(09-July-2018).pdf){:target="\_blank"}
 
 **Pressure Vessel / Lifting Equipment Inspection Field**
-* [Technical Note: PV/LE 01: June 2018 - Specific Requirements for PVLE Inspection](/files/Documents/Inspection%20body%20accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="\_blank"}
+* [Technical Note: PV/LE 01: June 2018 - Specific Requirements for Accreditation in PV and LE Inspection](/files/Documents/Inspection%20body%20accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="\_blank"}
 
 **Site Investigation and Instrumentation &amp; Monitoring**
 
