@@ -363,13 +363,13 @@ Group and is available at&nbsp;
 
 <label for="accordion15g">Where can I get more information?</label><div>
 	
-Further information on the Singapore compliance monitoring programme should be sent to&nbsp;[lim_lee_fang@enterprisesg.gov.sg
+Further information on the Singapore compliance monitoring programme should be sent to lim_lee_fang@enterprisesg.gov.sg
 	
 </div></li><li><input id="accordion116g" type="checkbox">
 
 <label for="accordion116g">Any other enquiries?</label><div>
 
-If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact -us" target="_blank">Contact Us</a> section.<p></p>
+If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact-us" target="_blank">Contact Us</a> section.<p></p>
 
 	
 	
