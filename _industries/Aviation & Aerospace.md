@@ -75,7 +75,7 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
     <th> Field </th>
   </tr>
   <tr>
-    <td> Laboratories (SAC-SINGLAS) </td>
+    <td>Laboratories (SAC-SINGLAS)</td>
     <td> 
 			Calibration &amp; Measurement<br>
 			Non-destructive Testing<br>
