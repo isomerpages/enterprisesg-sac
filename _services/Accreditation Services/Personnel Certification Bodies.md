@@ -22,7 +22,7 @@ Other Programmes <ul><li>Security Personnel</li><li>Financial Planners</li><li>M
 | Programmes | Accreditation Requirements | Certification Standards |
 |------------|----------------------------|-------------------------|
 | Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43, SS 680 |
-| Other Programmes {::nomarkdown}<ul><li>Security Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul> | ISO/IEC 17024 | Various applicable standards |
+| Other Programmes<ul><li>Security Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul> | ISO/IEC 17024 | Various applicable standards |
 
 ### Benefits
 Accreditation will:
