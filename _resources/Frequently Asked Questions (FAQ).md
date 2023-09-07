@@ -368,20 +368,19 @@ Further information on the Singapore compliance monitoring programme should be s
 </div></li><li><input id="accordion116g" type="checkbox">
 
 <label for="accordion116g">Any other enquiries?</label><div>
+
+If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact -us" target="_blank">Contact Us</a> section.<p></p>
+
 	
-If you have any questions or doubts, you can drop us an email or call us directly through [Contact Us](https://www.sac-accreditation.gov.sg/contact-us)&nbsp;section.
 	
-<a in="" open="" is="" end="" href=">Contact Us></a>	
-	
-	
-<!-- COMMENT: The {:target="><p></p>
+<!-- COMMENT: The {:target=" end="" is="" open="" in=""><p></p>
 
 
 
 	
-</a></div></li><a in="" open="" is="" end="" href=">Contact Us></a>	
+</a></div></li><a href=">Contact Us></a>	
 	
 	
-<!-- COMMENT: The {:target=">
+<!-- COMMENT: The {:target=" end="" is="" open="" in="">
 
-</a></ul>
+</a></ul>--></div></li></ul>
