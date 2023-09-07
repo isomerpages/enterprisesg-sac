@@ -367,6 +367,7 @@ Further information on the Singapore compliance monitoring programme should be s
 	
 	
 	
+If you have any questions or doubts, you can drop us an email or call us directly through the&nbsp;[Contact Us](https://www.sac-accreditation.gov.sg/contact-us)&nbsp;section.
 	
 	
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --><p></p>
