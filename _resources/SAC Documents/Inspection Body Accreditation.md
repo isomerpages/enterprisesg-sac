@@ -18,7 +18,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks](/files/Documents/Laboratory%20Accreditation/SAC-02-22-Jan-20.pdf){:target="\_blank"}
 
-* [SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf](/files/Documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="\_blank"}
+* [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/Documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="\_blank"}
 
 * [IB 01: 1 May 2021 - Accreditation Process](/files/Documents/Inspection%20body%20accreditation/IB-01-01-May-2021.pdf){:target="\_blank"}
 
