@@ -326,9 +326,9 @@ After registration, there will be an annual visit for study audits and inspectio
 
 Companies that can benefit from GLP registration include:
 
-* Research laboratories in the pharmaceutical, pesticides, veterinary drug products and industrial chemicals industries
+Research laboratories in the pharmaceutical, pesticides, veterinary drug products and industrial chemicals industries
 
-* Contract research organisations</p>
+Contract research organisations</p>
 
 </div></li>
 
