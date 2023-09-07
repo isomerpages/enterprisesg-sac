@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Test Brochure.md
       - Brochures.md
       - SAC Documents/.keep
       - SAC Documents/Overview.md
