@@ -154,7 +154,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </table>
 
 
-                           |
+                 
 
 ## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2021 - 30 June 2024
