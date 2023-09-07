@@ -221,13 +221,6 @@ This document is produced by the OECD GLP Working Group and is available at&nbsp
 
 	
 	
-	<a href="overview-of-good-laboratory-practice.htm" target="_blank">OECD website</a> 
-	
-
-	
-	
-	
-	
 	
 <!-- COMMENT: The {:target="\\\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
 
@@ -366,9 +359,6 @@ Group and is available at&nbsp;
 
 	
 	
-	
-	<a href="overview-of-good-laboratory-practice.htm" target="_blank">OECD website</a> 
-
 	
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --><p></p>
 
