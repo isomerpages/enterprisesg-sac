@@ -363,7 +363,10 @@ Group and is available at&nbsp;
 
 <label for="accordion15g">Where can I get more information?</label><div>
 	
-Further information on the Singapore compliance monitoring programme should be sent to </div></li><li><input id="accordion116g" type="checkbox">
+Further information on the Singapore compliance monitoring programme should be sent to
+	
+	
+</div></li><li><input id="accordion116g" type="checkbox">
 
 <label for="accordion116g">Any other enquiries?</label><div>
 
