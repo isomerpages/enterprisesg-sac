@@ -11,9 +11,83 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 ## Mechanical Engineering Inspection
 ### Term : 1 July 2021 - 30 June 2024
 
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Mr Chan Yew Kwong</td>
+    <td>Workplace Health &amp; Safety Council</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Mr Thomas Chong</td>
+    <td>Association of Process Industires</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Ernest Phoon Chee Keong</td>
+    <td>Land Transport Authority</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Bernard Kwok</td>
+    <td>Ministry of Manpower</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Prof Upadrasta Ramamurthy</td>
+    <td>Nanyang Technological University</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Kenneth Lim</td>
+    <td>National Environment Agency</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Yusoof Aynuddin</td>
+    <td>Singapore Manufacturing Federation - TIC Interest Group</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Mark Khoo</td>
+    <td>Singapore Manufacturing Federation - TIC Interest Group</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Edwin Yong</td>
+    <td>Singapore Police Force</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Er. Yee Poh Kin</td>
+    <td>The Institution of Engineers, Singapore</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Ms Michelle Ng</td>
+    <td>Waste Management and Recycling Association of Singapore</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr James Lee</td>
+    <td>SAC Secretariat</td>
+  </tr>
+</tbody>
+</table>
+
+
+
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-|  Chairman | Mr Chan Yew Kwong | Workplace Health & Safety Council |
+|  Chairman | Mr Chan Yew Kwong | Workplace Health &amp; Safety Council |
 |  Members | Mr Thomas Chong | Association of Process Industires |
 | | Mr Ernest Phoon Chee Keong | Land Transport Authority |
 | | Mr Bernard Kwok | Ministry of Manpower |
@@ -33,7 +107,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 |-------------|------|--------------|
 |  Chairman | Er Dr Tran Chi Trung  | Building and Construction Authority |
 |  Members | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
-| | Ms Ang Poh Cheng | Housing & Development Board |
+| | Ms Ang Poh Cheng | Housing &amp; Development Board |
 | | Mr Tang Pei Luen  | JTC Corporation |
 | | Mr Kenneth Liew | Land Transport Authority |
 | | Prof Tang Kang Hai | Nanyang Technological University |
@@ -64,9 +138,9 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | Designation | Name | Organisation |
 |-------------|------|--------------|
 |  Chairman  | Er Jeyatharan Kumarasamy | Land Transport Authority (LTA)|
-|  Deputy Chairman | Dr Poh Teoh Yaw | Building & Construction Authority (BCA) |
+|  Deputy Chairman | Dr Poh Teoh Yaw | Building &amp; Construction Authority (BCA) |
 |  Members | Er Yong Fen Leong | Association of Consulting Engineers, Singapore |
-| | Mr Lionel Ang Loy Jin | Housing & Development Board (HDB)|
+| | Mr Lionel Ang Loy Jin | Housing &amp; Development Board (HDB)|
 | | Dr Chian Siau Chen, Darren | National University of Singapore |
 | | Ms  Prathipa Devi Sundraju | Singapore Manufacturing Federation |
 | | Dr Henry Tan  | Singapore Manufacturing Federation |
