@@ -154,26 +154,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </table>
 
 
-| Designation    | Name                         | Organisation                                                  |
-|----------------|------------------------------|---------------------------------------------------------------|
-| Chairman   | Er Yvonne Soh                | Singapore Green Building Council                              |
-| Members    | Ms Huang Wen Jia             | Association of Process Industry                               |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Er. Steve Ang &nbsp; &nbsp;    &nbsp; &nbsp; &nbsp; &nbsp; | Building and Construction Authority &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|                | Prof Lim Kok Hua             | Institute of Engineers, Singapore                             |
-|                | Dr Chin Woon Hau             | Infocomm Media Development Authority                          |
-|                | Mr Sebastian Tan             | Ministry of Manpower                                          |
-|                | Mr Chen Fu Yi                | National Environment Agency                                   | 
-|                | LTC Eugene Phng              | Singapore Civil Defence Force                                 |
-|                | Ms Cheong Lai Peng           | Singapore Food Agency                                         |
-|                | Dr Jonathan Cheah            | Singapore Food Manufacturing Association                      |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Ms Jenny Chua                | SkillsFuture Singapore                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
-|                | Ms Heidi Goh	                | Singapore Manufacturing Federation - Medical Technology Industry Interest Group |
-|                | Mr Don Quek                  | Singapore Manufacturing Federation - TIC Interest Group - Product Certification Body |
-|                | Ms Tan Swee Yin              | Singapore Manufacturing Federation - TIC Interest Group - Personnel Certification Body  |
-|                | Mr Sze Thiam Siong           | Singapore Manufacturing Federation - TIC Interest Group - Management System Certification Body  |
-|                | Ms Kavita Gandhi             | Sustainable Energy Association of Singapore                   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Mr Desmond Hill &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | The Singapore Contractors Association Limited &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|  Secretary  | Ms Lee Ham Eng               | Singapore Accreditation Council                               |
+                           |
 
 ## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2021 - 30 June 2024
