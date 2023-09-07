@@ -109,6 +109,4 @@ Accreditation is granted for a specific scope of activities and not for all acti
 
 The accreditation schemes that SAC operates are Management Systems Certification Bodies, Inspection Bodies, Product Certification Bodies, Verification &amp; Validation Bodies, Calibration and Testing Laboratories, Proficiency Testing Providers as well as Good Laboratory Practice. Each scheme offers a specific set of capabilities, and they are altogether designed to accommodate the different products and services currently in the market.
 
-[Click here to search for CABs.]  <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face {font-family:"Segoe UI"; panose-1:2 11 5 2 4 2 4 2 2 3;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {margin-top:0cm; margin-right:0cm; margin-bottom:8.0pt; margin-left:0cm; line-height:107%; font-size:11.0pt; font-family:"Calibri",sans-serif;} .MsoChpDefault {font-family:"Calibri",sans-serif;} .MsoPapDefault {margin-bottom:8.0pt; line-height:107%;} /\* Page Definitions \*/ @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt;} div.WordSection1 {page:WordSection1;} -->
-
-(https://sacinet2.enterprisesg.gov.sg/sacsearch/search)
+[Click here to search for CABs.](https://sacinet2.enterprisesg.gov.sg/sacsearch/search)
