@@ -65,7 +65,9 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 <b>2 November:</b> SAC signed the inaugural ILAC MRA for laboratory accreditation. <span class="milestone-arrow"></span>  
  
-&lt; ![2000](images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)&gt;
+ <!-- NOTE: the '{:target="\_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
+ 
+<!-- ![2000](images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)&gt; -->
  
  
  
