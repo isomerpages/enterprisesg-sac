@@ -102,6 +102,7 @@ Scheme for Product Certification Bodies.
 
 <b>13 November:</b> SAC became one of the inaugural members of the APLAC MRA for Inspection.
 
+
 **2004**
 
 <b>6 - 10 September:</b> SAC hosted the 10th IATCA Plenary Meeting. <span class="milestone-arrow"></span>
