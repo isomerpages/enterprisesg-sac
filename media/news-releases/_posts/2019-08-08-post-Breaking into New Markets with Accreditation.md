@@ -50,5 +50,5 @@ Using a SAC-accredited CAB helps improve your business credibility by showing th
  
  
  
-Click [here](https://staging.dc7rl6brx6vik.amplifyapp.com/services/accreditation-services/)){:target="_blank} to learn more about accreditation and TIC services and how they can help your business.
- 
+Click [here]([Overview (sac-accreditation.gov.sg)](https://www.sac-accreditation.gov.sg/services/accreditation-services/)
+{:target="_blank} to learn more about accreditation and TIC services and how they can help your business.
