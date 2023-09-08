@@ -323,9 +323,7 @@ After registration, there will be an annual visit for study audits and inspectio
 <label for="accordion11g">Who can participate in the GLP Compliance Programme?</label><div>
 
 <p>
-
 Companies that can benefit from GLP registration include:
-
 </p><ul>
 <b></b><li><b> 	
 Research laboratories in the pharmaceutical, pesticides, veterinary drug products and industrial chemicals industries</b></li><b>
@@ -333,9 +331,7 @@ Research laboratories in the pharmaceutical, pesticides, veterinary drug product
 <b></b><li><b> Contract research organisations</b></li><b>
 </b></ul><b>
 	
-	
-	
-	
+		
 </b></b></ul></div></li><b><b>
 
 <li><input id="accordion12g" type="checkbox">
