@@ -22,6 +22,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Calibration & Measurement
   * Covidien Private Limited (12 June 2023)
+  * Thermo Fisher Scientific Pte Ltd (03 July 2023)
   * Methrohm Singapore Pte Ltd (28 July 2023)
   * Unitest Instruments Pte. Ltd (03 August 2023)
 
