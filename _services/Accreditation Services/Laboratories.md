@@ -36,7 +36,7 @@ As a pioneer member of the Mutual Recognition Arrangement (MRA) of the Asia Paci
 Upon receiving the accreditation application, the secretariat will send a quotation to the laboratory and arrange for a preliminary assessment. This assessment is conducted by a team that comprises SAC staff and a technical assessor, who is from the technical community, either within the country or overseas. When the laboratory has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in SAC-SINGLAS-001, Accreditation Process. 
 <!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
  
-**##**(Note: SAC staff will conduct the Preliminary Assessment, except for the Calibration &amp; Measurement field, in which case a technical assessor will be engaged for the assessment.)
+### (Note: SAC staff will conduct the Preliminary Assessment, except for the Calibration &amp; Measurement field, in which case a technical assessor will be engaged for the assessment.)
  
 The schematic diagram of the accreditation process is described below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg)
