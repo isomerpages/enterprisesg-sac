@@ -85,6 +85,9 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 22 - SAC Criteria for Certification Bodies (In-Situ Post Tensioning Works) - 30 Nov 2021](/files/Documents/Management%20system%20and%20products%20certification/CT-22-30Nov2021-In-Situ-Post-Tensioning-Works.pdf){:target="\_blank"}
 * [CT 24 - SAC Criteria For Certification Bodies (Alternative Structural Steel In Bc1)- November 2021](/files/Documents/Management%20system%20and%20products%20certification/CT-24-30-Nov-2021.pdf){:target="\_blank"}
 *  [CT 27 - SAC Criteria for Product Certification Bodies (GSSW for ERSS) - 19 December 2022](/files/Documents/Management%20system%20and%20products%20certification/ct-27-19dec2022.pdf){:target="\_blank"}
+*  [CT 27 - SAC Criteria for Product Certification Bodies (GSSW for ERSS) - 19 December 2022](/files/Documents/Management%20system%20and%20products%20certification/ct-27-19dec2022.pdf){:target="\_blank"}
+
+
 * [CT 28 - SAC Criteria for Specialist Builders (GSSW for ERSS) - 19 December 2022](/files/Documents/ct-28-19dec2022.pdf){:target="\_blank"}
 * [CT 29 - SAC Criteria for Product Certification Bodies (Precast Concrete Products) - 19 December 2022](/files/Documents/ct-29-19dec2022.pdf){:target="_blank"}
 * [CT 30 - SAC Criteria for Specialist Builders (Precast Concrete Products - 19 December 2022](/files/Documents/Management%20system%20and%20products%20certification/ct-30-19dec2022.pdf){:target="\_blank"}
