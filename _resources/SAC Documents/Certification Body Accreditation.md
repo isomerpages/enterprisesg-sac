@@ -73,7 +73,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Joint IAF-ISO Document on Expected Outcomes for Certification to ISO 22000, a FSMS](/files/Documents/Management-system-and-products-certification/joint-iaf-iso-expected-outcomes-for-certification-to-iso-22000.pdf){:target="\_blank"}
 
 
-### Standards and Criteria Document for Product Certification
+### Standards and Criteria Document for Product Certification1
 
 **ISO/IEC 17065:2012 - Conformity assessment – Requirements for bodies certifying products, processes and services**
 * [CT 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) - March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-05-(29-March-2019).pdf){:target="\_blank"}
