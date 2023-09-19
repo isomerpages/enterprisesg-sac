@@ -76,7 +76,8 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
   </tr>
 
 	<tr>
-
+    <td rowspan="3" class="tg-0lax"> Personnel Certification Bodies </td>
+    <td class="tg-cly1"> Certified Personnel (NDT) </td>
   </tr>
 	<tr>
     <td rowspan="3" class="tg-0lax"> Personnel Certification Bodies </td>
