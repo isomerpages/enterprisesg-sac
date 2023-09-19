@@ -35,6 +35,10 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
+
+	 &nbsp;
+
+
 <table class="tg">
 <thead>
   <tr>
@@ -44,7 +48,7 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
 </thead>
 <tbody>
   <tr>
-    <td rowspan="3" class="tg-0lax"> Laboratories (SAC-SINGLAS) </td>
+    <td class="tg-0lax" rowspan="3"> Laboratories (SAC-SINGLAS) </td>
     <td class="tg-cly1"> Calibration &amp; Measurement </td>
   </tr>
   <tr>
@@ -54,7 +58,7 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
     <td class="tg-cly1"> Environmental Testing </td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-0lax"> Management Systems Certification Bodies</td>
+    <td class="tg-0lax" rowspan="3"> Management Systems Certification Bodies</td>
     <td class="tg-cly1"> Environmental Management System </td>
   </tr>
   <tr>
@@ -62,11 +66,17 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
   </tr>
   <tr>
     <td class="tg-cly1"> Occupational Safety &amp; Health Management System </td>
-	</tr>
-	<tr>
-		<td></td>
+	</tr><tr>
+    <td class="tg-0lax" rowspan="3"> Personnel Certification Bodies</td>
+    <td class="tg-cly1"> Certified Personnel (NDT) </td>
   </tr>
-</tbody>
+
+<tr>
+    <td class="tg-0lax" rowspan="3"> Validation &amp; Verification Bodies</td>
+    <td class="tg-cly1"> Greenhouse Gases) </td>
+  </tr>
+
+	</tbody>
 </table>
 
 
