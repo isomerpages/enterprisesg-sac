@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-\*\*Launch of New Accreditation Programme for Privacy Information Management System (PIMS) Certification under Management Systems Certification Body Scheme\*\*
+**Launch of New Accreditation Programme for Privacy Information Management System (PIMS) Certification under Management Systems Certification Body Scheme**
 
 
 The Singapore Accreditation Council (SAC) is pleased to launch the accreditation programme for Privacy Information Management System (PIMS) Certification based on ISO/IEC 27701:2019, with effect from 02 August 2023. The certification standard used will be ISO/IEC 27701 Security techniques – Extension to ISO/IEC 27001 and ISO/IEC 27002 for Privacy Information Management — Requirements and Guidelines. The ISO/IEC 27701 specifies the requirements for establishing, implementing, maintaining and continually improving a privacy-specific information security management system which aims to protect personal data. This effort aligns with the national plans to drive Smart Nation Initiative and enhance cybersecurity infrastructure in Singapore.
