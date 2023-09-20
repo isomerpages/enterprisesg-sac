@@ -34,11 +34,11 @@ We have established MRAs with the following regional and international organisat
 Note: To facilitate the recognition of accredited reports and certificates, the accreditation mark of members are listed below.  
 Please click below for the respective MRA listings.
 
-* [SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification](https://www.iaf.nu//articles/IAF_MEMBERS_SIGNATORIES/4){:target="_blank"}
+* [SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification](https://www.iaf.nu/articles/IAF_MEMBERS_SIGNATORIES/4){:target="_blank"}
 
 * [SAC Mutual Recognition Arrangement (MRA) Partners for Testing and Calibration, Medical Testing, Inspection and Proficiency Testing Provider](https://ilac.org/signatory-search/){:target="_blank"}
 
-<!-- NOTE: the '{:target="_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
+<!-- NOTE: the '{:target="_blank"}' is added at the end of the Markdown link syntax to open the link in a new window tab -->
 
 ### OECD Mutual Acceptance of Data (MAD)
 Since January 2010, Singapore became an adherent member of the OECD Mutual Acceptance of Data (MAD) framework. GLP studies conducted in Singapore will now be recognised in more than 30 OECD member and non-member countries. 
