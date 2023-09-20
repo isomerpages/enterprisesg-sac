@@ -58,7 +58,9 @@ For more information about MRA, please click [here](/about/collaborations-and-re
 
 ## Why Use Accredited CABs?
 
-
+<div class="bp-youtube">
+      <iframe allowfullscreen="" allow="autoplay; encrypted-media" frameborder="0" src="https://www.youtube.com/embed/4bbuKr3lweQ" height="315" width="560"></iframe>
+</div>
 
 
 ![Working with Businesses](/images/about/business-setting-1.jpg)
