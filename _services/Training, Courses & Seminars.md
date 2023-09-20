@@ -3,6 +3,10 @@ title: Training, Courses & Seminars
 permalink: /services/training/
 description: ""
 ---
+### Training Calendar 2023
+
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=sac%40enterprisesg.gov.sg&amp;ctz=Asia%2FSingapore"></iframe>
+
 ### Training Programmes
 
 SAC facilitates the following training sesssions when available.
