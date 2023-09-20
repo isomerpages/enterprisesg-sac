@@ -31,7 +31,7 @@ Click on the quick links below to jump to the CAB Status:
 
 
 * Civil Engineering Testing
-  *  R.A.K. Materials Consultants Sdn. Bhd. (27 August 2023)
+  * R.A.K. Materials Consultants Sdn. Bhd. (27 August 2023)
 
 
 * Environmental Testing
