@@ -30,6 +30,10 @@ Click on the quick links below to jump to the CAB Status:
   * Home Team Science and Technology Agency (14 July 2023)
 
 
+* Civil Engineering Testing
+  *  
+
+
 * Environmental Testing
   * Affinnez Pte. Ltd. (10 May 2023)
 
@@ -40,6 +44,11 @@ Click on the quick links below to jump to the CAB Status:
 
 
 #### Certification Body
+
+
+* Auditing Organisation
+  * AAS Singapore Services Pte Ltd (22 August 2023)
+
 
 * Quality Management Systems
    * CARES Certification Pte Ltd (20 July 2023)
