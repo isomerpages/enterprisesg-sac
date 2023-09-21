@@ -26,14 +26,13 @@ Great World City East Tower\
 Singapore 237994\
 **Customer Service Hotline** : (65) 6826 9691\
 **Fax** : (65) 6820 3341\
-**Email** : 
-singaporestandardseshop@toppanleefung.com\
+**Email** : <a in="" open="" is="" end="" href="mailto:singaporestandardseshop@toppanleefung.com</a>
+
+
 **Website** : 
 [Singapore Standards](https://www.singaporestandardseshop.sg/)
 
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
 
 
-In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APAC](https://www.apac-accreditation.org/){:target="_blank"}, [IAF](http://www.iaf.nu/){:target="_blank"} and [ILAC](http://www.ilac.org/){:target="\_blank"} websites.
-
-<!--COMMENT: the '{:target="\_blank"}' at the end of the Markdown webpage URL syntax is used to open the URL in a new window tab -->
+In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APAC](https://www.apac-accreditation.org/){:target="></a>
