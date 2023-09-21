@@ -2,4 +2,5 @@ collections:
   accredited-organisation:
     output: true
     order:
+      - Search Accredited Organisations.md
       - CAB Status Update.md
