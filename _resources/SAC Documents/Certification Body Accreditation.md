@@ -63,7 +63,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/iaf-pl-9-issue1-version2-023.pdf){:target="_blank"}
 
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/Documents/Management%20system%20and%20products%20certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
-* 
+* file.go.gov.sg/ctfm02-isms-assessment-checklist-isoiec27006amd1-01august23.docx{:target="_blank"}
 
 * [Assessment Checklist (ISO/TS 22003) – May 2017](/files/Documents/Management%20system%20and%20products%20certification/MPFM25C-FSMS-checklist-(May-17).doc)
 
