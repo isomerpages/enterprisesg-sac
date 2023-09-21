@@ -221,9 +221,10 @@ SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.
 
 <b>7 May:</b> Launch of Accreditation Programme for Hook-Lift and Container (HL) Inspection.
 
+<b>25 June:</b> SAC signed the APLAC MRA for Proficiency Testing Providers (PTP). <span class="milestone-arrow"></span>
 
 ![2014](/images/press-release/photos/APLAC-pic3.jpg)
-<b>25 June:</b> SAC signed the APLAC MRA for Proficiency Testing Providers (PTP). <span class="milestone-arrow"></span>
+
 
 <b>5 August:</b> SAC signed a MOU with Joint Accreditation System of Australia and New Zealand (JAS-ANZ) for closer collaboration.
 
@@ -264,6 +265,8 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 <b>25 March:</b> SAC signed the PAC MLA for Energy Management System (EnMS) and Environmental Management System (EMS).
 
 <b>8 June:</b> SAC signed a MOU with Myanmar's Department of Research and Innovation (DRI) and appointed as their partner accreditation body. <span class="milestone-arrow"></span>
+
+![2017](/images/press-release/photos/Myanmar-MOU.png)
 
 <b>27 July:</b> SAC signed the IAF MLA for Environmental Management System (EMS).
 
