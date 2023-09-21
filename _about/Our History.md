@@ -57,7 +57,6 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 **2000**
 
-
 ![2000](/images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)
 
 <b>27 March:</b> SAC signed the Bilateral MRA with the European Co-operation for Accreditation (EA) for laboratory accreditation. <span class="milestone-arrow"></span>  
@@ -115,7 +114,7 @@ Scheme for Product Certification Bodies.
 
  <!-- NOTE: the '{:target="\_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
 
- <!-- ![2004](/images/about/milestone/sac-milestone-2004\-10\-06.jpg)-->
+ ![2004](/images/about/milestone/sac-milestone-2004\-10\-06.jpg)
 
 **2005**
 
