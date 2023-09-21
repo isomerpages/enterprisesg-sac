@@ -79,6 +79,6 @@ The following SAC accreditation schemes are applicable to the Marine &amp; Offsh
 </tbody>
 </table>
 
-                       |
+                     
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
