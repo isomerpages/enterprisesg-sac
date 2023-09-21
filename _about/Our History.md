@@ -90,7 +90,7 @@ Scheme for Product Certification Bodies.
 
 **2002**  
  
-!<b>11 March:</b> SAC signed the MLA with International Auditor and Training Certification Association (IATCA) for QMS Auditor Registration.
+<b>11 March:</b> SAC signed the MLA with International Auditor and Training Certification Association (IATCA) for QMS Auditor Registration.
 
 <b>1 April:</b> SAC was transferred to the Standards, Productivity and Innovation Board (SPRING Singapore). 
 
