@@ -334,10 +334,10 @@ Research laboratories in the pharmaceutical, pesticides, veterinary drug product
 
 <b></b><li><b> 
 Contract research organisations</b></li><b>
-</b></ul>
+<p></p></b><ul><b>
 <b>
 		
-</b></b></ul></div></li><b><b>
+</b></b></ul></ul></b></ul></div></li><b><b><b>
 
 <li><input id="accordion12g" type="checkbox">
 
@@ -391,4 +391,4 @@ If you have any questions or doubts, you can drop us an email or call us directl
 	
 <!-- COMMENT: The {:target=" end="" is="" open="" in="">
 
-</a></ul>--></div></li></b></b></ul>
+</a></ul>--></div></li></b></b></b></ul>
