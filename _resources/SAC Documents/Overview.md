@@ -26,7 +26,7 @@ Great World City East Tower\
 Singapore 237994\
 **Customer Service Hotline** : (65) 6826 9691\
 **Fax** : (65) 6820 3341\
-**Email** : <a in="" open="" is="" end="" href="mailto:singaporestandardseshop@toppanleefung.com</a>
+**Email** : <a href="mailto:singaporestandardseshop@toppanleefung.com">
 
 
 **Website** : 
@@ -35,4 +35,4 @@ Singapore 237994\
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
 
 
-In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APAC](https://www.apac-accreditation.org/){:target="></a>
+In addition, companies should be aware of international publications relevant to their area of accreditation, available from the [APAC](https://www.apac-accreditation.org/){:target=" end="" is="" open="" in=""&gt;</a>
