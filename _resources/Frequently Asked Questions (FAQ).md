@@ -287,9 +287,9 @@ i. Establishment and Control of Archives that Operate in Compliance with the Pri
 <label for="accordion7g">What is the registration process like?</label><div>
 
 <p>The process for registration generally includes the following stages: Enquiry, Application, Document Review, On-site Inspection, follow-ups and Award of Registration.
-
+<br>
 Once a research facility indicates an interest to be GLP compliant, SAC will visit the facility and provide information on the criteria, fees and process. Upon application, a review of documentation submitted and a site visit will follow. The site visit will include interviews with key staff, review of equipment, calibration, process, test materials management, dosing, records, study audits, archive etc to ensure that the OECD Principles are complied with.
-
+<br>
 After registration, there will be an annual visit for study audits and inspection to ensure continued compliance.</p>
 
 </div></li>
