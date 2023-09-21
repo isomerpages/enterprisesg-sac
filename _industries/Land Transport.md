@@ -23,51 +23,17 @@ SAC has accreditation schemes for both laboratories, as well as certification bo
 
 The following SAC accreditation schemes are applicable to the Land Transport industry:
 
-<table>
-<thead>
-  <tr>
-    <th>Scheme</th>
-    <th>Field</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Laboratories (SAC-SINGLAS)</td>
-    <td>Calibration &amp; Measurement</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Environmental Testing</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Civil Engineering</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Non-destructive Testing</td>
-  </tr>
-  <tr>
-    <td>Management Systems Certification</td>
-    <td>Asset Management</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Environmental Management System</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Learning Service Providers</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Occupational Safety &amp; Health Management System</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Quality Management System</td>
-  </tr>
-</tbody>
-</table>
+| Scheme                           | Field                                          |
+|----------------------------------|------------------------------------------------|
+| Laboratories (SAC-SINGLAS)       | Calibration & Measurement                      |
+|                                  | Environmental Testing                          |
+|                                  | Civil Engineering                              |
+|                                  | Non-destructive Testing                        |
+|----------------------------------|------------------------------------------------|
+| Management Systems Certification | Asset Management                               |
+|                                  | Environmental Management System                |
+|                                  | Learning Service Providers                     |
+|                                  | Occupational Safety & Health Management System |
+|                                  | Quality Management System                      |
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
