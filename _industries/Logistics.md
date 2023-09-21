@@ -55,8 +55,8 @@ The following SAC accreditation schemes are applicable to the Logistics industry
   <tr>
     <td> </td>
     <td>Quality Management System</td>
-  </tr>
-</tbody>
+  </tr>  <tr>
+</tr></tbody>
 </table>
 
 
