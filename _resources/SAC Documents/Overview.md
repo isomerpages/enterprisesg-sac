@@ -28,8 +28,6 @@ Singapore 237994\
 **Fax** : (65) 6820 3341\
 **Email** : 
 (singaporestandardseshop@toppanleefung.com)
-singaporestandardseshop@toppanle
-efung.com)
 **Website** : 
 [Singapore Standards](https://www.singaporestandardseshop.sg/)
 
