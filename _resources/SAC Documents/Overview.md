@@ -26,8 +26,7 @@ Great World City East Tower\
 Singapore 237994\
 **Customer Service Hotline** : (65) 6826 9691\
 **Fax** : (65) 6820 3341\
-**Email** : <a href="mailto:singaporestandardseshop@toppanleefung.com">singaporestandardseshop@toppanleefung</a>
-
+**Email** : <a href="mailto:singaporestandardseshop@toppanleefung.com">singaporestandardseshop@toppanleefung</a>\
 **Website** : 
 [Singapore Standards](https://www.singaporestandardseshop.sg/)
 
