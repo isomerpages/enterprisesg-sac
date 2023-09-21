@@ -27,7 +27,7 @@ Singapore 237994\
 **Customer Service Hotline** : (65) 6826 9691\
 **Fax** : (65) 6820 3341\
 **Email** : 
-(singaporestandardseshop@toppanleefung.com)
+(singaporestandardseshop@toppanleefung.com)\
 **Website** : 
 [Singapore Standards](https://www.singaporestandardseshop.sg/)
 
