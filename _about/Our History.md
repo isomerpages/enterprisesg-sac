@@ -19,7 +19,7 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
 
 <b>29 January:</b> Signing of bilateral agreements with National Accreditation for Testing Authorities (NATAS) Australia, Telerc (now called International Accreditation New Zealand, IANZ), American Association for Laboratory Accreditation (A2LA) &amp; Hong Kong Laboratory Accreditation Scheme (HOKLAS) for laboratory accreditation.
 
-<b>2 February:</b> Singlas hosted APLAC 1st General Assembly.]
+<b>2 February:</b> Singlas hosted APLAC 1st General Assembly.
 
 <b>11 October:</b> 1st SAC Council was appointed. <span class="milestone-arrow"></span>
 
