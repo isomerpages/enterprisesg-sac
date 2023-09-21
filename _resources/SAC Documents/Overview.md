@@ -29,7 +29,7 @@ Singapore 237994\
 **Email** : 
 (singaporestandardseshop@toppanleefung.com)
 singaporestandardseshop@toppanle
-efung.com)\
+efung.com)
 **Website** : 
 [Singapore Standards](https://www.singaporestandardseshop.sg/)
 
