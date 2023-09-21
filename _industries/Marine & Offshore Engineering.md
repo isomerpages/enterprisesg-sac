@@ -20,6 +20,7 @@ M&amp;O companies will also find management systems certifications to be invalua
 Some examples of applicable management systems certifications are quality management (ISO 9001), environmental management (ISO 14001) and occupational safety and health (ISO 45001).
 
 The following SAC accreditation schemes are applicable to the Marine &amp; Offshore Engineering industry:
+
 <table>
 <thead>
   <tr>
@@ -75,8 +76,7 @@ The following SAC accreditation schemes are applicable to the Marine &amp; Offsh
   <tr>
     <td>Product Certification Bodies</td>
     <td>Certified Personnel (NDT)</td>
-	</tr>
-  
+  </tr>
 </tbody>
 </table>
 
