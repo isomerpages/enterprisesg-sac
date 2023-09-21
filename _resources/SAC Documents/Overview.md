@@ -29,9 +29,9 @@ Singapore 237994\
 **Email** : 
 (singaporestandardseshop@toppanleefung.com)
 singaporestandardseshop@toppanle
-efung.com)
+efung.com)\
 **Website** : 
-[Singapore Standards (singaporestandardseshop.sg)](https://www.singaporestandardseshop.sg/)
+[Singapore Standards](https://www.singaporestandardseshop.sg/)
 
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
 
