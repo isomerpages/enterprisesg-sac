@@ -197,4 +197,17 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | A/Prof Low Chian Ming    &nbsp; | Technical Committee for Good Laboratory Practice&nbsp;|
 |                | A/Prof Chong Bee Kiang	    | Technical Committee for Medical Imaging       |
 |                | A/Prof Raymond Lin	        | Technical Committee for Medical Testing       |
-|  Secretary  | Ms Lee Jia Juan            | SAC Secretariat                               |
+|  Secretary  | Ms Lee Jia Juan            | SAC Secretariat 
+
+
+
+
+tyring out
+
+    <table>
+    <thead>
+      <tr>
+        <td>DesignationNameOrganisationChairmanA/Prof Raymond ChuaMinistry of HealthMembersA/Prof Mahesh ChoolaniAcademy of Medicine Prof Lisa NgBiomedical Research Council, A*STAR Asst Prof James LeongDuke-NUS Medical School,A/Prof Teoh Yee Leong,Ministry of Health,Ms Lim Soh Har,National Healthcare Group,Dr Chew Kean Lee,National University Health System,Dr Leslie Lam Choong WengParkway Laboratory Services Ltd Dr Kelvin Phua Cheng PauSATA CommHealth Prof Tan Puay HoonSingapore Health Services,Mr James Chan,Singapore Manufacturing Federation – Medical Technology Industry Group,A/Prof Low Chian Ming,Technical Committee for Good Laboratory Practice,A/Prof Chong Bee KiangTechnical Committee for Medical Imaging A/Prof Raymond LinTechnical Committee for Medical TestingSecretaryMr Chong Hui DaSAC Secretariat</td>
+      </tr>
+    </thead>
+    </table>|
