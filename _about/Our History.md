@@ -35,7 +35,7 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 **1997**
 
-![1997](/images/about/milestone/sac-milestone-1997-11-19.jpg)
+
 
 <b>19 November:</b> SINGLAS becomes one of the inaugural signatories of the APLAC MRA. <span class="milestone-arrow"></span> 
 
@@ -56,6 +56,10 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 
 **2000**
+
+
+![2000](/images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)
+
 
 <b>27 March:</b> SAC signed the Bilateral MRA with the European Co-operation for Accreditation (EA) for laboratory accreditation. <span class="milestone-arrow"></span>  
 
