@@ -26,11 +26,6 @@ The Civil Aviation Authority of Singapore (CAAS) is the regulatory body governin
 The following SAC accreditation schemes are applicable to the Aviation and Aerospace industry:
 
 
- 
-
-For more information on CABs which provide services relevant to your business, please click [here](https://staging.dc7rl6brx6vik.amplifyapp.com/services/accreditation-services/)
-
-
 <table>
 <thead>
   <tr>
@@ -76,3 +71,6 @@ For more information on CABs which provide services relevant to your business, p
     <td>Greenhouse Gases</td>
   </tr>
 </tbody></table>
+
+
+For more information on CABs which provide services relevant to your business, please click [here](https://staging.dc7rl6brx6vik.amplifyapp.com/services/accreditation-services/)
