@@ -159,23 +159,95 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 ## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2021 - 30 June 2024
 
-| Designation          | Name                            | Organisation                              |
-|----------------------|---------------------------------|-------------------------------------------|
-|  Chairman         | Mr Jagadish C V         | Singapore Accreditation Council |
-| Members          | Mr Ling Ting Ming       | Association of Small Medium Enterprises |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Dr Eunice Pang &nbsp; &nbsp;      | Health Promotion Board  |
-|                      | Mr Wang Weixiang        | Ministry of Sustainability and the Environment |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Pending         &nbsp; &nbsp;     | Ministry of Trade and Industry  |
-|                      | Prof Gregory Goh K. L.  | National Metrology Centre, A\*STAR   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | A/Prof Lawrence Loh     | National University of Singapore Business School |
-|                      | Mr Ye Yongfeng          | Public Service Division        |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Ms Siew Kum Fong &nbsp;      | Singapore Business Federation  |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Ms Seah Yin Fen         | Singapore Food Manufacturers’ Association |
-|                      | Ms Miranda Chen         | TIC Interest Group (Certification)        |
-|                      | Mr Eric Law Wei Kwang   | TIC Interest Group (Laboratory)         
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Mr Gaurava Mishra       | TIC Interest Group (Laboratory, Inspection, Certification)&nbsp; |
-| Secretaries      | Mr Tan Yee Teck         | SAC Secretariat                  |
-|                      | Mr Terence Hu           | SAC Secretariat                  |
+
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Mr Jagadish C V</td>
+    <td>Singapore Accreditation Council</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Mr Ling Ting Ming</td>
+    <td>Association of Small Medium Enterprises</td>
+  </tr>
+  <tr>
+    <td>                   </td>
+    <td>Dr Eunice Pang    </td>
+    <td>Health Promotion Board</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Wang Weixiang</td>
+    <td>Ministry of Sustainability and the Environment</td>
+  </tr>
+  <tr>
+    <td>                   </td>
+    <td>Pending    </td>
+    <td>Ministry of Trade and Industry</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Prof Gregory Goh K. L.</td>
+    <td>National Metrology Centre, A*STAR</td>
+  </tr>
+  <tr>
+    <td>                   </td>
+    <td>A/Prof Lawrence Loh</td>
+    <td>National University of Singapore Business School</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Ye Yongfeng</td>
+    <td>Public Service Division</td>
+  </tr>
+  <tr>
+    <td>                   </td>
+    <td>Ms Siew Kum Fong  </td>
+    <td>Singapore Business Federation</td>
+  </tr>
+  <tr>
+    <td>                   </td>
+    <td>Ms Seah Yin Fen</td>
+    <td>Singapore Food Manufacturers’ Association</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Ms Miranda Chen</td>
+    <td>TIC Interest Group (Certification)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Eric Law Wei Kwang</td>
+    <td>TIC Interest Group (Laboratory)</td>
+  </tr>
+  <tr>
+    <td>                   </td>
+    <td>Mr Gaurava Mishra</td>
+    <td>TIC Interest Group (Laboratory, Inspection, Certification) </td>
+  </tr>
+  <tr>
+    <td>Secretaries</td>
+    <td>Mr Tan Yee Teck</td>
+    <td>SAC Secretariat</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Terence Hu</td>
+    <td>SAC Secretariat</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 
 ## Council Committee for Biomedical &amp; Health (CCBH)
