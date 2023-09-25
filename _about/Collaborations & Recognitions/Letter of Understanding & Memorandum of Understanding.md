@@ -12,8 +12,9 @@ The Singapore Accreditation Council (SAC) and the Automation Standards Complianc
 
 The Singapore Accreditation Council (SAC), Enterprise Singapore (formerly known as SPRING Singapore) and Myanmar's Department of Research and Innovation (DRI) signed a Memorandum of Understanding (MOU) on 8 June 2017 at the 6th Singapore-Myanmar Joint Ministerial Working Committee (JMWC) meeting held in Singapore. SAC has been also appointed as Myanmar's partner accreditation body to provide accreditation services to their laboratories as well as inspection and certification bodies, and to provide technical assistance to develop their capability in accreditation.
  
-This collaboration will provide greater assurance in the quality of products and services and facilitate market access for businesses in both countries. It will also further encourage the exchange of information, conformity assessment, accreditation services and related technical and quality issues.  
-!\[Photo of MoU signing with Myanmar\]({{page.imgFolderPath}}Myanmar-MOU.png)
+This collaboration will provide greater assurance in the quality of products and services and facilitate market access for businesses in both countries. It will also further encourage the exchange of information, conformity assessment, accreditation services 
+and related technical and quality issues.  
+![Photo of MoU signing with Myanmar]({{page.imgFolderPath}}Myanmar-MOU.png)
 
 ### MOU with Health Sciences Authority
 
