@@ -36,7 +36,7 @@ The following SAC accreditation schemes are applicable to the Land Transport ind
   </tr>
   <tr>
     <td>Management Systems Certification</td>
-    <td>Asset Management<br><br>Environmental Management System<br>Learning Service Providers<br><br>Occupational Safety &amp; Health Management System<br><br>Quality Management System</td>
+    <td>Asset Management<br><br>Environmental Management System<br><br>Learning Service Providers<br><br>Occupational Safety &amp; Health Management System<br><br>Quality Management System</td>
   </tr>
 </tbody>
 </table>
