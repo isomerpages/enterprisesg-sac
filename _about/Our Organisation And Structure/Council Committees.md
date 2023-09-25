@@ -361,33 +361,90 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 ## Council Committee for Biomedical &amp; Health (CCBH)
 ### Term: 1 July 2021 - 30 June 2024
 
-| Designation    | Name                       | Organisation                                  |
-|----------------|----------------------------|-----------------------------------------------|
-|  Chairman   | A/Prof Raymond Chua        | Ministry of Health                            |
-|  Members    | A/Prof Mahesh Choolani     | Academy of Medicine                           |
-|                | Prof Lisa Ng               | Biomedical Research Council, A\*STAR           |
-|                | Asst Prof James Leong      | Duke-NUS Medical School                       |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | A/Prof Teoh Yee Leong   &nbsp;  | Ministry of Health &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Ms Lim Soh Har  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | National Healthcare Group &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Dr Chew Kean Lee      &nbsp; &nbsp;  | National University Health System  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
-|                | Dr Leslie Lam Choong Weng	| Parkway Laboratory Services Ltd               |
-|                | Dr Kelvin Phua Cheng Pau	  | SATA CommHealth                               |
-|                | Prof Tan Puay Hoon         | Singapore Health Services                     |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Mr James Chan &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;  | Singapore Manufacturing Federation – Medical Technology Industry Group&nbsp;  |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | A/Prof Low Chian Ming    &nbsp; | Technical Committee for Good Laboratory Practice&nbsp;|
-|                | A/Prof Chong Bee Kiang	    | Technical Committee for Medical Imaging       |
-|                | A/Prof Raymond Lin	        | Technical Committee for Medical Testing       |
-|  Secretary  | Ms Lee Jia Juan            | SAC Secretariat 
 
-
-
-
-tyring out
-
-    <table>
-    <thead>
-      <tr>
-        <td>DesignationNameOrganisationChairmanA/Prof Raymond ChuaMinistry of HealthMembersA/Prof Mahesh ChoolaniAcademy of Medicine Prof Lisa NgBiomedical Research Council, A*STAR Asst Prof James LeongDuke-NUS Medical School,A/Prof Teoh Yee Leong,Ministry of Health,Ms Lim Soh Har,National Healthcare Group,Dr Chew Kean Lee,National University Health System,Dr Leslie Lam Choong WengParkway Laboratory Services Ltd Dr Kelvin Phua Cheng PauSATA CommHealth Prof Tan Puay HoonSingapore Health Services,Mr James Chan,Singapore Manufacturing Federation – Medical Technology Industry Group,A/Prof Low Chian Ming,Technical Committee for Good Laboratory Practice,A/Prof Chong Bee KiangTechnical Committee for Medical Imaging A/Prof Raymond LinTechnical Committee for Medical TestingSecretaryMr Chong Hui DaSAC Secretariat</td>
-      </tr>
-    </thead>
-    </table>|
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>A/Prof Raymond Chua</td>
+    <td>Ministry of Health</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>A/Prof Mahesh Choolani</td>
+    <td>Academy of Medicine</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Prof Lisa Ng</td>
+    <td>Biomedical Research Council, A*STAR</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Asst Prof James Leong</td>
+    <td>Duke-NUS Medical School</td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>A/Prof Teoh Yee Leong  </td>
+    <td>Ministry of Health                          </td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>Ms Lim Soh Har          </td>
+    <td>National Healthcare Group                    </td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>Dr Chew Kean Lee    </td>
+    <td>National University Health System            </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Leslie Lam Choong Weng</td>
+    <td>Parkway Laboratory Services Ltd</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Kelvin Phua Cheng Pau</td>
+    <td>SATA CommHealth</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Prof Tan Puay Hoon</td>
+    <td>Singapore Health Services</td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>Mr James Chan          </td>
+    <td>Singapore Manufacturing Federation – Medical Technology Industry Group </td>
+  </tr>
+  <tr>
+    <td>             </td>
+    <td>A/Prof Low Chian Ming  </td>
+    <td>Technical Committee for Good Laboratory Practice </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>A/Prof Chong Bee Kiang</td>
+    <td>Technical Committee for Medical Imaging</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>A/Prof Raymond Lin</td>
+    <td>Technical Committee for Medical Testing</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr Chong Hui Da</td>
+    <td>SAC Secretariat</td>
+  </tr>
+</tbody>
+</table>
