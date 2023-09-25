@@ -11,46 +11,154 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 ## Council Committee For Laboratory (CCL)
 ### Term : 1 July 2021 - 30 June 2024
 
-| Designation          | Name                       | Organisation                                 |
-|----------------------|----------------------------|----------------------------------------------|
-| Chairman       | Dr Leslie Retnam           | National University of Singapore      |       
-| Deputy Chairman  | A/P Joanne Chan Sheot Harn | Singapore Food Agency        |                
-|Members          | Mrs Reshmy Pillay          | National Metrology Centre   |  
-|                      | Mr Tony Low<br>(Alternate: Dr Steven Wong)  | Association of Information Security Professionals  |
-|                      | Dr Gao Chun Ping           | Building and Construction Authority    |   
-|                      | Mr Rodney Tan              | Cyber Security Agency of Singapore (CSA)  |                
-|                      | Dr Teo Tang Lin            | Health Sciences Authority        | 
-|                      | Dr Kenneth Choy            | Ministry of Manpower         |                                
-|                      | Dr Joel Lee                | Nanyang Polytechnic      | 
-|                      | Mr Tan Boon Chong          | Singapore Manufacturing Federation     | 
-|                      | Mr Stanley Ong             | Singapore Manufacturing Federation - TIC Interest Group - Laboratory |
-|                      | Dr Zong Yun                | Singapore National Institute of Chemistry 
-|                      | Dr Ong Eng Hong            | Singapore University of Technology &amp; Design   
-|                      | Prof Chew Soon Hoe         | The Institute of Engineers, Singapore    |    
-|Secretary        | Ms Lim Lee Fang            | SAC Secretariat        |                      
+
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Mr Silas Sng Wee Kiat</td>
+    <td>Ministry of Manpower</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Er. Yong Fen Leong</td>
+    <td>Association of Consulting Engineers, Singapore</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Loh Lock Mun</td>
+    <td>Association of Process Industry</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Andrew Alexander Malcolm</td>
+    <td>Advanced Remanufacturing and Technology Centre (ARTC)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Poh Teoh Yaw</td>
+    <td>Building &amp; Construction Authority</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Er. Merlyn Thong</td>
+    <td>Land Transport Authority</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>A/Prof Leong Eng Choon</td>
+    <td>Nanyang Technological University</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Victor Li</td>
+    <td>Singapore Food Agency</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Adrian Lo</td>
+    <td>Singapore Manufacturing Federation – TIC Interest Group</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Ho Nyok Yong</td>
+    <td>The Singapore Contractors Association Ltd</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr Tang Kok Min</td>
+    <td>Singapore Accreditation Council</td>
+  </tr>
+</tbody>
+</table>
 
 
 ## Council Committee For Inspection (CCI)
 ### Term: 1 July 2021 - 30 June 2024
 
-| Designation          | Name                       | Organisation                                 |
-|----------------------|----------------------------|----------------------------------------------|
-| Chairman  | Mr Silas Sng Wee Kiat        | Ministry of Manpower              |
-|  Members   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
-|               | Mr Loh Lock Mun              | Association of Process Industry   |
-|               | Mr Andrew Alexander Malcolm  | Advanced Remanufacturing and Technology Centre (ARTC) |
-|               | Dr Poh Teoh Yaw              | Building &amp; Construction Authority |
-|               | Er. Merlyn Thong             | Land Transport Authority          |
-|               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
-|               | Mr Victor Li                 | Singapore Food Agency             |
-|               | Mr Adrian Lo                 | Singapore Manufacturing Federation – TIC Interest Group |
-|               | Dr Ho Nyok Yong              | The Singapore Contractors Association Ltd |
-| Secretary | Mr Tang Kok Min              | Singapore Accreditation Council   |
+
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Mr Silas Sng Wee Kiat</td>
+    <td>Ministry of Manpower</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Er. Yong Fen Leong</td>
+    <td>Association of Consulting Engineers, Singapore</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Loh Lock Mun</td>
+    <td>Association of Process Industry</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Andrew Alexander Malcolm</td>
+    <td>Advanced Remanufacturing and Technology Centre (ARTC)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Poh Teoh Yaw</td>
+    <td>Building &amp; Construction Authority</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Er. Merlyn Thong</td>
+    <td>Land Transport Authority</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>A/Prof Leong Eng Choon</td>
+    <td>Nanyang Technological University</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Victor Li</td>
+    <td>Singapore Food Agency</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Adrian Lo</td>
+    <td>Singapore Manufacturing Federation – TIC Interest Group</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Ho Nyok Yong</td>
+    <td>The Singapore Contractors Association Ltd</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr Tang Kok Min</td>
+    <td>Singapore Accreditation Council</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 
 
 ## Council Committee for Certification (CCC)
 ### Term: 1 July 2021 - 30 June 2024
+
+
 <table>
 <thead>
   <tr>
