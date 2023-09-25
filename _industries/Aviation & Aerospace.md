@@ -26,129 +26,51 @@ The Civil Aviation Authority of Singapore (CAAS) is the regulatory body governin
 The following SAC accreditation schemes are applicable to the Aviation and Aerospace industry:
 
 
-      <table>
-    <thead>
-      <tr>
-        <th>Scheme</th>
-        <th>Field</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Laboratories (SAC-SINGLAS)</td>
-        <td>Calibration &amp; Measurement</td>
-      </tr>
-      <tr>
-        <td> </td>
-        <td>Non-destructive Testing</td>
-      </tr>
-      <tr>
-        <td> </td>
-        <td>Environmental Testing</td>
-      </tr>
-      <tr>
-        <td>Management Systems Certification Bodies</td>
-        <td>Environmental Management System</td>
-      </tr>
-      <tr>
-        <td> </td>
-        <td>Learning Service Providers</td>
-      </tr>
-      <tr>
-        <td> </td>
-        <td>Occupational Safety &amp; Health Management System</td>
-      </tr>
-      <tr>
-        <td> </td>
-        <td>Quality Management System</td>
-      </tr>
-      <tr>
-        <td>Personnel Certification Bodies</td>
-        <td>Certified Personnel (NDT)</td>
-      </tr>
-      <tr>
-        <td>Validation &amp; Verification Bodies</td>
-        <td>Greenhouse Gases</td>
-      </tr>
-    </tbody>
-    </table>
+  
 
 
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-
-	 
-
-<table class="tg">
+For more information on CABs which provide services relevant to your business, please click [here](https://staging.dc7rl6brx6vik.amplifyapp.com/services/accreditation-services/)<table>
 <thead>
   <tr>
-    <th class="tg-wa1i"> Scheme </th>
-    <th class="tg-wa1i"> Field </th>
+    <th>Scheme</th>
+    <th>Field</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" rowspan="3"> Laboratories (SAC-SINGLAS) </td>
-    <td class="tg-cly1"> Calibration &amp; Measurement </td>
+    <td>Laboratories (SAC-SINGLAS)</td>
+    <td>Calibration &amp; Measurement</td>
   </tr>
   <tr>
-    <td class="tg-cly1"> Non-destructive Testing </td>
+    <td> </td>
+    <td>Non-destructive Testing</td>
   </tr>
   <tr>
-    <td class="tg-cly1"> Environmental Testing </td>
+    <td> </td>
+    <td>Environmental Testing</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="3"> Management Systems Certification Bodies</td>
-    <td class="tg-cly1"> Environmental Management System </td>
+    <td>Management Systems Certification Bodies</td>
+    <td>Environmental Management System</td>
   </tr>
   <tr>
-    <td class="tg-cly1"> Learning Service Providers </td>
+    <td> </td>
+    <td>Learning Service Providers</td>
   </tr>
   <tr>
-    <td class="tg-cly1"> Occupational Safety &amp; Health Management System 
-	</td>
-	</tr>
-	
-	 <tr><td></td>
-	
-	
- </tr><tr>
-    <td class="tg-cly1"> Quality Management System </td>
+    <td> </td>
+    <td>Occupational Safety &amp; Health Management System</td>
   </tr>
-
-	<tr>
-    <td rowspan="3" class="tg-0lax"> Personnel Certification Bodies </td>
-    <td class="tg-cly1"> Certified Personnel (NDT) </td>
+  <tr>
+    <td> </td>
+    <td>Quality Management System</td>
   </tr>
-	<tr>
-    <td rowspan="3" class="tg-0lax"> Personnel Certification Bodies </td>
-    <td class="tg-cly1"> Certified Personnel (NDT) </td>
- </tr>
-
- 	
- 
-	
-	
-	</tbody>
-</table>
-
-
-
-
-
-
-
-
-
-For more information on CABs which provide services relevant to your business, please click [here](https://staging.dc7rl6brx6vik.amplifyapp.com/services/accreditation-services/)
+  <tr>
+    <td>Personnel Certification Bodies</td>
+    <td>Certified Personnel (NDT)</td>
+  </tr>
+  <tr>
+    <td>Validation &amp; Verification Bodies</td>
+    <td>Greenhouse Gases</td>
+  </tr>
+</tbody></table>
