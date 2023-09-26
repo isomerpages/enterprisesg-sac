@@ -16,49 +16,6 @@ In the logistics industry, the most relevant forms of certification include occu
 The Singapore Accreditation Council (SAC) has accreditation schemes for Conformity Assessment Bodies (CABs) providing the services outlined above. These help to instil a higher level of trust in the accuracy and quality of conformity assessment results.
 
 The following SAC accreditation schemes are applicable to the Logistics industry:
-<table>
-<thead>
-  <tr>
-    <th>Scheme</th>
-    <th>Field</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Laboratories (SAC-SINGLAS)</td>
-    <td>Calibration &amp; Measurement</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Mechanical Testing</td>
-  </tr>
-  <tr>
-    <td>Inspection Bodies</td>
-    <td>Cargo Inspection</td>
-  </tr>
-  <tr>
-    <td>Management Systems Certification Bodies</td>
-    <td>Business Continuity Management</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Environmental Management System</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Learning Service Providers</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Occupational Safety &amp; Health Management System</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Quality Management System</td>
-  </tr>  <tr>
-</tr></tbody>
-</table>
-
 
 <table>
 <thead>
@@ -70,7 +27,7 @@ The following SAC accreditation schemes are applicable to the Logistics industry
 <tbody>
   <tr>
     <td>Laboratories (SAC-SINGLAS)</td>
-    <td>Calibration &amp; Measurement<br>Mechanical Testing</td>
+    <td>Calibration &amp; Measurement<br><br>Mechanical Tesing</td>
   </tr>
   <tr>
     <td>Inspection Bodies</td>
@@ -78,9 +35,33 @@ The following SAC accreditation schemes are applicable to the Logistics industry
   </tr>
   <tr>
     <td>Management Systems Certification Bodies</td>
-    <td>Business Continuity Management<br>Environmental Management System<br>Learning Service Providers<br>Occupational Safety &amp; Health Management System<br>Quality Management System</td>
+    <td>Business Continuity Management<br><br>Environmental Management System<br><br>Learning Service Providers<br><br>Occupational Safety &amp; Health Management System<br><br>Quality Management System</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
 
+
 For more information on CABs which provide services relevant to your business, please click [here](services/accreditation-services).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
