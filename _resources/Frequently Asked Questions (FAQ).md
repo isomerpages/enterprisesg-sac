@@ -249,7 +249,7 @@ c. Information on names of Study Director, Study Sponsor
 <br>
 d. Persons in charge of Quality Assurance and the Archive
 <br>
-e .Quality Manual and Standard Operating Procedures Structure, Master Schedule etc.
+e. Quality Manual and Standard Operating Procedures Structure, Master Schedule etc.
 </ol><p></p>
 
 </div></li>
@@ -326,10 +326,8 @@ After registration, there will be an annual visit for study audits and inspectio
 
 <p>Companies that can benefit from GLP registration include:</p>
 <ul>
-  <li><b>Research laboratories in the pharmaceutical, pesticides, veterinary drug products and industrial chemicals industries</b></li>
-  <ul>
-    <li><b>Contract research organisations</b></li>
-  </ul>
+  <li>Research laboratories in the pharmaceutical, pesticides, veterinary drug products and industrial chemicals industries</li>
+    <li>Contract research organisations</li>
 </ul>
 		
 </div></li>
