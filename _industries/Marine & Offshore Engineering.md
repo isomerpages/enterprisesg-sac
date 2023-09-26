@@ -31,56 +31,27 @@ The following SAC accreditation schemes are applicable to the Marine &amp; Offsh
 <tbody>
   <tr>
     <td>Laboratories (SAC-SINGLAS)</td>
-    <td>Calibration &amp; Measurement</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Chemical &amp; Biological</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Electrical Testing</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Non-destructive Testing</td>
+    <td>Calibration &amp; Measurement <br><br>Chemical &amp; Biological <br><br>Electrical Testing<br><br>Non-destructive Testing<br><br></td>
   </tr>
   <tr>
     <td>Inspection Bodies</td>
-    <td>Marine &amp; Offshore Inspection</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Pressure Vessel/ Lifting Equipment</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Technical Audit of Extension Schemes for Pressure Vessels</td>
+    <td>Marine &amp; Offshore Inspection <br><br>Pressure Vessel/ Lifting Equipment <br><br>Technical Audit of Extension Schemes for Pressure Vessels <br><br></td>
   </tr>
   <tr>
     <td>Management Systems Certification Bodies</td>
-    <td>Business Continuity Management</td>
+    <td>Business Continuity Management<br><br>Learning Service Providers<br><br>Occupational Safety &amp; Health Management System<br><br>Quality Management System<br><br></td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Learning Service Providers</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Occupational Safety &amp; Health Management System</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Quality Management System</td>
-  </tr>
-  <tr>
-    <td>Product Certification Bodies</td>
+    <td>Product Certification Bodies<br></td>
     <td>Certified Personnel (NDT)</td>
   </tr>
-	<tr>
-</tr></tbody>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
 </table>
 
-                      
 
-For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
+
+For more information on CABs which provide services relevant to your business, please click&nbsp;[here](https://www.sac-accreditation.gov.sg/services/accreditation-services).
