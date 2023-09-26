@@ -5,7 +5,7 @@ description: ""
 ---
 ### Training Calendar 2023
 
-<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=sac%40enterprisesg.gov.sg&amp;ctz=Asia%2FSingapore"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=8b8f381b96e20d6723b53ef8e2de149e5902c6515d55c9fd9728f4e388158776%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
 
 ### Training Programmes
 
