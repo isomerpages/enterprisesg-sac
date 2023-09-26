@@ -22,17 +22,17 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Dr Leslie Retnam</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td>Deputy Chairman</td>
+    <td><b>Deputy Chairman</b></td>
     <td>A/P Joanne Chan Sheot Harn</td>
     <td>Singapore Food Agency</td>
   </tr>
   <tr>
-    <td>Members</td>
+		<td><b>Members</b></td>
     <td>Mrs Reshmy Pillay</td>
     <td>National Metrology Centre</td>
   </tr>
@@ -92,7 +92,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>The Institute of Engineers, Singapore</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Ms Lim Lee Fang</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -114,12 +114,12 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Mr Silas Sng Wee Kiat</td>
     <td>Ministry of Manpower</td>
   </tr>
   <tr>
-    <td>Members</td>
+		<td><b>Members</b></td>
     <td>Er. Yong Fen Leong</td>
     <td>Association of Consulting Engineers, Singapore</td>
   </tr>
@@ -164,7 +164,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>The Singapore Contractors Association Ltd</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr Tang Kok Min</td>
     <td>Singapore Accreditation Council</td>
   </tr>
@@ -189,12 +189,12 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Er Yvonne Soh</td>
     <td>Singapore Green Building Council</td>
   </tr>
   <tr>
-    <td>Members</td>
+		<td><b>Members</b></td>
     <td>Ms Huang Wen Jia</td>
     <td>Association of Process Industry</td>
   </tr>
@@ -274,7 +274,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>The Singapore Contractors Association Limited                </td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Ms Lee Ham Eng</td>
     <td>Singapore Accreditation Council</td>
   </tr>
@@ -298,12 +298,12 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Mr Jagadish C V</td>
     <td>Singapore Accreditation Council</td>
   </tr>
   <tr>
-    <td>Members</td>
+		<td><b>Members</b></td>
     <td>Mr Ling Ting Ming</td>
     <td>Association of Small Medium Enterprises</td>
   </tr>
@@ -363,7 +363,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>TIC Interest Group (Laboratory, Inspection, Certification) </td>
   </tr>
   <tr>
-    <td>Secretaries</td>
+		<td><b>Secretaries</b></td>
     <td>Mr Tan Yee Teck</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -392,12 +392,12 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>A/Prof Raymond Chua</td>
     <td>Ministry of Health</td>
   </tr>
   <tr>
-    <td>Members</td>
+		<td><b>Members</b></td>
     <td>A/Prof Mahesh Choolani</td>
     <td>Academy of Medicine</td>
   </tr>
@@ -462,7 +462,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>Technical Committee for Medical Testing</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr Chong Hui Da</td>
     <td>SAC Secretariat</td>
   </tr>
