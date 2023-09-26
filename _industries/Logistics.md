@@ -27,18 +27,18 @@ The following SAC accreditation schemes are applicable to the Logistics industry
 <tbody>
   <tr>
     <td>Laboratories (SAC-SINGLAS)</td>
-    <td>Calibration &amp; Measurement<br><br>Mechanical Tesing</td>
+    <td>Calibration &amp; Measurement <br><br>Mechanical Testing <br></td>
   </tr>
   <tr>
     <td>Inspection Bodies</td>
-    <td>Cargo Inspection</td>
+    <td>Cargo Inspection<br></td>
   </tr>
   <tr>
-    <td>Management Systems Certification Bodies</td>
-    <td>Business Continuity Management<br><br>Environmental Management System<br><br>Learning Service Providers<br><br>Occupational Safety &amp; Health Management System<br><br>Quality Management System</td>
+    <td>Management Systems Certification Bodies<br></td>
+    <td>Business Continuity Management<br><br>Enviromental Management System<br><br>Learning Service Providers<br><br>Occupational Safety &amp; Health Management System<br><br>Quality Manaagement System</td>
   </tr>
   <tr>
-    <td></td>
+    <td> </td>
     <td></td>
   </tr>
 </tbody>
