@@ -177,8 +177,7 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 <b>6 - 12 December:</b> SAC hosted the 14th APLAC General Assembly and Technical Meetings. <span class="milestone-arrow"></span>  
 
-![2008](/images/about/milestone/sac-milestone-2008-12-06.jpg)
-
+![ 14th APLAC General Assembly and Technical Meetings](/images/about/milestone/sac-milestone-2008-12-06.jpg)
 
 **2009**
  
