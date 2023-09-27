@@ -96,7 +96,6 @@ SAC signed a Letter of Understanding (LOU) for Technical Cooperation with the Mi
 <b>15 November:</b> Launch of Accreditation 
 Scheme for Product Certification Bodies. 
 
-![2001](/images/about/milestone/sac-milestone-2001-04-09.jpg)
 
 
 **2002**  
