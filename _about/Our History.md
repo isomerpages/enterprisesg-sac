@@ -67,7 +67,8 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
  
  <!-- NOTE: the '{:target="\_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
  
-![2000](images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)
+ 
+ ![LAC MRA for laboratory accreditation](/images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)
  
  
  
