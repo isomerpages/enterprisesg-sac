@@ -338,7 +338,10 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 <b>14 - 22 June:</b> SAC hosted the inaugural Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meeting. <span class="milestone-arrow"></span>
 
-![2019](/images/about/milestone/sac-milestone-2019-06-14.jpg)
+![Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meeting](/images/about/milestone/sac-milestone-2019-06-14.jpg)
+
+
+
 
 <b>17 June:</b> Launch of Programme for Endorsement of Forest Certification (PEFC) - Chain of Custody Certification.
 
