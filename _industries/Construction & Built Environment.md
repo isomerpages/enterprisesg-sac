@@ -23,22 +23,59 @@ In Singapore, the Building and Construction Authority (BCA) is the regulatory bo
 
 The following SAC accreditation schemes are applicable to the Construction and Built Environment industry:
 
-| Scheme                                  | Field                                          |
-|-----------------------------------------|------------------------------------------------|
-| Laboratories (SAC-SINGLAS)              | Calibration & Measurement                      |
-|                                         | Chemical & Biological                          |
-|                                         | Civil Engineering                              |
-|                                         | Environmental Testing                          |
-|                                         | Non-destructive Testing                        |
-|-----------------------------------------|------------------------------------------------|
-| Management Systems Certification Bodies | Auditing Organisation                          |
-|                                         | Business Continuity Management                 |
-|                                         | Environmental Management System                |
-|                                         | Energy Management System                       |
-|                                         | Learning Service Providers                     |
-|                                         | Occupational Safety & Health Management System |
-|                                         | Quality Management System                      |
-|-----------------------------------------|------------------------------------------------|
-| Personnel Certification Bodies          | Certified Personnel (NDT)                      |
+<table>
+<thead>
+  <tr>
+    <th>Scheme</th>
+    <th>Field</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="5">Laboratories (SAC-SINGLAS)<br></td>
+    <td>Calibration &amp; Measurement</td>
+  </tr>
+  <tr>
+    <td>Chemical &amp; Biological</td>
+  </tr>
+  <tr>
+    <td>Civil Engineering</td>
+  </tr>
+  <tr>
+    <td>Environmental Testing</td>
+  </tr>
+  <tr>
+    <td>Non-destructive Testing</td>
+  </tr>
+  <tr>
+    <td rowspan="7">Management Systems Certification Bodies</td>
+    <td>Auditing Organisation</td>
+  </tr>
+  <tr>
+    <td>Business Continuity Management</td>
+  </tr>
+  <tr>
+    <td>Environmental Management System</td>
+  </tr>
+  <tr>
+    <td>Energy Management System</td>
+  </tr>
+  <tr>
+    <td>Learning Service Providers</td>
+  </tr>
+  <tr>
+    <td>Occupational Safety &amp; Health Management System</td>
+  </tr>
+  <tr>
+    <td>Quality Management System</td>
+  </tr>
+  <tr>
+    <td>Personnel Certification Bodies</td>
+    <td>Certified Personnel (NDT)</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 For more information on CABs which provide services relevant to your business, please click [here](https://staging.dc7rl6brx6vik.amplifyapp.com/services/accreditation-services/)
