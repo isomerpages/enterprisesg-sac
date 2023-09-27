@@ -298,12 +298,12 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-		<td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>Mr Jagadish C V</td>
     <td>Singapore Accreditation Council</td>
   </tr>
   <tr>
-		<td><b>Members</b></td>
+    <td>Members</td>
     <td>Mr Ling Ting Ming</td>
     <td>Association of Small Medium Enterprises</td>
   </tr>
@@ -311,16 +311,6 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>                   </td>
     <td>Dr Eunice Pang    </td>
     <td>Health Promotion Board</td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td>Mr Wang Weixiang</td>
-    <td>Ministry of Sustainability and the Environment</td>
-  </tr>
-  <tr>
-    <td>                   </td>
-    <td>Pending    </td>
-    <td>Ministry of Trade and Industry</td>
   </tr>
   <tr>
     <td> </td>
@@ -349,7 +339,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
   </tr>
   <tr>
     <td> </td>
-    <td>Ms Miranda Chen</td>
+    <td>Mr Choong Guo Wei</td>
     <td>TIC Interest Group (Certification)</td>
   </tr>
   <tr>
@@ -363,7 +353,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>TIC Interest Group (Laboratory, Inspection, Certification) </td>
   </tr>
   <tr>
-		<td><b>Secretaries</b></td>
+    <td>Secretaries</td>
     <td>Mr Tan Yee Teck</td>
     <td>SAC Secretariat</td>
   </tr>
