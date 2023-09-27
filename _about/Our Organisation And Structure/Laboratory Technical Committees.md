@@ -204,9 +204,9 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Temasek Polytechnic</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Ms Tracy Toh</td>
-    <td><b>SAC Secretariat</b></td>
+    <td>SAC Secretariat</td>
   </tr>
 </tbody>
 </table>
