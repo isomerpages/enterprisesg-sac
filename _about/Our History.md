@@ -220,6 +220,7 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 <b>10 August:</b> Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels.
 
 <b>24 October:</b> SAC signed the ILAC MRA for Inspection Bodies. <span class="milestone-arrow"></span>
+
 ![SAC signed the ILAC MRA for Inspection Bodies](/images/about/milestone/sac-milestone-2012-10-24.jpg)
 
 
@@ -296,6 +297,11 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 <b>8 June:</b> SAC signed a MOU with Myanmar's Department of Research and Innovation (DRI) and appointed as their partner accreditation body. <span class="milestone-arrow"></span>
 
+
+
+
+
+
 ![2017](/images/press-release/photos/Myanmar-MOU.png)
 
 <b>27 July:</b> SAC signed the IAF MLA for Environmental Management System (EMS).
@@ -305,6 +311,9 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 <b>15 September:</b> Launch of Accreditation Programme for Auditing Organisations.
 
 <b>26 December:</b> Launch of Accreditation Programme for Anti-Bribery Management System Certification.
+
+
+
 
 ![2017](/images/press-release/photos/Myanmar-MOU.png)
 
@@ -318,7 +327,6 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 <b>24 August:</b> Launch of Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body. <span class="milestone-arrow"></span>
 
 ![Launch of Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body.](/images/about/milestone/sac-milestone-2018-08-24.jpg)
-
 
 
 <b>28 September:</b> Launch of Accreditation Programme for Information Security Management System (ISMS) Certification.
