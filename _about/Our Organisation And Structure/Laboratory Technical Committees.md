@@ -206,7 +206,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
   <tr>
     <td>Secretary</td>
     <td>Ms Tracy Toh</td>
-    <td>SAC Secretariat</td>
+    <td><b>SAC Secretariat</b></td>
   </tr>
 </tbody>
 </table>
