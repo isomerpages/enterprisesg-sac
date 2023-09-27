@@ -128,15 +128,11 @@ Scheme for Product Certification Bodies.
  <!-- NOTE: the '{:target="\_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
 
 
-
-
 **2005**
 
 <b>1 January:</b> SAC served as a member of the APLAC Board of Management.    
 
 ![17th APLAC MRA Council Meeting and Board of Management Meeting](/images/about/milestone/sac-milestone-2006-05-22.jpg)
-
-
 
 
 <b>8 March:</b> Launch of Accreditation Programme for Structural Steelwork Inspection.   
@@ -170,7 +166,6 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 <b>5 November:</b> Launch of Accreditation Programme for Cargo Inspection and Medical Imaging.  
 
-
 **2008**
 
 <b>28 April:</b> Launch of Accreditation Programme for Certification of Ready-Mixed Concrete.
@@ -185,7 +180,7 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 <b>1 October:</b> Launch of Gaming Testing Accreditation Programme. <span class="milestone-arrow"></span>      
 
-![2009](/images/about/milestone/sac-milestone-2009-10-01.jpg)
+![aunch of Gaming Testing Accreditation Programme](/images/about/milestone/sac-milestone-2009-10-01.jpg)
 
 
 2010-Present
