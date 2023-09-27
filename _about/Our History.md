@@ -329,8 +329,6 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 <b>12 November:</b> Expanded Product Certification Scheme to include certification of Structural Steelwork Fabricators. 
 
-![2018](/images/about/milestone/sac-milestone-2018-08-24.jpg)
-
 
 **2019**
 
