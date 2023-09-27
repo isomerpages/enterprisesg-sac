@@ -135,11 +135,7 @@ Scheme for Product Certification Bodies.
 
 <b>1 January:</b> SAC served as a member of the APLAC Board of Management.    
 
-![17th APLAC MRA Council Meeting and Board of Management Meeting](/images/about/milestone/sac-milestone-2006-05-22.jpg)
-
-
 <b>8 March:</b> Launch of Accreditation Programme for Structural Steelwork Inspection.   
-
 <b>1 July:</b> Launch of Occupational Safety and Health Management System (OSHMS) Accreditation Programme. 
 
 <b>31 August:</b> Launch of SAC-CAP Joint Accreditation Programme for Medical Testing.    
@@ -149,6 +145,9 @@ Scheme for Product Certification Bodies.
 **2006**
 
 <b>22 - 26 May:</b> SAC hosted the 17th APLAC MRA Council Meeting and Board of Management Meeting. <span class="milestone-arrow"></span>
+
+pic
+
 
 <b>19 October:</b> SAC celebrated its 10th anniversary and 20 years of laboratory accreditation.   
 
