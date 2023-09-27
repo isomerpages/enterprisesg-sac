@@ -300,10 +300,6 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 ![MOU with Myanmar](/images/about/milestone/2017-image.png)
 
 
-
-
-![2017](/images/press-release/photos/Myanmar-MOU.png)
-
 <b>27 July:</b> SAC signed the IAF MLA for Environmental Management System (EMS).
 
 <b>14 August:</b> Launch of Accreditation Programme for Medical Devices Quality Management System (ISO 13485) Certification.
