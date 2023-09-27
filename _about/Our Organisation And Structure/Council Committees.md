@@ -298,12 +298,12 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Mr Jagadish C V</td>
     <td>Singapore Accreditation Council</td>
   </tr>
   <tr>
-    <td>Members</td>
+		<td><b>Members</b></td>
     <td>Mr Ling Ting Ming</td>
     <td>Association of Small Medium Enterprises</td>
   </tr>
@@ -353,7 +353,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>TIC Interest Group (Laboratory, Inspection, Certification) </td>
   </tr>
   <tr>
-    <td>Secretaries</td>
+		<td><b>Secretaries</b></td>
     <td>Mr Tan Yee Teck</td>
     <td>SAC Secretariat</td>
   </tr>
