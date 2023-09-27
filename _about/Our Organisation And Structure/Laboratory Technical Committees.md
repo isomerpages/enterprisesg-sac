@@ -30,7 +30,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td></td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td><b>Members</b></td>
     <td>Dr Yet Nai Song</td>
     <td>Building and Construction Authority</td>
     <td></td>
@@ -93,7 +93,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td></td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Mr Tan Kee Sing</td>
     <td>SAC Secretariat</td>
     <td></td>
@@ -129,12 +129,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+    <td><b>Chairman</b></td>
     <td>A/Prof Tham Kwok Wai</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td><b>Members</b></td>
     <td>Ms Janice Mo</td>
     <td>BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory)</td>
   </tr>
