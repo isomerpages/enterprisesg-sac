@@ -97,7 +97,6 @@ SAC signed a Letter of Understanding (LOU) for Technical Cooperation with the Mi
 Scheme for Product Certification Bodies. 
 
 
-
 **2002**  
  
 <b>11 March:</b> SAC signed the MLA with International Auditor and Training Certification Association (IATCA) for QMS Auditor Registration.
