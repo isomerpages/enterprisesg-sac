@@ -288,7 +288,6 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 <b>27 July:</b> SAC celebrated 30 years of the Singapore Accreditation Programme. <span class="milestone-arrow"></span>    
 
-![2016](/images/press-release/photos/Quality-and-Standards-Dinner.jpg)
 
 
 **2017**
@@ -317,6 +316,10 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 <b>2 April:</b> Merger of IE Singapore and SPRING to form Enterprise Singapore.
 
 <b>24 August:</b> Launch of Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body. <span class="milestone-arrow"></span>
+
+![Launch of Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body.](/images/about/milestone/sac-milestone-2018-08-24.jpg)
+
+
 
 <b>28 September:</b> Launch of Accreditation Programme for Information Security Management System (ISMS) Certification.
 
