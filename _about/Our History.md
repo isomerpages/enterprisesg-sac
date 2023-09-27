@@ -42,6 +42,11 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 <b>19 November:</b> SINGLAS becomes one of the inaugural signatories of the APLAC MRA. <span class="milestone-arrow"></span> 
 
+![signatories of the APLAC MRA](/images/about/milestone/sac-milestone-1997-11-19.jpg)
+
+
+
+
 **1998**
 
 <b>1 April:</b> SINGLAS was transferred from the then Singapore Productivity and Standards Board (PSB) to SAC.  
@@ -68,13 +73,11 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 <b>2 November:</b> SAC signed the inaugural ILAC MRA for laboratory accreditation. <span class="milestone-arrow"></span>  
  
- <!-- NOTE: the '{:target="\_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
- 
- 
  ![LAC MRA for laboratory accreditation](/images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)
  
+ <!-- NOTE: the '{:target="\_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
  
- 
+
 2001-2009
 
 **2001**
@@ -99,6 +102,7 @@ Scheme for Product Certification Bodies.
 <b>1 April:</b> SAC was transferred to the Standards, Productivity and Innovation Board (SPRING Singapore). 
 
 <b>29 August:</b> SAC signed the Agreement for Joint Accreditation of Medical Laboratories with the College of American Pathologists. <span class="milestone-arrow"></span> 
+
 
 ![2002](/images/about/milestone/sac-milestone-2002-08-29.jpg)
 
