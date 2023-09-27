@@ -31,8 +31,6 @@ SAC signed a Memorandum of Understanding (MOU) with Singapore Polytechnic (SP) a
 
 ![MOU with SP](/images/press-release/photos/MOU-with-SP.jpg)
 
-
-!\[Photo of MoU signing with SP\]({{page.imgFolderPath}}MOU-with-SP.jpg)
  
 ### LOU for Technical Cooperation with Brunei Darussalam
 
