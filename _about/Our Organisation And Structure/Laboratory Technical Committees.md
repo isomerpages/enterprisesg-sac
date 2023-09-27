@@ -104,8 +104,8 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-|  Chairman | Mr Tan Kheam Hock | Nanyang Polytechnic (NYP)|
-|  Members  | Dr Yet Nai Song | Building and Construction Authority |
+|  **Chairman** | Mr Tan Kheam Hock | Nanyang Polytechnic (NYP)|
+|  **Members**  | Dr Yet Nai Song | Building and Construction Authority |
 | | Mr Teo Chye Heng | Civil Aviation Authority of Singapore (CAAS) |
 | | Dr. Lim See Yew | Institute of Technical Education (ITE) |
 | | A/Prof Murukeshan Vadakke Matham | Nanyang Technological University (NTU) |
@@ -114,7 +114,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | A/P Edmund Liew Chin Kian | Singapore Institute of Technology (SIT) |
 | | Mr Elton Tong | Singapore Manufacturing Federation (SMF) |
 | | Mr Tan Heng Khoon | Singapore Manufacturing Federation (SMF) |
-|  Secretary | Mr Tan Kee Sing | SAC Secretariat |
+|  **Secretary** | Mr Tan Kee Sing | SAC Secretariat |
 
 ## Chemical &amp; Biological Sciences
 ### Term : 1 July 2021 - 30 June 2024
