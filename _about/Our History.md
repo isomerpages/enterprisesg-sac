@@ -34,8 +34,6 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
 ![SAC signed the ILAC MRA for Inspection Bodies](/images/about/milestone/sac-milestone-2012-10-24.jpg)
 
 
-
-
 Launch of Accreditation Programme for Quality Management System (QMS) Certification.
 
 
@@ -215,11 +213,17 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 <b>3 July:</b> Launch of Accreditation Programme for Energy Management System (EnMS) Certification.
 
+
+![SAC signed the ILAC MRA for Inspection Bodies](/images/about/milestone/sac-milestone-2013-08-14.jpg)
+
+
 <b>10 August:</b> Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels.
 
 <b>24 October:</b> SAC signed the ILAC MRA for Inspection Bodies. <span class="milestone-arrow"></span>
+![SAC signed the ILAC MRA for Inspection Bodies](/images/about/milestone/sac-milestone-2012-10-24.jpg)
 
-![2012](images/about/milestone/sac-milestone-2012-10-24.jpg)
+
+
 
 
 **2013**
@@ -234,9 +238,11 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 Launch of Accreditation Scheme for Personnel Certification. <span class="milestone-arrow"></span>
 
+![Launch of Accreditation Scheme for Personnel Certification.](/images/about/milestone/sac-milestone-2013-08-14.jpg)
+
+
 SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.
 
-![2013](/images/about/milestone/sac-milestone-2013-08-14.jpg)
 
 
 **2014**
