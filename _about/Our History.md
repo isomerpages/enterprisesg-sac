@@ -22,6 +22,9 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
 
 <b>29 January:</b> Signing of bilateral agreements with National Accreditation for Testing Authorities (NATAS) Australia, Telerc (now called International Accreditation New Zealand, IANZ), American Association for Laboratory Accreditation (A2LA) &amp; Hong Kong Laboratory Accreditation Scheme (HOKLAS) for laboratory accreditation.
 
+![Signing of bilateral agreements with National Accreditation for Testing Authorities](/images/about/milestone/sac-milestone-1996-10-11.jpg)
+
+
 <b>2 February:</b> Singlas hosted APLAC 1st General Assembly.
 
 <b>11 October:</b> 1st SAC Council was appointed. <span class="milestone-arrow"></span>
@@ -29,8 +32,6 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
 <b>24 October:</b> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI).
 
 Launch of Accreditation Programme for Quality Management System (QMS) Certification.
-
-![1996](/images/about/milestone/sac-milestone-1996-10-11.jpg)
 
 
 
@@ -41,10 +42,6 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 
 <b>19 November:</b> SINGLAS becomes one of the inaugural signatories of the APLAC MRA. <span class="milestone-arrow"></span> 
-
-![signatories of the APLAC MRA](/images/about/milestone/sac-milestone-1997-11-19.jpg)
-
-
 
 
 **1998**
@@ -87,6 +84,10 @@ arrow"></span>
 
 SAC signed a Letter of Understanding (LOU) for Technical Cooperation with the Ministry of Development, Brunei Darussalam.  
 
+![LOU with Brunei](/images/about/milestone/sac-milestone-2001-04-09.jpg)
+
+
+
 <b>6 September:</b> SAC served as a member of the PAC Executive Committee.  
 
 <b>15 November:</b> Launch of Accreditation 
@@ -99,12 +100,14 @@ Scheme for Product Certification Bodies.
  
 <b>11 March:</b> SAC signed the MLA with International Auditor and Training Certification Association (IATCA) for QMS Auditor Registration.
 
+![MLA with (IATCA](/images/about/milestone/sac-milestone-2002-08-29.jpg)
+
+
+
 <b>1 April:</b> SAC was transferred to the Standards, Productivity and Innovation Board (SPRING Singapore). 
 
 <b>29 August:</b> SAC signed the Agreement for Joint Accreditation of Medical Laboratories with the College of American Pathologists. <span class="milestone-arrow"></span> 
 
-
-![2002](/images/about/milestone/sac-milestone-2002-08-29.jpg)
 
 **2003**
 
