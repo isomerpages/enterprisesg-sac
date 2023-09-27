@@ -110,10 +110,15 @@ Scheme for Product Certification Bodies.
 
 <b>6 - 10 September:</b> SAC hosted the 10th IATCA Plenary Meeting. <span class="milestone-arrow"></span>
 
+![IATCA Plenary Meeting](/images/about/milestone/sac-milestone-2004-10-06.jpg)
+
+
+
 
  <!-- NOTE: the '{:target="\_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
 
- ![2004](/images/about/milestone/sac-milestone-2004\-10\-06.jpg)
+
+
 
 **2005**
 
