@@ -11,7 +11,10 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
 
 **1986**
 
-![1986](/images/about/milestone/sac-milestone-1986-11.jpg)
+
+![SISIR](/images/about/milestone/sac-milestone-1986-11.jpg)
+
+
 
 <b>November:</b> The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR).
 
