@@ -211,6 +211,26 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </tbody>
 </table>
 
+| Designation | Name | Organisation |
+|-------------|------|--------------|
+|  Chairman  | A/Prof Tham Kwok Wai | National University of Singapore |
+| Members  | Ms Janice Mo  | BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory) |
+| | Mr Jonathan Goh Peng Teck | Environmental Engineering Society of Singapore |
+| | Dr Liu Qinde | Health Sciences Authority |
+| | Ms Evelyn Koh Poh Cheng | Ministry of Manpower |
+| | Ms Nuraini Supaat | National Environment Agency |
+| | Dr Zhang Lifeng | Public Utilities Board |
+| | Mr Eric Kwek	| Republic Polytechnic |
+| | Dr Wu Yuanshang | Singapore Food Agency |
+| | Dr Yoganathan s/o Kanagasundaram | Singapore Institute of Food and Biotechnology Innovation |
+| | Mr Richard Khaw | Singapore Institute of Food Science &amp; Technology |
+| | Mr Yap Jian Jie | Singapore Manufacturing Federation – TIC Interest Group |
+| | Ms Ng Su Ling | Singapore Polytechnic |
+| | A/Prof Chu Jang Hann, Justin | Singapore Society for Microbiology &amp; Biotechnology |
+| | Dr Leong Meng Fatt | Temasek Polytechnic |
+|  Secretary  | Ms Tracy Toh | SAC Secretariat |
+
+
 ## Electrical &amp; Infocomm Technology
 ### Term : 1 July 2021 - 30 June 2024 
 
