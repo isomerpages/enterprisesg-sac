@@ -13,7 +13,7 @@ Often during the accreditation process, organisations that embrace quality will 
 
 Our valued Customers and Stakeholders share their congratulatory messages here, as we mark the 10th anniversary of the SAC and 20th anniversary of accreditation in Singapore.
 
-![Analabs Logo](/images/success-stories/analab-logo.png) Analytical Laboratories (Singapore) Pte Ltd
+![ANALABS](/images/analabs.jpg)
 
 "By getting accredited, ANALABS has gained international acceptance of our test results through various Mutual Recognition Arrangements among accreditation bodies. This has greatly enhanced the credibility of our operations."
 
