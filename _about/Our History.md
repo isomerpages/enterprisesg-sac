@@ -189,6 +189,11 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 <b>13 January:</b> The Singapore GLP Compliance Programme was admitted to OECD Mutual Acceptance of Data. <span class="milestone-arrow"></span>
 
+![he Singapore GLP Compliance Programme](/images/about/milestone/sac-milestone-2010-01-13.jpg)
+
+
+
+
 <b>6 April:</b> Launch of Accreditation Programme for Business Continuity Management (BCM) Certification.
 
 <b>25 May:</b> Launch of Functional Food Testing Accreditation Programme.
