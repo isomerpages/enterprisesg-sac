@@ -144,8 +144,7 @@ Scheme for Product Certification Bodies.
 
 <b>22 - 26 May:</b> SAC hosted the 17th APLAC MRA Council Meeting and Board of Management Meeting. <span class="milestone-arrow"></span>
 
-pic
-
+![2006](/images/about/milestone/sac-milestone-2006-05-22.jpg)
 
 <b>19 October:</b> SAC celebrated its 10th anniversary and 20 years of laboratory accreditation.   
 
@@ -153,7 +152,6 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 <b>19 December:</b> SAC signed the PAC MLA for Product Certifcation.   
 
-![2006](/images/about/milestone/sac-milestone-2006-05-22.jpg)
 
 
 **2007**
