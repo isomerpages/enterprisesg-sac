@@ -233,20 +233,20 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-|  Chairman  | A/Prof Low Chian Ming | National University of Singapore |
-|  Members  | Professor Andre Choo  | A\*Star, Biomedical Research Council (BRC) |
+|  **Chairman**  | A/Prof Low Chian Ming | National University of Singapore |
+|  **Members**  | Professor Andre Choo  | A\*Star, Biomedical Research Council (BRC) |
 | | Dr Koou Sin Ying <br>Dr Fang Zhanxiong | National Environment Agency<br>(Taxanomy &amp; Pesticide Efficacy)<br>(Chemcal Assessment &amp; Toxicology) |
 | | Ms Peggy Chew | Singapore Food Agency |
 | | Assoc Prof Wong Boon Seng  | Singapore Institute of Technology |
-|  Secretary | Ms Ho Phuy Bee | SAC Secretariat |
+|  **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
 
 ## Medical Testing
 ### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-|  Chairman  | A/Prof Raymond Lin | Ministry of Health |
-|  Members  | Dr Jacqueline Hwang | Academy of Medicine |
+|  **Chairman**  | A/Prof Raymond Lin | Ministry of Health |
+|  **Members**  | Dr Jacqueline Hwang | Academy of Medicine |
 | | Dr. Shirlena Soh | Association of Biomedical Laboratory Professionals Singapore |
 | | Dr Ang Ai Leen | Health Sciences Authority |
 | | Dr Tan Hong Wui | Innoquest Diagnostics Pte Ltd (Representative for Accredited Facility)|
@@ -259,15 +259,15 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Dr Jacqueline Hwang | Singapore Health Services |
 | | Dr Ho Liam Pock | Singapore Health Services |
 | | Dr Sharon Saw | Singapore Association of Clinical Biochemists |
-|  Secretary  | Ms Alicia Choong | SAC Secretariat |
+|  **Secretary**  | Ms Alicia Choong | SAC Secretariat |
 
 ## Medical Imaging
 ### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-|  Chairman  | A/ Prof Chong Bee Kiang | National Healthcare Group |
-|  Members  | Dr Steven Wong | Academy of Medicine |
+|  **Chairman**  | A/ Prof Chong Bee Kiang | National Healthcare Group |
+|  **Members**  | Dr Steven Wong | Academy of Medicine |
 | | Dr Hoo Wee Teck | National Environment Agency |
 | | Dr Tan Soo See, Susanna | National Healthcare Group |
 | | Dr Tyrone Goh | National Healthcare Group Diagnostics (Representative for Accredited Facility)|
@@ -276,15 +276,15 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Dr Teoh Wey Chyi | Singapore Radiological Society |
 | | Ms Denise Choong | Singapore Society of Radiographers |
 | | Dr Cheryl Lian | Society of Medical Physicists Singapore |
-|  Secretary  | Mr Tom Yen | SAC Secretariat |
+|  **Secretary**  | Mr Tom Yen | SAC Secretariat |
 
 ## Physical Engineering
 ### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-|  Chairman  | Er Lung Hian Hao | Building &amp; Construction Authority |
-|  Members | Er Loo Say Kian | Housing &amp; Development Board|
+|  **Chairman**  | Er Lung Hian Hao | Building &amp; Construction Authority |
+|  **Members** | Er Loo Say Kian | Housing &amp; Development Board|
 | | Mr Goh Chin Keong | Ministry of Manpower |
 | | Dr Wu Wei | Nanyang Technological University |
 | | Dr Babu Sajeesh Kumar | Nom-Destructive Testing Society (Singapore) |
@@ -294,4 +294,4 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Dr Lee Kim Kheng | Singapore Polytechnic |
 | | Mr Sze Thiam Siong | Singapore Welding Society |
 | | Dr Ang Choon Keat | The Institution of Engineers, Singapore |
-|  Secretary  | Mr Chong Yong Hui | SAC Secretariat |
+|  **Secretary**  | Mr Chong Yong Hui | SAC Secretariat |
