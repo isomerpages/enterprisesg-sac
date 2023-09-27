@@ -32,6 +32,63 @@ The following SAC accreditation schemes are applicable to the Construction and B
 </thead>
 <tbody>
   <tr>
+    <td rowspan="5">Laboratories (SAC-SINGLAS)<br><br><br><br><br><br><br><br><br><br></td>
+    <td>Calibration &amp; Measurement</td>
+  </tr>
+  <tr>
+    <td>Chemical &amp; Biological</td>
+  </tr>
+  <tr>
+    <td>Civil Engineering</td>
+  </tr>
+  <tr>
+    <td>Environmental Testing</td>
+  </tr>
+  <tr>
+    <td>Non-destructive Testing</td>
+  </tr>
+  <tr>
+    <td rowspan="7">Management Systems Certification Bodies<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td>Auditing Organisation</td>
+  </tr>
+  <tr>
+    <td>Business Continuity Management</td>
+  </tr>
+  <tr>
+    <td>Environmental Management System</td>
+  </tr>
+  <tr>
+    <td>Energy Management System</td>
+  </tr>
+  <tr>
+    <td>Learning Service Providers</td>
+  </tr>
+  <tr>
+    <td>Occupational Safety &amp; Health Management System</td>
+  </tr>
+  <tr>
+    <td>Quality Management System</td>
+  </tr>
+  <tr>
+    <td>Personnel Certification Bodies</td>
+    <td>Certified Personnel (NDT)</td>
+  </tr>
+</tbody>
+</table>
+
+
+___
+
+
+<table>
+<thead>
+  <tr>
+    <th>Scheme</th>
+    <th>Field</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
     <td rowspan="5">Laboratories (SAC-SINGLAS)<br></td>
     <td>Calibration &amp; Measurement</td>
   </tr>
