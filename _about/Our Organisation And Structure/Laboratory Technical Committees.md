@@ -23,7 +23,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+    <td><b>Chairman</b></td>
     <td>Mr Tan Kheam Hock</td>
     <td>Individual Capacity</td>
     <td></td>
