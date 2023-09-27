@@ -340,9 +340,6 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 ![Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meeting](/images/about/milestone/sac-milestone-2019-06-14.jpg)
 
-
-
-
 <b>17 June:</b> Launch of Programme for Endorsement of Forest Certification (PEFC) - Chain of Custody Certification.
 
 <b>26 June:</b> SAC was admitted to APAC MRA for Medical Device - Quality Management System, Occupational Health &amp; Safety Management System and Information Security Management System.
