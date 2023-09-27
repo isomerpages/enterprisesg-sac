@@ -216,8 +216,8 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| Chairman  | Er Lim Say Leong | The Institution of Engineers, Singapore (IES) |
-|  Members | Mr Tony Low | Association of Information Security Professionals (AiSP) |
+| **Chairman**  | Er Lim Say Leong | The Institution of Engineers, Singapore (IES) |
+|  **Members** | Mr Tony Low | Association of Information Security Professionals (AiSP) |
 | | Mr Moosad Sreedharan | BMM Compliance Singapore Pte Ltd |
 | | Mr Ng Soo Horng | Gambling Regulatory Authority (GRA) |
 | | Mr Robert Lee Zhi Qing | Cyber Security Agency |
@@ -226,7 +226,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 | | Er Teh Cheong Foo | Housing &amp; Development Board |
 | | Prof. Ian Mcloughlin | Singapore Institute of Technology (SIT) |
 | | Dr. Pablo Valdivia | Singapore University of Technology Design (SUTD)  |
-|  Secretary  | Mr Gerald See Toh | SAC Secretariat |
+|  **Secretary**  | Mr Gerald See Toh | SAC Secretariat |
 
 ## Good Laboratory Practice
 ### Term : 1 July 2021 - 30 June 2024
