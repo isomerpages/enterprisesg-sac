@@ -297,7 +297,7 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 <b>8 June:</b> SAC signed a MOU with Myanmar's Department of Research and Innovation (DRI) and appointed as their partner accreditation body. <span class="milestone-arrow"></span>
 
-
+![MOU with Myanmar](/images/about/milestone/2017-image.png)
 
 
 
