@@ -275,6 +275,7 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 <b>13 August:</b> SAC signed a MOU with the Chemical Metrology Division (CMD) of Health Sciences Authority for closer collaboration.
 
 <b>5 November:</b> SAC signed the IAF MLA for Food Safety Management System (FSMS). <span class="milestone-arrow"></span>
+
 ![AC signed the IAF MLA for Food Safety Management System (FSMS).](/images/about/milestone/sac-milestone-2015-11-05.jpg)
 
 
