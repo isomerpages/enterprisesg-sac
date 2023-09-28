@@ -130,14 +130,14 @@ Scheme for Product Certification Bodies.
 <b>1 July:</b> Launch of Occupational Safety and Health Management System (OSHMS) Accreditation Programme. 
 
 <b>31 August:</b> Launch of SAC-CAP Joint Accreditation Programme for Medical Testing.    
-
 <b>9 September:</b> Launch of HAACP-based Food Management System Accreditation Programme.
- 
+
+
 **2006**
 
 <b>22 - 26 May:</b> SAC hosted the 17th APLAC MRA Council Meeting and Board of Management Meeting. <span class="milestone-arrow"></span>
 
-![2006](/images/about/milestone/sac-milestone-2006-05-22.jpg)
+![17th APLAC MRA Coucil Meeting](/images/about/milestone/sac-milestone-2006-05-22.jpg)
 
 <b>19 October:</b> SAC celebrated its 10th anniversary and 20 years of laboratory accreditation.   
 
