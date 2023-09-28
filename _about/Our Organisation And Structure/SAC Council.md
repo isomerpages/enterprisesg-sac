@@ -148,37 +148,14 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Mr Tan Yee Teck</td>
     <td>SAC Secretariat</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
 
 
 
 
-
-
-| Designation	| Name	| Organisation |
-|-------------|-------|--------------|
-| **Deputy Chairmen** | Mr Jagadish CV | Advanced Micro Foundry Pte Ltd |
-| | Mr Amos Leong | MiRXES Pte Ltd |
-| **Members** | Pending | Association of Singapore Marine Industries (ASMI) |
-| | Er Thanabal Kaliannan<br>(Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
-| | Dr Teo Tang Lin | Health Sciences Agency (HSA) |
-| | A/Prof Raymond Chua | Ministry of Health (MOH) |
-| | Mr Silas Sng Wee Kiat | Ministry of Manpower (MOM) |
-| | Mr Adrian Ng<br>(Alternate: Mr Yap Jun Hong)  | Ministry of Trade and Industry (MTI) |
-| | Mr Dalson Chung<br>(Alternate: Ms Evon Wong) | National Environment Agency (NEA) |
-| | Dr Leslie Retnam | National University of Singapore (NUS)|
-| | Ms Siew Kum Fong | Singapore Business Federation (SBF) |
-| | Mr Desmond Hill<br>(Alternate: Ms Louise Chua) | Singapore Contractors Association Ltd (SCAL) |
-| | Dr Tan Lee Kim | Singapore Food Agency (SFA) |
-| | Ms Yvonne Soh | Singapore Green Building Council (SGBC) |
-| | Ms Joyce Seow | Singapore Manufacturing Federation (SMF) |
-| | Mr Sze Thiam Siong | Singapore Manufacturing Federation (SMF) - TIC<br>Interest Group : Inspection Bodies' Representative |
-| | Mr Elton Tong Joo Beng | Singapore Manufacturing Federation (SMF) - TIC<br>Interest Group: Laboratories' Representative |
-| | Mr Ng Teck Soon | Singapore Precision Engineering and Technology Association (SPETA) |
-| | Pending | Smart Nation and Digital Government Office (SNDGO)|
-| | Dr Teo Tee Hui | The Institution of Engineers, Singapore (IES) |
-| | Mr Allan Lim | Individual Capacity (Food and Agriculture) |
-| | Mr Alex Budiman | Individual Capacity (Medical and Healthcare) |
-| | Mr Joseph Gan  | Individual Capacity (Digitalisation and Cybersecurity) |
-| **Secretary** | Mr Tan Yee Teck | SAC Secretariat |
