@@ -192,7 +192,77 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ## Electrical &amp; Infocomm Technology
 ### Term : 1 July 2021 - 30 June 2024 
 
-
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Er Lim Say Leong</td>
+    <td>The Institution of Engineers, Singapore (IES)</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Mr Tony Low</td>
+    <td>Association of Information Security Professionals (AiSP)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Moosad Sreedharan</td>
+    <td>BMM Compliance Singapore Pte Ltd</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Ng Soo Horng</td>
+    <td>Gambling Regulatory Authority (GRA)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Robert Lee Zhi Qing</td>
+    <td>Cyber Security Agency</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Lim Yong Ping</td>
+    <td>Energy Market Authority (EMA)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Dominic Chan</td>
+    <td>Government Technology Agency (GovTech)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Er Teh Cheong Foo</td>
+    <td>Housing &amp; Development Board</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Prof. Ian Mcloughlin</td>
+    <td>Singapore Institute of Technology (SIT)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr. Pablo Valdivia</td>
+    <td>Singapore University of Technology Design (SUTD)</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr Gerald See Toh</td>
+    <td>SAC Secretariat</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 
 
@@ -215,5 +285,3 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 ## Physical Engineering
 ### Term : 1 July 2021 - 30 June 2024
-
-
