@@ -21,12 +21,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Mr Tan Kheam Hock</td>
     <td>Individual Capacity</td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td><b>Members</b></td>
     <td>Dr Yet Nai Song</td>
     <td>Building and Construction Authority</td>
   </tr>
@@ -71,7 +71,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Singapore Manufacturing Federation (SMF)</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Mr Tan Kee Sing</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -100,12 +100,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+    <td><b>Chairman</b></td>
     <td>A/Prof Tham Kwok Wai</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td><b>Members</b></td>
     <td>Ms Janice Mo</td>
     <td>BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory)</td>
   </tr>
@@ -175,7 +175,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Temasek Polytechnic</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Ms Tracy Toh</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -202,12 +202,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+    <td><b>Chairman</b></td>
     <td>Er Lim Say Leong</td>
     <td>The Institution of Engineers, Singapore (IES)</td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td><b>Members</b></td>
     <td>Mr Tony Low</td>
     <td>Association of Information Security Professionals (AiSP)</td>
   </tr>
@@ -252,9 +252,9 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Singapore University of Technology Design (SUTD)</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Mr Gerald See Toh</td>
-    <td>SAC Secretariat</td>
+    <td><b>SAC Secretariat</b></td>
   </tr>
   <tr>
     <td></td>
@@ -280,12 +280,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+    <td><b>Chairman</b></td>
     <td>A/Prof Low Chian Ming</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td><b>Members</b></td>
     <td>Professor Andre Choo</td>
     <td>A*Star, Biomedical Research Council (BRC)</td>
   </tr>
@@ -305,7 +305,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Singapore Institute of Technology</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Ms Ho Phuy Bee</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -327,12 +327,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+    <td><b>Chairman</b></td>
     <td>A/Prof Raymond Lin</td>
     <td>Ministry of Health</td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td><b>Members</b></td>
     <td>Dr Jacqueline Hwang</td>
     <td>Academy of Medicine</td>
   </tr>
@@ -397,7 +397,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Singapore Association of Clinical Biochemists</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Ms Alicia Choong</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -424,12 +424,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+    <td><b>Chairman</b></td>
     <td>A/ Prof Chong Bee Kiang</td>
     <td>National Healthcare Group</td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td><b>Members</b></td>
     <td>Dr Steven Wong</td>
     <td>Academy of Medicine</td>
   </tr>
@@ -474,7 +474,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Society of Medical Physicists Singapore</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Mr Tom Yen</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -501,12 +501,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+    <td><b>Chairman</b></td>
     <td>Er Lung Hian Hao</td>
     <td>Building &amp; Construction Authority</td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td><b>Members</b></td>
     <td>Er Loo Say Kian</td>
     <td>Housing &amp; Development Board</td>
   </tr>
@@ -556,7 +556,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>The Institution of Engineers, Singapore</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Mr Chong Yong Hui</td>
     <td>SAC Secretariat</td>
   </tr>
