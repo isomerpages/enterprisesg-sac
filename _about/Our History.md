@@ -98,13 +98,14 @@ Scheme for Product Certification Bodies.
  
 <b>11 March:</b> SAC signed the MLA with International Auditor and Training Certification Association (IATCA) for QMS Auditor Registration.
 
-![MLA with (IATCA](/images/about/milestone/sac-milestone-2002-08-29.jpg)
-
-
-
 <b>1 April:</b> SAC was transferred to the Standards, Productivity and Innovation Board (SPRING Singapore). 
 
 <b>29 August:</b> SAC signed the Agreement for Joint Accreditation of Medical Laboratories with the College of American Pathologists. <span class="milestone-arrow"></span> 
+
+
+![Joint Accreditation with Medical Labs](/images/about/milestone/sac-milestone-2002-08-29.jpg)
+
+
 
 
 **2003**
