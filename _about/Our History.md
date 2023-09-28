@@ -29,9 +29,6 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
 
 <b>24 October:</b> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI).
 
-![SAC signed the ILAC MRA for Inspection Bodies](/images/about/milestone/sac-milestone-2012-10-24.jpg)
-
-
 Launch of Accreditation Programme for Quality Management System (QMS) Certification.
 
 
