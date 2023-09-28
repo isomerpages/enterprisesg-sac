@@ -196,85 +196,24 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 
 
-
-| Designation | Name | Organisation |
-|-------------|------|--------------|
-| **Chairman**  | Er Lim Say Leong | The Institution of Engineers, Singapore (IES) |
-|  **Members** | Mr Tony Low | Association of Information Security Professionals (AiSP) |
-| | Mr Moosad Sreedharan | BMM Compliance Singapore Pte Ltd |
-| | Mr Ng Soo Horng | Gambling Regulatory Authority (GRA) |
-| | Mr Robert Lee Zhi Qing | Cyber Security Agency |
-| | Mr Lim Yong Ping | Energy Market Authority (EMA) |
-| | Mr Dominic Chan | Government Technology Agency (GovTech) |
-| | Er Teh Cheong Foo | Housing &amp; Development Board |
-| | Prof. Ian Mcloughlin | Singapore Institute of Technology (SIT) |
-| | Dr. Pablo Valdivia | Singapore University of Technology Design (SUTD)  |
-|  **Secretary**  | Mr Gerald See Toh | SAC Secretariat |
-
 ## Good Laboratory Practice
 ### Term : 1 July 2021 - 30 June 2024
 
-| Designation | Name | Organisation |
-|-------------|------|--------------|
-|  **Chairman**  | A/Prof Low Chian Ming | National University of Singapore |
-|  **Members**  | Professor Andre Choo  | A\*Star, Biomedical Research Council (BRC) |
-| | Dr Koou Sin Ying <br>Dr Fang Zhanxiong | National Environment Agency<br>(Taxanomy &amp; Pesticide Efficacy)<br>(Chemcal Assessment &amp; Toxicology) |
-| | Ms Peggy Chew | Singapore Food Agency |
-| | Assoc Prof Wong Boon Seng  | Singapore Institute of Technology |
-|  **Secretary** | Ms Ho Phuy Bee | SAC Secretariat |
+
+
 
 ## Medical Testing
 ### Term : 1 July 2021 - 30 June 2024
 
-| Designation | Name | Organisation |
-|-------------|------|--------------|
-|  **Chairman**  | A/Prof Raymond Lin | Ministry of Health |
-|  **Members**  | Dr Jacqueline Hwang | Academy of Medicine |
-| | Dr. Shirlena Soh | Association of Biomedical Laboratory Professionals Singapore |
-| | Dr Ang Ai Leen | Health Sciences Authority |
-| | Dr Tan Hong Wui | Innoquest Diagnostics Pte Ltd (Representative for Accredited Facility)|
-| | Dr Lucy Leong | Ministry of Manpower |
-| | A/Prof Leong Khai Pang | National Healthcare Group |
-| | A/Prof Partha Pratim | National Healthcare Group |
-| | Dr Nancy Tee | National University Health System |
-| | Dr Benedict Yan | National University Health System |
-| | Ms Serene Kho | National Healthcare Group Diagnostics (Representative for Accredited Facility) |
-| | Dr Jacqueline Hwang | Singapore Health Services |
-| | Dr Ho Liam Pock | Singapore Health Services |
-| | Dr Sharon Saw | Singapore Association of Clinical Biochemists |
-|  **Secretary**  | Ms Alicia Choong | SAC Secretariat |
+
+
 
 ## Medical Imaging
 ### Term : 1 July 2021 - 30 June 2024
 
-| Designation | Name | Organisation |
-|-------------|------|--------------|
-|  **Chairman**  | A/ Prof Chong Bee Kiang | National Healthcare Group |
-|  **Members**  | Dr Steven Wong | Academy of Medicine |
-| | Dr Hoo Wee Teck | National Environment Agency |
-| | Dr Tan Soo See, Susanna | National Healthcare Group |
-| | Dr Tyrone Goh | National Healthcare Group Diagnostics (Representative for Accredited Facility)|
-| | Dr Faimee Erwan | National University Health System |
-| | Mr Somanesan Satchithanantham | Singapore Health Services |
-| | Dr Teoh Wey Chyi | Singapore Radiological Society |
-| | Ms Denise Choong | Singapore Society of Radiographers |
-| | Dr Cheryl Lian | Society of Medical Physicists Singapore |
-|  **Secretary**  | Mr Tom Yen | SAC Secretariat |
+|
 
 ## Physical Engineering
 ### Term : 1 July 2021 - 30 June 2024
 
-| Designation | Name | Organisation |
-|-------------|------|--------------|
-|  **Chairman**  | Er Lung Hian Hao | Building &amp; Construction Authority |
-|  **Members** | Er Loo Say Kian | Housing &amp; Development Board|
-| | Mr Goh Chin Keong | Ministry of Manpower |
-| | Dr Wu Wei | Nanyang Technological University |
-| | Dr Babu Sajeesh Kumar | Nom-Destructive Testing Society (Singapore) |
-| | Cpt Teo Mei Tin | Singapore Civil Defence Force |
-| | Ms Sherly Wijaya | Singapore Manufacturing Federation - TIC Interest Group |
-| | Mr Zheng Ming Quan  | Singapore Manufacturing Federation - TIC Interest Group |
-| | Dr Lee Kim Kheng | Singapore Polytechnic |
-| | Mr Sze Thiam Siong | Singapore Welding Society |
-| | Dr Ang Choon Keat | The Institution of Engineers, Singapore |
-|  **Secretary**  | Mr Chong Yong Hui | SAC Secretariat |
+
