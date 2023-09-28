@@ -316,6 +316,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ## Medical Testing
 ### Term : 1 July 2021 - 30 June 2024
 
+
 <table>
 <thead>
   <tr>
@@ -400,8 +401,14 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Ms Alicia Choong</td>
     <td>SAC Secretariat</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
+
 
 
 ## Medical Imaging
