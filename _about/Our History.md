@@ -233,8 +233,7 @@ SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.
 
 <b>25 June:</b> SAC signed the APLAC MRA for Proficiency Testing Providers (PTP). <span class="milestone-arrow"></span>
 
-pic
-
+![APLAC MRA for PTP](/images/about/milestone/aplac%20mra%20for%20%20ptp.jpg)
 
 
 <b>5 August:</b> SAC signed a MOU with Joint Accreditation System of Australia and New Zealand (JAS-ANZ) for closer collaboration.
