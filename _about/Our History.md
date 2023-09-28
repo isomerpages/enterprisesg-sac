@@ -267,8 +267,9 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 <b>16 June:</b> SAC elected to PAC Chairmanship.
 
-<b>27 July:</b> SAC celebrated 30 years of the Singapore Accreditation Programme. <span class="milestone-arrow"></span>    
+<b>27 July:</b> SAC celebrated 30 years of the Singapore Accreditation Programme. <span class="milestone-arrow"></span>  
 
+![30 year of Singapore Accreditation Programme](/images/about/milestone/30%20years%20of%20the%20singapore%20accreditation%20programme.jfif)
 
 
 
