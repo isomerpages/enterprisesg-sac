@@ -102,10 +102,7 @@ Scheme for Product Certification Bodies.
 
 <b>29 August:</b> SAC signed the Agreement for Joint Accreditation of Medical Laboratories with the College of American Pathologists. <span class="milestone-arrow"></span> 
 
-
 ![Joint Accreditation with Medical Labs](/images/about/milestone/sac-milestone-2002-08-29.jpg)
-
-
 
 
 **2003**
@@ -120,8 +117,6 @@ Scheme for Product Certification Bodies.
 <b>6 - 10 September:</b> SAC hosted the 10th IATCA Plenary Meeting. <span class="milestone-arrow"></span>
 
 ![IATCA Plenary Meeting](/images/about/milestone/sac-milestone-2004-10-06.jpg)
-
-
 
 
  <!-- NOTE: the '{:target="\_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
