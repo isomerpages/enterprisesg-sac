@@ -126,11 +126,16 @@ Scheme for Product Certification Bodies.
 
 <b>1 January:</b> SAC served as a member of the APLAC Board of Management.    
 
-<b>8 March:</b> Launch of Accreditation Programme for Structural Steelwork Inspection.   
+
+<b>8 March:</b> Launch of Accreditation Programme for Structural Steelwork Inspection.  
+
 <b>1 July:</b> Launch of Occupational Safety and Health Management System (OSHMS) Accreditation Programme. 
 
+
 <b>31 August:</b> Launch of SAC-CAP Joint Accreditation Programme for Medical Testing.    
+
 <b>9 September:</b> Launch of HAACP-based Food Management System Accreditation Programme.
+
 
 
 **2006**
