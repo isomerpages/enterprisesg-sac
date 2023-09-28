@@ -11,23 +11,21 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
 
 **1986**
 
+<b>November:</b> The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR).
 
 ![SISIR](/images/about/milestone/sac-milestone-1986-11.jpg)
 
-
-
-<b>November:</b> The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR).
 
 **1996**
 
 <b>29 January:</b> Signing of bilateral agreements with National Accreditation for Testing Authorities (NATAS) Australia, Telerc (now called International Accreditation New Zealand, IANZ), American Association for Laboratory Accreditation (A2LA) &amp; Hong Kong Laboratory Accreditation Scheme (HOKLAS) for laboratory accreditation.
 
-![Signing of bilateral agreements with National Accreditation for Testing Authorities](/images/about/milestone/sac-milestone-1996-10-11.jpg)
-
-
 <b>2 February:</b> Singlas hosted APLAC 1st General Assembly.
 
 <b>11 October:</b> 1st SAC Council was appointed. <span class="milestone-arrow"></span>
+
+![1st SAC Council](/images/about/milestone/sac-milestone-1996-10-11.jpg)
+
 
 <b>24 October:</b> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI).
 
