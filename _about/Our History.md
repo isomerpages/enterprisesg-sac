@@ -208,8 +208,6 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 
 
-
-
 **2013**
 
 <b>14 - 15 March:</b> SAC hosted the APLAC Mid-Year Meetings for APLAC MRA Council and Board of Management.
@@ -235,7 +233,7 @@ SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.
 
 <b>25 June:</b> SAC signed the APLAC MRA for Proficiency Testing Providers (PTP). <span class="milestone-arrow"></span>
 
-
+pic
 
 
 
