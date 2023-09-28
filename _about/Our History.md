@@ -62,13 +62,16 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 <b>27 March:</b> SAC signed the Bilateral MRA with the European Co-operation for Accreditation (EA) for laboratory accreditation. <span class="milestone-arrow"></span>  
 
+![Bilateral MRA with EA](/images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)
+
+
 <b>27-28 March:</b> SAC hosted the ILAC Accreditation Policy Committee Meeting.  
 
 <b>2 October:</b> Launch of Registration Scheme for QMS Internal Auditor. 
 
 <b>2 November:</b> SAC signed the inaugural ILAC MRA for laboratory accreditation. <span class="milestone-arrow"></span>  
  
- ![LAC MRA for laboratory accreditation](/images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)
+
  
  <!-- NOTE: the '{:target="\_blank"}' is addede at the end of the Markdown link syntax to open the link in a new window tab -->
  
@@ -81,10 +84,6 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 arrow"></span>  
 
 SAC signed a Letter of Understanding (LOU) for Technical Cooperation with the Ministry of Development, Brunei Darussalam.  
-
-![LOU with Brunei](/images/about/milestone/sac-milestone-2001-04-09.jpg)
-
-
 
 <b>6 September:</b> SAC served as a member of the PAC Executive Committee.  
 
