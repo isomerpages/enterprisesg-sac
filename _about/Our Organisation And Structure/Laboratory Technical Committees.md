@@ -17,90 +17,83 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <th>Designation</th>
     <th>Name</th>
     <th>Organisation</th>
-    <th></th>
-    <th></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>Mr Tan Kheam Hock</td>
     <td>Individual Capacity</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
-    <td><b>Members</b></td>
+    <td>Members</td>
     <td>Dr Yet Nai Song</td>
     <td>Building and Construction Authority</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td> </td>
     <td>Mr Teo Chye Heng</td>
     <td>Civil Aviation Authority of Singapore (CAAS)</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td> </td>
     <td>Dr. Lim See Yew</td>
     <td>Institute of Technical Education (ITE)</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td> </td>
     <td>A/Prof Murukeshan Vadakke Matham</td>
     <td>Nanyang Technological University (NTU)</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td> </td>
     <td>Dr Wang Li</td>
     <td>National Metrology Centre (NMC)</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td> </td>
     <td>Dr. Lin Wei</td>
     <td>Singapore Institute of Manufacturing Technology (SIMTech)</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td> </td>
     <td>A/P Edmund Liew Chin Kian</td>
     <td>Singapore Institute of Technology (SIT)</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td> </td>
     <td>Mr Elton Tong</td>
     <td>Singapore Manufacturing Federation (SMF)</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td> </td>
     <td>Mr Tan Heng Khoon</td>
     <td>Singapore Manufacturing Federation (SMF)</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
-    <td><b>Secretary</b></td>
+    <td>Secretary</td>
     <td>Mr Tan Kee Sing</td>
     <td>SAC Secretariat</td>
+  </tr>
+  <tr>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Chemical &amp; Biological Sciences
 ### Term : 1 July 2021 - 30 June 2024
@@ -199,6 +192,11 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 ## Electrical &amp; Infocomm Technology
 ### Term : 1 July 2021 - 30 June 2024 
+
+
+
+
+
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
