@@ -188,7 +188,6 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 
 
-
 **2011**
 
 <b>1 January:</b> SAC took on the APLAC Chairmanship.
@@ -200,7 +199,6 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 <b>10 May:</b> Launch of Site Investigation (SI) Accreditation Programme.
 
 <b>3 July:</b> Launch of Accreditation Programme for Energy Management System (EnMS) Certification.
-
 
 <b>10 August:</b> Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels.
 
