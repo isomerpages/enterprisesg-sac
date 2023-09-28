@@ -270,6 +270,47 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2021 - 30 June 2024
 
 
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>A/Prof Low Chian Ming</td>
+    <td>National University of Singapore</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Professor Andre Choo</td>
+    <td>A*Star, Biomedical Research Council (BRC)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Fang Zhanxiong</td>
+    <td>National Environment Agency<br>(Chemical Assessment &amp; Toxicology)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Ms Peggy Chew</td>
+    <td>Singapore Food Agency</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Assoc Prof Wong Boon Seng</td>
+    <td>Singapore Institute of Technology</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Ms Ho Phuy Bee</td>
+    <td>SAC Secretariat</td>
+  </tr>
+</tbody>
+</table>
 
 
 ## Medical Testing
