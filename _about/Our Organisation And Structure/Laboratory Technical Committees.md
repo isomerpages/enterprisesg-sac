@@ -86,17 +86,9 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
 
 
-
-
-
-
-
-
-
-
-
 ## Chemical &amp; Biological Sciences
 ### Term : 1 July 2021 - 30 June 2024
+
 
 <table>
 <thead>
@@ -108,12 +100,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>A/Prof Tham Kwok Wai</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td><b>Members</b></td>
+    <td>Members</td>
     <td>Ms Janice Mo</td>
     <td>BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory)</td>
   </tr>
@@ -183,12 +175,19 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Temasek Polytechnic</td>
   </tr>
   <tr>
-    <td><b>Secretary</b></td>
+    <td>Secretary</td>
     <td>Ms Tracy Toh</td>
     <td>SAC Secretariat</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
+
+
 
 ## Electrical &amp; Infocomm Technology
 ### Term : 1 July 2021 - 30 June 2024 
