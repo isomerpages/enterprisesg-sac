@@ -316,7 +316,92 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ## Medical Testing
 ### Term : 1 July 2021 - 30 June 2024
 
-
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>A/Prof Raymond Lin</td>
+    <td>Ministry of Health</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Dr Jacqueline Hwang</td>
+    <td>Academy of Medicine</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr. Shirlena Soh</td>
+    <td>Association of Biomedical Laboratory Professionals Singapore</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Ang Ai Leen</td>
+    <td>Health Sciences Authority</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Tan Hong Wui</td>
+    <td>Innoquest Diagnostics Pte Ltd (Representative for Accredited Facility)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Lucy Leong</td>
+    <td>Ministry of Manpower</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>A/Prof Leong Khai Pang</td>
+    <td>National Healthcare Group</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>A/Prof Partha Pratim</td>
+    <td>National Healthcare Group</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Nancy Tee</td>
+    <td>National University Health System</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Benedict Yan</td>
+    <td>National University Health System</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Ms Serene Kho</td>
+    <td>National Healthcare Group Diagnostics (Representative for Accredited Facility)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Jacqueline Hwang</td>
+    <td>Singapore Health Services</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Ho Liam Pock</td>
+    <td>Singapore Health Services</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Sharon Saw</td>
+    <td>Singapore Association of Clinical Biochemists</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Ms Alicia Choong</td>
+    <td>SAC Secretariat</td>
+  </tr>
+</tbody>
+</table>
 
 
 ## Medical Imaging
