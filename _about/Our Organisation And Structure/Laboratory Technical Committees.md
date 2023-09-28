@@ -414,7 +414,80 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ## Medical Imaging
 ### Term : 1 July 2021 - 30 June 2024
 
-|
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>A/ Prof Chong Bee Kiang</td>
+    <td>National Healthcare Group</td>
+  </tr>
+  <tr>
+    <td>Members</td>
+    <td>Dr Steven Wong</td>
+    <td>Academy of Medicine</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Hoo Wee Teck</td>
+    <td>National Environment Agency</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Tan Soo See, Susanna</td>
+    <td>National Healthcare Group</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Tyrone Goh</td>
+    <td>National Healthcare Group Diagnostics (Representative for Accredited Facility)</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Faimee Erwan</td>
+    <td>National University Health System</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Mr Somanesan Satchithanantham</td>
+    <td>Singapore Health Services</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Teoh Wey Chyi</td>
+    <td>Singapore Radiological Society</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Ms Denise Choong</td>
+    <td>Singapore Society of Radiographers</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>Dr Cheryl Lian</td>
+    <td>Society of Medical Physicists Singapore</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr Tom Yen</td>
+    <td>SAC Secretariat</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>|
+
+
+
 
 ## Physical Engineering
 ### Term : 1 July 2021 - 30 June 2024
