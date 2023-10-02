@@ -94,13 +94,13 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Er Dr Tran Chi Trung</td>
     <td>Building and Construction Authority</td>
   </tr>
   <tr>
-    <td rowspan="10">Members</td>
-    <td>Mr Murugesu Sivakurmaran</td>
+    <td rowspan="10"><b>Members
+    </b></td><td>Mr Murugesu Sivakurmaran</td>
     <td>Association of Consulting Engineers Singapore</td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
     <td>The Institution of Engineers, Singapore</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+    <td><b>Secretary</b></td>
     <td>Mr Chong Yong Hui</td>
     <td>SAC Secretariat</td>
   </tr>
