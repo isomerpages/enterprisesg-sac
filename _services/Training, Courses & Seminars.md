@@ -5,7 +5,7 @@ description: ""
 ---
 ### Training Calendar 2023
 
-<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=8b8f381b96e20d6723b53ef8e2de149e5902c6515d55c9fd9728f4e388158776%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;showCalendars=0&amp;mode=AGENDA&amp;src=OGI4ZjM4MWI5NmUyMGQ2NzIzYjUzZWY4ZTJkZTE0OWU1OTAyYzY1MTVkNTVjOWZkOTcyOGY0ZTM4ODE1ODc3NkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23E4C441&amp;color=%230B8043"></iframe>
 
 ### Training Programmes
 
