@@ -2,9 +2,9 @@ collections:
   services:
     output: true
     order:
-      - Training, Courses & Seminars/Test Course 1.md
-      - Training, Courses & Seminars/Overview.md
       - Training, Courses & Seminars/.keep
+      - Training, Courses & Seminars/Overview.md
+      - Training, Courses & Seminars/Test Course 1.md
       - Accreditation Services/.keep
       - Accreditation Services/Overview.md
       - Accreditation Services/Auditing Organisations.md
