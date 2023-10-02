@@ -38,4 +38,4 @@ For more information on the course details, please click on the options below:
 
 For enquiries on training courses, please refer to the contact details within the respective training links/materials.
 
-**[Test Course 1]**(/services/training/course-1/)
+[**Test Course 1**<br>27-28 Feb](/services/training/course-1/)
