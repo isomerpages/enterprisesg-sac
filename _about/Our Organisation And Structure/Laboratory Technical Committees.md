@@ -256,22 +256,19 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td>Members</td>
+    <td rowspan="4">Members</td>
     <td>Professor Andre Choo</td>
     <td>A*Star, Biomedical Research Council (BRC)</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Fang Zhanxiong</td>
     <td>National Environment Agency<br>(Chemical Assessment &amp; Toxicology)</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Ms Peggy Chew</td>
     <td>Singapore Food Agency</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Assoc Prof Wong Boon Seng</td>
     <td>Singapore Institute of Technology</td>
   </tr>
@@ -279,6 +276,11 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Secretary</td>
     <td>Ms Ho Phuy Bee</td>
     <td>SAC Secretariat</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
