@@ -22,12 +22,12 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Mr Chan Yew Kwong</td>
     <td>Workplace Health &amp; Safety Council</td>
   </tr>
   <tr>
-    <td rowspan="10">Members</td>
+		<td rowspan="10"><b>Members</b></td>
     <td>Mr Thomas Chong</td>
     <td>Association of Process Industires</td>
   </tr>
@@ -68,7 +68,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
     <td>Waste Management and Recycling Association of Singapore</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr James Lee</td>
     <td>SAC Secretariat</td>
   </tr>
