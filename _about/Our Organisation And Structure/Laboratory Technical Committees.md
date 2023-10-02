@@ -92,82 +92,69 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>A/Prof Tham Kwok Wai</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td><b>Members</b></td>
+    <td rowspan="14">Members</td>
     <td>Ms Janice Mo</td>
     <td>BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory)</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Jonathan Goh Peng Teck</td>
     <td>Environmental Engineering Society of Singapore</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Liu Qinde</td>
     <td>Health Sciences Authority</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Ms Evelyn Koh Poh Cheng</td>
     <td>Ministry of Manpower</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Ms Nuraini Supaat</td>
     <td>National Environment Agency</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Zhang Lifeng</td>
     <td>Public Utilities Board</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Eric Kwek</td>
     <td>Republic Polytechnic</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Wu Yuanshang</td>
     <td>Singapore Food Agency</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Yoganathan s/o Kanagasundaram</td>
     <td>Singapore Institute of Food and Biotechnology Innovation</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Richard Khaw</td>
     <td>Singapore Institute of Food Science &amp; Technology</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Yap Jian Jie</td>
     <td>Singapore Manufacturing Federation – TIC Interest Group</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Ms Ng Su Ling</td>
     <td>Singapore Polytechnic</td>
   </tr>
   <tr>
-    <td> </td>
     <td>A/Prof Chu Jang Hann, Justin</td>
     <td>Singapore Society for Microbiology &amp; Biotechnology</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Leong Meng Fatt</td>
     <td>Temasek Polytechnic</td>
   </tr>
   <tr>
-    <td><b>Secretary</b></td>
+    <td>Secretary</td>
     <td>Ms Tracy Toh</td>
     <td>SAC Secretariat</td>
   </tr>
