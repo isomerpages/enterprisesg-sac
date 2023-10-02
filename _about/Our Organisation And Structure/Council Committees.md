@@ -279,73 +279,67 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-		<td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>Mr Jagadish C V</td>
     <td>Singapore Accreditation Council</td>
   </tr>
   <tr>
-		<td><b>Members</b></td>
+    <td rowspan="10">Members</td>
     <td>Mr Ling Ting Ming</td>
     <td>Association of Small Medium Enterprises</td>
   </tr>
   <tr>
-    <td>                   </td>
     <td>Dr Eunice Pang    </td>
     <td>Health Promotion Board</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Prof Gregory Goh K. L.</td>
     <td>National Metrology Centre, A*STAR</td>
   </tr>
   <tr>
-    <td>                   </td>
     <td>A/Prof Lawrence Loh</td>
     <td>National University of Singapore Business School</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Ye Yongfeng</td>
     <td>Public Service Division</td>
   </tr>
   <tr>
-    <td>                   </td>
     <td>Ms Siew Kum Fong  </td>
     <td>Singapore Business Federation</td>
   </tr>
   <tr>
-    <td>                   </td>
     <td>Ms Seah Yin Fen</td>
     <td>Singapore Food Manufacturers’ Association</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Choong Guo Wei</td>
     <td>TIC Interest Group (Certification)</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Eric Law Wei Kwang</td>
     <td>TIC Interest Group (Laboratory)</td>
   </tr>
   <tr>
-    <td>                   </td>
     <td>Mr Gaurava Mishra</td>
     <td>TIC Interest Group (Laboratory, Inspection, Certification) </td>
   </tr>
   <tr>
-		<td><b>Secretaries</b></td>
+    <td rowspan="2">Secretaries</td>
     <td>Mr Tan Yee Teck</td>
     <td>SAC Secretariat</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Terence Hu</td>
     <td>SAC Secretariat</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
-
 
 
 
