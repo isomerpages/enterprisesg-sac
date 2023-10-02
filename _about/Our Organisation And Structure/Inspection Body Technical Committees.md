@@ -94,7 +94,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 </thead>
 <tbody>
   <tr>
-		<td><b>Chairman</b></td>
+		<td><b><b>Chairman</b></b></td>
     <td>Er Dr Tran Chi Trung</td>
     <td>Building and Construction Authority</td>
   </tr>
@@ -140,7 +140,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
     <td>The Institution of Engineers, Singapore</td>
   </tr>
   <tr>
-    <td><b>Secretary</b></td>
+    <td><b><b>Secretary</b></b></td>
     <td>Mr Chong Yong Hui</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -168,12 +168,12 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Mr Muchamed Elfian</td>
     <td>Individual Capacity</td>
   </tr>
   <tr>
-    <td rowspan="6">Members</td>
+		<td rowspan="6"><b>Members</b></td>
     <td>Ms G Deepa</td>
     <td>Maritime and Port Authority of Singapore</td>
   </tr>
@@ -198,7 +198,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
     <td>Singapore Shipping Association</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr James Lee</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -225,17 +225,17 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Er Jeyatharan Kumarasamy</td>
     <td>Land Transport Authority (LTA)</td>
   </tr>
   <tr>
-    <td>Deputy Chairman</td>
+		<td><b>Deputy Chairman</b></td>
     <td>Dr Poh Teoh Yaw</td>
     <td>Building &amp; Construction Authority (BCA)</td>
   </tr>
   <tr>
-    <td rowspan="8">Members</td>
+		<td rowspan="8"><b>Members</b></td>
     <td>Er Yong Fen Leong</td>
     <td>Association of Consulting Engineers, Singapore</td>
   </tr>
@@ -268,7 +268,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
     <td>The Singapore Contractors Association Ltd</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr Lim Swee Peng</td>
     <td>SAC Secretariat</td>
   </tr>
