@@ -439,4 +439,70 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2021 - 30 June 2024
 
 
-
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Er Lung Hian Hao</td>
+    <td>Building &amp; Construction Authority</td>
+  </tr>
+  <tr>
+    <td rowspan="10">Members</td>
+    <td>Er Loo Say Kian</td>
+    <td>Housing &amp; Development Board</td>
+  </tr>
+  <tr>
+    <td>Mr Goh Chin Keong</td>
+    <td>Ministry of Manpower</td>
+  </tr>
+  <tr>
+    <td>Dr Wu Wei</td>
+    <td>Nanyang Technological University</td>
+  </tr>
+  <tr>
+    <td>Dr Babu Sajeesh Kumar</td>
+    <td>Nom-Destructive Testing Society (Singapore)</td>
+  </tr>
+  <tr>
+    <td>Cpt Teo Mei Tin</td>
+    <td>Singapore Civil Defence Force</td>
+  </tr>
+  <tr>
+    <td>Ms Sherly Wijaya</td>
+    <td>Singapore Manufacturing Federation - TIC Interest Group</td>
+  </tr>
+  <tr>
+    <td>Mr Zheng Ming Quan</td>
+    <td>Singapore Manufacturing Federation - TIC Interest Group</td>
+  </tr>
+  <tr>
+    <td>Dr Lee Kim Kheng</td>
+    <td>Singapore Polytechnic</td>
+  </tr>
+  <tr>
+    <td>Mr Sze Thiam Siong</td>
+    <td>Singapore Welding Society</td>
+  </tr>
+  <tr>
+    <td>Dr Ang Choon Keat</td>
+    <td>The Institution of Engineers, Singapore</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr Chong Yong Hui</td>
+    <td>SAC Secretariat</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
