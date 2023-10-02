@@ -25,6 +25,7 @@ The Civil Aviation Authority of Singapore (CAAS) is the regulatory body governin
 
 The following SAC accreditation schemes are applicable to the Aviation and Aerospace industry:
 
+
 <table>
 <thead>
   <tr>
@@ -34,22 +35,20 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
 </thead>
 <tbody>
   <tr>
-    <td>Laboratories (SAC-SINGLAS)</td>
+    <td rowspan="3">Laboratories (SAC-SINGLAS)</td>
     <td>Calibration &amp; Measurement</td>
   </tr>
   <tr>
-    <td rowspan="2"> <br> </td>
     <td>Non-destructive Testing</td>
   </tr>
   <tr>
     <td>Environmental Testing</td>
   </tr>
   <tr>
-    <td>Management Systems Certification Bodies</td>
+    <td rowspan="4">Management Systems Certification Bodies</td>
     <td>Environmental Management System</td>
   </tr>
   <tr>
-    <td rowspan="3"> <br> <br> </td>
     <td>Learning Service Providers</td>
   </tr>
   <tr>
@@ -72,7 +71,5 @@ The following SAC accreditation schemes are applicable to the Aviation and Aeros
   </tr>
 </tbody>
 </table>
-
-
 
 For more information on CABs which provide services relevant to your business, please click [here](https://staging.dc7rl6brx6vik.amplifyapp.com/services/accreditation-services/)
