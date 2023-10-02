@@ -158,10 +158,58 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 ### Term : 1 July 2021 - 30 June 2024
 
 
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Mr Muchamed Elfian</td>
+    <td>Individual Capacity</td>
+  </tr>
+  <tr>
+    <td rowspan="6">Members</td>
+    <td>Ms G Deepa</td>
+    <td>Maritime and Port Authority of Singapore</td>
+  </tr>
+  <tr>
+    <td>Mr Chang Jian Quan</td>
+    <td>Singapore Food Agency</td>
+  </tr>
+  <tr>
+    <td>Mr Darajit Daud</td>
+    <td>Singapore Manufacturing Federation - TIC Interest Group</td>
+  </tr>
+  <tr>
+    <td>Capt Ismail Bin Mohamad</td>
+    <td>Singapore Maritime Academy</td>
+  </tr>
+  <tr>
+    <td>Capt Francis Lansakara</td>
+    <td>Singapore Nautical Institute</td>
+  </tr>
+  <tr>
+    <td>Mr Michael Phoon</td>
+    <td>Singapore Shipping Association</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr James Lee</td>
+    <td>SAC Secretariat</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 
 ## Site Investigation
 ### Term : 1 July 2021 - 30 June 2024
-
-
-
