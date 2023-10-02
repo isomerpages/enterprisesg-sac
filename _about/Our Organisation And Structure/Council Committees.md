@@ -108,59 +108,56 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-		<td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>Mr Silas Sng Wee Kiat</td>
     <td>Ministry of Manpower</td>
   </tr>
   <tr>
-		<td><b>Members</b></td>
+    <td rowspan="9">Members</td>
     <td>Er. Yong Fen Leong</td>
     <td>Association of Consulting Engineers, Singapore</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Loh Lock Mun</td>
     <td>Association of Process Industry</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Andrew Alexander Malcolm</td>
     <td>Advanced Remanufacturing and Technology Centre (ARTC)</td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Dr Poh Teoh Yaw</td>
+    <td>Dr Poh Teoh Yaw            </td>
     <td>Building &amp; Construction Authority</td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Er. Merlyn Thong</td>
-    <td>Land Transport Authority</td>
+    <td>Er. Merlyn Thong            </td>
+    <td>Land Transport Authority        </td>
   </tr>
   <tr>
-    <td> </td>
-    <td>A/Prof Leong Eng Choon</td>
+    <td>A/Prof Leong Eng Choon      </td>
     <td>Nanyang Technological University</td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Mr Victor Li</td>
+    <td>Mr Victor Li               </td>
     <td>Singapore Food Agency</td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Mr Adrian Lo</td>
+    <td>Mr Adrian Lo              </td>
     <td>Singapore Manufacturing Federation – TIC Interest Group</td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Dr Ho Nyok Yong</td>
+    <td>Dr Ho Nyok Yong            </td>
     <td>The Singapore Contractors Association Ltd</td>
   </tr>
   <tr>
-		<td><b>Secretary</b></td>
+    <td>Secretary</td>
     <td>Mr Tang Kok Min</td>
     <td>Singapore Accreditation Council</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
