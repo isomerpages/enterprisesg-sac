@@ -22,79 +22,73 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-		<td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>Dr Leslie Retnam</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td><b>Deputy Chairman</b></td>
+    <td>Deputy Chairman</td>
     <td>A/P Joanne Chan Sheot Harn</td>
     <td>Singapore Food Agency</td>
   </tr>
   <tr>
-		<td><b>Members</b></td>
+    <td rowspan="12">Members</td>
     <td>Mrs Reshmy Pillay</td>
     <td>National Metrology Centre</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Tony Low<br>(Alternate: Dr Steven Wong)</td>
     <td>Association of Information Security Professionals</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Gao Chun Ping</td>
     <td>Building and Construction Authority</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Rodney Tan</td>
     <td>Cyber Security Agency of Singapore (CSA)</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Teo Tang Lin</td>
     <td>Health Sciences Authority</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Kenneth Choy</td>
     <td>Ministry of Manpower</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Joel Lee</td>
     <td>Nanyang Polytechnic</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Tan Boon Chong</td>
     <td>Singapore Manufacturing Federation</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Stanley Ong</td>
     <td>Singapore Manufacturing Federation - TIC Interest Group - Laboratory</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Zong Yun</td>
     <td>Singapore National Institute of Chemistry</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Ong Eng Hong</td>
     <td>Singapore University of Technology &amp; Design</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Prof Chew Soon Hoe</td>
     <td>The Institute of Engineers, Singapore</td>
   </tr>
   <tr>
-		<td><b>Secretary</b></td>
+    <td>Secretary</td>
     <td>Ms Lim Lee Fang</td>
     <td>SAC Secretariat</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
