@@ -374,8 +374,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ## Medical Imaging
 ### Term : 1 July 2021 - 30 June 2024
 
-d
-    <table>
+<table>
 <thead>
   <tr>
     <th>Designation</th>
@@ -385,12 +384,12 @@ d
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>A/ Prof Chong Bee Kiang</td>
     <td>National Healthcare Group</td>
   </tr>
   <tr>
-    <td rowspan="9">Members</td>
+		<td rowspan="9"><b>Members</b></td>
     <td>Dr Steven Wong</td>
     <td>Academy of Medicine</td>
   </tr>
@@ -426,7 +425,7 @@ d
     <td>Society of Medical Physicists Singapore</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr Tom Yen</td>
     <td>SAC Secretariat</td>
   </tr>
