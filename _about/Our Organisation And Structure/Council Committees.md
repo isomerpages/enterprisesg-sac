@@ -180,94 +180,84 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-		<td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>Er Yvonne Soh</td>
     <td>Singapore Green Building Council</td>
   </tr>
   <tr>
-		<td><b>Members</b></td>
+    <td rowspan="16">Members</td>
     <td>Ms Huang Wen Jia</td>
     <td>Association of Process Industry</td>
   </tr>
   <tr>
-    <td>             </td>
     <td>Er. Steve Ang            </td>
     <td>Building and Construction Authority                          </td>
   </tr>
   <tr>
-    <td> </td>
     <td>Prof Lim Kok Hua</td>
     <td>Institute of Engineers, Singapore</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Chin Woon Hau</td>
     <td>Infocomm Media Development Authority</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Sebastian Tan</td>
     <td>Ministry of Manpower</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Chen Fu Yi</td>
     <td>National Environment Agency</td>
   </tr>
   <tr>
-    <td> </td>
     <td>LTC Eugene Phng</td>
     <td>Singapore Civil Defence Force</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Ms Cheong Lai Peng</td>
     <td>Singapore Food Agency</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Jonathan Cheah</td>
     <td>Singapore Food Manufacturing Association</td>
   </tr>
   <tr>
-    <td>             </td>
     <td>Ms Jenny Chua</td>
     <td>SkillsFuture Singapore                  </td>
   </tr>
   <tr>
-    <td> </td>
     <td>Ms Heidi Goh</td>
     <td>Singapore Manufacturing Federation - Medical Technology Industry Interest Group</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Don Quek</td>
     <td>Singapore Manufacturing Federation - TIC Interest Group - Product Certification Body</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Ms Tan Swee Yin</td>
     <td>Singapore Manufacturing Federation - TIC Interest Group - Personnel Certification Body</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Sze Thiam Siong</td>
     <td>Singapore Manufacturing Federation - TIC Interest Group - Management System Certification Body</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Ms Kavita Gandhi</td>
     <td>Sustainable Energy Association of Singapore</td>
   </tr>
   <tr>
-    <td>             </td>
     <td>Mr Desmond Hill            </td>
     <td>The Singapore Contractors Association Limited                </td>
   </tr>
   <tr>
-		<td><b>Secretary</b></td>
+    <td>Secretary</td>
     <td>Ms Lee Ham Eng</td>
     <td>Singapore Accreditation Council</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
