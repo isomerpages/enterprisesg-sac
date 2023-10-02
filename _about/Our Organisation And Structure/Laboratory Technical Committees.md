@@ -22,12 +22,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Mr Tan Kheam Hock</td>
     <td>Individual Capacity</td>
   </tr>
   <tr>
-    <td rowspan="9">Members</td>
+		<td rowspan="9"><b>Members</b></td>
     <td>Dr Yet Nai Song</td>
     <td>Building and Construction Authority</td>
   </tr>
@@ -64,7 +64,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Singapore Manufacturing Federation (SMF)</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr Tan Kee Sing</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -370,7 +370,8 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ## Medical Imaging
 ### Term : 1 July 2021 - 30 June 2024
 
-<table>
+d
+    <table>
 <thead>
   <tr>
     <th>Designation</th>
@@ -409,8 +410,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Mr Somanesan Satchithanantham</td>
     <td>Singapore Health Services</td>
   </tr>
-  <tr>
-    <td>Dr Teoh Wey Chyi</td>
+  <tr><td>Dr Teoh Wey Chyi</td>
     <td>Singapore Radiological Society</td>
   </tr>
   <tr>
