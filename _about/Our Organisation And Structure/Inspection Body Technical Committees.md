@@ -213,3 +213,69 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 
 ## Site Investigation
 ### Term : 1 July 2021 - 30 June 2024
+
+
+<table>
+<thead>
+  <tr>
+    <th>Designation</th>
+    <th>Name</th>
+    <th>Organisation</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Chairman</td>
+    <td>Er Jeyatharan Kumarasamy</td>
+    <td>Land Transport Authority (LTA)</td>
+  </tr>
+  <tr>
+    <td>Deputy Chairman</td>
+    <td>Dr Poh Teoh Yaw</td>
+    <td>Building &amp; Construction Authority (BCA)</td>
+  </tr>
+  <tr>
+    <td rowspan="8">Members</td>
+    <td>Er Yong Fen Leong</td>
+    <td>Association of Consulting Engineers, Singapore</td>
+  </tr>
+  <tr>
+    <td>Mr Lionel Ang Loy Jin</td>
+    <td>Housing &amp; Development Board (HDB)</td>
+  </tr>
+  <tr>
+    <td>Dr Chian Siau Chen, Darren</td>
+    <td>National University of Singapore</td>
+  </tr>
+  <tr>
+    <td>Ms Prathipa Devi Sundraju</td>
+    <td>Singapore Manufacturing Federation</td>
+  </tr>
+  <tr>
+    <td>Dr Henry Tan</td>
+    <td>Singapore Manufacturing Federation</td>
+  </tr>
+  <tr>
+    <td>Dr Muthusamy Karthikeyan</td>
+    <td>The Geotechnical Society of Singapore (GeoSS)</td>
+  </tr>
+  <tr>
+    <td>Mr Ting Hua Keong</td>
+    <td>The Institution of Engineers, Singapore (IES)</td>
+  </tr>
+  <tr>
+    <td>Mr Jeffrey Yu</td>
+    <td>The Singapore Contractors Association Ltd</td>
+  </tr>
+  <tr>
+    <td>Secretary</td>
+    <td>Mr Lim Swee Peng</td>
+    <td>SAC Secretariat</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
