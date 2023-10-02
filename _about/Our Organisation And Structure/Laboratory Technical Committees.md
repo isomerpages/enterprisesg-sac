@@ -452,12 +452,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Er Lung Hian Hao</td>
     <td>Building &amp; Construction Authority</td>
   </tr>
   <tr>
-    <td rowspan="10">Members</td>
+		<td rowspan="10"><b>Members</b></td>
     <td>Er Loo Say Kian</td>
     <td>Housing &amp; Development Board</td>
   </tr>
@@ -498,7 +498,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>The Institution of Engineers, Singapore</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr Chong Yong Hui</td>
     <td>SAC Secretariat</td>
   </tr>
