@@ -92,12 +92,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>A/Prof Tham Kwok Wai</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td rowspan="14">Members</td>
+		<td rowspan="14"><b>Members</b></td>
     <td>Ms Janice Mo</td>
     <td>BV-AQ (Singapore) Pte Ltd (Representative for Accredited Laboratory)</td>
   </tr>
@@ -154,7 +154,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Temasek Polytechnic</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Ms Tracy Toh</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -182,12 +182,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>Er Lim Say Leong</td>
     <td>The Institution of Engineers, Singapore (IES)</td>
   </tr>
   <tr>
-    <td rowspan="9">Members</td>
+		<td rowspan="9"><b>Members</b></td>
     <td>Mr Tony Low</td>
     <td>Association of Information Security Professionals (AiSP)</td>
   </tr>
@@ -224,7 +224,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Singapore University of Technology Design (SUTD)</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr Gerald See Toh</td>
     <td>SAC Secretariat</td>
   </tr>
