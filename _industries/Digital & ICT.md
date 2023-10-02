@@ -28,19 +28,17 @@ The following SAC accreditation schemes are applicable to the ICT industry:
 </thead>
 <tbody>
   <tr>
-    <td>Laboratories (SAC-SINGLAS)</td>
+    <td rowspan="2">Laboratories (SAC-SINGLAS)</td>
     <td>Calibration &amp; Measurement</td>
   </tr>
   <tr>
-    <td> </td>
     <td>IT Security Testing</td>
   </tr>
   <tr>
-    <td>Management Systems Certification Bodies</td>
+    <td rowspan="4">Management Systems Certification Bodies</td>
     <td>End-of-life ICT Equipment</td>
   </tr>
   <tr>
-    <td rowspan="3"> <br> <br> </td>
     <td>Information Security Management System</td>
   </tr>
   <tr>
@@ -55,7 +53,6 @@ The following SAC accreditation schemes are applicable to the ICT industry:
   </tr>
 </tbody>
 </table>
-
 
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
