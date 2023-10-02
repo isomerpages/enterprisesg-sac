@@ -3,10 +3,9 @@ title: Digital & ICT
 permalink: /industries/digital-ict/
 description: ""
 ---
-
 ![Digital/ICT Industry](/images/industries/ict.jpg)
 
-Information & Communication Technologies (ICT) is an all-encompassing term, referring to communication networks, the internet, computing services, and various forms of digital content. The fourth industrial revolution, otherwise known as the Internet of Things (IoT), is impacting and driving digitisation across multiple industries today. 
+Information &amp; Communication Technologies (ICT) is an all-encompassing term, referring to communication networks, the internet, computing services, and various forms of digital content. The fourth industrial revolution, otherwise known as the Internet of Things (IoT), is impacting and driving digitisation across multiple industries today. 
 
 Developments in ICT bear many implications for companies involved in manufacturing; one example is the possibility of autonomous communication between machines and systems now becoming reality. Elsewhere in the industry, technology is also increasing network connectivity. This drives developments in cloud computing, internet businesses, and telecommunications. 
 
@@ -20,14 +19,43 @@ In Singapore, the Cyber Security Agency of Singapore and Infocomm Media Developm
 
 The following SAC accreditation schemes are applicable to the ICT industry:
 
-| Scheme                                  | Field                                  |
-|-----------------------------------------|----------------------------------------|
-| Laboratories (SAC-SINGLAS)              | Calibration & Measurement              |
-|                                         | IT Security Testing                    |
-|-----------------------------------------|----------------------------------------|
-| Management Systems Certification Bodies | End-of-life ICT Equipment              |
-|                                         | Information Security Management System |
-|                                         | Multi-tiered Cloud Computing Security  |
-|                                         | Quality Management System              |
+<table>
+<thead>
+  <tr>
+    <th>Scheme</th>
+    <th>Field</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Laboratories (SAC-SINGLAS)</td>
+    <td>Calibration &amp; Measurement</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>IT Security Testing</td>
+  </tr>
+  <tr>
+    <td>Management Systems Certification Bodies</td>
+    <td>End-of-life ICT Equipment</td>
+  </tr>
+  <tr>
+    <td rowspan="3"> <br> <br> </td>
+    <td>Information Security Management System</td>
+  </tr>
+  <tr>
+    <td>Multi-tiered Cloud Computing Security</td>
+  </tr>
+  <tr>
+    <td>Quality Management System</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
