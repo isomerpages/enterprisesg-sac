@@ -21,8 +21,7 @@ Technological advancements have resulted in increasing sophistication of end pro
 
 The following SAC accreditation schemes are applicable to the Electronics &amp; Electrical Engineering industry:
 
-
-|<table>
+<table>
 <thead>
   <tr>
     <th>Scheme</th>
@@ -31,26 +30,37 @@ The following SAC accreditation schemes are applicable to the Electronics &amp; 
 </thead>
 <tbody>
   <tr>
-    <td>Laboratories (SAC-SINGLAS)</td>
+    <td rowspan="5">Laboratories (SAC-SINGLAS)</td>
     <td>Calibration &amp; Measurement</td>
   </tr>
   <tr>
-    <td> </td>
+    <td>Electrical Testing</td>
+  </tr>
+  <tr>
     <td>IT Security Testing</td>
   </tr>
   <tr>
-    <td>Management Systems Certification Bodies</td>
-    <td>End-of-life ICT Equipment</td>
+    <td>Mechanical Testing</td>
   </tr>
   <tr>
-    <td rowspan="3"> <br> <br> </td>
+    <td>Non-destructive Testing</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Management Systems Certification</td>
+    <td>Business Continuity Management</td>
+  </tr>
+  <tr>
     <td>Information Security Management System</td>
   </tr>
   <tr>
-    <td>Multi-tiered Cloud Computing Security</td>
+    <td>Occupational Safety &amp; Health Management System</td>
   </tr>
   <tr>
     <td>Quality Management System</td>
+  </tr>
+  <tr>
+    <td>Product Certification</td>
+    <td>PC (Electrical and Electronics)</td>
   </tr>
   <tr>
     <td></td>
