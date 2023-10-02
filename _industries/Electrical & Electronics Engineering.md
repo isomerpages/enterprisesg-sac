@@ -3,7 +3,7 @@ title: Electrical & Electronics Engineering
 permalink: /industries/electrical-and-electronics-engineering/
 description: ""
 ---
-![Electrical & Electronics Engineering](/images/industries/electrical-and-electronics-engineering.jpg)
+![Electrical &amp; Electronics Engineering](/images/industries/electrical-and-electronics-engineering.jpg)
 
 Singapore is a hub for semiconductor and consumer electronics manufacturing technology, with over 2,900 companies in the industry. Upstream, these include semiconductor manufacturers and chip makers; Downstream, the local value-chain includes box-build manufacturers, sub-system manufacturers, and plastic tooling and metal machining providers.
 
@@ -19,21 +19,45 @@ Many electronic components, when used in specific end-industries such as aviatio
 
 Technological advancements have resulted in increasing sophistication of end products, with software playing a more significant role than ever before. This creates a need to provide greater assurance over the product as a whole, taking into consideration the compliance of both hardware and software to required standards. To this end, IT security testing services and Information Security Management System certification are able to provide the needed assurance.
 
-The following SAC accreditation schemes are applicable to the Electronics & Electrical Engineering industry:
+The following SAC accreditation schemes are applicable to the Electronics &amp; Electrical Engineering industry:
 
-| Scheme                                          | Field                                          |
-|-------------------------------------------------|------------------------------------------------|
-| Laboratories (SAC-SINGLAS)                      | Calibration & Measurement                      |
-|                                                 | Electrical Testing                             |
-|                                                 | IT Security Testing                            |
-|                                                 | Mechanical Testing                             |
-|                                                 | Non-destructive Testing                        |
-|--------------------------------------------------------------------------------------------------|
-| Management Systems Certification                | Business Continuity Management                 |
-|                                                 | Information Security Management System         |
-|                                                 | Occupational Safety & Health Management System |
-|                                                 | Quality Management System                      |
-|--------------------------------------------------------------------------------------------------|
-| Product Certification                           | PC (Electrical and Electronics)                |
+|<table>
+<thead>
+  <tr>
+    <th>Scheme</th>
+    <th>Field</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Laboratories (SAC-SINGLAS)</td>
+    <td>Calibration &amp; Measurement</td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td>IT Security Testing</td>
+  </tr>
+  <tr>
+    <td>Management Systems Certification Bodies</td>
+    <td>End-of-life ICT Equipment</td>
+  </tr>
+  <tr>
+    <td rowspan="3"> <br> <br> </td>
+    <td>Information Security Management System</td>
+  </tr>
+  <tr>
+    <td>Multi-tiered Cloud Computing Security</td>
+  </tr>
+  <tr>
+    <td>Quality Management System</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
