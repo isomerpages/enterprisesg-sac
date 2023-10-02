@@ -33,7 +33,7 @@ The following SAC accreditation schemes are applicable to the Construction and B
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">Deputy Chairmen</td>
+		<td rowspan="2"><b>Deputy Chairmen</b></td>
     <td>Mr Jagadish CV</td>
     <td>Advanced Micro Foundry Pte Ltd</td>
   </tr>
@@ -42,7 +42,7 @@ The following SAC accreditation schemes are applicable to the Construction and B
     <td>MiRXES Pte Ltd</td>
   </tr>
   <tr>
-    <td rowspan="21">Members</td>
+		<td rowspan="21"><b>Members</b></td>
     <td>Pending</td>
     <td>Association of Singapore Marine Industries (ASMI)</td>
   </tr>
@@ -127,7 +127,7 @@ The following SAC accreditation schemes are applicable to the Construction and B
     <td>Individual Capacity (Digitalisation and Cybersecurity)</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr Tan Yee Teck</td>
     <td>SAC Secretariat</td>
   </tr>
