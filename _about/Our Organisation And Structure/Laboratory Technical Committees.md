@@ -300,12 +300,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>A/Prof Raymond Lin</td>
     <td>Ministry of Health</td>
   </tr>
   <tr>
-    <td rowspan="13">Members</td>
+		<td rowspan="13"><b>Members</b></td>
     <td>Dr Jacqueline Hwang</td>
     <td>Academy of Medicine</td>
   </tr>
@@ -358,7 +358,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Singapore Association of Clinical Biochemists</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Ms Alicia Choong</td>
     <td>SAC Secretariat</td>
   </tr>
