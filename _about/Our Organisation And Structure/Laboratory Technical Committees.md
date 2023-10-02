@@ -380,57 +380,49 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>A/ Prof Chong Bee Kiang</td>
     <td>National Healthcare Group</td>
   </tr>
   <tr>
-    <td><b>Members</b></td>
+    <td rowspan="9">Members</td>
     <td>Dr Steven Wong</td>
     <td>Academy of Medicine</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Hoo Wee Teck</td>
     <td>National Environment Agency</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Tan Soo See, Susanna</td>
     <td>National Healthcare Group</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Tyrone Goh</td>
     <td>National Healthcare Group Diagnostics (Representative for Accredited Facility)</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Faimee Erwan</td>
     <td>National University Health System</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Mr Somanesan Satchithanantham</td>
     <td>Singapore Health Services</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Teoh Wey Chyi</td>
     <td>Singapore Radiological Society</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Ms Denise Choong</td>
     <td>Singapore Society of Radiographers</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Cheryl Lian</td>
     <td>Society of Medical Physicists Singapore</td>
   </tr>
   <tr>
-    <td><b>Secretary</b></td>
+    <td>Secretary</td>
     <td>Mr Tom Yen</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -440,8 +432,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td></td>
   </tr>
 </tbody>
-</table>|
-
+</table>
 
 
 ## Physical Engineering
