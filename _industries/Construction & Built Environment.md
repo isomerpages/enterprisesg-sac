@@ -32,10 +32,11 @@ The following SAC accreditation schemes are applicable to the Construction and B
 </thead>
 <tbody>
   <tr>
-    <td rowspan="5">Laboratories (SAC-SINGLAS)</td>
+    <td>Laboratories (SAC-SINGLAS)</td>
     <td>Calibration &amp; Measurement</td>
   </tr>
   <tr>
+    <td rowspan="4"> <br> <br> <br> </td>
     <td>Chemical &amp; Biological</td>
   </tr>
   <tr>
@@ -48,10 +49,11 @@ The following SAC accreditation schemes are applicable to the Construction and B
     <td>Non-destructive Testing</td>
   </tr>
   <tr>
-    <td rowspan="7">Management Systems Certification Bodies</td>
+    <td>Management Systems Certification Bodies</td>
     <td>Auditing Organisation</td>
   </tr>
   <tr>
+    <td rowspan="6"> <br> <br> <br> <br> <br> </td>
     <td>Business Continuity Management</td>
   </tr>
   <tr>
@@ -79,9 +81,6 @@ The following SAC accreditation schemes are applicable to the Construction and B
   </tr>
 </tbody>
 </table>
-
-
-
 
 
 For more information on CABs which provide services relevant to your business, please click [here](https://staging.dc7rl6brx6vik.amplifyapp.com/services/accreditation-services/)
