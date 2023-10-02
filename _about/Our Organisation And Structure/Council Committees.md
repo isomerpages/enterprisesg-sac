@@ -346,8 +346,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 ## Council Committee for Biomedical &amp; Health (CCBH)
 ### Term: 1 July 2021 - 30 June 2024
 
-
-<table>
+  <table>
 <thead>
   <tr>
     <th>Designation</th>
@@ -357,79 +356,74 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 </thead>
 <tbody>
   <tr>
-		<td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>A/Prof Raymond Chua</td>
     <td>Ministry of Health</td>
   </tr>
   <tr>
-		<td><b>Members</b></td>
+    <td rowspan="13">Members</td>
     <td>A/Prof Mahesh Choolani</td>
     <td>Academy of Medicine</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Prof Lisa Ng</td>
     <td>Biomedical Research Council, A*STAR</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Asst Prof James Leong</td>
     <td>Duke-NUS Medical School</td>
   </tr>
   <tr>
-    <td>             </td>
     <td>A/Prof Teoh Yee Leong  </td>
     <td>Ministry of Health                          </td>
   </tr>
   <tr>
-    <td>             </td>
     <td>Ms Lim Soh Har          </td>
     <td>National Healthcare Group                    </td>
   </tr>
   <tr>
-    <td>             </td>
     <td>Dr Chew Kean Lee    </td>
     <td>National University Health System            </td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Leslie Lam Choong Weng</td>
     <td>Parkway Laboratory Services Ltd</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Dr Kelvin Phua Cheng Pau</td>
     <td>SATA CommHealth</td>
   </tr>
   <tr>
-    <td> </td>
     <td>Prof Tan Puay Hoon</td>
     <td>Singapore Health Services</td>
   </tr>
   <tr>
-    <td>             </td>
     <td>Mr James Chan          </td>
     <td>Singapore Manufacturing Federation – Medical Technology Industry Group </td>
   </tr>
   <tr>
-    <td>             </td>
     <td>A/Prof Low Chian Ming  </td>
     <td>Technical Committee for Good Laboratory Practice </td>
   </tr>
   <tr>
-    <td> </td>
     <td>A/Prof Chong Bee Kiang</td>
     <td>Technical Committee for Medical Imaging</td>
   </tr>
   <tr>
-    <td> </td>
     <td>A/Prof Raymond Lin</td>
     <td>Technical Committee for Medical Testing</td>
   </tr>
   <tr>
-		<td><b>Secretary</b></td>
+    <td>Secretary</td>
     <td>Mr Chong Hui Da</td>
     <td>SAC Secretariat</td>
   </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
+
+
