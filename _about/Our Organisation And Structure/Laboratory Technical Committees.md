@@ -251,12 +251,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td>Chairman</td>
+		<td><b>Chairman</b></td>
     <td>A/Prof Low Chian Ming</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td rowspan="4">Members</td>
+		<td rowspan="4"><b>Members</b></td>
     <td>Professor Andre Choo</td>
     <td>A*Star, Biomedical Research Council (BRC)</td>
   </tr>
@@ -273,7 +273,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Singapore Institute of Technology</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Ms Ho Phuy Bee</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -290,80 +290,6 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 ### Term : 1 July 2021 - 30 June 2024
 
 
-<table>
-<thead>
-  <tr>
-    <th>Chairman</th>
-    <th>A/Prof Raymond Lin</th>
-    <th>Ministry of Health</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="13">Members</td>
-    <td>Dr Jacqueline Hwang</td>
-    <td>Academy of Medicine</td>
-  </tr>
-  <tr>
-    <td>Dr. Shirlena Soh</td>
-    <td>Association of Biomedical Laboratory Professionals Singapore</td>
-  </tr>
-  <tr>
-    <td>Dr Ang Ai Leen</td>
-    <td>Health Sciences Authority</td>
-  </tr>
-  <tr>
-    <td>Dr Tan Hong Wui</td>
-    <td>Innoquest Diagnostics Pte Ltd (Representative for Accredited Facility)</td>
-  </tr>
-  <tr>
-    <td>Dr Lucy Leong</td>
-    <td>Ministry of Manpower</td>
-  </tr>
-  <tr>
-    <td>A/Prof Leong Khai Pang</td>
-    <td>National Healthcare Group</td>
-  </tr>
-  <tr>
-    <td>A/Prof Partha Pratim</td>
-    <td>National Healthcare Group</td>
-  </tr>
-  <tr>
-    <td>Dr Nancy Tee</td>
-    <td>National University Health System</td>
-  </tr>
-  <tr>
-    <td>Dr Benedict Yan</td>
-    <td>National University Health System</td>
-  </tr>
-  <tr>
-    <td>Ms Serene Kho</td>
-    <td>National Healthcare Group Diagnostics (Representative for Accredited Facility)</td>
-  </tr>
-  <tr>
-    <td>Dr Jacqueline Hwang</td>
-    <td>Singapore Health Services</td>
-  </tr>
-  <tr>
-    <td>Dr Ho Liam Pock</td>
-    <td>Singapore Health Services</td>
-  </tr>
-  <tr>
-    <td>Dr Sharon Saw</td>
-    <td>Singapore Association of Clinical Biochemists</td>
-  </tr>
-  <tr>
-    <td>Secretary</td>
-    <td>Ms Alicia Choong</td>
-    <td>SAC Secretariat</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</tbody>
-</table>
 
 
 
