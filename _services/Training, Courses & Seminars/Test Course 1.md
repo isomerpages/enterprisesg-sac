@@ -4,3 +4,7 @@ permalink: /services/training/course-1/
 description: ""
 third_nav_title: Training, Courses & Seminars
 ---
+whatever course details here.
+dfjsfgs
+fdgsgsdf
+dsfsdf
