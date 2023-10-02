@@ -251,12 +251,12 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 </thead>
 <tbody>
   <tr>
-    <td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>A/Prof Low Chian Ming</td>
     <td>National University of Singapore</td>
   </tr>
   <tr>
-    <td><b>Members</b></td>
+    <td>Members</td>
     <td>Professor Andre Choo</td>
     <td>A*Star, Biomedical Research Council (BRC)</td>
   </tr>
@@ -276,7 +276,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Singapore Institute of Technology</td>
   </tr>
   <tr>
-    <td><b>Secretary</b></td>
+    <td>Secretary</td>
     <td>Ms Ho Phuy Bee</td>
     <td>SAC Secretariat</td>
   </tr>
