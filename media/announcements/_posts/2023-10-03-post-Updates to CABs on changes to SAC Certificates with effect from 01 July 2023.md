@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
- # Updates to CABs on changes to SAC Certificates with effect from 01 July 2023
+# Updates to CABs on changes to SAC Certificates with effect from 01 July 2023
 
 **Discontinuation of the issuance of physical SAC Certificates and transition to electronic versions**
 
