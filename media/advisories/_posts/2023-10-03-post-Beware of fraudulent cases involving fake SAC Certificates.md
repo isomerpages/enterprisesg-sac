@@ -12,3 +12,7 @@ SAC is aware of recent fraudulent cases involving the use of fake SAC certificat
 
 
  If in doubt, please email <a>sac@enterprisesg.gov.sg</a>
+ 
+ 
+ 
+  <a href="mailto:sac@enterprisesg.gov.sg">sac@enterprisesg.gov.sg</a>
