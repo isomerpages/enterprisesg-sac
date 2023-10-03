@@ -19,7 +19,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 **Mr Tan Kai Hoe**
 <br>Accuron Technologies Limited 
 
-  <table>
+<table>
 <thead>
   <tr>
     <th>Designation</th>
@@ -29,7 +29,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">Deputy Chairmen</td>
+    <td rowspan="2"><b>Deputy Chairmen</b></td>
     <td>Mr Jagadish CV</td>
     <td>Advanced Micro Foundry Pte Ltd</td>
   </tr>
@@ -38,11 +38,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>MiRXES Pte Ltd</td>
   </tr>
   <tr>
-    <td rowspan="21">Members</td>
-    <td>Pending</td>
-    <td>Association of Singapore Marine Industries (ASMI)</td>
-  </tr>
-  <tr>
+		<td rowspan="19"> <b>Members</b></td>
     <td>Er Thanabal Kaliannan<br>(Alternate: Er Lung Hian Hao)</td>
     <td>Building and Construction Authority (BCA)</td>
   </tr>
@@ -103,10 +99,6 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Singapore Precision Engineering and Technology Association (SPETA)</td>
   </tr>
   <tr>
-    <td>Pending</td>
-    <td>Smart Nation and Digital Government Office (SNDGO)</td>
-  </tr>
-  <tr>
     <td>Dr Teo Tee Hui</td>
     <td>The Institution of Engineers, Singapore (IES)</td>
   </tr>
@@ -123,7 +115,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Individual Capacity (Digitalisation and Cybersecurity)</td>
   </tr>
   <tr>
-    <td>Secretary</td>
+		<td><b>Secretary</b></td>
     <td>Mr Tan Yee Teck</td>
     <td>SAC Secretariat</td>
   </tr>
@@ -134,4 +126,5 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
   </tr>
 </tbody>
 </table>
+ 
 
