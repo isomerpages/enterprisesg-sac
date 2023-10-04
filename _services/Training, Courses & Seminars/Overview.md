@@ -39,4 +39,3 @@ For more information on the course details, please click on the options below:
 * [GLP Implementation Workshop](/files/Training/GLP-Implementation-Workshop.pdf){:target="_blank"}
 
 For enquiries on training courses, please refer to the contact details within the respective training links/materials.
-
