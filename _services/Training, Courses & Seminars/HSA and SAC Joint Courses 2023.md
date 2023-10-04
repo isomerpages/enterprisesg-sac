@@ -8,7 +8,7 @@ third_nav_title: Training, Courses & Seminars
 **July and August 2023**
 
 
-Click  Ms Thang Jia Sui at 
+Click 
 <a href="mailto:HSA_CML@hsa.gov.sg">Thang Jia Sui</a> ){:target="\_blank"} to download the course brochure.
 				 
 	
