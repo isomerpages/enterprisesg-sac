@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - Our History/Our History.md
+      - Our History/Our History Overview.md
       - Our History/.keep
       - sharifah test page.md
       - Our Role.md
