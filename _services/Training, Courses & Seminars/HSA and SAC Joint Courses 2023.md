@@ -8,7 +8,7 @@ third_nav_title: Training, Courses & Seminars
 **July and August 2023**
 
 
-Click [here](/files/registration-forms/2023\_hsa-sac\_joint\_courses.pdf){:target="\_blank"} to download the course brochure.
+Click [here](/files/registration-forms/2023_hsa-sac\_joint\_courses.pdf){:target="\_blank"} to download the course brochure.
 
 
 Please email Ms Thang Jia Sui at  or contact her at **(65) 6775 1605 ext 125**
