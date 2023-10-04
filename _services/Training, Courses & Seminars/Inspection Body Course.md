@@ -22,8 +22,7 @@ This 2-day course is to help the participants to:
 Please complete the attached [Registration Form](/files/Registration%20forms/Registration-form-IB-Feb2023.pdf){:target="\_blank"} and email it to:  Angie\_ng@enterprisesg.gov.sg
 
 
-[registration form](/files/registration-forms/Registration-form-IB-Feb2023.pdf){:target="\_blank"} and email it to:  Angie\_ng@enterprisesg.gov.sg
-
+[registration form](/files/registration-forms/Registration-form-IB-Feb2023.pdf) and email it to:  Angie\_ng@enterprisesg.gov.sg
 
 
 Closing date for registration:  when class is full.
