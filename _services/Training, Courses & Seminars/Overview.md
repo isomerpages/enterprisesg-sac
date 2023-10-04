@@ -8,7 +8,7 @@ third_nav_title: Training, Courses & Seminars
 
 #### Q1
 
-[**Internal Audit Course**<br>27-28 Feb 2023](/services/training/course-1/)
+[**Internal Audit Course**<br>27-28 Feb 2023](/services/training/ia-course-feb-2023/)
 
 #### Q3
 
