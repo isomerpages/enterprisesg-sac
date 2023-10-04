@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Training, Courses & Seminars/.keep
-      - Training, Courses & Seminars/Overview.md
       - Training, Courses & Seminars/Internal Audit Course.md
-      - Training, Courses & Seminars/Inspection Body Course.md
       - Training, Courses & Seminars/Laboratory Management Course.md
+      - Training, Courses & Seminars/Overview.md
+      - Training, Courses & Seminars/Inspection Body Course.md
       - Training, Courses & Seminars/HSA and SAC Joint Courses 2023.md
       - Accreditation Services/.keep
       - Accreditation Services/Overview.md
