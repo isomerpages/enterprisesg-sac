@@ -2,12 +2,12 @@ collections:
   about:
     output: true
     order:
-      - Our History/1986 to 1990.md
-      - Our History/Our History Overview.md
-      - Our History/.keep
       - sharifah test page.md
       - Our Role.md
       - Our Vision, Mission And Strategic Outcomes.md
+      - Our History/.keep
+      - Our History/1986 to 1990.md
+      - Our History/Our History Overview.md
       - Our Organisation And Structure/.keep
       - Our Organisation And Structure/Overview.md
       - Our Organisation And Structure/SAC Council.md
