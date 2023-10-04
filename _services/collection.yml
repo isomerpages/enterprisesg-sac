@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - Training, Courses & Seminars/Laboratory Management Course.md
       - Training, Courses & Seminars/Inspection Body Course.md
       - Training, Courses & Seminars/.keep
       - Training, Courses & Seminars/Overview.md
