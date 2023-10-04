@@ -8,6 +8,9 @@ third_nav_title: Training, Courses & Seminars
 **July and August 2023**
 
 
+
+Click [here](registration-forms/2023_hsa-sac_joint_courses.pdf)
+
 Click [here](/files/registration-forms/2023_hsa-sac\_joint\_courses.pdf){:target="\_blank"} to download the course brochure.
 
 
