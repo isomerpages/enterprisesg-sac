@@ -19,7 +19,7 @@ This 2-day course is to help the participants to:
 * Understand the ISO/IEC 17020:2012 requirements as applied to inspection bodies; and
 * Provide guidance on the implementation of these requirements
 
-Please complete the attached [registration form](/files/Registration%20forms/Registration-form-IB-Feb2023.pdf){:target="\_blank"} and email it to: <a href="mailto:Angie_ng@enterprisesg.gov.sg">Angie_ng@enterprisesg.gov.sg</a>
+Please complete the attached [registration form](/files/Registration%20forms/Registration-form-IB-Feb2023.pdf){:target="\_blank"} and email it to: <a href="mailto:Angie_ng@enterprisesg.gov.sg">Angie_ng@enterprisesg.gov.sg.</a>
 
 Closing date for registration:  when class is full.
   
