@@ -22,8 +22,7 @@ This 2-day course is to help the participants:
 
 For course objectives, please view attached [link](/files/Training/Course-Objectives-IA.pdf){:target="\_blank"}.
 
-Please complete the attached [registration form](/files/Registration%20forms/Registration-form-IA-Feb2023.pdf){:target="\_blank"} and email it to:
-Angie_Ng@enterprisesg.gov.sg
+Please complete the attached [registration form](/files/Registration%20forms/Registration-form-IA-Feb2023.pdf){:target="\_blank"} and email it to: <a href="mailto:angie_ng@enterprisesg.gov.sg">Angie_Ng@enterprisesg.gov.sg</a>.
 
 Closing date for registration: when class is full.
  
