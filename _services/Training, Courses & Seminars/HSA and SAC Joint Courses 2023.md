@@ -12,17 +12,7 @@ third_nav_title: Training, Courses & Seminars
 Click [here](/files/registration-forms/2023\_hsa-sac\_joint\_courses.pdf){:target="\_blank"} to download the course brochure.
 
 
-Please email <a href="mailto:HSA_CML@hsa.gov.sg">Thang Jia Sui</a> or contact her at \*\*(65) 6775 1605\*\* ext 125
-
-
-
-Click 
-<a href="mailto:HSA_CML@hsa.gov.sg">Thang Jia Sui</a> ){:target="\_blank"} to download the course brochure.
-				 
-	
-	
-Please email Ms Thang Jia Sui at&nbsp;[HSA\_CML@hsa.gov.sg](mailto:HSA_CML@hsa.gov.sg)&nbsp;or contact her at&nbsp;**(65) 6775 1605**&nbsp;ext 125
-
+Please email <a href="mailto:HSA_CML@hsa.gov.sg">Thang Jia Sui</a> or contact her at **(65) 6775 1605** ext 125
 
 
 
