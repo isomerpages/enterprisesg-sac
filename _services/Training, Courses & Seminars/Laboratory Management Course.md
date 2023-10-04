@@ -21,7 +21,7 @@ For course objectives, please view attached
 [link](/files/Training/Course-Objectives-LM.pdf){:target="\_blank"}.
 
 
-Please complete the attached [registration form](/files/Registration%20forms/Registration-form-LM-Mar2023.pdf){:target="\_blank"} and email it to : <a href="mailto: angie_ng@enterprisesg.gov.sg></a>
+Please complete the attached [registration form](/files/Registration%20forms/Registration-form-LM-Mar2023.pdf){:target="\_blank"} and email to : <a href="mailto: angie_ng@enterprisesg.gov.sg></a>
 
 Closing date for registraton:  When class is full
   
