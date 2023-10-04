@@ -12,6 +12,8 @@ third_nav_title: Training, Courses & Seminars
 
 [**Inspection Body Course**<br>23-24 Feb 2023](/services/training/ia-course-feb-2023/)
 
+[**Laboratory Management Course**<br>1 - 3 March 2023](/services/training/lab-mgt-course-mar2023/)
+
 #### Q3
 
 
