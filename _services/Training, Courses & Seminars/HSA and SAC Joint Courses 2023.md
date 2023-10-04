@@ -49,4 +49,4 @@ Please email Ms Thang Jia Sui at  or contact her at **(65) 6775 1605 ext 125**
 </table>
 
 
-Registration link:&nbsp;[http://go.gov.sg/hsa-sac-courses](http://go.gov.sg/hsa-sac-courses)
+Registration link:  [http://go.gov.sg/hsa-sac-courses](http://go.gov.sg/hsa-sac-courses)
