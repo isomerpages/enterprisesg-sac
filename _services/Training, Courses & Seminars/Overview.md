@@ -10,6 +10,8 @@ third_nav_title: Training, Courses & Seminars
 
 [**Internal Audit Course**<br>27-28 Feb 2023](/services/training/ia-course-feb-2023/)
 
+[**Inspection Body Course**<br>23-24 Feb 2023](/services/training/ia-course-feb-2023/)
+
 #### Q3
 
 
