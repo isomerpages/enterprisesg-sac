@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Our History/1986 to 1990.md
       - Our History/Our History Overview.md
       - Our History/.keep
       - sharifah test page.md
