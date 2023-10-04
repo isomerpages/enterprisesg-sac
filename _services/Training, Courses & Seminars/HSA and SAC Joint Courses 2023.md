@@ -13,8 +13,6 @@ Click [here](/files/Registration%20forms/2023_hsa-sac_joint_courses.pdf){:target
 
 Please email Ms Thang Jia Sui at  or contact her at **(65) 6775 1605** ext 125
 
-
-
 <table>
 <thead>
   <tr>
@@ -46,6 +44,13 @@ Please email Ms Thang Jia Sui at  or contact her at **(65) 6775 1605** ext 125
     <td>$380</td>
     <td>22-23 August 2023 (1.5 days)</td>
     <td>Open</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
