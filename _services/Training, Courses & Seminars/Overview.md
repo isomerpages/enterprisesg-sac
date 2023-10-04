@@ -17,7 +17,7 @@ third_nav_title: Training, Courses & Seminars
 #### Q3
 
 
-[**HSA-SAC Joint Courses 2023**<br>July and August 2023](/services/training/ia-course-feb-2023/)
+[**HSA-SAC Joint Courses 2023**<br>July and August 2023](/services/training/hsa-sac-joint/)
 
 
 
