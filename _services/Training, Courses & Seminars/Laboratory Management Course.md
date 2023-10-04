@@ -21,7 +21,11 @@ For course objectives, please view attached
 [link](/files/Training/Course-Objectives-LM.pdf){:target="\_blank"}.
 
 
-Please complete the attached \[registration form\](/files/registration-forms/Registration-form-LM-Mar2023.pdf){:target="\_blank"} 
+Please complete the attached[registration form]
+(/files/Registration%20forms/Registration-form-LM-Mar2023.pdf){:target="\_blank"}  
+
+
+\[registration form\](/files/registration-forms/Registration-form-LM-Mar2023.pdf){:target="\_blank"} 
 and email it to Ms Angie at 
 
 
