@@ -15,7 +15,8 @@ The Singapore Accreditation Council (SAC), Enterprise Singapore (formerly known 
 This collaboration will provide greater assurance in the quality of products and services and facilitate market access for businesses in both countries. It will also further encourage the exchange of information, conformity assessment, accreditation services 
 and related technical and quality issues.  
 
-<img style="width:290px" alt="Choy Saau Kook" src="(/images/press-release/photos/Myanmar-MOU.png">
+
+<img style="width:290px" alt="MOU signing with Myanmar" src="(/images/press-release/photos/Myanmar-MOU.png)">
 
 
 
@@ -28,7 +29,13 @@ SAC signed a Collaboration Memorandum with the Chemical Metrology Division (CMD)
 
 A Memorandum of Understanding (MOU) to improve cooperation in accreditation activities between JAS-ANZ and SAC was signed on 5 August 2014 at the Quality and Standards Conference 2014. The MOU will deepen the collaboration and knowledge exchange with JAS-ANZ to strengthen the accreditation framework which will benefit our industries. The cooperation includes the accreditation of certification bodies, training and exchange of personnel, process benchmarking and improvement, promotion of accreditation, and joint initiatives at regional and international forums. 
 
-![Photo of MoU signing with JAS-ANZ](/images/press-release/photos/MOU-with-JAS-ANZ.jpg)
+
+<img style="width:290px" src="(/images/press-release/photos/OU-with-JAS-ANZ.jpg) alt=">
+
+
+
+
+
 
 ### MOU with Singapore Polytechnic   
 SAC signed a Memorandum of Understanding (MOU) with Singapore Polytechnic (SP) at the Quality and Standards Conference 2014 on 5 August 2014. This collaboration is to educate and strengthen the quality mindset of the Singapore workforce, and it includes the design of a Diploma Course in Applied Sciences to raise the competence level of working adults in laboratory management. The course is expected to be rolled out in 2015.  
