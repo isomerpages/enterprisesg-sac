@@ -32,9 +32,6 @@ A Memorandum of Understanding (MOU) to improve cooperation in accreditation acti
 <img style="width:297px" alt="MOU signing wiht JAS-ANZ" src="/images/press-release/photos/MOU-with-JAS-ANZ.jpg">
 
 
-<img style="width:297px" alt="MOU signing with SP" src="/images/press-release/photos/MOU-with-SP.png">
-
-
 	
 ### MOU with Singapore Polytechnic   
 
@@ -42,7 +39,7 @@ SAC signed a Memorandum of Understanding (MOU) with Singapore Polytechnic (SP) a
 
 
 
-<img style="width:297px" alt="MOU signing SP" src="/images/press-release/photos/MOU with SP.png">
+<img style="width:297px" alt="MOU signing with SP" src="/images/press-release/photos/MOU-with-SP.png">
 
  
  
