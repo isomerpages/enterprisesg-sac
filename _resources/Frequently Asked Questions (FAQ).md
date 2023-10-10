@@ -218,7 +218,7 @@ Product registration in overseas markets are typically referred to the US FDA fo
 This document is produced by the OECD GLP Working Group and is available at;
 	
 
-<a href="(https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm)">OECD Website</a>){:target="\_blank"}
+<a href="(https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm)">OECD Website</a>{:target="\_blank"}
 
 	
 	
@@ -354,7 +354,7 @@ After registration, there will be an annual visit for study audits and inspectio
 
 Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the  
 Group and is available at&nbsp; 
-<a href="(https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm)">OECD Website</a>){:target="\_blank"}
+<a href="(https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm)">OECD Website</a>{:target="\_blank"}
 
 </div></li>
 
