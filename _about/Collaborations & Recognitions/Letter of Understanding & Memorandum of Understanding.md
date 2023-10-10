@@ -29,7 +29,7 @@ SAC signed a Collaboration Memorandum with the Chemical Metrology Division (CMD)
 A Memorandum of Understanding (MOU) to improve cooperation in accreditation activities between JAS-ANZ and SAC was signed on 5 August 2014 at the Quality and Standards Conference 2014. The MOU will deepen the collaboration and knowledge exchange with JAS-ANZ to strengthen the accreditation framework which will benefit our industries. The cooperation includes the accreditation of certification bodies, training and exchange of personnel, process benchmarking and improvement, promotion of accreditation, and joint initiatives at regional and international forums. 
 
 
-<img style="width297px" alt="MOU" src="/images/press-release/photos/MOU-with-JAS-ANZ.jpg">
+<img style="width297px" alt="MOU signing wiht JAS-ANZ" src="/images/press-release/photos/MOU-with-JAS-ANZ.jpg">
 
 
 	
