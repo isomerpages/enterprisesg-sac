@@ -18,9 +18,6 @@ and related technical and quality issues.
 
 
 
-<img>
-
-
 
 
 
