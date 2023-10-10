@@ -39,7 +39,10 @@ SAC signed a Memorandum of Understanding (MOU) with Singapore Polytechnic (SP) a
 
 
 
-<img style="width:418px" alt="MOU signing with SP" src="/images/press-release/photos/MOU-with-SP.png">
+
+<img style="width:418px" alt="MOU signing with SP" src="/images/press-release/photos/MOU-with-SP.jpg">
+
+
 
  
  
