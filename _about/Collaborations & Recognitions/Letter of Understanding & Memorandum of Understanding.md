@@ -40,6 +40,7 @@ A Memorandum of Understanding (MOU) to improve cooperation in accreditation acti
 ### MOU with Singapore Polytechnic   
 SAC signed a Memorandum of Understanding (MOU) with Singapore Polytechnic (SP) at the Quality and Standards Conference 2014 on 5 August 2014. This collaboration is to educate and strengthen the quality mindset of the Singapore workforce, and it includes the design of a Diploma Course in Applied Sciences to raise the competence level of working adults in laboratory management. The course is expected to be rolled out in 2015.  
 
+
 ![MOU with SP](/images/press-release/photos/MOU-with-SP.jpg)
 
  
