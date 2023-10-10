@@ -233,23 +233,23 @@ This document is produced by the OECD GLP Working Group and is available at; <a 
 <li><input id="accordion5g" type="checkbox">
 
 <label for="accordion5g">What information is required for submission to SAC?</label><div>
-	
+<b>
 <p>A facility seeking recognition for compliance with the OECD GLP Principles should apply to SAC, stating its proposed scope of recognition and type of studies. It will have to provide key information such as :
 </p><ol type="a">
 <br>
 
 a. Management structure
-<br>
+
 b. Key responsibilities of the personnel and units
-<br>
+
 c. Information on names of Study Director, Study Sponsor
-<br>
+
 d. Persons in charge of Quality Assurance and the Archive
-<br>
+
 e. Quality Manual and Standard Operating Procedures Structure, Master Schedule etc.
 </ol><p></p>
 
-</div></li>
+</b></div></li><b>
 
 <li><input id="accordion6g" type="checkbox">
 
@@ -258,7 +258,7 @@ e. Quality Manual and Standard Operating Procedures Structure, Master Schedule e
 <p>
 
 The facility must first comply with the OECD Series on Principles of Good Laboratory Practice. Other compliance documents include:
-<br>
+<br><br>
 a. Quality Assurance and GLP
 <br>
 b. Compliance with Laboratory Suppliers with GLP Principles
@@ -382,4 +382,4 @@ If you have any questions or doubts, you can drop us an email or call us directl
 	
 <!-- COMMENT: The {:target=" end="" is="" open="" in="">
 
-</a></ul>--></div></li></ul>
+</a></ul>--></div></li></b></ul>
