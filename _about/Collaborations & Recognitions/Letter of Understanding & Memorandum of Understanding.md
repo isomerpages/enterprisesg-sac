@@ -16,11 +16,14 @@ This collaboration will provide greater assurance in the quality of products and
 and related technical and quality issues.  
 
 
-![MOU signing with Myanmar](/images/press-release/photos/Myanmar-MOU.png)
+
+<img style="width:290px" alt="MOU signing with Myanmar" src="/images/press-release/photos/Myanmar-MOU.png">
 
 
 
-<img style="width:290px" alt="MOU signing with Myanmar" src="(/images/press-release/photos/Myanmar-MOU.png)">
+
+
+<img align="left" style="width: 177px;" src="/images/about/our-organisation-structure/TanKaiHoe.jpg">
 
 
 
