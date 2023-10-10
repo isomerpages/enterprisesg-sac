@@ -14,7 +14,15 @@ The Singapore Accreditation Council (SAC), Enterprise Singapore (formerly known 
  
 This collaboration will provide greater assurance in the quality of products and services and facilitate market access for businesses in both countries. It will also further encourage the exchange of information, conformity assessment, accreditation services 
 and related technical and quality issues.  
-![Photo of MoU signing with Myanmar](/images/press-release/photos/Myanmar-MOU.png)
+![Photo of MoU signing with Myanmar]"(/images/press-release/photos/Myanmar-MOU.png" alt'\="MOU  signing with Myanmar" style\="width:290px"\&gt;
+
+
+
+<img>
+
+
+
+
 
 ### MOU with Health Sciences Authority
 
