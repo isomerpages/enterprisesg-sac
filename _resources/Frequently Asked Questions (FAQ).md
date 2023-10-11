@@ -348,7 +348,7 @@ After registration, there will be an annual visit for study audits and inspectio
 <label for="accordion14g">Where can I access the OECD Principles of GLP?</label><div>
 
 Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the  
-Group and is available at; <a href="https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm">OECD Website</a>{:target="\_blank"}
+Group and is available at; <a href="https://www.oecd.org/">OECD Website</a>{:target="\_blank"}
 
 	
 	
