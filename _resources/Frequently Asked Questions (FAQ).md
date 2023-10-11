@@ -249,12 +249,13 @@ d.Persons in charge of Quality Assurance and the Achive
 e. Quality Manual and Standards Operating Procudures Structure, Master Schedule, etc 
 <p></p>
 
-</div></li><b>
+		
+</div></li>
 
 <li><input id="accordion6g" type="checkbox">
 
-<label for="accordion6g">What are the criteria that a facility must follow?</label><div>
-
+<label for="accordion6g">What are the criteria that a facility must follow?</label><div>	
+	
 <p>
 The facility must first comply with the OECD Series on Principles of Good Laboratory Practice. Other compliance documents include:
 <br>
@@ -382,4 +383,4 @@ If you have any questions or doubts, you can drop us an email or call us directl
 	
 <!-- COMMENT: The {:target=" end="" is="" open="" in="">
 
-</a></ul>--></div></li></b></ul>
+</a></ul>--></div></li></ul>
