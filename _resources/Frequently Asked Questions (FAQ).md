@@ -258,7 +258,7 @@ e. Quality Manual and Standards Operating Procudures Structure, Master Schedule,
 	
 <p>
 The facility must first comply with the OECD Series on Principles of Good Laboratory Practice. Other compliance documents include:
-<br>
+
 <br>
 a. Quality Assurance and GLP
 <br>
