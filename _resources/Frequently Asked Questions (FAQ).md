@@ -348,10 +348,8 @@ After registration, there will be an annual visit for study audits and inspectio
 <label for="accordion14g">Where can I access the OECD Principles of GLP?</label><div>
 
 Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the  
-Group and is available at; <a href="https://www.oecd.org/">OECD Website{:target="_blank"}</a>
+Group and is available at;  <a href="https://www.oecd.org/" target="_blank">OECD Website{</a>
 
- <a href="" target="_blank">OECD Website{:target="_blank"}</a>
-	
 	
 	
 	</div></li>
