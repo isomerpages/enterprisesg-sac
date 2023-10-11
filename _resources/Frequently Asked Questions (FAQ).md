@@ -278,7 +278,6 @@ h. The Application of the Principles of GLP to In Vitro Studied
 <br>
 i. Establishment and Control of Archives that Operate in Compliance with the Principles of GLP</p>
 	
-	
 </div></li>
 
 <li><input id="accordion7g" type="checkbox">
