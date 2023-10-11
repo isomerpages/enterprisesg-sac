@@ -236,7 +236,6 @@ This document is produced by the OECD GLP Working Group and is available at; <a 
 <p>
 A facility seeking recognition for compliance with the OECD GLP Principles should apply to SAC, stating its proposed scope of recognition and type of studies. It will have to provide key information such as :
 </p>
-<br>
 a. Management Structure
 <br>
 b. Key responsibilities of the personnel and units
