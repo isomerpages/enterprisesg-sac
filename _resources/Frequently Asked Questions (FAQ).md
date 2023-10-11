@@ -233,7 +233,6 @@ This document is produced by the OECD GLP Working Group and is available at; <a 
 <li><input id="accordion5g" type="checkbox">
 
 <label for="accordion5g">What information is required for submission to SAC?</label><div>
-<br>
 
 <p>
 A facility seeking recognition for compliance with the OECD GLP Principles should apply to SAC, stating its proposed scope of recognition and type of studies. It will have to provide key information such as :
