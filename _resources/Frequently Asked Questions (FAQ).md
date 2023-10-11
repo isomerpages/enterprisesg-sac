@@ -224,7 +224,7 @@ This document is produced by the OECD GLP Working Group and is available at; <a 
 
 <li><input id="accordion4g" type="checkbox">
 
-<label for="accordion4g"> Where do I apply the GLP studies?</label><div>
+<label for="accordion4g">Where do I apply the GLP studies?</label><div>
 
 <p>The Principles of GLP are applied to the conduct of non-clinical health and environmental safety studies of test items contained in various chemical products. A study covers work done in a laboratory, in an animal house, in greenhouses, and in the field. Non-clinical studies may cover physical-chemical testing, toxicity studies, mutagenicity studies, environmental toxicity, bioaccumulation, residue studies, studies on effects of mesocosms and ecosystems and the analytical chemistry associated with such studies.</p>
 
@@ -233,9 +233,9 @@ This document is produced by the OECD GLP Working Group and is available at; <a 
 <li><input id="accordion5g" type="checkbox">
 
 <label for="accordion5g">What information is required for submission to SAC?</label><div>
-<b>
+<br>
+
 <p>
-	
 A facility seeking recognition for compliance with the OECD GLP Principles should apply to SAC, stating its proposed scope of recognition and type of studies. It will have to provide key information such as :
 </p>
 <br>
@@ -248,20 +248,18 @@ c. Information on names of Study Direcotr, Study Sponsor
 d.Persons in charge of Quality Assurance and the Achive
 <br>
 e. Quality Manual and Standards Operating Procudures Structure, Master Schedule, etc 
-	
-
 <p></p>
 
-</b></div></li><b>
+</div></li><b>
 
 <li><input id="accordion6g" type="checkbox">
 
 <label for="accordion6g">What are the criteria that a facility must follow?</label><div>
 
 <p>
-
 The facility must first comply with the OECD Series on Principles of Good Laboratory Practice. Other compliance documents include:
-<br><br>
+<br>
+<br>
 a. Quality Assurance and GLP
 <br>
 b. Compliance with Laboratory Suppliers with GLP Principles
