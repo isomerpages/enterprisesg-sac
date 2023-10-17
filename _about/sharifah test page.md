@@ -3,6 +3,42 @@ title: sharifah test page
 permalink: /about/sharifah-test-page/
 description: ""
 ---
+<table>
+<thead>
+  <tr>
+    <th>Programmes</th>
+    <th>Accreditation Requirements</th>
+    <th>Certification Standards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Business (Management) Consultants SIRI Consultant</td>
+    <td>ISO/IEC 17024</td>
+    <td>TR 43, SS 680</td>
+  </tr>
+  <tr>
+    <td>Other Programmes<br>
+      <ul>
+        <li>Security Personnel</li>
+        <li>Financial Planners</li>
+        <li>Medical Technologies</li>
+        <li>Non-Destructive Testing Personnel</li>
+        <li>Rope Access Personnel</li>
+        <li>Welding Personnel</li>
+        <li>Others</li>
+      </ul>
+    </td>
+    <td>ISO/IEC 17024</td>
+    <td>Various applicable standards</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
 test image upload: ![test photo](/images/test-sac%20logo.PNG)
 
 14-Sep-2023 7.39pm<p>A facility seeking recognition for compliance with the OECD GLP Principles should apply to SAC, stating its proposed scope of recognition and type of studies. It will have to provide key information such as :
