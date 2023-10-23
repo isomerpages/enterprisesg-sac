@@ -34,7 +34,7 @@ The following SAC accreditation schemes are applicable to the Energy &amp; Chemi
 <tbody>
   <tr>
     <td>Laboratories (SAC-SINGLAS)</td>
-    <td>Calibration &amp; Measurement<br><br><br>Chemical &amp; Biological<br><br><br>Electrical Testing<br><br><br>Mechanical Testing<br><br><br>Non-destructive Testing</td>
+    <td>Calibration &amp; Measurement<br><br>Chemical &amp; Biological<br><br>Electrical Testing<br><br>Mechanical Testing<br><br>Non-destructive Testing</td>
   </tr>
   <tr>
     <td>Inspection Bodies</td>
@@ -54,5 +54,4 @@ The following SAC accreditation schemes are applicable to the Energy &amp; Chemi
   </tr>
 </tbody>
 </table>
-
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
