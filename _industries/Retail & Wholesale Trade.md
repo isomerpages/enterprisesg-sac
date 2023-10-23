@@ -15,14 +15,25 @@ SAC has accreditation schemes for Conformity Assessment Bodies (CABs) that offer
 
 In Singapore, different industries are regulated by a governing body, such as an agency which may outline specifications or standards that have to be met before goods can be sold or marketed. Refer to individual industry pages for specific examples of how conformity assessment plays a role in your industry.
 
-The following SAC accreditation schemes are applicable to the Retail & Wholesale Trade industries:
+The following SAC accreditation schemes are applicable to the Retail &amp; Wholesale Trade industries:
 
-| Scheme                                  | Field                           |
-|-----------------------------------------|---------------------------------|
-| Management Systems Certification Bodies | Anti-bribery Management System  |
-|                                         | Asset Management                |
-|                                         | Business Continuity Management  |
-|                                         | Environmental Management System |
-|                                         | Quality Management System       |
+<table>
+<thead>
+  <tr>
+    <th>Scheme</th>
+    <th>Field</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Management Systems Certification Bodies</td>
+    <td>Anti-bribery Management System<br><br>Asset Management<br><br>Business Contininuity Management <br><br>Enviromental Management System <br></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 For more information on CABs which provide servies relevant to your business, please click [here](/services/accreditation-services).
