@@ -20,7 +20,7 @@ The following SAC Accreditation Schemes are applicable to the Precision Engineer
 <table>
 <thead>
   <tr>
-    <th>cheme</th>
+    <th>Scheme</th>
     <th>Field</th>
   </tr>
 </thead>
@@ -43,7 +43,6 @@ The following SAC Accreditation Schemes are applicable to the Precision Engineer
   </tr>
 </tbody>
 </table>
-
 
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
