@@ -3,7 +3,7 @@ title: Energy & Chemicals
 permalink: /industries/energy-and-chemicals/
 description: ""
 ---
-![Energy & Chemicals](/images/industries/energy-and-chemicals.jpg)
+![Energy &amp; Chemicals](/images/industries/energy-and-chemicals.jpg)
 
 Singapore is one of the world's leading chemical hubs: over 100 global chemical firms conduct major operations in the country, and it is among the largest refinery export hubs and chemical exporters worldwide. Singapore's chemicals industry is expected to reach $12.7 billion in value-add by 2025.
 
@@ -22,25 +22,37 @@ Industry players may also undergo conformity assessment to support sustainabilit
 
 Management systems certifications apply across most industries, and the energy and chemical sector is no exception. Management certifications relating to quality and occupational safety and health are of especial relevance to these sectors.
 
-The following SAC accreditation schemes are applicable to the Energy & Chemicals industry:
+The following SAC accreditation schemes are applicable to the Energy &amp; Chemicals industry:
 
-| Scheme                                  | Field                                          |
-|-----------------------------------------|------------------------------------------------|
-| Laboratories (SAC-SINGLAS)              | Calibration & Measurement                      |
-|                                         | Chemical & Biological                          |
-|                                         | Electrical Testing                             |
-|                                         | Mechanical Testing                             |
-|                                         | Non-destructive Testing                        |
-|-----------------------------------------|------------------------------------------------|
-| Inspection Bodies                       | Marine & Offshore                              |
-|                                         | Pressure Vessel/ Lifting Equipment             |
-|-----------------------------------------|------------------------------------------------|
-| Management Systems Certification Bodies | Business Continuity Management                 |
-|                                         | Occupational Safety & Health Management System |
-|                                         | Quality Management System                      |
-|-----------------------------------------|------------------------------------------------|
-| Product Certification Bodies            | Certified Personnel (NDT)                      |
-|-----------------------------------------|------------------------------------------------|
-| Validation & Verification Bodies        | Greenhouse Gases                               |
+<table>
+<thead>
+  <tr>
+    <th>Scheme</th>
+    <th>Field</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Laboratories (SAC-SINGLAS)</td>
+    <td>Calibration &amp; Measurement<br><br><br>Chemical &amp; Biological<br><br><br>Electrical Testing<br><br><br>Mechanical Testing<br><br><br>Non-destructive Testing</td>
+  </tr>
+  <tr>
+    <td>Inspection Bodies</td>
+    <td>Marine &amp; Offshore<br><br>Pressure Vessel/ Lifting Equipment</td>
+  </tr>
+  <tr>
+    <td>Management Systems Certification Bodies</td>
+    <td>Business Continuity Management<br><br>Occupational Safety &amp; Health Management System<br><br>Quality Management System</td>
+  </tr>
+  <tr>
+    <td>Product Certification Bodies</td>
+    <td>Certified Personnel (NDT)</td>
+  </tr>
+  <tr>
+    <td>Validation &amp; Verification Bodies</td>
+    <td>Greenhouse Gases</td>
+  </tr>
+</tbody>
+</table>
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
