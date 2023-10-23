@@ -23,25 +23,33 @@ In Singapore, the SAC-accredited Conformity Assessment Bodies (CABs) fulfill the
 
 CABs also provide certification and testing in emerging areas of the industry, such as health foods and alternative proteins, to ascertain product quality.
 
-The following SAC accreditation schemes are applicable to the Food Manufacturing & Services industries:
+The following SAC accreditation schemes are applicable to the Food Manufacturing &amp; Services industries:
 
-| Scheme                                  | Field                                          |
-|-----------------------------------------|------------------------------------------------|
-| Laboratories (SAC-SINGLAS)              | Calibration & Measurement                      |
-|                                         | Chemical & Biological                          |
-|                                         | Functional Food Testing                        |
-|                                         | Mechanical Testing                             |
-|-----------------------------------------|------------------------------------------------|
-| Management Systems Certification Bodies | Occupational Safety & Health Management System |
-|                                         | Business Continuity Management                 |
-|                                         | Water Efficiency Management System             |
-|                                         | Environmental Management System                |
-|                                         | Food Safety Management System                  |
-|                                         | HACCP Management System                        |
-|                                         | Quality Management System                      |
-|-----------------------------------------|------------------------------------------------|      
-| Product Certification                   | Food Products                                  |
-|-----------------------------------------|------------------------------------------------|
-| Proficiency Testing Providers           |                                                |
+<table>
+<thead>
+  <tr>
+    <th>Scheme</th>
+    <th>Field</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Laboratories (SAC-SINGLAS)</td>
+    <td>Calibration &amp; Measurement <br><br>Chemical &amp; Biological <br><br>Functional Food Testing<br><br>Mechanical Testing</td>
+  </tr>
+  <tr>
+    <td>Management Systems Certification Bodies</td>
+    <td>Occupational Safety &amp; Health Management System<br><br>Business Continuity Managment<br><br>Water Efficiency Management System<br><br>Environmental Management System<br><br>Food Safety Management System<br> <br>HACCP Management System<br><br>Quality Management System</td>
+  </tr>
+  <tr>
+    <td>Product Certification</td>
+    <td>Food Products</td>
+  </tr>
+  <tr>
+    <td>Proficiency Testing Providers</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
