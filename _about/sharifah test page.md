@@ -3,6 +3,10 @@ title: sharifah test page
 permalink: /about/sharifah-test-page/
 description: ""
 ---
+
+[Google](http://www.google.com){:target="\_blank"}
+[Google](http://www.google.com){:target="_blank"}
+
 <table>
 <thead>
   <tr>
