@@ -3,9 +3,9 @@ title: sharifah test page
 permalink: /about/sharifah-test-page/
 description: ""
 ---
-[Google](http://www.google.com){:target="\_blank"}
+[Google - opens in new tab &amp; without icon](http://www.google.com){:target="\_blank"}
 
-[Google](http://www.google.com){:target="_blank"}
+[Google - opens in new tab &amp; with icon](http://www.google.com){:target="_blank"}
 
 <table>
 <thead>
