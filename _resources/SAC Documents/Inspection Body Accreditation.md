@@ -34,7 +34,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 **Central Alarm Monitoring Stations Inspection Field**
 
-* [Technical Note: CAMS-01: 09 Jul 2018 - Specific Requirements for the Accreditation of IB for CAMS](/files/Documents/Inspection%20body%20accreditation/CAMS-01-(09-July-2018).pdf){:target="\_blank"}
+* [Technical Note: CAMS-01: 09 Jul 2018 - Specific Requirements for the Accreditation of IB for Central Alarm Monitoring Stations](/files/Documents/Inspection%20body%20accreditation/CAMS-01-(09-July-2018).pdf){:target="\_blank"}
 
 
 
