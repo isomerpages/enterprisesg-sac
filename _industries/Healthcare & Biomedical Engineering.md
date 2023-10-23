@@ -3,7 +3,7 @@ title: Healthcare & Biomedical Engineering
 permalink: /industries/healthcare-and-biomedical-engineering/
 description: ""
 ---
-![Healthcare & Biomedical Engineering](/images/industries/healthcare-and-biomedical-engineering.jpg)
+![Healthcare &amp; Biomedical Engineering](/images/industries/healthcare-and-biomedical-engineering.jpg)
 
 The healthcare and biomedical industry includes pharmaceuticals, medical equipment, complementary health products, and more. Its related services sector is centered on the provision of healthcare in various forms, ranging from hospital stays to home nurses. Given the wide scope of the industry, the healthcare value chain consists of several stakeholders, each involved in various activities that may be product or service-oriented.
 
@@ -21,19 +21,27 @@ SAC has accreditation schemes for laboratories as well as inspection and certifi
 
 The following SAC Accreditation Programmes are applicable to the healthcare and biomedical industry:
 
-| Scheme                                  | Field                                                        |
-|-----------------------------------------|--------------------------------------------------------------|
-| Laboratories (SAC-SINGLAS)              | Calibration & Measurement                                    |
-|                                         | Chemical & Biological                                        |
-|                                         | Mechanical Testing                                           |
-|                                         | Medical Imaging                                              |
-|-----------------------------------------|--------------------------------------------------------------|
-| Management Systems Certification Bodies | Good Distribution Practices for Medical Devices              |
-|                                         | Occupational Health & Safety Management System               |
-|                                         | Medical Device QMS                                           |
-|-----------------------------------------|--------------------------------------------------------------|
-| Good Laboratory Practices (GLP)         | Toxicity Studies                                             |
-|                                         | Physical Chemical Testing                                    |
-|                                         | Analytical and Clinical Associated with Non-clinical Studies |
+<table>
+<thead>
+  <tr>
+    <th>Scheme</th>
+    <th>Field</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Laboratories (SAC-SINGLAS)</td>
+    <td>Calibration &amp; Measurement <br><br>Chemical &amp; Biological <br><br>Mechanical Testing<br><br>Medical Imaging</td>
+  </tr>
+  <tr>
+    <td>Management Systems Certification Bodies</td>
+    <td>Good Distribution Practices for Medical Devices<br><br>Occupational Safety &amp; Health Management System<br><br>Medical Device QMS</td>
+  </tr>
+  <tr>
+    <td>Good Laboratory Practices (GLP)</td>
+    <td>Toxicity Studies<br><br>Physical Chemical Testing<br><br>Analytical and Clinical Associated with Non-Clinical Studies</td>
+  </tr>
+</tbody>
+</table>
 
 For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
