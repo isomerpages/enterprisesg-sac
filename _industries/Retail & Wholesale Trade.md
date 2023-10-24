@@ -27,7 +27,7 @@ The following SAC accreditation schemes are applicable to the Retail &amp; Whole
 <tbody>
   <tr>
     <td>Management Systems Certification Bodies</td>
-    <td>Anti-bribery Management System<br><br>Asset Management<br><br>Business Contininuity Management <br><br>Enviromental Management System <br></td>
+    <td>Anti-bribery Management System<br><br>Asset Management<br><br>Business Continuity Management<br><br>Environmental Management System<br><br>Quality Management System</td>
   </tr>
   <tr>
     <td></td>
