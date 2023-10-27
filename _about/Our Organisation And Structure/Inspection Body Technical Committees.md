@@ -22,17 +22,17 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 </thead>
 <tbody>
   <tr>
-		<td><b>Chairman</b></td>
+    <td>Chairman</td>
     <td>Mr Chan Yew Kwong</td>
     <td>Workplace Health &amp; Safety Council</td>
   </tr>
   <tr>
-		<td rowspan="10"><b>Members</b></td>
+    <td rowspan="9">Members</td>
     <td>Mr Thomas Chong</td>
     <td>Association of Process Industires</td>
   </tr>
   <tr>
-    <td>Mr Ernest Phoon Chee Keong</td>
+    <td>Mr Ernest Poon Chee Keong</td>
     <td>Land Transport Authority</td>
   </tr>
   <tr>
@@ -56,10 +56,6 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
     <td>Singapore Manufacturing Federation - TIC Interest Group</td>
   </tr>
   <tr>
-    <td>Mr Edwin Yong</td>
-    <td>Singapore Police Force</td>
-  </tr>
-  <tr>
     <td>Er. Yee Poh Kin</td>
     <td>The Institution of Engineers, Singapore</td>
   </tr>
@@ -68,8 +64,8 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
     <td>Waste Management and Recycling Association of Singapore</td>
   </tr>
   <tr>
-		<td><b>Secretary</b></td>
-    <td>Mr James Lee</td>
+    <td>Secretary</td>
+    <td>Mr Clarence Wong</td>
     <td>SAC Secretariat</td>
   </tr>
   <tr>
@@ -79,6 +75,8 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
   </tr>
 </tbody>
 </table>
+ 
+  
 
 
 ## Structural Steelwork Inspection
