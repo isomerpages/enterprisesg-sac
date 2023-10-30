@@ -4,6 +4,8 @@ permalink: /about/our-history/2010-present/
 description: ""
 third_nav_title: Our History
 ---
+
+![2014](/images/press-release/photos/APLAC-pic3.jpg)
 <table>
 <thead>
   <tr>
@@ -25,9 +27,8 @@ third_nav_title: Our History
   </th></tr>
   <tr>
     <td>2014<br><br>7 May: Launch of Accreditation Programme for Hook-Lift and Container (HL) Inspection.,<br><br>25 June: SAC signed the APLAC MRA for Proficiency Testing Providers (PTP). <br><br>5 August: SAC signed a MOU with Joint Accreditation System of Australia and New Zealand (JAS-ANZ) for closer collaboration.,<br><br>SAC signed a MOU with Singapore Polytechnic to upgrade industry capability.<br><br>Launch of Accreditation Scheme for Learning Service Providers (LSP) Certification.,<br><br>9 September: SAC signed a MOU with the GCC Accreditation Centre (GAC) for closer collaboration.,<br><br>29 October: Launch of Accreditation Programme for Multi-Tiered Cloud Computing Security (MTCS) Certification.,<br><br>12 November: Launch of Accreditation Programme for End-of-Life ICT Equipment Management (EIMS) Certification.</td>
-    <td> </td><th><img style="width:600px" alt="APLAC Pic3" src="(/images/press-release/photos/APLAC-pic3.jpg"> no pic
-  </th></tr>
-  <tr>
+ <th><img style="width:240px" alt="2010" src="/images/press-release/photos/APLAC-pic3.jpg"> </th>
+  </tr><tr>
     <td>2015<br><br>12 August: Launch of Accreditation Programme for Asset Management (AM) Certification.,<br><br>13 August: SAC signed a MOU with the Chemical Metrology Division (CMD) of Health Sciences Authority for closer collaboration.<br><br>5 November: SAC signed the IAF MLA for Food Safety Management System (FSMS). </td>
     <td> </td><td> </td><th><img style="width:700px" alt="2015" src="/images/about/milestone/sac-milestone-2015-11-05.jpg">
   </th></tr>
