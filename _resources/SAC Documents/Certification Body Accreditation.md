@@ -56,10 +56,8 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 27:2023 -Transition Requirements for ISO 22003-1:2022](https://go.gov.sg/iaf-md-27-22003-1-transition-2023){:target="\_blank"}
 
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/iaf-pl-9-issue1-version2-023.pdf){:target="_blank"}
-
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/Documents/Management%20system%20and%20products%20certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
-
-
+* [Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023](https://go.gov.sg/sac-ctfm02-isms-assessment-checklist-isoiec27006){:target="_blank"}
 * [Assessment Checklist (ISO/TS 22003) – May 2017](/files/Documents/Management%20system%20and%20products%20certification/MPFM25C-FSMS-checklist-(May-17).doc)
 
 ### Joint IAF-ISO Communiques 
