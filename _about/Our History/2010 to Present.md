@@ -5,13 +5,6 @@ description: ""
 third_nav_title: Our History
 ---
 
-
-/images/press-release/photos/APLAC-pic3.jpg (to insert 2014 img)
-
-![2014](/images/press-release/photos/APLAC-pic3.jpg)
-
-
-
 /images/press-release/photos/Quality-and-Standards-Dinner.jpg (to insert 2016 img)
 
 /images/press-release/photos/Myanmar-MOU.png  (to insert 2017 img)
