@@ -4,16 +4,13 @@ permalink: /about/our-history/2010-present/
 description: ""
 third_nav_title: Our History
 ---
-/images/about/milestone/sac-milestone-2010-01-13.jpg (to insert 2010 img)
-![2010](/images/about/milestone/sac-milestone-2010-01-13.jpg)
 
-/images/about/milestone/sac-milestone-2012-10-24.jpg (to insert 2012 img)
-
-/images/about/milestone/sac-milestone-2013-08-14.jpg (to insert 2013 img)
 
 /images/press-release/photos/APLAC-pic3.jpg (to insert 2014 img)
 
-/images/about/milestone/sac-milestone-2015-11-05.jpg (to insert 2015 img)
+![2014](/images/press-release/photos/APLAC-pic3.jpg)
+
+
 
 /images/press-release/photos/Quality-and-Standards-Dinner.jpg (to insert 2016 img)
 
@@ -36,20 +33,20 @@ third_nav_title: Our History
   </tr>
   <tr>
     <td>2012 <br><br>10 May: Launch of Site Investigation (SI) Accreditation Programme. <br><br>3 July: Launch of Accreditation Programme for Energy Management System (EnMS) Certification.<br><br>10 August: Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels.&nbsp;&nbsp;<br><br>24 October: SAC signed the ILAC MRA for Inspection Bodies.</td>
-    <td>To insert 2012 image</td>
-  </tr>
+    <th><img style="width:177px" alt="2012" src="/images/about/milestone/sac-milestone-2012-10-24.jpg">
+  </th></tr>
   <tr>
     <td>2013 <br><br>14 - 15 March: SAC hosted the APLAC Mid-Year Meetings for APLAC MRA Council and Board of Management. <br><br>24 May: SAC elected to the PAC Executive Committee. <br><br>27 June: Launch of Accreditation Programme for Water Efficiency Management System (WEMS) Certification. <br><br>14 August: Launch of Accreditation Scheme for Proficiency Testing Providers (PTP). <br><br>Launch of Accreditation Scheme for Personnel Certification. SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.</td>
-    <td>To insert 2013 image</td>
-  </tr>
+ <th><img style="width:177px" alt="2013" src="/images/about/milestone/sac-milestone-2013-08-14.jpg">
+  </th></tr>
   <tr>
     <td>2014<br><br>7 May: Launch of Accreditation Programme for Hook-Lift and Container (HL) Inspection.,<br><br>25 June: SAC signed the APLAC MRA for Proficiency Testing Providers (PTP). <br><br>5 August: SAC signed a MOU with Joint Accreditation System of Australia and New Zealand (JAS-ANZ) for closer collaboration.,<br><br>SAC signed a MOU with Singapore Polytechnic to upgrade industry capability.<br><br>Launch of Accreditation Scheme for Learning Service Providers (LSP) Certification.,<br><br>9 September: SAC signed a MOU with the GCC Accreditation Centre (GAC) for closer collaboration.,<br><br>29 October: Launch of Accreditation Programme for Multi-Tiered Cloud Computing Security (MTCS) Certification.,<br><br>12 November: Launch of Accreditation Programme for End-of-Life ICT Equipment Management (EIMS) Certification.</td>
-    <td>To insert 2014 image</td>
-  </tr>
+    <td> </td><th><img style="width:600px" alt="APLAC Pic3" src="(/images/press-release/photos/APLAC-pic3.jpg"> no pic
+  </th></tr>
   <tr>
     <td>2015<br><br>12 August: Launch of Accreditation Programme for Asset Management (AM) Certification.,<br><br>13 August: SAC signed a MOU with the Chemical Metrology Division (CMD) of Health Sciences Authority for closer collaboration.<br><br>5 November: SAC signed the IAF MLA for Food Safety Management System (FSMS). </td>
-    <td>to insert 2015 image</td>
-  </tr>
+    <td> </td><td> </td><th><img style="width:700px" alt="2015" src="/images/about/milestone/sac-milestone-2015-11-05.jpg">
+  </th></tr>
   <tr>
     <td>2016<br><br>9 June: SAC organised its 1st Regulator Workshop to promote accreditation as a tool to support public policy.,<br><br>16 June: SAC elected to PAC Chairmanship.,<br><br>27 July: SAC celebrated 30 years of the Singapore Accreditation Programme.</td>
     <td>to insert 2016 image</td>
