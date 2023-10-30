@@ -5,11 +5,13 @@ description: ""
 third_nav_title: Our History
 ---
 
-/images/press-release/photos/Quality-and-Standards-Dinner.jpg (to insert 2016 img)
 
-/images/press-release/photos/Myanmar-MOU.png  (to insert 2017 img)
+
+
 
 /images/about/milestone/sac-milestone-2018-08-24.jpg (to insert 2018 img)
+
+
 
 /images/about/milestone/sac-milestone-2019-06-14.jpg (to insert 2019 img)
 
@@ -42,11 +44,11 @@ third_nav_title: Our History
   </th></tr>
   <tr>
     <td>2016<br><br>9 June: SAC organised its 1st Regulator Workshop to promote accreditation as a tool to support public policy.,<br><br>16 June: SAC elected to PAC Chairmanship.,<br><br>27 July: SAC celebrated 30 years of the Singapore Accreditation Programme.</td>
-    <td>to insert 2016 image</td>
-  </tr>
+    <td></td><th><img style="width:240px" alt="2016" src="/images/press-release/photos/Quality-and-Standards-Dinner.jpg">
+  </th></tr>
   <tr>
     <td>2017<br><br>25 March: SAC signed the PAC MLA for Energy Management System (EnMS) and Environmental Management System (EMS).,<br><br>8 June: SAC signed a MOU with Myanmar's Department of Research and Innovation (DRI) and appointed as their partner accreditation body.,<br><br>27 July: SAC signed the IAF MLA for Environmental Management System (EMS).,<br><br>14 August: Launch of Accreditation Programme for Medical Devices Quality Management System (ISO 13485) Certification.,<br><br>15 September: Launch of Accreditation Programme for Auditing Organisations.,<br><br>26 December: Launch of Accreditation Programme for Anti-Bribery Management System Certification.</td>
-    <td>to insert 2017 image</td>
+    <td></td><th><img style="width:240px" alt="2017" src="/images/press-release/photos/Myanmar-MOU.png"> </th>
   </tr>
   <tr>
     <td>2018<br><br>2 January: Launch of Online Learning Portal.,<br><br>2 April: Merger of IE Singapore and SPRING to form Enterprise Singapore.,<br><br>24 August: Launch of Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body.,<br><br>28 September: Launch of Accreditation Programme for Information Security Management System (ISMS) Certification.,<br><br>1 October: Expanded Auditing Organisation Scheme to include Risk Management Audit and expanded Product Certification Scheme to include Organic Primary Produce certification.,<br><br>26 October: SAC and the Automation Standards Compliance Institute (ASCI) signed an MoU to facilitate industry recognition of SAC-accredited conformity assessment bodies (CABs) providing ISA/IEC 62443 Industrial Automation and Control Systems Cybersecurity Certification under ASCI's ISASecure Scheme.,<br><br>12 November: Expanded Product Certification Scheme to include certification of Structural Steelwork Fabricators.</td>
