@@ -53,7 +53,7 @@ third_nav_title: Our History
     <td colspan="2">2021<br><br>10 September: SAC was admitted to APAC MRA for Business Continuity Management and Anti-bribery Management System.,<br><br>16 November: Launch of Accreditation Programme for Cold Chain Management System (CCMS) Certification.,<br><br>25 November: Expanded Product Certification Scheme to include Good Agriculture Practice (GAP) and Clean &amp; Green Urban Farms.,<br><br>30 November: Expanded Product Certification Scheme to include In-situ Post Tensioning Works and Alternative Structural Steel in BC 1.</td>
   </tr>
   <tr>
-    <td colspan="2">2022<br><br>14 February: Expanded Inspection Body Scheme to include Food Cargo Inspection.,<br><br>22 February: Expanded Auditing Organisation Scheme to include Food Establishments Audits.</td>
+    <td> colspan="2"&gt;2022<br><br>14 February: Expanded Inspection Body Scheme to include Food Cargo Inspection.,<br><br>22 February: Expanded Auditing Organisation Scheme to include Food Establishments Audits.</td>
   </tr>
 </tbody>
 </table>
