@@ -4,13 +4,9 @@ permalink: /about/our-history/2010-present/
 description: ""
 third_nav_title: Our History
 ---
-
-
-
-
-
 /images/about/milestone/sac-milestone-2018-08-24.jpg (to insert 2018 img)
 
+![2018](/images/about/milestone/sac-milestone-2018-08-24.jpg)
 
 
 /images/about/milestone/sac-milestone-2019-06-14.jpg (to insert 2019 img)
@@ -52,7 +48,7 @@ third_nav_title: Our History
   </tr>
   <tr>
     <td>2018<br><br>2 January: Launch of Online Learning Portal.,<br><br>2 April: Merger of IE Singapore and SPRING to form Enterprise Singapore.,<br><br>24 August: Launch of Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body.,<br><br>28 September: Launch of Accreditation Programme for Information Security Management System (ISMS) Certification.,<br><br>1 October: Expanded Auditing Organisation Scheme to include Risk Management Audit and expanded Product Certification Scheme to include Organic Primary Produce certification.,<br><br>26 October: SAC and the Automation Standards Compliance Institute (ASCI) signed an MoU to facilitate industry recognition of SAC-accredited conformity assessment bodies (CABs) providing ISA/IEC 62443 Industrial Automation and Control Systems Cybersecurity Certification under ASCI's ISASecure Scheme.,<br><br>12 November: Expanded Product Certification Scheme to include certification of Structural Steelwork Fabricators.</td>
-    <td>to insert 2018 image</td>
+    <td> </td><th><img style="width:240px" alt="2018" src="/images/about/milestone/sac-milestone-2018-08-24.jpg"> </th>
   </tr>
   <tr>
     <td>2019<br><br><br>1 January: APAC was established by the amalgamation of APLAC and PAC.,<br><br>4 January: SAC expanded Laboratory Accreditation Scheme to include Robustness Testing under the Information Technology Field and ISASecure Certification under Product Certification Scheme.,<br><br>14 - 22 June: SAC hosted the inaugural Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meeting.,<br><br>17 June: Launch of Programme for Endorsement of Forest Certification (PEFC) - Chain of Custody Certification.,<br><br>26 June: SAC was admitted to APAC MRA for Medical Device - Quality Management System, Occupational Health &amp; Safety Management System and Information Security Management System.,<br><br>30 September: SAC was admitted to IAF MLA for Medical Device - Quality Management System and Information Security Management System.,<br><br>3 October: SAC was admitted to ILAC MRA for Proficiency Testing Providers.,<br><br>2 &amp; 27 October: SAC was admitted to APAC MRA and IAF MLA for Certification of Persons.</td>
