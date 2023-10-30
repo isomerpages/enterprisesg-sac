@@ -8,7 +8,7 @@ third_nav_title: Our History
 <thead>
   <tr>
     <td><b>2010</b><br><br>13 January: The Singapore GLP Compliance Programme was admitted to OECD Mutual Acceptance of Data.<br><br>6 April: Launch of Accreditation Programme for Business Continuity Management (BCM) Certification. <br><br>25 May: Launch of Functional Food Testing Accreditation Programme.</td>
-    <td><img style="width:240px" alt="2010" src="/images/about/milestone/sac-milestone-2010-01-13.jpg"> </td>
+    <td><img style="width:500px" alt="2010" src="/images/about/milestone/sac-milestone-2010-01-13.jpg"> </td>
   </tr>
 </thead>
 <tbody>
