@@ -4,8 +4,6 @@ permalink: /about/our-history/2010-present/
 description: ""
 third_nav_title: Our History
 ---
-
-![2014](/images/press-release/photos/APLAC-pic3.jpg)
 <table>
 <thead>
   <tr>
