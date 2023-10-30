@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Our History
 ---
 /images/about/milestone/sac-milestone-2010-01-13.jpg (to insert 2010 img)
+![2010](/images/about/milestone/sac-milestone-2010-01-13.jpg)
 
 /images/about/milestone/sac-milestone-2012-10-24.jpg (to insert 2012 img)
 
@@ -26,7 +27,7 @@ third_nav_title: Our History
 <thead>
   <tr>
     <th>2010<br><br>13 January: The Singapore GLP Compliance Programme was admitted to OECD Mutual Acceptance of Data.<br><br>6 April: Launch of Accreditation Programme for Business Continuity Management (BCM) Certification. <br><br>25 May: Launch of Functional Food Testing Accreditation Programme.</th>
-    <th>To insert 2010 image</th>
+    <th><img style="width:240px" alt="2010" src="/images/about/milestone/sac-milestone-2010-01-13.jpg"> </th>
   </tr>
 </thead>
 <tbody>
