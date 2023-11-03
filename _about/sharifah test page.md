@@ -8,6 +8,22 @@ variant: markdown
 
 [Google - opens in new tab &amp; with icon](http://www.google.com){:target="_blank"}
 
+<style type="text/css">
+.milestone-arrow::before {
+		content: none;
+}
+.milestone-arrow::after {
+	display: inline-block;
+	font-family: "sgds-icons";
+	content: "";
+	padding-left: 0.25rem;
+	font-weight: 400;
+}
+</style>
+
+ABC<span class="milestone-arrow"></span><br>
+DEF<span class="milestone-arrow"></span> GHI<span class="milestone-arrow"></span> JKL
+
 <table>
 <thead>
   <tr>
