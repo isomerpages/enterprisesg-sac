@@ -2,6 +2,7 @@
 title: sharifah test page
 permalink: /about/sharifah-test-page/
 description: ""
+variant: markdown
 ---
 [Google - opens in new tab &amp; without icon](http://www.google.com){:target="\_blank"}
 
@@ -17,7 +18,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td>Business (Management) Consultants SIRI Consultant</td>
+    <td>Business (Management) Consultants SIRI Consultant <span class="milestone-arrow"></span></td>
     <td>ISO/IEC 17024</td>
     <td>TR 43, SS 680</td>
   </tr>
