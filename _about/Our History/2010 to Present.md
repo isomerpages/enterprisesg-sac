@@ -5,10 +5,34 @@ description: ""
 third_nav_title: Our History
 variant: markdown
 ---
+<style type="text/css"> 
+
+.milestone-arrow::before { 
+
+content: none; 
+
+} 
+
+.milestone-arrow::after { 
+
+display: inline-block; 
+
+font-family: "sgds-icons"; 
+
+content: ""; 
+
+padding-left: 0.25rem; 
+
+font-weight: 400; 
+
+} 
+
+</style> 
+
 <table>
 <thead>
   <tr>
-    <td><b>2010</b><br><br><b>13 January:</b> The Singapore GLP Compliance Programme was admitted to OECD Mutual Acceptance of Data.<br><br><b>6 April:</b> Launch of Accreditation Programme for Business Continuity Management (BCM) Certification. <br><br><b>25 May:</b> Launch of Functional Food Testing Accreditation Programme.</td>
+    <td><b>2010</b><br><br><b>13 January:</b> The Singapore GLP Compliance Programme was admitted to OECD Mutual Acceptance of Data.<span class="milestone-arrow"></span><br><br><b>6 April:</b> Launch of Accreditation Programme for Business Continuity Management (BCM) Certification. <br><br><b>25 May:</b> Launch of Functional Food Testing Accreditation Programme.</td>
     <td><img style="width:2500px" alt="2010" src="/images/about/milestone/sac-milestone-2010-01-13.jpg"> </td>
   </tr>
 </thead>
@@ -17,11 +41,11 @@ variant: markdown
     <td colspan="2"><b>2011 </b><br><br><b>1 January:</b> SAC took on the APLAC Chairmanship. <br><br><b>19 May:</b> Launch of Accreditation Programme for Central Alarm Monitoring Stations (CAMS).</td>
   </tr>
   <tr>
-    <td><b>2012</b><br><br><b>10 May:</b> Launch of Site Investigation (SI) Accreditation Programme. <br><br><b>3 July:</b> Launch of Accreditation Programme for Energy Management System (EnMS) Certification.<br><br><b>10 August:</b> Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels.&nbsp;&nbsp;<br><br><b>24 October:</b> SAC signed the ILAC MRA for Inspection Bodies.</td>
+    <td><b>2012</b><br><br><b>10 May:</b> Launch of Site Investigation (SI) Accreditation Programme. <br><br><b>3 July:</b> Launch of Accreditation Programme for Energy Management System (EnMS) Certification.<br><br><b>10 August:</b> Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels.&nbsp;&nbsp;<br><br><b>24 October:</b> SAC signed the ILAC MRA for Inspection Bodies.<span class="milestone-arrow"></span></td>
     <th><img style="width:2500px" alt="2012" src="/images/about/milestone/sac-milestone-2012-10-24.jpg">
   </th></tr>
   <tr>
-    <td><b>2013</b> <br><br><b>14 - 15 March:</b> SAC hosted the APLAC Mid-Year Meetings for APLAC MRA Council and Board of Management. <br><br><b>24 May:</b> SAC elected to the PAC Executive Committee. <br><br><b>27 June:</b> Launch of Accreditation Programme for Water Efficiency Management System (WEMS) Certification. <br><br><b>14 August:</b> Launch of Accreditation Scheme for Proficiency Testing Providers (PTP). <br><br>Launch of Accreditation Scheme for Personnel Certification. SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.</td>
+    <td><b>2013</b> <br><br><b>14 - 15 March:</b> SAC hosted the APLAC Mid-Year Meetings for APLAC MRA Council and Board of Management. <br><br><b>24 May:</b> SAC elected to the PAC Executive Committee. <br><br><b>27 June:</b> Launch of Accreditation Programme for Water Efficiency Management System (WEMS) Certification. <br><br><b>14 August:</b> Launch of Accreditation Scheme for Proficiency Testing Providers (PTP). <br><br>Launch of Accreditation Scheme for Personnel Certification.<span class="milestone-arrow"></span> SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.</td>
  <th><img style="width:2500px" alt="2013" src="/images/about/milestone/sac-milestone-2013-08-14.jpg">
   </th></tr>
   <tr>
