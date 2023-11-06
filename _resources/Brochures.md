@@ -19,7 +19,7 @@ variant: markdown
 <table class="tg">
 <thead>
 	 <tr>
-    <td class="tg-ogew"><a href="https://spring.enterprisesg.gov.sg/Resources/Documents/50_years_of_quality_and_standards/web/html5/index.html"><img style="width:30%" src="https://d33wubrfki0l68.cloudfront.net/b1937abe44769cefc51fbf3c4d4e2e18cad96c32/f39c8/images/brochures/comm-book-2016.png"><span style="text-decoration:none;color:inherit"></span></a></td>    
+    <td class="tg-ogew"><a href="/files/Brochures/50th%20commemorative%20booklet.pdf"><img style="width:30%" src="https://d33wubrfki0l68.cloudfront.net/b1937abe44769cefc51fbf3c4d4e2e18cad96c32/f39c8/images/brochures/comm-book-2016.png"><span style="text-decoration:none;color:inherit"></span></a></td>    
 		 <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
