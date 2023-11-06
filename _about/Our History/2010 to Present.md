@@ -42,7 +42,7 @@ font-weight: 400;
   </tr>
   <tr>
     <td><b>2012</b><br><br><b>10 May:</b> Launch of Site Investigation (SI) Accreditation Programme. <br><br><b>3 July:</b> Launch of Accreditation Programme for Energy Management System (EnMS) Certification.<br><br><b>10 August:</b> Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels.&nbsp;&nbsp;<br><br><b>24 October:</b> SAC signed the ILAC MRA for Inspection Bodies.<span class="milestone-arrow"></span></td>
-    <th></th><td style="vertical-align:middle"> <img style="width:2500px" alt="2012" src="/images/about/milestone/sac-milestone-2012-10-24.jpg">
+    <td style="vertical-align:middle"> <img style="width:2500px" alt="2012" src="/images/about/milestone/sac-milestone-2012-10-24.jpg">
   </td></tr>
   <tr>
     <td><b>2013</b> <br><br><b>14 - 15 March:</b> SAC hosted the APLAC Mid-Year Meetings for APLAC MRA Council and Board of Management. <br><br><b>24 May:</b> SAC elected to the PAC Executive Committee. <br><br><b>27 June:</b> Launch of Accreditation Programme for Water Efficiency Management System (WEMS) Certification. <br><br><b>14 August:</b> Launch of Accreditation Scheme for Proficiency Testing Providers (PTP). <br><br>Launch of Accreditation Scheme for Personnel Certification. <span class="milestone-arrow"></span><br><br>SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.</td>
