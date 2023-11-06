@@ -33,7 +33,7 @@ font-weight: 400;
 <thead>
   <tr>
     <td><b>2010</b><br><br><b>13 January:</b> The Singapore GLP Compliance Programme was admitted to OECD Mutual Acceptance of Data.<span class="milestone-arrow"></span><br><br><b>6 April:</b> Launch of Accreditation Programme for Business Continuity Management (BCM) Certification. <br><br><b>25 May:</b> Launch of Functional Food Testing Accreditation Programme.</td> 
-    <td> <img style="width:2500px" alt="2010" src="/images/about/milestone/sac-milestone-2010-01-13.jpg"> </td>
+    <td style="”vertical-align:middle”"> <img style="width:2500px" alt="2010" src="/images/about/milestone/sac-milestone-2010-01-13.jpg"> </td>
   </tr>
 </thead>
 <tbody>
