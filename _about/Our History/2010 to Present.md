@@ -57,7 +57,7 @@ font-weight: 400;
   </td></tr>
   <tr>
     <td><b>2016</b><br><br><b>9 June:</b> SAC organised its 1st Regulator Workshop to promote accreditation as a tool to support public policy.<br><br><b>16 June:</b> SAC elected to PAC Chairmanship.<br><br><b>27 July:</b> SAC celebrated 30 years of the Singapore Accreditation Programme.<span class="milestone-arrow"></span></td>
-    <td style="vertical-align:middle">&gt;<img style="width:2500px" alt="2016" src="/images/press-release/photos/Quality-and-Standards-Dinner.jpg">
+    <td style="vertical-align:middle"> <img style="width:2500px" alt="2016" src="/images/press-release/photos/Quality-and-Standards-Dinner.jpg">
   </td></tr>
   <tr>
     <td><b>2017</b><br><br><b>25 March:</b> SAC signed the PAC MLA for Energy Management System (EnMS) and Environmental Management System (EMS).<br><br><b>8 June:</b> SAC signed a MOU with Myanmar's Department of Research and Innovation (DRI) and appointed as their partner accreditation body.<span class="milestone-arrow"></span><br><br><b>27 July:</b> SAC signed the IAF MLA for Environmental Management System (EMS).<br><br><b>14 August:</b> Launch of Accreditation Programme for Medical Devices Quality Management System (ISO 13485) Certification.<br><br><b>15 September:</b> Launch of Accreditation Programme for Auditing Organisations.<br><br><b>26 December:</b> Launch of Accreditation Programme for Anti-Bribery Management System Certification.</td>
