@@ -51,7 +51,16 @@ variant: markdown
 </tbody>
 </table>
 <h4>SAC Directory</h4>
-
+<table class="tg">
+<thead>
+	 <tr>
+    <td class="tg-ogew">
+			<a href="/files/Brochures/SAC-Directory-16-17-Final.pdf"><img style="width:30%" src="https://d33wubrfki0l68.cloudfront.net/580f0b52b9d7e69d9ce6ced07bccd2452f5bc620/18af7/images/brochures/sac-directory-cover-1617.png"><span style="text-decoration:none;color:inherit"></span></a>
+		 </td>    
+		 <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+	</thead></table>
 	 
 <a href="/files/Brochures/SAC-Directory-16-17-Final.pdf"><img style="width:30%" src="https://d33wubrfki0l68.cloudfront.net/580f0b52b9d7e69d9ce6ced07bccd2452f5bc620/18af7/images/brochures/sac-directory-cover-1617.png"><span style="text-decoration:none;color:inherit"></span></a>    
 		 
