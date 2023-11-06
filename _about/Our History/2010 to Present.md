@@ -72,13 +72,13 @@ font-weight: 400;
    <td style="vertical-align:middle"> <img style="width:2500px" alt="2019" src="/images/about/milestone/sac-milestone-2019-06-14.jpg"> </td>
   </tr>
   <tr>
-		<td><b>2020</b><br><br><b>30 May:</b> SAC was admitted to IAF MLA for Occupational Health &amp; Safety Management System.</td>
+		<td colspan="2"><b>2020</b><br><br><b>30 May:</b> SAC was admitted to IAF MLA for Occupational Health &amp; Safety Management System.</td>
   </tr>
   <tr>
-		<td><b>2021</b><br><br><b>10 September:</b> SAC was admitted to APAC MRA for Business Continuity Management and Anti-bribery Management System.<br><br><b>16 November:</b> Launch of Accreditation Programme for Cold Chain Management System (CCMS) Certification.<br><br><b>25 November:</b> Expanded Product Certification Scheme to include Good Agriculture Practice (GAP) and Clean &amp; Green Urban Farms.<br><br><b>30 November:</b> Expanded Product Certification Scheme to include In-situ Post Tensioning Works and Alternative Structural Steel in BC 1.</td>
+		<td colspan="2"><b>2021</b><br><br><b>10 September:</b> SAC was admitted to APAC MRA for Business Continuity Management and Anti-bribery Management System.<br><br><b>16 November:</b> Launch of Accreditation Programme for Cold Chain Management System (CCMS) Certification.<br><br><b>25 November:</b> Expanded Product Certification Scheme to include Good Agriculture Practice (GAP) and Clean &amp; Green Urban Farms.<br><br><b>30 November:</b> Expanded Product Certification Scheme to include In-situ Post Tensioning Works and Alternative Structural Steel in BC 1.</td>
   </tr>
   <tr>
-		<td><b>2022</b><br><br><b>14 February:</b> Expanded Inspection Body Scheme to include Food Cargo Inspection.<br><br><b>22 February:</b> Expanded Auditing Organisation Scheme to include Food Establishments Audits.</td>
+		<td colspan="2"><b>2022</b><br><br><b>14 February:</b> Expanded Inspection Body Scheme to include Food Cargo Inspection.<br><br><b>22 February:</b> Expanded Auditing Organisation Scheme to include Food Establishments Audits.</td>
   </tr>
 </tbody>
 </table>
