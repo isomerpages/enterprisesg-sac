@@ -42,7 +42,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 
 **Pressure Vessel / Lifting Equipment Inspection Field**
-* [Technical Note: PV/LE 01: June 2018 - Specific Reqts for Accreditation of Inspection Bodies in Pressure Vessel and Lifting Equipment Inspection](/files/Documents/Inspection%20body%20accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="\_blank"}
+* [Technical Note: PV/LE 01: June 2018 - Specific Reqts for Accreditation of IB in Pressure Vessel and Lifting Equipment Inspection](/files/Documents/Inspection%20body%20accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="\_blank"}
 
 
 **Site Investigation and Instrumentation &amp; Monitoring**
