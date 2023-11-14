@@ -39,8 +39,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 *[Technical Guide 2 - June 2023: Guide on MU in Chemical & Microbiological Analysis ](/files/Documents/Laboratory%20Accreditation/Technical-Guide-2.pdf){:target="\_blank"}
 * [Guidance Note - C&B and ENV 001, Feb 2019 : Elements of Method Validation for Chemical Testing ](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CnB-ENV-001-8-Feb-2019.pdf){:target="\_blank"}
 * [Guidance Note - C&B and ENV 002, Mar 2019 : Method Validation of Microbiological Methods](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CB-and-ENV-002-29-Mar-2019.pdf){:target="\_blank"}
-* [Guidance Note - C&amp;B and ENV 003, 01 July 2019 : Identification and Confirmation of Microorganisms](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/CB-and-ENV-Guidance-Notes-003_(1-Jul-2019).pdf)
-{:target="\_blank"}
+* [Guidance Note - C&B and ENV 003, Jul 2019 : Identification and Confirmation of Microorganisms ](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/CB-and-ENV-Guidance-Notes-003_(1-Jul-2019).pdf){:target="\_blank
 
 **Civil Engineering Testing Field**
 * [CE 001 - May 2021: Specific Requirements for Civil Engineering Testing Laboratories](/files/Documents/Laboratory%20Accreditation/CE-001-1May2021.pdf){:target="\_blank"}
