@@ -42,14 +42,14 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 
 **Pressure Vessel / Lifting Equipment Inspection Field**
-* [Technical Note: PV/LE 01: June 2018 - Specific Reqts for Accreditation of IBs in Pressure Vessel and Lifting Equipment Inspection](/files/Documents/Inspection%20body%20accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="\_blank"}
+* [Technical Note: PV/LE 01: June 2018 - Specific Reqts for Accreditation of IBs in PVLE Inspection](/files/Documents/Inspection%20body%20accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="\_blank"}
 
 
 **Site Investigation and Instrumentation &amp; Monitoring**
 * [Technical Note SI 01: 18 Feb 2020 - Specific Reqts for Accreditation of IBs for Site Investigation](/files/Documents/Inspection%20body%20accreditation/SI-01-18-Feb-2020.pdf){:target="\_blank"}
 
 
-* [Technical Note I&amp;M 01-2022_SAC Mark - Specific Reqts for the Accreditation of IBs for Instrumentation &amp; Monitoring](/files/Documents/Inspection%20body%20accreditation/TechNote-IM01-2022.pdf){:target="_blank"}
+* [Technical Note IIM 01-2022_SAC Mark - Specific Reqts for the Accreditation of IBs for Instrumentation &amp; Monitoring](/files/Documents/Inspection%20body%20accreditation/TechNote-IM01-2022.pdf){:target="_blank"}
 
 
 **Structural Steelwork Inspection Field**
