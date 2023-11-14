@@ -3,6 +3,7 @@ title: Inspection Body Accreditation
 permalink: /resources/sac-documents/inspection-body-accreditation/
 description: ""
 third_nav_title: SAC Documents
+variant: markdown
 ---
 An inspection body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
@@ -26,6 +27,55 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 * [IBFM 02: 09 Jul 2018 - Assessment checklist](/files/Documents/Inspection%20body%20accreditation/IBFM-02-Assessment-Checklist-(09-July-2018).docx){:target="\_blank"}
 * [Accreditation Feedback Form](/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="\_blank"}
+
+
+**Cargo Inspection Field**
+* [Technical Note CI 01: 30 Mar 2023 - Specific Reqts for the Accreditation of IB for Cargo](/files/Documents/Inspection%20body%20accreditation/ci_01-30mar2023.pdf){:target="\_blank"}
+
+
+**Central Alarm Monitoring Stations Inspection Field**
+* [Technical Note: CAMS-01: 09 Jul 2018 - Specific Reqts for the Accreditation of IB for Central Alarm Monitoring Stations](/files/Documents/Inspection%20body%20accreditation/CAMS-01-(09-July-2018).pdf){:target="\_blank"}
+
+
+**Motor Vehicle Inspection Field**
+* [Technical Note: MV 01: 09 July 2018 - Specific Reqts for Accreditation of Motor Vehicles Inspection](/files/Documents/Inspection%20body%20accreditation/MV-01-(09-July-2018).pdf){:target="\_blank"}
+
+
+**Pressure Vessel / Lifting Equipment Inspection Field**
+* [Technical Note: PV/LE 01: June 2018 - Specific Reqts for Accreditation of Inspection Bodies in Pressure Vessel and Lifting Equipment Inspection](/files/Documents/Inspection%20body%20accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="\_blank"}
+
+
+**Site Investigation and Instrumentation &amp; Monitoring**
+* [Technical Note SI 01: 18 Feb 2020 - Specific Reqts for Accreditation of IB for Site Investigation](/files/Documents/Inspection%20body%20accreditation/SI-01-18-Feb-2020.pdf){:target="\_blank"}
+
+
+* [Technical Note I&amp;M 01-2022_SAC Mark - Specific Reqts for the Accreditation of Inspection Bodies for Instrumentation &amp; Monitoring](/files/Documents/Inspection%20body%20accreditation/TechNote-IM01-2022.pdf){:target="_blank"}
+
+
+**Structural Steelwork Inspection Field**
+* [Technical Note: SS-01: 27 Aug 2020 - Specific Reqts for Accreditation of Inspection Bodies in Structural Steelwork Inspection](/files/Documents/Inspection%20body%20accreditation/SS-01-27-Aug2020.pdf){:target="\_blank"}
+
+
+**Technical Audit of Extension Schemes for Pressure Vessels Field**
+
+* [Technical Note: TA 01: Specific Reqts for Technical Audit of Extension Schemes for Pressure Vessels](/files/Documents/Inspection%20body%20accreditation/TA01-(09-July-2018).pdf){:target="\_blank"}
+
+
+**Hook-Lift &amp; Container Inspection Field**
+* [Technical Note: HL 01: Specific Reqts for Hook-Lift and Container Inspection](/files/Documents/Inspection%20body%20accreditation/HL-01-27112019-Revised.pdf){:target="\_blank"}
+
+
+**Building Façade Inspection using Drones**
+* [SAC Technical Note : FI 01 – Specific Reqts for the Accreditation of Inspection Bodies in Building Façade Inspection using Unmanned Aircraft Systems (UAS)](/files/Documents/fi-01-final-edition-with-sac-mark.pdf){:target="\_blank"}
+
+
+
+
+
+
+
+
+
 
 
 **Cargo Inspection Field**
