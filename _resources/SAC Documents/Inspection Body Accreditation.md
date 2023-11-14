@@ -56,19 +56,15 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 
 **Technical Audit of Extension Schemes for Pressure Vessels Field**
-
-* [Technical Note: TA 01: Specific Reqts for Technical Audit of Extension Schemes for Pressure Vessels](/files/Documents/Inspection%20body%20accreditation/TA01-(09-July-2018).pdf){:target="\_blank"}
+* [Technical Note TA 01: Specific Reqts of IBs for Technical Audit of Extension Schemes for PVs](/files/Documents/Inspection%20body%20accreditation/TA01-(09-July-2018).pdf){:target="\_blank"}
 
 
 **Hook-Lift &amp; Container Inspection Field**
-* [Technical Note: HL 01: Specific Reqts for Hook-Lift and Container Inspection](/files/Documents/Inspection%20body%20accreditation/HL-01-27112019-Revised.pdf){:target="\_blank"}
+* [Technical Note HL 01: Specific Reqts for Accreditation of IBs for Hook-Lift &amp; Container Inspection](/files/Documents/Inspection%20body%20accreditation/HL-01-27112019-Revised.pdf){:target="\_blank"}
 
 
 **Building Façade Inspection using Drones**
-* [SAC Technical Note : FI 01 – Specific Reqts for the Accreditation of Inspection Bodies in Building Façade Inspection using Unmanned Aircraft Systems (UAS)](/files/Documents/fi-01-final-edition-with-sac-mark.pdf){:target="\_blank"}
-
-
-
+* [SAC Technical Note : FI 01 – Specific Reqts for the Accreditation of IBs in Building Façade Inspection using Unmanned Aircraft Systems (UAS)](/files/Documents/fi-01-final-edition-with-sac-mark.pdf){:target="\_blank"}
 
 
 
