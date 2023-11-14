@@ -3,6 +3,7 @@ title: Laboratory Accreditation
 permalink: /resources/sac-documents/laboratory-accreditation/
 description: ""
 third_nav_title: SAC Documents
+variant: markdown
 ---
 A laboratory must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
@@ -33,10 +34,8 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Technical Guide 1 - Mar 2019 : Guidelines on the Evaluation and Expression of MU](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/calibration-and-measurement-field/Technical-Guide-1-29-Mar-2019.pdf){:target="\_blank"}
 
 **Chemical &amp; Biological Testing Field**
-* [C&amp;B and ENV 001 - 08 March 2023: Specific Requirements for Chem &amp; Bio and Env Testing Laboratories](/files/Documents/Laboratory%20Accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf){:target="\_blank"}
-
-* [C&B and ENV 002 - May 2021: Quality Assurance of Equipt Commonly Used in C&B and Env Testing Labs](/files/Documents/Laboratory%20Accreditation/CB-ENV-Technotes0021May2021.pdf){:target="\_blank"}
-
+* [C&B and ENV 001 - Mar 2023: Specific Requirements for C&B and ENV Testing Labs](/files/Documents/Laboratory%20Accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf){:target="\_blank"}
+* [C&B & ENV 002-May 2021: QA of Equipment Commonly Used in Chem & Bio and Env Testing Labs ](/files/Documents/Laboratory%20Accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf){:target="\_blank"}
 * [Technical Guide 2 - June 2023: A Guide on MU in Chemical & Microbiological Analysis](/files/Documents/technical-guide-2-27jun2023.pdf){:target=\_blank"}
 * [Guidance Note - C&amp;B and ENV 001, 08 Feb 2019 : Method Validation for Chemical Testing](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CnB-ENV-001-8-Feb-2019.pdf){:target="\_blank"}
 * [Guidance Note - C&B and ENV 002, Mar 2019 : Method Validation of Microbiological Methods](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CB-and-ENV-002-29-Mar-2019.pdf){:target="\_blank"}
