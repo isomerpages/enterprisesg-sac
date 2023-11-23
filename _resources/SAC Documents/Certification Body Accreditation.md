@@ -3,6 +3,7 @@ title: Certification Body Accreditation
 permalink: /resources/sac-documents/certification-body-accreditation/
 description: ""
 third_nav_title: SAC Documents
+variant: markdown
 ---
 A certification body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
@@ -11,7 +12,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks](/files/Documents/Laboratory%20Accreditation/SAC-02-22-Jan-20.pdf){:target="\_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/Documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="\_blank"}
 * [Accreditation Feedback Form](/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="\_blank"}
-* [CT 01 - 01 Aug 2023 Accreditation Process for CBs and V&V Bodies](/files/Documents/Management%20system%20and%20products%20certification/ct-01-01aug2023.pdf){:target="\_blank"}
+* [CT 01 - 23 Nov 2023 Accreditation Process for CBs and V&V Bodies](/files/Documents/validation-and-verification-bodies/ct_01_23Nov2023.pdf){:target="\_blank"}
 * [Information on the IAF MLA mark and sub-licence agreement](/files/Documents/iaf_ml2_2023_mla_mark.pdf){:target="\_blank"}
 
 
