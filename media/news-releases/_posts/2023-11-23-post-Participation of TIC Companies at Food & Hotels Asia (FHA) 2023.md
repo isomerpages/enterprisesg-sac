@@ -9,7 +9,6 @@ variant: markdown
 ---
 **Participation of TIC Companies at Food & Hotels Asia (FHA) 2023**
 
-Pls see [attached link](https://go.gov.sg/participation-of-tic-companies-at-fha2023){:target="\_blank"}.
 
 ![FHA2023-png1](/images/press-release/documents/participation_of_tic_companies_at_food_and_hotels_asia_fha_2023.png)
 ![FHA-png2](/images/press-release/documents/2.png)
