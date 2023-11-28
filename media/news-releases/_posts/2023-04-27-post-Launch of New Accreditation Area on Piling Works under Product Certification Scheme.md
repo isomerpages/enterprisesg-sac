@@ -6,6 +6,7 @@ date: 2023-04-27
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **Launch of New Accreditation Area on Piling Works under Product Certification Scheme**
 
