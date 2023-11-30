@@ -70,7 +70,12 @@ NIL
 
 #### **Voluntary Withdrawal by CABs**
 
-Nil
+
+#### Inspection Body
+
+* Non-Destructive Testing
+  * Next Engineering & Inspections Pte Ltd (27 November 2023)
+
 
 
 #### **Withdrawal by SAC**
