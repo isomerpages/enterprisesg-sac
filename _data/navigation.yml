@@ -2,8 +2,13 @@ logo: /images/homepage/sac-esg-logo.png
 links:
   - title: About
     collection: about
-  - title: Industries
-    collection: industries
+  - title: Accredited Organisation
+    url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
+    sublinks:
+      - title: Search Accredited Org
+        url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
+      - title: CAB Status Update
+        url: /accreditated-organisation/cab-status-update/
   - title: Services
     url: /services/accreditation-services/
     sublinks:
@@ -21,12 +26,7 @@ links:
     collection: resources
   - title: Media
     resource_room: true
-  - title: Accredited Organisation
-    url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
-    sublinks:
-      - title: Search Accredited Org
-        url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
-      - title: CAB Status Update
-        url: /accreditated-organisation/cab-status-update/
+  - title: Industries
+    collection: industries
   - title: Contact Us
     url: /contact-us/
