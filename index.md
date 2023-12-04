@@ -26,8 +26,8 @@ sections:
         - title: GET ACCREDITED
           description: Route to Accreditation
           url: /services/accreditation-services/apply-for-accreditation
-        - title: OVERVIEW
-          description: Download Documents
+        - title: RESOURCES
+          description: Download SAC Publications
           url: /resources/sac-documents/
   - infopic:
       title: What is Accreditation?
