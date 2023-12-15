@@ -2,7 +2,7 @@
 title: Overview
 permalink: /about/collaborations-and-recognitions/
 description: ""
-third_nav_title: Collaborations & Recognitions
+third_nav_title: Collaborations And Recognitions
 ---
 <!--html code for displaying an embedded youtube video; change the link in 'src' to use a different video-->
 <div class="bp-youtube">
