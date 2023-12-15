@@ -2,6 +2,7 @@
 title: Join Us
 permalink: /about/join-us/
 description: ""
+variant: markdown
 ---
 ## Volunteer with SAC
 ![Career with SAC](/images/about/career-with-sac.jpg)
@@ -21,4 +22,4 @@ Team Leaders lead assessment teams in carrying out assessment of the CABs. They 
 ### Volunteer as Technical Assessors
 Technical assessors focus on the assessment of the technical competency of CABs in providing a specific scope of conformity assessment activities. We welcome professionals and experts who have technical expertise that is related to the various accreditation programmes administered by SAC. 
 
-If you have the relevant expertise and experience, and are interested in contributing towards the conformance industry and accreditation infrastructure, please write to [SAC@enterprisesg.gov.sg](SAC@enterprisesg.gov.sg) for more information.
+If you have the relevant expertise and experience, and are interested in contributing towards the conformance industry and accreditation infrastructure, please write to <a href="mailto:SAC@enterprisesg.gov.sg">SAC@enterprisesg.gov.sg</a> for more information.
