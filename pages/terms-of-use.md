@@ -1,9 +1,10 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 #### 1. Agreement - Terms  
-All access to any area of our websiteare governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.  
+All access to any area of our website are governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.  
 In these Terms, the words "we", "our" and "us" refers to Singapore Accreditation Council.
 
 #### 2. Access To SAC  
