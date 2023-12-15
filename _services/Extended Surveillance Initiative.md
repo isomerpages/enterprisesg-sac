@@ -2,6 +2,7 @@
 title: Extended Surveillance Initiative
 permalink: /services/extended-surveillance-initiative/
 description: ""
+variant: markdown
 ---
 **Extended Surveillance Initiative**
 
@@ -17,6 +18,5 @@ The Extended Surveillance Initiative is open to all Laboratories (except medical
     timely submission of corrective actions (30 days).<br><br>
 3.  Application<br><br>
     For more details, please contact your account manager. You may also refer to the FAQ below.
-    
 
-[FAQ to CABs on the Extended Surveillance Initiative (Jan 2022)](/files/documents/FAQ-to-CABs.pdf)
+[FAQ to CABs on the Extended Surveillance Initiative (Jan 2022)](/files/FAQ_to_CABs.pdf)
