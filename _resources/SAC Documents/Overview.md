@@ -34,7 +34,7 @@ Singapore 237994\
 **Operating Hours** : Mon to Fri : 9.30am to 6.00pm (*Closed on Saturdays, Sundays and Public Holidays*)
 
 
-In addition, companies should be aware of international publications relevant to their area of accreditation, available from the APAC, IAF and ILAC websites as below:-
+In addition, companies should be aware of international publications relevant to their area of accreditation, available from the APAC, IAF and ILAC websites as below:
 
 [APAC](https://www.apac-accreditation.org/){:target="\_blank"}
 
