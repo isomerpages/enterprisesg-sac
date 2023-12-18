@@ -2,7 +2,7 @@
 layout: homepage
 title: Singapore Accreditation Council
 description: Your Trusted Partner in Accreditation.
-image: /images/homepage/sac-esg-logo.png
+image: /images/test-sac logo.PNG
 permalink: /
 notification: We are aware of recent fraudulent cases involving the use of fake
   SAC certificate and the issuance of fake SAC invoice requesting payment to a
