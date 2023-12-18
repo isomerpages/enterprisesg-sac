@@ -1,15 +1,32 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/homepage/sac-esg-logo.png
 links:
+  - title: About
+    collection: about
+  - title: Accredited Organisation
+    url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
+    sublinks:
+      - title: Search Accredited Org
+        url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
+      - title: CAB Status Update
+        url: /accreditated-organisation/cab-status-update/
+  - title: Services
+    url: /services/accreditation-services/
+    sublinks:
+      - title: Accreditation Services
+        url: /services/accreditation-services/
+      - title: Training, Courses & Seminars
+        url: /services/training/
+      - title: e-Services - SACiNet
+        url: https://sacinet2.enterprisesg.gov.sg/
+      - title: e-Services - SAC Knowledge Centre
+        url: https://lms.wizlearn.com/sacelearning
+      - title: Extended Surveillance Initiative
+        url: /services/extended-surveillance-initiative/
+  - title: Resources
+    collection: resources
+  - title: Media
+    resource_room: true
+  - title: Industries
+    collection: industries
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
