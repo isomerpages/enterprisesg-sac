@@ -93,8 +93,6 @@ Quality management system, environmental management system, occupational safety 
 * **Good Laboratory Practice (GLP) scheme:**  
 Ensures that certified facilities performing non-clinical safety testing in Singapore comply with the Organisation for Economic Co-operation and Development (OECD) Principles of GLP.
 
-Please click [here](services/accreditation-services) for the detailed requirements of all the accreditation schemes.
-
 
 Please click [here](https://www.sac-accreditation.gov.sg/services/accreditation-services/) for the detailed requirements of all the accreditation schemes.
 
