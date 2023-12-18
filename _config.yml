@@ -15,7 +15,7 @@ colors:
       color: "#ce5c5c"
     - title: media-color-five
       color: "#ca3433"
-description: Your Trusted Partner in Accreditation.
+description: ""
 permalink: none
 baseurl: ""
 exclude:
@@ -53,8 +53,8 @@ staging: https://staging.dc7rl6brx6vik.amplifyapp.com
 prod: https://master.dc7rl6brx6vik.amplifyapp.com
 resources_name: media
 facebook-pixel: ""
-shareicon: /images/homepage/sac-esg-logo.png
-is_government: true
+shareicon: /images/test-sac logo.PNG
+is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
 linkedin-insights: ""
