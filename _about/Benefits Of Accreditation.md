@@ -2,6 +2,7 @@
 title: Benefits Of Accreditation
 permalink: /about/benefits-of-accreditation/
 description: ""
+variant: markdown
 ---
 ## For Businesses
 
@@ -93,6 +94,12 @@ Quality management system, environmental management system, occupational safety 
 Ensures that certified facilities performing non-clinical safety testing in Singapore comply with the Organisation for Economic Co-operation and Development (OECD) Principles of GLP.
 
 Please click [here](services/accreditation-services) for the detailed requirements of all the accreditation schemes.
+
+
+Please click [here](https://www.sac-accreditation.gov.sg/services/accreditation-services/) for the detailed requirements of all the accreditation schemes.
+
+
+
 
 * For other types of conformity assessment services currently not offered by SAC, we are open to exploring the option of providing accreditation or developing a new scheme/programme for the respective areas. Do kindly contact us [here](/contact-us).
 
