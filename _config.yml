@@ -53,7 +53,7 @@ staging: https://staging.dc7rl6brx6vik.amplifyapp.com
 prod: https://master.dc7rl6brx6vik.amplifyapp.com
 resources_name: media
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/test-sac logo.PNG
 is_government: false
 google_analytics: ""
 google_analytics_ga4: ""
