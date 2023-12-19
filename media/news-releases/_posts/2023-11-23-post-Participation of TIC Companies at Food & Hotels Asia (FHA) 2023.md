@@ -15,7 +15,13 @@ variant: markdown
 ![FHA2023-png3](/images/press-release/documents/pic_for_FHA.png)
 
 
+Next year’s FHA will be held between 23 – 26 Aoril 2004.   If you are a TIC company and is interested to participate in FHA as an exhibitor or panellist, please reach out to us via this <a href="mailto:CHEA_Weiqiang@enterprisesg.gov.sg">link/a&gt;
 
-
-Next year’s FHA will be held between 23 – 26 Aoril 2004.  If you are a TIC company and is interested to participate in FHA as an exhibitor or panellist, please reach out to us via this <a href="mailto:CHEA_Weiqiang@enterprisesg.gov.sg">link/a&gt;
-</a>
+	
+	
+	
+	
+	
+	
+	
+	</a>
