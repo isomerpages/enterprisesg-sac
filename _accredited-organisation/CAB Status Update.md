@@ -78,6 +78,15 @@ NIL
 
 
 
+#### Certification Body
+
+* Quality Management Systems
+  * DAS Certification Singapore Pte Ltd (20 December 2023)
+
+* Occupational Health and Safety Management System
+  * DAS Certification Singapore Pte Ltd (20 December 2023)
+
+
 #### **Withdrawal by SAC**
 
 Nil
