@@ -104,5 +104,4 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Guidance Notes, MED-001 - Sample Collection for Medical Testing, Mar 2019](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Guidance-Note-MED-001-29-Mar-2019.pdf){:target="\_blank"}
 * [Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical-Guide-4-MU-on-medica-testing-26Nov21.pdf){:target="\_blank"}
 
-
-* [LAFM03-MED-MI-ISO 15189-2022 Checklist](/files/mediaDirectory/files%2FDocuments%2FLaboratory%20Accreditation%2Fmedical-testing-and-medical-imaging-documents%2Fmedical-testing-field/editMediaSettings/lafm03_med_mi_iso15189_2022checklist.pdf){:target="\_blank"}
+* [LAFM03-MED-MI-ISO 15189-2022 Checklist](/files/Documents/Laboratory%20Accreditation%2Fmedical-testing-and-medical-imaging-documents%2Fmedical-testing-field/lafm03_med_mi_iso15189_2022checklist.pdf){:target="\_blank"}
