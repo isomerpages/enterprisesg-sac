@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear all</p><p>The revised medical checklist, LAFM03 Checklist for ISO 15189: 2022 has been published on the SAC website.</p><p>Please download the updated copy from SAC website and contact your account manager should you have any queries.</p>
