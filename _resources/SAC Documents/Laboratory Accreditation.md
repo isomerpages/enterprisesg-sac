@@ -91,6 +91,11 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [MI 001 - Specific Criteria for Medical Imaging, 25 Oct 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-imaging-testing-field/M-%20001-Tech-Notes-25Oct21-Final.pdf){:target="\_blank"}
 
 **Medical Testing Field**
+
+* [LAFM03 – 29 Mar 2019 ISO 15189-2012 Checklist](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/LAFM03-MED-MI-(ISO-15189-Chklist)-29-Mar-19.docx){:target="\_blank"}
+
+* [LAFM03-MED-MI-ISO 15189-2022 Checklist](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/lafm03_med_mi_iso15189_2022checklist.pdf){:target="\_blank"}
+
 * [MED 001- General Criteria, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-GenCriteria-26Nov21-v2.pdf){:target="\_blank"}
 * [MED 002 - Clinical Chemistry, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-ClinicalChemistry26Nov21-v2.pdf){:target="\_blank"}
 * [MED 002 - Cytogenetics, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytogenetics-26Nov21-v2.pdf){:target="\_blank"}
@@ -100,9 +105,6 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [MED 002 - Microbiology, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Microbiology-26Nov21-v2.pdf){:target="\_blank"}
 * [MED 002 - Molecular Pathology, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-MolecularPathology-26Nov21-v2.pdf){:target="\_blank"}
 
-* [LAFM03 – 29 Mar 2019 ISO 15189-2012 Checklist](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/LAFM03-MED-MI-(ISO-15189-Chklist)-29-Mar-19.docx){:target="\_blank"}
-
 * [Guidance Notes, MED-001 - Sample Collection for Medical Testing, Mar 2019](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Guidance-Note-MED-001-29-Mar-2019.pdf){:target="\_blank"}
 * [Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical-Guide-4-MU-on-medica-testing-26Nov21.pdf){:target="\_blank"}
 
-* [LAFM03-MED-MI-ISO 15189-2022 Checklist](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/lafm03_med_mi_iso15189_2022checklist.pdf){:target="\_blank"}
