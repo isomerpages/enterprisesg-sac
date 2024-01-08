@@ -83,11 +83,18 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Ms Yvonne Soh</td>
     <td>Singapore Green Building Council (SGBC)</td>
   </tr>
-  <tr>
-    <td>Ms Joyce Seow<br>(Alternate: Mr Anthony Tan)</td>
+ 
+	 <tr>
+    <td>Ms Joyce Seow</td>
     <td>Singapore Manufacturing Federation (SMF)</td>
   </tr>
-  <tr>
+  
+ <tr>
+    <td>Mr Anthony Tan</td>
+   <td>Singapore Manufacturing Federation (SMF) - TIC<br>Interest Group: Certification Bodies’ Representative</td>
+  </tr>
+		
+	<tr>
     <td>Mr Sze Thiam Siong</td>
     <td>Singapore Manufacturing Federation (SMF) - TIC<br>Interest Group : Inspection Bodies’ Representative</td>
   </tr>
