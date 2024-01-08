@@ -34,7 +34,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Chemical &amp; Biological Testing Field**
 * [C&B and ENV 001 - Mar 2023: Specific Requirements for C&B and ENV Testing Labs](/files/Documents/Laboratory%20Accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf){:target="\_blank"}
-* [C&B & Env 002-May 2021: QA of Equipment Commonly Used in Chem & Bio and Env Testing Labs  ](/files/Documents/Laboratory%20Accreditation/CB-TechNotes001-1May2021.pdf){:target="\_blank"}
+* [C&B and ENV 002 - May 2021: QA of Equipment Commonly Used in C&B and Env Testing Labs](/files/Documents/Laboratory%20Accreditation/cb-env-technotes0021may2021.pdf){:target="\_blank"}
 * [Technical Guide 2 - June 2023: Guide on MU in Chemical & Microbiological Analysis](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/technical_guide_2_27jun2023.pdf){:target="\_blank"}
 * [Guidance Note - C&B and ENV 001, Feb 2019 : Elements of Method Validation for Chemical Testing ](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CnB-ENV-001-8-Feb-2019.pdf){:target="\_blank"}
 * [Guidance Note - C&B and ENV 002, Mar 2019 : Method Validation of Microbiological Methods](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CB-and-ENV-002-29-Mar-2019.pdf){:target="\_blank"}
@@ -54,6 +54,8 @@ A laboratory must be fully conversant and comply with the relevant standards and
 **Environmental Testing Field**
 
 * [C&B and ENV 001 - 08 March 2023: Specific Requirements for Chem & Bio and Env Testing Laboratories ](/files/Documents/Laboratory%20Accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf){:target="\_blank"}
+
+
 * [C&B and ENV 002 - May 2021: QA of Equipment Commonly Used in C&B and Env Testing Labs](/files/Documents/Laboratory%20Accreditation/cb-env-technotes0021may2021.pdf){:target="\_blank"}
 * [Guidance Note - C&amp;B and ENV 001, 8 Feb 2019 : Elements of Method Validation for Chemical Testing](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CnB-ENV-001-8-Feb-2019.pdf){:target="\_blank"}
 * [Guidance Note - C&amp;B and ENV 002, Mar 2019 : Method Validation of Microbiological Methods](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CB-and-ENV-002-29-Mar-2019.pdf){:target="\_blank"}
@@ -107,4 +109,3 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 * [Guidance Notes, MED-001 - Sample Collection for Medical Testing, Mar 2019](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Guidance-Note-MED-001-29-Mar-2019.pdf){:target="\_blank"}
 * [Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical-Guide-4-MU-on-medica-testing-26Nov21.pdf){:target="\_blank"}
-
