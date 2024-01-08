@@ -95,8 +95,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 **Medical Testing Field**
 
 * [LAFM03 – 29 Mar 2019 ISO 15189-2012 Checklist](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/LAFM03-MED-MI-(ISO-15189-Chklist)-29-Mar-19.docx){:target="\_blank"}
-
-* [LAFM03-MED-MI-ISO 15189-2022 Checklist](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/lafm03_med_mi_iso15189_2022checklist.pdf){:target="\_blank"}
+* [LAFM03 – 03 Jan 23 ISO 15189-2022 Checklist](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/lafm03_med_mi_iso15189_2022checklist.pdf){:target="\_blank"}
 
 * [MED 001- General Criteria, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-GenCriteria-26Nov21-v2.pdf){:target="\_blank"}
 * [MED 002 - Clinical Chemistry, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-ClinicalChemistry26Nov21-v2.pdf){:target="\_blank"}
