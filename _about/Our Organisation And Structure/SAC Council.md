@@ -3,6 +3,7 @@ title: SAC Council
 permalink: /about/our-organisation-and-structure/sac-council/
 description: ""
 third_nav_title: Our Organisation And Structure
+variant: markdown
 ---
 ### Composition of SAC Council
 
@@ -82,11 +83,18 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Ms Yvonne Soh</td>
     <td>Singapore Green Building Council (SGBC)</td>
   </tr>
-  <tr>
+ 
+	 <tr>
     <td>Ms Joyce Seow</td>
     <td>Singapore Manufacturing Federation (SMF)</td>
   </tr>
-  <tr>
+  
+ <tr>
+    <td>Mr Anthony Tan</td>
+   <td>Singapore Manufacturing Federation (SMF) - TIC<br>Interest Group: Certification Bodies’ Representative</td>
+  </tr>
+		
+	<tr>
     <td>Mr Sze Thiam Siong</td>
     <td>Singapore Manufacturing Federation (SMF) - TIC<br>Interest Group : Inspection Bodies’ Representative</td>
   </tr>
@@ -126,5 +134,3 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
   </tr>
 </tbody>
 </table>
- 
-
