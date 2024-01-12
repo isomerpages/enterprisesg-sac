@@ -76,6 +76,8 @@ NIL
 * Non-Destructive Testing
   * Next Engineering & Inspections Pte Ltd (27 November 2023)
 
+* Site Investigation
+  *  Gammon Pte Limited (12 January 2024)
 
 
 #### Certification Body
