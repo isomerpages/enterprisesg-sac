@@ -124,6 +124,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Individual Capacity (Digitalisation and Cybersecurity)</td>
   </tr>
 	
+	
   <tr>
 		<td><b>Secretary</b></td>
     <td>Mr Tan Yee Teck</td>
