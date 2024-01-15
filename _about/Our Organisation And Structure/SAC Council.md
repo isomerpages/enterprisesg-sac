@@ -39,7 +39,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>MiRXES Pte Ltd</td>
   </tr>
   <tr>
-		<td rowspan="19"> <b>Members</b></td>
+		<td rowspan="20"> <b>Members</b></td>
     <td>Er Thanabal Kaliannan<br>(Alternate: Er Lung Hian Hao)</td>
     <td>Building and Construction Authority (BCA)</td>
   </tr>
@@ -80,7 +80,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Singapore Food Agency (SFA)</td>
   </tr>
   <tr>
-    <td>Ms Yvonne Soh</td>
+    <td>Er Yvonne Soh</td>
     <td>Singapore Green Building Council (SGBC)</td>
   </tr>
  
@@ -114,14 +114,17 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Mr Allan Lim</td>
     <td>Individual Capacity (Food and Agriculture)</td>
   </tr>
-  <tr>
+ 	<tr>
     <td>Mr Alex Budiman</td>
     <td>Individual Capacity (Medical and Healthcare)</td>
   </tr>
-  <tr>
+	
+	<tr>
     <td>Mr Joseph Gan</td>
     <td>Individual Capacity (Digitalisation and Cybersecurity)</td>
   </tr>
+	
+	
   <tr>
 		<td><b>Secretary</b></td>
     <td>Mr Tan Yee Teck</td>
