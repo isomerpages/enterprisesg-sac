@@ -118,10 +118,11 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Mr Alex Budiman</td>
     <td>Individual Capacity (Medical and Healthcare)</td>
   </tr>
-  <tr>
+	<tr>
     <td>Mr Joseph Gan</td>
-    <td>Individual Capacity (Digitalisation and Cybersecurity)</td>
+    <td>Individual Capacity ((Digitalisation and Cybersecurity)</td>
   </tr>
+	
   <tr>
 		<td><b>Secretary</b></td>
     <td>Mr Tan Yee Teck</td>
