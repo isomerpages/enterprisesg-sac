@@ -123,10 +123,6 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>Mr Joseph Gan</td>
     <td>Individual Capacity (Digitalisation and Cybersecurity)</td>
   </tr>
-	<tr>
-    <td>Mr Joseph Gan</td>
-    <td>Individual Capacity ((Digitalisation and Cybersecurity)</td>
-  </tr>
 	
   <tr>
 		<td><b>Secretary</b></td>
