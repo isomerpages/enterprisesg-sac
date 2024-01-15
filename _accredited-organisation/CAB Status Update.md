@@ -71,6 +71,13 @@ NIL
 #### **Voluntary Withdrawal by CABs**
 
 
+
+#### Laboratory
+
+* Mechanical Testing
+  *  Leser LLP (11 January 2024)
+
+
 #### Inspection Body
 
 * Non-Destructive Testing
