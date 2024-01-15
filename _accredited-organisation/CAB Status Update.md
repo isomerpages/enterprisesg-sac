@@ -71,11 +71,20 @@ NIL
 #### **Voluntary Withdrawal by CABs**
 
 
+
+#### Laboratory
+
+* Mechanical Testing
+  *  Leser LLP (19 January 2024)
+
+
 #### Inspection Body
 
 * Non-Destructive Testing
   * Next Engineering & Inspections Pte Ltd (27 November 2023)
 
+* Site Investigation
+  *  Gammon Pte Ltd (09 January 2024)
 
 
 #### Certification Body
