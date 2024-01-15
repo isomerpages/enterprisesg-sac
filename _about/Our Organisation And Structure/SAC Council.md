@@ -39,7 +39,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
     <td>MiRXES Pte Ltd</td>
   </tr>
   <tr>
-		<td rowspan="19"> <b>Members</b></td>
+		<td rowspan="20"> <b>Members</b></td>
     <td>Er Thanabal Kaliannan<br>(Alternate: Er Lung Hian Hao)</td>
     <td>Building and Construction Authority (BCA)</td>
   </tr>
