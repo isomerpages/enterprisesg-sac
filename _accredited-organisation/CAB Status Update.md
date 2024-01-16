@@ -30,7 +30,7 @@ Click on the quick links below to jump to the CAB Status:
   * Leads Specialist Services Pte Ltd (16 November 2023)
 
 * Non-Destructive Testing
-  * PT. A Star Testing & Inspection (14 August 20
+  * PT. A Star Testing & Inspection (14 August 2023)
 
 
 #### Certification Body
@@ -39,7 +39,7 @@ Click on the quick links below to jump to the CAB Status:
   * AAS Singapore Services Pte Ltd (22 August 2023)
 
 * Environmental Management System
-  * AIM Certification Pte Ltd (14 November 2023
+  * AIM Certification Pte Ltd (14 November 2023)
 
 * Occupational Health and Safety Management System
   * AIM Certification Pte Ltd (14 November 2023)
