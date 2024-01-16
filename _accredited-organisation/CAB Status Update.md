@@ -55,9 +55,14 @@ Click on the quick links below to jump to the CAB Status:
 {: #suspended}
 ### 2. Suspended Conformity Assessment Bodies (CABs)
 
-NIL
 
- 
+
+#### Laboratory
+
+* Information Technology Testing
+   * UL Verification Services Pte Ltd (15 January 2024)
+
+  
  
 
 [Back to top ↑](#top)
