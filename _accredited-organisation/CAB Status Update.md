@@ -22,30 +22,54 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * Unitest Instruments Pte. Ltd (03 August 2023)
-  * Nanyang Technological University (20 November 2023) 
+  * Nanyang Technological University (20 November 2023)
+  * CAST consult Sdn Bhd (27 November 2023) 
+
+
+* Chemical & Biological Testing
+  * TES-AMM (Singapore) Pte. Ltd. (14 December 2023)
+
 
 * Civil Engineering Testing
-  * R.A.K Materials Consultants Sdn. Bhd. (27 August 2023)
   * Leads Specialist Services Pte Ltd (16 November 2023)
 
-* Non-Destructive Testing
-  * PT. A Star Testing & Inspection (14 August 2023)
+
+* Electrical Testing
+  * Coilcraft Industries Singapore Pte Ltd (5 December 2023)
+
+
+* Environmental Testing
+  * DSO National Laboratories - Radiological & Nuclear Verification Laboratory (14 December 2023)
+
+
+* Mechanical Engineering
+  * Technoform Edge Bond Solutions Singapore Pte. Ltd. (2 January 2024)
+  * Caltek Pte. Ltd. (2 January 2024)
+
 
 
 #### Certification Body
 
-* Auditing Organisation
-  * AAS Singapore Services Pte Ltd (22 August 2023)
 
 * Environmental Management System
   * AIM Certification Pte Ltd (14 November 2023)
+  * QCert Singapore Pte Ltd  (16 November 2023)
+  * Bureau Veritas Quality Assurance Pte. Ltd. (21 December 2023)
+
+
+* Medical Device-Quality Management System
+  * DEKRA Certification B.V. (30 November 2023)
+
 
 * Occupational Health and Safety Management System
   * AIM Certification Pte Ltd (14 November 2023)
+  * QCert Singapore Pte Ltd  (16 November 2023)
+
 
 * Quality Management Systems
   * AIM Certification Pte Ltd (14 November 2023)
+  * QCert Singapore Pte Ltd  (16 November 2023)
+
 
 
 [Back to top ↑](#top)
@@ -61,11 +85,11 @@ Click on the quick links below to jump to the CAB Status:
 
 
 * Calibration and Measurement 
-    * Glostrext Technology (S) Pte Ltd  (16 January 2024)
+    * Glostrext Technology (S) Pte Ltd  (16 January 2024 - 15 July 2024)
 
 
 * Information Technology Testing
-   * UL Verification Services Pte Ltd (15 January 2024)
+   * UL Verification Services Pte Ltd (15 January 2024 - 14 July 2024)
 
   	 
   
@@ -113,6 +137,9 @@ Nil
 
 
 [Back to top ↑](#top)
+
+
+
 
 
 
