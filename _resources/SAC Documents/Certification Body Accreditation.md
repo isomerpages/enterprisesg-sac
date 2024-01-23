@@ -58,6 +58,10 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/Documents/iaf_md26_issue_2_15012023.pdf){:target="_blank"}
 * [IAF MD 27:2023 -Transition Requirements for ISO 22003-1:2022](https://go.gov.sg/iaf-md-27-22003-1-transition-2023){:target="\_blank"}
 
+* [IAF MD 28:2023 - IAF Mandatory Document for the Upload and Maintenance of Data on IAF Database](/files/Documents/certification/
+iaf_md28_issue1_26102023,pdf){:target="\_blank"}
+
+
 * [IAF MD 28:2023 - IAF Mandatory Document for the Upload and Maintenance of Data on IAF Database](/files/Documents/iaf_md_28_issue1_26102023.pdf){:target="\_blank"}
 
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/iaf-pl-9-issue1-version2-023.pdf){:target="_blank"}
