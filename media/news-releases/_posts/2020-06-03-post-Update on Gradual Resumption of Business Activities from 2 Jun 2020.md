@@ -5,6 +5,7 @@ date: 2020-06-03
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 The Circuit Breaker Measures will be gradually eased from 2 Jun 2020, and businesses will be allowed to resume activities in a phased manner. In Phase 1, besides the businesses that have been operating as at 1 June 2020, businesses that operate in settings with lower transmission risks may resume activities.
 
@@ -15,5 +16,5 @@ Businesses can refer to the MOM website at
 
 
 
-check with Hazel - this file might be deleted
+
 * [Post-Circuit Breaker Briefing Session](/files/documents/Post-Circuit-Breaker-Briefing-Session-final2.pdf){:target="_blank"}
