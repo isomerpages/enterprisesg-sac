@@ -17,4 +17,3 @@ Businesses can refer to the MOM website at
 
 
 
-* [Post-Circuit Breaker Briefing Session](/files/documents/Post-Circuit-Breaker-Briefing-Session-final2.pdf){:target="_blank"}
