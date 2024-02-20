@@ -3,6 +3,7 @@ title: Laboratory Technical Committees
 permalink: /about/our-organisation-and-structure/laboratory-technical-committees/
 description: ""
 third_nav_title: Our Organisation And Structure
+variant: markdown
 ---
 There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
 
@@ -126,7 +127,7 @@ There are 7 Technical Committees supporting the Laboratory Accreditation scheme.
     <td>Republic Polytechnic</td>
   </tr>
   <tr>
-    <td>Dr Wu Yuanshang</td>
+    <td>Dr Wu Yuansheng</td>
     <td>Singapore Food Agency</td>
   </tr>
   <tr>
