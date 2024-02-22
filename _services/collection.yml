@@ -1,0 +1,24 @@
+collections:
+  services:
+    output: true
+    order:
+      - Training, Courses & Seminars/.keep
+      - Training, Courses & Seminars/Overview.md
+      - Training, Courses & Seminars/Internal Audit Course.md
+      - Training, Courses & Seminars/Inspection Body Course.md
+      - Training, Courses & Seminars/Laboratory Management Course.md
+      - Training, Courses & Seminars/HSA and SAC Joint Courses 2023.md
+      - Accreditation Services/.keep
+      - Accreditation Services/Overview.md
+      - Accreditation Services/Auditing Organisations.md
+      - Accreditation Services/Management System Certification Bodies.md
+      - Accreditation Services/Product Certification Bodies.md
+      - Accreditation Services/Personnel Certification Bodies.md
+      - Accreditation Services/Laboratories.md
+      - Accreditation Services/Inspection Bodies.md
+      - Accreditation Services/Proficiency Testing Providers.md
+      - Accreditation Services/Validation and Verification Bodies.md
+      - Accreditation Services/GLP Compliance Monitoring.md
+      - Accreditation Services/Apply for Accreditation.md
+      - Accreditation Services/Other Accreditation Schemes.md
+      - Extended Surveillance Initiative.md
