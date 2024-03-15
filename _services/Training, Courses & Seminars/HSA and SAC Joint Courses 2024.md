@@ -13,9 +13,6 @@ third_nav_title: Training, Courses & Seminars
 to download the course brochure.</p>
 <p></p>
 <p></p>
-<p>Click [here](/files/Registration%20forms/2023_hsa-sac_joint_courses.pdf){:target="\_blank"}
-to download the course brochure.</p>
-<p></p>
 <p>Please register at</p>
 <p><a href="http://go.gov.sg/hsa-sac-courses" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/hsa-sac-courses</a>
 </p>
