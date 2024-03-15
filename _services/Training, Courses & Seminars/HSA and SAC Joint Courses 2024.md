@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Training, Courses & Seminars
 ---
-<p><strong>### Course Details###</strong>
+<p><strong>## Course Details</strong>
 </p>
 <p><strong>August 2024</strong>
 </p>
