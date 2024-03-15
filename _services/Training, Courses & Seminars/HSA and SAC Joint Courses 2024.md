@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Training, Courses & Seminars
 ---
 <p>## Course Details</p>
-<p><strong> August 2024</strong>
+<p><strong>August 2024</strong>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
