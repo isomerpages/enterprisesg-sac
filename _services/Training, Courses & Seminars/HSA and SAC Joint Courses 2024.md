@@ -19,6 +19,12 @@ third_nav_title: Training, Courses & Seminars
 </p>
 <p>Click <a href="http://files/Training/2024_HSA-SAC-Joint-Courses-Flyer.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>{:target="_blank"}
 to download the course brochure.</p>
+<p></p>
+<p>Please register at</p>
+<p><a href="http://go.gov.sg/hsa-sac-courses" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/hsa-sac-courses</a>
+</p>
+<p></p>
+<p></p>
 <p>Please email <a href="mailto:HSA_CML@hsa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Thang Jia Sui</a> or
 contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 <table>
