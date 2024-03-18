@@ -16,7 +16,6 @@ the course brochure.</p>
 <p>Please register at <a href="http://go.gov.sg/hsa-sac-courses" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/hsa-sac-courses.</a>
 </p>
 <p></p>
-<p></p>
 <p>Please email <a href="mailto:HSA_CML@hsa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Thang Jia Sui</a> or
 contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 <table>
