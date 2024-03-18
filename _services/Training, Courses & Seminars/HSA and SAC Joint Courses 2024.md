@@ -13,8 +13,7 @@ third_nav_title: Training, Courses & Seminars
 <p><strong>Click </strong><a href="https://go.gov.sg/2024-hsa-sacjointcoursesflyer" rel="noopener noreferrer nofollow" target="_blank">here </a>to download
 the course brochure.</p>
 <p></p>
-<p>Please register at</p>
-<p><a href="http://go.gov.sg/hsa-sac-courses" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/hsa-sac-courses</a>
+<p>Please register at <a href="http://go.gov.sg/hsa-sac-courses" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/hsa-sac-courses.</a>
 </p>
 <p></p>
 <p></p>
