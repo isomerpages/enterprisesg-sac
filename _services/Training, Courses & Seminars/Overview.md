@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Training Calendar 2024
 
-#### Q1
+#### Q3
 
 
 [**HSA-SAC Joint Courses 2024**]<br>[August 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/services/training-courses-and-seminars/permalink/)
