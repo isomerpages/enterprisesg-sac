@@ -3,7 +3,19 @@ title: Overview
 permalink: /services/training/
 description: ""
 third_nav_title: Training, Courses & Seminars
+variant: markdown
 ---
+### Training Calendar 2024
+
+#### Q1
+
+
+[**HSA-SAC Joint Courses 2024**<br>August 2024](/services/training/hsa-sac-joint/)
+
+
+
+
+
 ### Training Calendar 2023
 
 #### Q1
@@ -27,7 +39,7 @@ SAC facilitates the following training sesssions when available.
 
 For more information on the course details, please click on the options below:
 
-<!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
+
 
 **Upcoming**
 
