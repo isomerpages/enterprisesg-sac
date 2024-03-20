@@ -396,7 +396,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>SATA CommHealth</td>
   </tr>
   <tr>
-    <td>A/Prof Tony Lim</td>
+    <td>Prof Tony Lim</td>
     <td>Singapore Health Services</td>
   </tr>
   <tr>
