@@ -117,6 +117,9 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Inspection Body
 
+* Cargo Inspection
+  * CMC Marine Pte. Ltd. (20 March 2024)
+
 * Non-Destructive Testing
   * Next Engineering & Inspections Pte Ltd (27 November 2023)
 
