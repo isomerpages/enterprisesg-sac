@@ -3,6 +3,7 @@ title: Council Committees
 permalink: /about/our-organisation-and-structure/council-committees/
 description: ""
 third_nav_title: Our Organisation And Structure
+variant: markdown
 ---
 There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
 
@@ -395,7 +396,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
     <td>SATA CommHealth</td>
   </tr>
   <tr>
-    <td>Prof Tan Puay Hoon</td>
+    <td>Prof Tony Lim</td>
     <td>Singapore Health Services</td>
   </tr>
   <tr>
