@@ -20,7 +20,7 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 
 **Mr Amos Leong**
 
-MiRXES Pte Ltd
+**MiRXES Pte Ltd**
 
 <table summary="" title="" style="direction:ltr;
  border-collapse:collapse;border-style:solid;border-color:#A3A3A3;border-width:
