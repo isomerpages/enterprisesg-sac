@@ -151,11 +151,13 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 
  **Chairman**  
 
-[Mr Amos Leong](https://go.gov.sg/mr-amos-leong)
+<img align="left" style="width: 177px;" src="/images/about/our-organisation-structure/Mr AmosLeong.png">
+
+<br clear="left">
+
+![Mr Amos Leong](/images/about/our-organisation-structure/Mr_Amos_Leong.png)
 
 
-
-image
 
 **Mr Amos Leong**
 
