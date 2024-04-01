@@ -149,13 +149,11 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 
 #### Term of Office: 1 April 2024 - 31 March 2028
 
-   
-
-Chairman
+ **Chairman**  
 
 image
 
-Mr Amos Leong
+**Mr Amos Leong**
 
 MiRXES Pte Ltd
 
