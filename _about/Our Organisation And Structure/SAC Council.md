@@ -147,7 +147,7 @@ _____________
 
 The SAC Council is the highest authority in the accreditation hierarchy. It comprises a member of the industry as its Chairman and a balanced representation from all relevant parties as members. Representatives include those from industries, purchasers and suppliers, government departments, professional bodies, national standards authority, certification bodies and consumer interest groups.
 
-#### Term of Office: 1 April 2024 - 31 March 2028
+#### Term of Office: 1 April 2024 - 31 March 2027
 
  **Chairman**  
 
