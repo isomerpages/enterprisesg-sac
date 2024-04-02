@@ -9,5 +9,3 @@ variant: markdown
 
 
 ![SAC Council 2024](/images/about/our-organisation-structure/sac_council_2024_rev2.jpg)
-
-
