@@ -8,5 +8,6 @@ variant: markdown
 ## Organisation Chart
 
 
-![SAC Council 2024](/images/about/our-organisation-structure/sac_council_2024_rev.jpg)
+![SAC Council 2024](/images/about/our-organisation-structure/sac_council_2024_rev2.jpg)
+
 
