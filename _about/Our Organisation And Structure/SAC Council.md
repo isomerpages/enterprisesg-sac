@@ -46,7 +46,7 @@ interest groups.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jagadish CV</p>
+<p>Mr. Jagadish CV</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advanced Micro Foundry Pte Ltd</p>
@@ -124,7 +124,7 @@ interest groups.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Silas Sng</p>
+<p>Mr. Silas Sng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ministry of Manpower (MOM)</p>
@@ -202,7 +202,7 @@ interest groups.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yee Teck</p>
+<p>Mr. Tan Yee Teck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
