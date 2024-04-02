@@ -3,137 +3,211 @@ title: SAC Council
 permalink: /about/our-organisation-and-structure/sac-council/
 description: ""
 third_nav_title: Our Organisation And Structure
-variant: markdown
+variant: tiptap
 ---
-### Composition of SAC Council
-
-The SAC Council is the highest authority in the accreditation hierarchy. It comprises a member of the industry as its Chairman and a balanced representation from all relevant parties as members. Representatives include those from industries, purchasers and suppliers, government departments, professional bodies, national standards authority, certification bodies and consumer interest groups.
-
-#### Term of Office: 1 April 2021 - 31 March 2024
-
-**Chairman**
-
-<img align="left" style="width: 177px;" src="/images/about/our-organisation-structure/TanKaiHoe.jpg">
-
-<br clear="left">
-
-**Mr Tan Kai Hoe**
-<br>Accuron Technologies Limited 
-
+<h2>Composition of SAC Council</h2>
+<p>The SAC Council is the highest authority in the accreditation hierarchy.
+It comprises a member of the industry as its Chairman and a balanced representation
+from all relevant parties as members. Representatives include those from
+industries, purchasers and suppliers, government departments, professional
+bodies, national standards authority, certification bodies and consumer
+interest groups.</p>
+<h4>Term of Office: 1 April 2024 - 31 March 2027</h4>
+<p><strong>Chairman</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 177px;" height="auto" width="100%" src="/images/about/our-organisation-structure/Mr_Amos_Leong.png">
+</div>
+<p>
+<br>
+</p>
+<p><strong>Mr Amos Leong</strong>
+</p>
+<p>MiRXES Pte Ltd</p>
 <table>
-<thead>
-  <tr>
-    <th>Designation</th>
-    <th>Name</th>
-    <th>Organisation</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td rowspan="2"><b>Deputy Chairmen</b></td>
-    <td>Mr Jagadish CV</td>
-    <td>Advanced Micro Foundry Pte Ltd</td>
-  </tr>
-  <tr>
-    <td>Mr Amos Leong</td>
-    <td>MiRXES Pte Ltd</td>
-  </tr>
-  <tr>
-		<td rowspan="20"> <b>Members</b></td>
-    <td>Er Thanabal Kaliannan<br>(Alternate: Er Lung Hian Hao)</td>
-    <td>Building and Construction Authority (BCA)</td>
-  </tr>
-  <tr>
-    <td>Dr Teo Tang Lin</td>
-    <td>Health Sciences Agency (HSA)</td>
-  </tr>
-  <tr>
-    <td>A/Prof Raymond Chua</td>
-    <td>Ministry of Health (MOH)</td>
-  </tr>
-  <tr>
-    <td>Mr Silas Sng Wee Kiat</td>
-    <td>Ministry of Manpower (MOM)</td>
-  </tr>
-  <tr>
-    <td>Mr Adrian Ng<br>(Alternate: Mr Yap Jun Hong)</td>
-    <td>Ministry of Trade and Industry (MTI)</td>
-  </tr>
-  <tr>
-    <td>Mr Dalson Chung<br>(Alternate: Ms Evon Wong)</td>
-    <td>National Environment Agency (NEA)</td>
-  </tr>
-  <tr>
-    <td>Dr Leslie Retnam</td>
-    <td>National University of Singapore (NUS)</td>
-  </tr>
-  <tr>
-    <td>Ms Siew Kum Fong</td>
-    <td>Singapore Business Federation (SBF)</td>
-  </tr>
-  <tr>
-    <td>Mr Desmond Hill<br>(Alternate: Ms Louise Chua)</td>
-    <td>Singapore Contractors Association Ltd (SCAL)</td>
-  </tr>
-  <tr>
-    <td>Dr Tan Lee Kim</td>
-    <td>Singapore Food Agency (SFA)</td>
-  </tr>
-  <tr>
-    <td>Er Yvonne Soh</td>
-    <td>Singapore Green Building Council (SGBC)</td>
-  </tr>
- 
-	 <tr>
-    <td>Ms Joyce Seow</td>
-    <td>Singapore Manufacturing Federation (SMF)</td>
-  </tr>
-  
- <tr>
-    <td>Mr Anthony Tan</td>
-   <td>Singapore Manufacturing Federation (SMF) - TIC<br>Interest Group: Certification Bodies’ Representative</td>
-  </tr>
-		
-	<tr>
-    <td>Mr Sze Thiam Siong</td>
-    <td>Singapore Manufacturing Federation (SMF) - TIC<br>Interest Group : Inspection Bodies’ Representative</td>
-  </tr>
-  <tr>
-    <td>Mr Elton Tong Joo Beng</td>
-    <td>Singapore Manufacturing Federation (SMF) - TIC<br>Interest Group: Laboratories’ Representative</td>
-  </tr>
-  <tr>
-    <td>Mr Ng Teck Soon</td>
-    <td>Singapore Precision Engineering and Technology Association (SPETA)</td>
-  </tr>
-  <tr>
-    <td>Dr Teo Tee Hui</td>
-    <td>The Institution of Engineers, Singapore (IES)</td>
-  </tr>
-  <tr>
-    <td>Mr Allan Lim</td>
-    <td>Individual Capacity (Food and Agriculture)</td>
-  </tr>
- 	<tr>
-    <td>Mr Alex Budiman</td>
-    <td>Individual Capacity (Medical and Healthcare)</td>
-  </tr>
-	
-	<tr>
-    <td>Mr Joseph Gan</td>
-    <td>Individual Capacity (Digitalisation and Cybersecurity)</td>
-  </tr>
-	
-	
-  <tr>
-		<td><b>Secretary</b></td>
-    <td>Mr Tan Yee Teck</td>
-    <td>SAC Secretariat</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Organisation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Deputy Chair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Jagadish CV</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advanced Micro Foundry Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Yvonne Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Green Building Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Peter Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Capacity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Tan Chun Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building and Construction Authority (BCA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Teo Tang Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Health Sciences Agency (HSA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Chin Woon Hau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Media Development Authority (IMDA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adj. A/Prof Raymond Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Health (MOH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Silas Sng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Manpower (MOM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Lee Wee Kuang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Environment Agency (NEA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Tan Lee Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Food Agency (SFA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Dalson Chung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Institution of Engineers, Singapore (IES)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Low Chian Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore (NUS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Edward Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Capacity (Digitalisation and AI)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Alex Budiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Capacity (Medical and Healthcare)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Tan Yee Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Secretariat</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
