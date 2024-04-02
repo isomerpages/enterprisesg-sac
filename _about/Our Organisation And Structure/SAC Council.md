@@ -3,29 +3,211 @@ title: SAC Council
 permalink: /about/our-organisation-and-structure/sac-council/
 description: ""
 third_nav_title: Our Organisation And Structure
-variant: markdown
+variant: tiptap
 ---
-## Composition of SAC Council
-
-The SAC Council is the highest authority in the accreditation hierarchy. It comprises a member of the industry as its Chairman and a balanced representation from all relevant parties as members. Representatives include those from industries, purchasers and suppliers, government departments, professional bodies, national standards authority, certification bodies and consumer interest groups.
-
-#### Term of Office: 1 April 2024 - 31 March 2027
-
- **Chairman**  
-
-<img align="left" style="width: 177px;" src="/images/about/our-organisation-structure/Mr_Amos_Leong.png">
-
-<br clear="left">
-
-
-**Mr Amos Leong**
-
-MiRXES Pte Ltd
-
-
-
-   
-
-<table summary="" title="" style="direction:ltr;
- border-collapse:collapse;border-style:solid;border-color:#A3A3A3;border-width:
- 0pt" valign="top" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri"><span style="font-weight:bold">Designation</span></p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri"><span style="font-weight:bold">Name</span></p></td><td style="border-width:0pt;vertical-align:top;width:3.0437in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri"><span style="font-weight:bold">Organisation</span></p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.327in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in"><span style="font-weight:bold">Deputy Chair</span></p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in">Mr Jagadish CV</p></td><td style="border-width:0pt;vertical-align:top;width:3.0243in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;">Advanced Micro Foundry Pte Ltd</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Er. Yvonne Soh</p></td><td style="border-width:0pt;vertical-align:top;width:3.0437in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Singapore Green Building Council</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Er. Peter Leong</p></td><td style="border-width:0pt;vertical-align:top;width:3.0437in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Individual Capacity</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt"><span style="font-weight:bold">Members</span></p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Er. Tan Chun Yong</p></td><td style="border-width:0pt;vertical-align:top;width:3.0715in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Building and Construction Authority (BCA)</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Dr. Teo Tang Lin</p></td><td style="border-width:0pt;vertical-align:top;width:3.0437in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Health Sciences Agency (HSA)</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Dr. Chin Woon Hau</p></td><td style="border-width:0pt;vertical-align:top;width:3.1756in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt;color:black">Infocomm Media Development Authority (IMDA)</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Adj. A/Prof Raymond Chua</p></td><td style="border-width:0pt;vertical-align:top;width:3.0437in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Ministry of Health (MOH)</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Mr Silas Sng</p></td><td style="border-width:0pt;vertical-align:top;width:3.0437in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Ministry of Manpower (MOM)</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Mr. Lee Wee Kuang</p></td><td style="border-width:0pt;vertical-align:top;width:3.0437in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">National Environment Agency (NEA)</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Dr. Tan Lee Kim</p></td><td style="border-width:0pt;vertical-align:top;width:3.0437in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt;color:black">Singapore Food Agency (SFA)</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Mr. Dalson Chung</p></td><td style="border-width:0pt;vertical-align:top;width:3.0715in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt;color:black">The Institution of Engineers, Singapore (IES)</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6493in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">A/Prof Low Chian Ming</p></td><td style="border-width:0pt;vertical-align:top;width:3.0243in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt;color:black">National University of Singapore (NUS)</p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">A/Prof Edward Tay</p></td><td style="border-width:0pt;vertical-align:top;width:3.0666in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt"><span style="color:black">Individual Capacity (Digitalisation and AI)</span></p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">&nbsp;</p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Mr. Alex Budiman</p></td><td style="border-width:0pt;vertical-align:top;width:3.0715in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt"><span style="color:black">Individual Capacity (Medical and Healthcare)</span></p></td></tr><tr><td style="border-width:0pt;vertical-align:top;width:1.3076in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt"><span style="font-weight:bold">Secretary</span></p></td><td style="border-width:0pt;vertical-align:top;width:1.6298in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">Mr Tan Yee Teck</p></td><td style="border-width:0pt;vertical-align:top;width:3.0437in;padding:4pt 4pt 4pt 4pt"><p style="margin:0in;font-family:Calibri;font-size:11.0pt">SAC Secretariat</p></td></tr></tbody></table>
+<h2>Composition of SAC Council</h2>
+<p>The SAC Council is the highest authority in the accreditation hierarchy.
+It comprises a member of the industry as its Chairman and a balanced representation
+from all relevant parties as members. Representatives include those from
+industries, purchasers and suppliers, government departments, professional
+bodies, national standards authority, certification bodies and consumer
+interest groups.</p>
+<h4>Term of Office: 1 April 2024 - 31 March 2027</h4>
+<p><strong>Chairman</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 177px;" height="auto" width="100%" src="/images/about/our-organisation-structure/Mr_Amos_Leong.png">
+</div>
+<p>
+<br>
+</p>
+<p><strong>Mr Amos Leong</strong>
+</p>
+<p>MiRXES Pte Ltd</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Organisation</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Deputy Chair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jagadish CV</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advanced Micro Foundry Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Yvonne Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Green Building Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Peter Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Capacity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Tan Chun Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building and Construction Authority (BCA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Teo Tang Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Health Sciences Agency (HSA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Chin Woon Hau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Media Development Authority (IMDA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adj. A/Prof Raymond Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Health (MOH)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Silas Sng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Manpower (MOM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Lee Wee Kuang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Environment Agency (NEA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Tan Lee Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Food Agency (SFA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Dalson Chung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Institution of Engineers, Singapore (IES)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Low Chian Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore (NUS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Edward Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Capacity (Digitalisation and AI)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Alex Budiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Capacity (Medical and Healthcare)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yee Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Secretariat</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
