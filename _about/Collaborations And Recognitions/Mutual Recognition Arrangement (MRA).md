@@ -44,15 +44,15 @@ in Singapore is demonstrated below:
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SAC Singlas with ILAC" src="/images/about/SAC_singlas_with_ilac_2.jpg">
 </div>
-<p>{: style="width:327px;"}</p>
+<p></p>
 <p>We have established MRAs with the following regional and international
 organisations:</p>
 <hr>
-<p>{:#mra-table} |</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="APAC Logo" src="/images/about/APAC_logo.jpg">
 </div>
-<p>{: style="width:198px;height:79px"} <strong>Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification</strong> 
+<p><strong>Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification</strong> 
 <br><a href="https://www.apac-accreditation.org/" rel="noopener noreferrer nofollow" target="_blank">APAC</a>{:target="_blank"}
 is a merger of APLAC and PAC. | {::nomarkdown}</p>
 <ul data-tight="true" class="tight">
@@ -114,7 +114,7 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ILAC Logo" src="/images/about/ILAC_logo.jpg">
 </div>
-<p>{: style="height:118px;width:118px;"} <strong>International Laboratory Accreditation Cooperation for Testing, Calibration and Inspection</strong> 
+<p><strong>International Laboratory Accreditation Cooperation for Testing, Calibration and Inspection</strong> 
 <br><a href="http://www.ilac.org/about-ilac/" rel="noopener noreferrer nofollow" target="_blank">ILAC MRA</a>{:target="_blank"}
 | {::nomarkdown}</p>
 <ul data-tight="true" class="tight">
@@ -132,7 +132,7 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="IAF Logo" src="/images/about/iaf.gif">
 </div>
-<p>{: style="height:119px;width:171px;"} <strong>International Accreditation Forum</strong> 
+<p><strong>International Accreditation Forum</strong> 
 <br><a href="https://www.iaf.nu/articles/IAF_MEM_Singapore/101/" rel="noopener noreferrer nofollow" target="_blank">IAF MLA</a>{:target="_blank"}
 | {::nomarkdown}</p>
 <ul data-tight="true" class="tight">
