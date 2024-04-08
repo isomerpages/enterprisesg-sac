@@ -11,9 +11,8 @@ variant: tiptap
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Please note that the new structure for the Council Committees will be
-effective from July 2024. The current Council Committees will stay the
-same in the interim.</p>
+<p><sub>Please note that the new structure for the Council Committees will be effective from July 2024. The current Council Committees will stay the same in the interim.</sub>
+</p>
 </li>
 </ul>
 <p></p>
