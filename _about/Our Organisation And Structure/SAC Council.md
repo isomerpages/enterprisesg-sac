@@ -132,6 +132,17 @@ interest groups.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Wong Toon Joon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Trade and Industry (MTI)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -194,6 +205,17 @@ interest groups.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Individual Capacity (Medical and Healthcare)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Allan Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Capacity (Food, Agriculture and Environmental Sustainability)</p>
 </td>
 </tr>
 <tr>
