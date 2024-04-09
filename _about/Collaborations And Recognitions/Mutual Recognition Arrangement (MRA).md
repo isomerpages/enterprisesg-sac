@@ -42,7 +42,7 @@ in Singapore is demonstrated below:
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="30%" alt="SAC Singlas with ILAC" src="/images/about/SAC_singlas_with_ilac_2.jpg">
+<img style="width: 50%" height="auto" width="50%" alt="SAC Singlas with ILAC" src="/images/about/SAC_singlas_with_ilac_2.jpg">
 </div>
 <p></p>
 <p>We have established MRAs with the following regional and international
@@ -113,7 +113,7 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%" height="auto" width="30%" alt="ILAC Logo" src="/images/about/ILAC_logo.jpg">
+<img style="width: 20%" height="auto" width="20%" alt="ILAC Logo" src="/images/about/ILAC_logo.jpg">
 </div>
 <p><strong>International Laboratory Accreditation Cooperation for Testing, Calibration and Inspection</strong> 
 <br><a href="http://www.ilac.org/about-ilac/" rel="noopener noreferrer nofollow" target="_blank">ILAC MRA</a>
