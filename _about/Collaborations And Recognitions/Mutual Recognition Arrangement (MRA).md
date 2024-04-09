@@ -172,10 +172,10 @@ the accreditation mark of members are listed below.
 <br>Please click below for the respective MRA listings.</p>
 <ul>
 <li>
-<p><a href="https://www.iaf.nu/articles/IAF_MEMBERS_SIGNATORIES/4" rel="noopener noreferrer nofollow" target="_blank">SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification</a>{:target="_blank"}</p>
-</li>
+<p><a href="https://www.iaf.nu/articles/IAF_MEMBERS_SIGNATORIES/4" rel="noopener noreferrer nofollow" target="_blank">SAC MLA Partners for Food Safety Management Systems (FSMS), Quality Management System (QMS), Environmental Management System (EMS) and Product Certification</a>
+</p></li>
 <li>
-<p><a href="https://ilac.org/signatory-search/" rel="noopener noreferrer nofollow" target="_blank">SAC Mutual Recognition Arrangement (MRA) Partners for Testing and Calibration, Medical Testing, Inspection and Proficiency Testing Provider</a>{:target="_blank"}</p>
+<p><a href="https://ilac.org/signatory-search/" rel="noopener noreferrer nofollow" target="_blank">SAC Mutual Recognition Arrangement (MRA) Partners for Testing and Calibration, Medical Testing, Inspection and Proficiency Testing Provider</a></p>
 </li>
 </ul>
 <h3>OECD Mutual Acceptance of Data (MAD)</h3>
