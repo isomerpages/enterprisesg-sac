@@ -53,9 +53,10 @@ organisations:</p>
 <img style="width: 50%" height="auto" width="50%" alt="APAC Logo" src="/images/about/APAC_logo.jpg">
 </div>
 <p><strong>Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification</strong> 
-<br><a href="https://www.apac-accreditation.org/" rel="noopener noreferrer nofollow" target="_blank">APAC</a>{:target="_blank"}
-is a merger of APLAC and PAC. | {::nomarkdown}</p>
-<ul data-tight="true" class="tight">
+<br><a href="https://www.apac-accreditation.org/" rel="noopener noreferrer nofollow" target="_blank">APAC</a>
+is a merger of APLAC and PAC. 
+	
+</p><ul data-tight="true" class="tight">
 <li>
 <p>Signed in 1997 (Testing and Calibration)</p>
 </li>
@@ -115,9 +116,8 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 <img style="width: 50%" height="auto" width="50%" alt="ILAC Logo" src="/images/about/ILAC_logo.jpg">
 </div>
 <p><strong>International Laboratory Accreditation Cooperation for Testing, Calibration and Inspection</strong> 
-<br><a href="http://www.ilac.org/about-ilac/" rel="noopener noreferrer nofollow" target="_blank">ILAC MRA</a>{:target="_blank"}
-| {::nomarkdown}</p>
-<ul data-tight="true" class="tight">
+<br><a href="http://www.ilac.org/about-ilac/" rel="noopener noreferrer nofollow" target="_blank">ILAC MRA</a>
+</p><ul data-tight="true" class="tight">
 <li>
 <p>Signed in 2001 (Testing, Calibration and Medical)</p>
 </li>
@@ -133,9 +133,9 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 <img style="width: 50%" height="auto" width="50%" alt="IAF Logo" src="/images/about/iaf.gif">
 </div>
 <p><strong>International Accreditation Forum</strong> 
-<br><a href="https://www.iaf.nu/articles/IAF_MEM_Singapore/101/" rel="noopener noreferrer nofollow" target="_blank">IAF MLA</a>{:target="_blank"}
-| {::nomarkdown}</p>
-<ul data-tight="true" class="tight">
+<br><a href="https://www.iaf.nu/articles/IAF_MEM_Singapore/101/" rel="noopener noreferrer nofollow" target="_blank">IAF MLA</a>
+
+</p><ul data-tight="true" class="tight">
 <li>
 <p>Signed in 1999 (QMS)</p>
 </li>
