@@ -111,7 +111,7 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 </li>
 </ul>
 <p></p>
-<p>{:/} | |</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="ILAC Logo" src="/images/about/ILAC_logo.jpg">
 </div>
@@ -128,7 +128,7 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 <p>Signed in 2019 (Proficiency Testing Providers)</p>
 </li>
 </ul>
-<p>{:/} | |</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%" height="auto" width="50%" alt="IAF Logo" src="/images/about/iaf.gif">
 </div>
@@ -164,7 +164,7 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 <p>Signed in 2020 [OHSMS(ISO 45001)]</p>
 </li>
 </ul>
-<p>{:/} |</p>
+<p></p>
 <p></p>
 <hr>
 <p>Note: To facilitate the recognition of accredited reports and certificates,
