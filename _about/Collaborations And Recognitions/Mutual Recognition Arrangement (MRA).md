@@ -42,7 +42,7 @@ in Singapore is demonstrated below:
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="SAC Singlas with ILAC" src="/images/about/SAC_singlas_with_ilac_2.jpg">
+<img style="width: 30%" height="auto" width="30%" alt="SAC Singlas with ILAC" src="/images/about/SAC_singlas_with_ilac_2.jpg">
 </div>
 <p></p>
 <p>We have established MRAs with the following regional and international
@@ -50,7 +50,7 @@ organisations:</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="APAC Logo" src="/images/about/APAC_logo.jpg">
+<img style="width: 30%" height="auto" width="30%" alt="APAC Logo" src="/images/about/APAC_logo.jpg">
 </div>
 <p><strong>Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification</strong> 
 <br><a href="https://www.apac-accreditation.org/" rel="noopener noreferrer nofollow" target="_blank">APAC</a>
@@ -113,7 +113,7 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="ILAC Logo" src="/images/about/ILAC_logo.jpg">
+<img style="width: 30%" height="auto" width="30%" alt="ILAC Logo" src="/images/about/ILAC_logo.jpg">
 </div>
 <p><strong>International Laboratory Accreditation Cooperation for Testing, Calibration and Inspection</strong> 
 <br><a href="http://www.ilac.org/about-ilac/" rel="noopener noreferrer nofollow" target="_blank">ILAC MRA</a>
@@ -130,7 +130,7 @@ in 2024 - (Sub-scope: ICAO CORSIA)</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%" height="auto" width="50%" alt="IAF Logo" src="/images/about/iaf.gif">
+<img style="width: 30%" height="auto" width="30%" alt="IAF Logo" src="/images/about/iaf.gif">
 </div>
 <p><strong>International Accreditation Forum</strong> 
 <br><a href="https://www.iaf.nu/articles/IAF_MEM_Singapore/101/" rel="noopener noreferrer nofollow" target="_blank">IAF MLA</a>
