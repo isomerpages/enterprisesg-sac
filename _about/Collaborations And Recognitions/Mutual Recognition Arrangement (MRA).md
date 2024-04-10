@@ -106,8 +106,7 @@ is a merger of APLAC and PAC.
 <p>Signed in 2023 (AMMS)</p>
 </li>
 <li>
-<p>Signed in 2024 (Validation and Verification – Greenhouse Gases - ISO 14065:2013
-in 2024 - (Sub-scope: ICAO CORSIA)</p>
+<p>Signed in 2024 (Validation and Verification – Greenhouse Gases - ISO 14065:2013 - Sub-scope: ICAO CORSIA)</p>
 </li>
 </ul>
 <p></p>
