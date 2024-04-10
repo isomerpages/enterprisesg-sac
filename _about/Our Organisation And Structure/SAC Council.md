@@ -13,7 +13,7 @@ industries, purchasers and suppliers, government departments, professional
 bodies, national standards authority, certification bodies and consumer
 interest groups.</p>
 <h4>Term of Office: 1 April 2024 - 31 March 2027</h4>
-<p><strong>SAC Chairman</strong>
+<p><strong>SAC Chair</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 177px;" height="auto" width="100%" src="/images/about/our-organisation-structure/Mr_Amos_Leong.png">
