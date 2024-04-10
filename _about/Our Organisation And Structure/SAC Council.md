@@ -13,7 +13,7 @@ industries, purchasers and suppliers, government departments, professional
 bodies, national standards authority, certification bodies and consumer
 interest groups.</p>
 <h4>Term of Office: 1 April 2024 - 31 March 2027</h4>
-<p><strong>Chairman</strong>
+<p><strong>SAC Chair</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 177px;" height="auto" width="100%" src="/images/about/our-organisation-structure/Mr_Amos_Leong.png">
@@ -42,7 +42,7 @@ interest groups.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Deputy Chair</strong>
+<p><strong>SAC Deputy Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +76,7 @@ interest groups.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Members</strong>
+<p><strong>SAC Members</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,6 +128,17 @@ interest groups.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ministry of Manpower (MOM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Wong Toon Joon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Trade and Industry (MTI)</p>
 </td>
 </tr>
 <tr>
@@ -194,6 +205,40 @@ interest groups.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Individual Capacity (Medical and Healthcare)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Allan Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Capacity (Food, Agriculture and Environmental Sustainability)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ex-Officio</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Choy Sauw Kook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enterprise Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Leung Wai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enterprise Singapore</p>
 </td>
 </tr>
 <tr>
