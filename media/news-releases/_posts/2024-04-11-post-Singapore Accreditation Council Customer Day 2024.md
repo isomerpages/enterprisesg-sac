@@ -90,10 +90,12 @@ classes for all company members.</p>
 and panellists for their insightful sharing.</p>
 <p>Once again, we would like to congratulate all newly accredited CABs:</p>
 <p></p>
-<p><a href="SAC-Customer-Day-2024-Awardees" rel="noopener noreferrer nofollow" target="_blank">SAC-Customer-Day-2024-Awardees</a>
+<p>List of newly accredited bodies</p>
+<p><a href="files/documents/SAC-Customer-Day-2024-Awardees" rel="noopener noreferrer nofollow" target="_blank">SAC-Customer-Day-2024-Awardees</a>
 </p>
 <p></p>
-<p></p>
+<p><a href="files/documents/SAC-Customer-Day-2024-Awardees" rel="noopener noreferrer nofollow" target="_blank">SAC-Customer-Day-2024-Awardees</a>
+</p>
 <p>We look forward to seeing you at the next SAC Customer Day!</p>
 <p>&nbsp;</p>
 <p></p>
