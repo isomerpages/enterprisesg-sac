@@ -89,11 +89,8 @@ classes for all company members.</p>
 <p>The SAC would like to extend our heartfelt appreciation to all speakers
 and panellists for their insightful sharing.</p>
 <p>Once again, we would like to congratulate all newly accredited CABs:</p>
-<p>[List of Newly Accredited Bodies](<strong><a href="https://go.gov.sg/sac-customer-day-awardees" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sac-customer-day-awardees)</a></strong>
+<p><a href="https://go.gov.sg/sac-customer-day-awardees" rel="noopener noreferrer nofollow" target="_blank">List of Newly Accredited Bodies</a>
 </p>
-<p>List of Newly Accredited Bodies<strong><a href="https://go.gov.sg/sac-customer-day-awardees" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sac-customer-day-awardees</a></strong>
-</p>
-<p></p>
 <p>We look forward to seeing you at the next SAC Customer Day!</p>
 <p>&nbsp;</p>
 <p></p>
