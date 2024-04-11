@@ -90,6 +90,7 @@ classes for all company members.</p>
 and panellists for their insightful sharing.</p>
 <p>Once again, we would like to congratulate all newly accredited CABs:</p>
 <p></p>
+<p></p>
 <p>[List of newly accredited bodies](/files/Documents/SAC-Customer-Day-2024-Awardees.pdf){:target="_blank"}</p>
 <p></p>
 <p>We look forward to seeing you at the next SAC Customer Day!</p>
