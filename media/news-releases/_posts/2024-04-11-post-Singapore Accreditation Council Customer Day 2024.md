@@ -40,7 +40,8 @@ to strengthen the quality and assurance infrastructure. &nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AProf Edward" src="/images/press-release/photos/AProf_Edward.png">
 </div>
-<p></p>
+<p><sup>Associate Professor Edward Tay giving his keynote presentation.</sup>
+</p>
 <p>During the SAC Customer Day 2024, a panel of distinguished industry speakers,
 moderated by SAC Deputy Chairman Mr. Amos Leong discussed global sustainability
 and digitisation trends, emphasising the ongoing importance of TIC services
@@ -83,7 +84,8 @@ classes for all company members.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Panel" src="/images/press-release/photos/Panel.png">
 </div>
-<p></p>
+<p><sup>From left to right, panel speakers - Mr Amos Leong (moderator), Ms Fong Hui Ling, Ms Eunice Ng, Er Tan Seng Chuan and Associate Professor Edward Tay</sup>
+</p>
 <p>The SAC would like to extend our heartfelt appreciation to all speakers
 and panellists for their insightful sharing.</p>
 <p>Once again, we would like to congratulate all newly accredited CABs:</p>
