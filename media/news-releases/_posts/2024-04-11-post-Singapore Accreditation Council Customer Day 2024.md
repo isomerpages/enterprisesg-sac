@@ -37,7 +37,6 @@ been plugged into sustainability efforts and acknowledged the criticality
 of roles which accreditation and the relevant international bodies play
 to strengthen the quality and assurance infrastructure. &nbsp;&nbsp;</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AProf Edward" src="/images/press-release/photos/AProf_Edward.png">
 </div>
@@ -81,7 +80,6 @@ classes for all company members.</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Panel" src="/images/press-release/photos/Panel.png">
 </div>
@@ -90,9 +88,7 @@ classes for all company members.</p>
 and panellists for their insightful sharing.</p>
 <p>Once again, we would like to congratulate all newly accredited CABs:</p>
 <p></p>
-<p>List of newly accredited bodies</p>
-<p></p>
-<p></p>
+<p>[List of newly accredited bodies]((/files/Documents/SAC-Customer-Day-2024-Awardees.pdf){:target="_blank"}</p>
 <p></p>
 <p>We look forward to seeing you at the next SAC Customer Day!</p>
 <p>&nbsp;</p>
