@@ -37,7 +37,10 @@ been plugged into sustainability efforts and acknowledged the criticality
 of roles which accreditation and the relevant international bodies play
 to strengthen the quality and assurance infrastructure. &nbsp;&nbsp;</p>
 <p></p>
-<p>PIC</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AProf_Edward" src="/images/press-release/photos/AProf_Edward.jpg">
+</div>
 <p></p>
 <p>During the SAC Customer Day 2024, a panel of distinguished industry speakers,
 moderated by SAC Deputy Chairman Mr. Amos Leong discussed global sustainability
@@ -78,7 +81,10 @@ classes for all company members.</p>
 </li>
 </ul>
 <p></p>
-<p>pic2</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Panel" src="/images/press-release/photos/Panel.jpg">
+</div>
 <p></p>
 <p>The SAC would like to extend our heartfelt appreciation to all speakers
 and panellists for their insightful sharing.</p>
