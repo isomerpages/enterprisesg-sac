@@ -39,7 +39,7 @@ to strengthen the quality and assurance infrastructure. &nbsp;&nbsp;</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AProf_Edward" src="/images/press-release/photos/AProf_Edward.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="AProf Edward" src="/images/press-release/photos/AProf_Edward.png">
 </div>
 <p></p>
 <p>During the SAC Customer Day 2024, a panel of distinguished industry speakers,
@@ -83,7 +83,7 @@ classes for all company members.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Panel" src="/images/press-release/photos/Panel.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Panel" src="/images/press-release/photos/Panel.png">
 </div>
 <p></p>
 <p>The SAC would like to extend our heartfelt appreciation to all speakers
