@@ -131,10 +131,8 @@ is a merger of APLAC and PAC.
 <div class="isomer-image-wrapper">
 <img style="width: 30%" height="auto" width="30%" alt="IAF Logo" src="/images/about/iaf.gif">
 </div>
-<p><strong>International Accreditation Forum</strong> 
-<br><a href="https://www.iaf.nu/articles/IAF_MEM_Singapore/101/" rel="noopener noreferrer nofollow" target="_blank">IAF MLA</a>
 
-</p><p><strong>International Accreditation Forum</strong> 
+<p></p><p><strong>International Accreditation Forum</strong> 
 <br><a href="https://iaf.nu/en/recognised-abs/" rel="noopener noreferrer nofollow" target="_blank">IAF MLA</a>	
 	
 	
