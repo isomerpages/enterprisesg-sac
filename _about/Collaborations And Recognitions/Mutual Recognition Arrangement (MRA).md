@@ -134,6 +134,10 @@ is a merger of APLAC and PAC.
 <p><strong>International Accreditation Forum</strong> 
 <br><a href="https://www.iaf.nu/articles/IAF_MEM_Singapore/101/" rel="noopener noreferrer nofollow" target="_blank">IAF MLA</a>
 
+</p><p><strong>International Accreditation Forum</strong> 
+<br><a href="https://iaf.nu/en/recognised-abs/" rel="noopener noreferrer nofollow" target="_blank">IAF MLA</a>	
+	
+	
 </p><ul data-tight="true" class="tight">
 <li>
 <p>Signed in 1999 (QMS)</p>
