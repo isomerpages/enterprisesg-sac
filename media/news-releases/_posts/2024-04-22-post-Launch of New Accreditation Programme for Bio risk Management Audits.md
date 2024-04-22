@@ -37,4 +37,5 @@ Accreditation Scheme. The specific requirements for Bio-risk Management
 Audits AOs are detailed in Appendix 4 of SAC CT 17.</p>
 <p></p>
 <p>Application for accreditation is now open through the SAC accreditation
-portal, [SACiNet]. Please contact your account manager for more details.</p>
+portal,, <a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACiNet</a> Please
+contact your account manager for more details.</p>
