@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Launch of New Accreditation Scope under Auditing Organisation Scheme</strong>
+<p><strong>Launch of New Accreditation Programme for Bio-risk Management Audits</strong>
 </p>
 <p>The Singapore Accreditation Council (SAC) is pleased to announce the expansion
 of our Accreditation Scheme for Auditing Organisation (AO) to include Bio-risk
