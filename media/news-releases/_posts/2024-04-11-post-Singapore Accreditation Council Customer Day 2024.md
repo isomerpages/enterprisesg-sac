@@ -88,6 +88,28 @@ classes for all company members.</p>
 </p>
 <p>The SAC would like to extend our heartfelt appreciation to all speakers
 and panellists for their insightful sharing.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p1" src="/images/press-release/photos/customer_day_p1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p2" src="/images/press-release/photos/customer_day_p2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p3" src="/images/press-release/photos/customer_day_p3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p4" src="/images/press-release/photos/customer_day_p4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p5" src="/images/press-release/photos/customer_day_p5.png">
+</div>
+<p></p>
 <p>Once again, we would like to congratulate all newly accredited CABs:</p>
 <p><a href="https://go.gov.sg/sac-customer-day-awardees" rel="noopener noreferrer nofollow" target="_blank">List of Newly Accredited Bodies</a>
 </p>
