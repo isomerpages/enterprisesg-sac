@@ -86,7 +86,7 @@ classes for all company members.</p>
 <p><sup>From left to right, panel speakers - Mr Amos Leong (moderator), Ms Fong Hui Ling, Ms Eunice Ng, Er Tan Seng Chuan and Associate Professor Edward Tay</sup>
 </p>
 <p>The SAC would like to extend our heartfelt appreciation to all speakers
-and panellists for their insightful sharing.</p>
+and panelists for their insightful sharing.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
