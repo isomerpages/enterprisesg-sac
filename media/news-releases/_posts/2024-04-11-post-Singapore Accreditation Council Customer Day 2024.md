@@ -65,7 +65,6 @@ Completing the project in phases can provide managers with an overview
 of the results and benefits of the transformation efforts.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>In addition, the panel shared the following insights for sustainability:</p>
 <ul data-tight="true" class="tight">
 <li>
