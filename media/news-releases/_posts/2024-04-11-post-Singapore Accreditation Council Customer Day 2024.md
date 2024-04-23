@@ -109,6 +109,8 @@ and panellists for their insightful sharing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="customer-day-p5" src="/images/press-release/photos/customer_day_p5.png">
 </div>
+<p><sup>Award recipients were presented with certificates to recognise their efforts</sup>
+</p>
 <p></p>
 <p>Once again, we would like to congratulate all newly accredited CABs:</p>
 <p><a href="https://go.gov.sg/sac-customer-day-awardees" rel="noopener noreferrer nofollow" target="_blank">List of Newly Accredited Bodies</a>
