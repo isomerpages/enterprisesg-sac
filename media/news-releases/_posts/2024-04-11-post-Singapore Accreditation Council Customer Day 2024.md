@@ -21,8 +21,8 @@ the recognition of 63 newly accredited CABs.</p>
 and develop new processes and solutions to stay relevant and keep up with
 the global evolution, especially across the two focus areas. The TIC sector,
 as an enabler of quality and assurance, should also identify and capture
-opportunities for growth across the two areas. He further add that to meet
-the rising demand for new programmes and increased accreditation volume
+opportunities for growth across the two areas. He further added that to
+meet the rising demand for new programmes and increased accreditation volume
 while balancing resource and cost considerations, SAC has embarked on digitalisation
 initiatives and initiated reviews to streamline and optimise our internal
 processes to ensure operational sustainability.</p>
