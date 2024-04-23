@@ -21,8 +21,8 @@ the recognition of 63 newly accredited CABs.</p>
 and develop new processes and solutions to stay relevant and keep up with
 the global evolution, especially across the two focus areas. The TIC sector,
 as an enabler of quality and assurance, should also identify and capture
-opportunities for growth across the two areas. He further add that to meet
-the rising demand for new programmes and increased accreditation volume
+opportunities for growth across the two areas. He further added that to
+meet the rising demand for new programmes and increased accreditation volume
 while balancing resource and cost considerations, SAC has embarked on digitalisation
 initiatives and initiated reviews to streamline and optimise our internal
 processes to ensure operational sustainability.</p>
@@ -65,7 +65,6 @@ Completing the project in phases can provide managers with an overview
 of the results and benefits of the transformation efforts.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>In addition, the panel shared the following insights for sustainability:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -87,7 +86,31 @@ classes for all company members.</p>
 <p><sup>From left to right, panel speakers - Mr Amos Leong (moderator), Ms Fong Hui Ling, Ms Eunice Ng, Er Tan Seng Chuan and Associate Professor Edward Tay</sup>
 </p>
 <p>The SAC would like to extend our heartfelt appreciation to all speakers
-and panellists for their insightful sharing.</p>
+and panelists for their insightful sharing.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p1" src="/images/press-release/photos/customer_day_p1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p2" src="/images/press-release/photos/customer_day_p2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p3" src="/images/press-release/photos/customer_day_p3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p4" src="/images/press-release/photos/customer_day_p4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="customer-day-p5" src="/images/press-release/photos/customer_day_p5.png">
+</div>
+<p><sup>Award recipients were presented with certificates to recognise their efforts</sup>
+</p>
+<p></p>
 <p>Once again, we would like to congratulate all newly accredited CABs:</p>
 <p><a href="https://go.gov.sg/sac-customer-day-awardees" rel="noopener noreferrer nofollow" target="_blank">List of Newly Accredited Bodies</a>
 </p>
