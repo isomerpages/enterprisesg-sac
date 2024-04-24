@@ -3,16 +3,20 @@ title: Validation and Verification Body Accreditation
 permalink: /resources/sac-documents/validation-and-verification-body-accreditation/
 description: ""
 third_nav_title: SAC Documents
+variant: markdown
 ---
 A validation/verification body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
-<!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
+
 ### Publications for All Programmes
 * [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/validation-and-verification-bodies/sac-01-16feb2020.pdf){:target="\_blank"}
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks](/files/Documents/validation-and-verification-bodies/sac-02-22-jan-20.pdf){:target="\_blank"}
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/Documents/validation-and-verification-bodies/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf){:target="\_blank"}
 * [Accreditation Feedback Form](/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="\_blank"}
-* [CT 01 - 01 Nov 2021 Accreditation Process for Certification Bodies and V&amp;V Bodies](/files/Documents/validation-and-verification-bodies/ct-01-01-nov-2021.pdf){:target="\_blank"}
+
+* [CT 01 - 23 Nov 2023 Accreditation Process for Certification Bodies and V&amp;V Bodies](](https://go.gov.sg/ct01-23112023)
+
+
 
 ### Standards and Criteria Document for Validation &amp; Verification
 
@@ -26,6 +30,3 @@ A validation/verification body must be fully conversant and comply with the rele
 * [Fee Schedule, 10 October 2018](/files/Documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf){:target="\_blank"}
 * [Assessment Checklist (ISO 14065:2013), 10 Oct 2018](/files/Documents/validation-and-verification-bodies/Assessment-Checklist-(ISO-14065)-10-October-2018.docx){:target="\_blank"}
 * [Assessment Checklist (ISO/IEC 17029:2019), 12 April 2022](/files/Documents/validation-and-verification-bodies/CTFM02-VB-ISO-IEC-17029.docx){:target="\_blank"}
-
-
-<!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
