@@ -28,7 +28,6 @@ A validation/verification body must be fully conversant and comply with the rele
 
 * [IAF MD 6:2023 IAF Mandatory Document for the Application of ISO 14065:2020](https://go.gov.sg/iaf-md-6-iss3-01112023)
 
-
 * [Fee Schedule, 10 October 2018](/files/Documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf){:target="\_blank"}
 
 * [Assessment Checklist (ISO/IEC 17029:2019), 12 April 2022](/files/Documents/validation-and-verification-bodies/CTFM02-VB-ISO-IEC-17029.docx){:target="\_blank"}
