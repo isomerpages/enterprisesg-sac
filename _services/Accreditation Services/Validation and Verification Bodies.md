@@ -21,11 +21,11 @@ The Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body w
 
 SAC accredits V/VBs that can demonstrate compliance with the following requirements: 
 
-* ISO/IEC 17029: Conformity assessment – General principles and requirements for validation and verification bodies
-* ISO 14065: General principles and requirements for bodies validating and  verifying environmental information.
-* ISO 14066: Greenhouse Gases - Competence requirements for Greenhouse gas validation reams and verification teams  
-* ISO 14064-3: Greenhouse Gases - Part 3: Specification with Guidance for the validation and verification of Greenhouse gas assertions  
-* IAF MD 6: IAF Mandatory Document for the application of ISO 14065:2020 
+* ISO/IEC 17029 Conformity assessment – General principles and requirements for validation and verification bodies
+* ISO 14065 General principles and requirements for bodies validating and  verifying environmental information
+* ISO 14066 Greenhouse Gases - Competence requirements for Greenhouse gas validation reams and verification teams  
+* ISO 14064-3 Greenhouse Gases - Part 3: Specification with Guidance for the validation and verification of Greenhouse gas assertions  
+* IAF MD 6 IAF Mandatory Document for the application of ISO 14065:2020 
 
 
 
