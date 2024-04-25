@@ -26,7 +26,7 @@ A validation/verification body must be fully conversant and comply with the rele
 * [ISO 14066:2011  Green House Gases Competence requirements for Greenhouse validation teams and verification teams]
 * [ISO 14064-3:2019 Greenhouse gases – Part 3: Specification with guidance for the validation and verification of greenhouse gas statements]
 
-* [IAF MD 6:2023 IAF Mandatory Document for the Application of ISO 14065:2020](https://go.gov.sg/iaf-md-6-iss3-01112023)
+* [IAF MD 6:2023: IAF Mandatory Document for the Application of ISO 14065:2020](https://go.gov.sg/iaf-md-6-iss3-01112023)
 
 * [Fee Schedule, 10 October 2018](/files/Documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf){:target="\_blank"}
 
