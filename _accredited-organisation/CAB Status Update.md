@@ -131,6 +131,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Auditing Organisation
   * Dynamic Safety Pte. Ltd. (07 March 2024)
+  *  August International Pte. Ltd. (26 April 2024)
 
 * Quality Management Systems
   * DAS Certification Singapore Pte Ltd (20 December 2023)
