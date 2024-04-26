@@ -24,6 +24,7 @@ A validation/verification body must be fully conversant and comply with the rele
 * [ISO 14065:2020: General principles and requirements for bodies validating and verifying environmental information]
 
 * [ISO 14066:2011: Green House Gases Competence requirements for Greenhouse validation teams and verification teams]
+* [ISO 14066:2023: Environmental information - Competence requirements for teams validating and verifying environmental information\]
 * [ISO 14064-3:2019: Greenhouse gases – Part 3: Specification with guidance for the validation and verification of greenhouse gas statements]
 
 * [IAF MD 6:2023: IAF Mandatory Document for the Application of ISO 14065:2020](https://go.gov.sg/iaf-md-6-iss3-01112023)
