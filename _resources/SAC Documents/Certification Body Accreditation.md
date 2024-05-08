@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SAC Documents
 variant: tiptap
 ---
-<p>A certification body must be fully conversant and comply with the relevant
+<p>3A certification body must be fully conversant and comply with the relevant
 standards and criteria to be accredited. The standards, specific criteria
 and related documents for the SAC accreditation are as below:</p>
 <h3>Publications for All Certification Programmes</h3>
@@ -72,11 +72,11 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/CT-16-(29-March-2019).pdf" rel="noopener noreferrer nofollow" target="_blank">CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019</a>
+<p><a href="https://go.gov.sg/ct16-29march2019" rel="noopener noreferrer nofollow" target="_blank">CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019</a>
 </p>
 </li>
 <li>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) - June 2021</a>
+<p><a href="https://go.gov.sg/ct18-01june2021" rel="noopener noreferrer nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) - June 2021</a>
 </p>
 </li>
 <li>
@@ -156,7 +156,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/iaf-md-24-2021-issue-1.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 24:2021 - Transition Requirements for ISO 50003:2021</a>
+<p><a href="https://go.gov.sg/iso-50003-transition-md16062023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 24:2023 - Transition Requirements for ISO 50003:2021</a>
 </p>
 </li>
 <li>
@@ -167,8 +167,6 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="https://go.gov.sg/iaf-md-27-22003-1-transition-2023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 27:2023 -Transition Requirements for ISO 22003-1:2022</a>
 </p>
 </li>
-</ul>
-<ul>
 <li>
 <p><a href="/files/Documents/Certification/iaf_md28_issue1_26022022.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 28:2023 - IAF Mandatory Document for the Upload and Maintenance of Data on IAF Database</a>
 </p>
