@@ -104,10 +104,6 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/iaf-md-1-issue2-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 1:2023 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Documents/iaf-md-2-issue2-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 2:2023 - Transfer of Accredited Certification of Management Systems</a>
 </p>
 </li>
