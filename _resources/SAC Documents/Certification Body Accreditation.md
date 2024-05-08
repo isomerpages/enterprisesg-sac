@@ -124,7 +124,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/iaf-md-9-issue4-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device QMS (ISO 13485)</a>
+<p><a href="https://go.gov.sg/iaf-md9-issue5-20112023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device QMS (ISO 13485)</a>
 </p>
 </li>
 <li>
