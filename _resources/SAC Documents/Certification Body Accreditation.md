@@ -159,10 +159,6 @@ and related documents for the SAC accreditation are as below:</p>
 <li>
 <p><a href="https://go.gov.sg/iso-50003-transition-md16062023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 24:2021 - Transition Requirements for ISO 50003:2021</a>
 </p>
-</li>
-</ul>
-<ul>
-<li>
 <p></p>
 </li>
 <li>
