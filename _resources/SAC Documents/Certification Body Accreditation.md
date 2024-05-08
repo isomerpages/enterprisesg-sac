@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SAC Documents
 variant: tiptap
 ---
-<p>A certification body must be fully conversant and comply with the relevant
+<p>3A certification body must be fully conversant and comply with the relevant
 standards and criteria to be accredited. The standards, specific criteria
 and related documents for the SAC accreditation are as below:</p>
 <h3>Publications for All Certification Programmes</h3>
@@ -158,8 +158,12 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/iso-50003-transition-md16062023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 24:2021 - Transition Requirements for ISO 50003:2021</a>
+<p></p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/iso-50003-transition-md16062023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 24:2023 - Transition Requirements for ISO 50003:2021</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><a href="/files/Documents/iaf_md26_issue_2_15012023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022</a>
