@@ -100,7 +100,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/iaf-md9-issue5-20112023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 1:2023 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation</a>
+<p><a href="https://go.gov.sg/iaf-md1-issue3-181020231" rel="noopener noreferrer nofollow" target="_blank">IAF MD 1:2023 - Audit and Certification of a Management System Operated by a Multi-Site Organisation</a>
 </p>
 </li>
 <li>
