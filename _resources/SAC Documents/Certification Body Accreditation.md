@@ -154,12 +154,10 @@ and related documents for the SAC accreditation are as below:</p>
 <li>
 <p><a href="/files/Documents/Management%20system%20and%20products%20certification/iaf_md_23_2023_issue_2.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 23:2023 - Control of Entities Operating on Behalf of Accredited Management Systems CBs</a>
 </p>
-<p></p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/iso-50003-transition-md16062023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 24:2021 - Transition Requirements for ISO 50003:2021</a>
 </p>
-<p></p>
 </li>
 <li>
 <p><a href="/files/Documents/iaf_md26_issue_2_15012023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022</a>
