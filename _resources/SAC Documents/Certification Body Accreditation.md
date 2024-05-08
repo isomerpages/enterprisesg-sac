@@ -76,7 +76,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="" rel="noopener noreferrer nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) - June 2021</a>
+<p><a href="https://go.gov.sg/ct18-01june2021" rel="noopener noreferrer nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) - June 2021</a>
 </p>
 </li>
 <li>
