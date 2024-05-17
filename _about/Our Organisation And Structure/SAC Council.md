@@ -24,7 +24,12 @@ interest groups.</p>
 <p><strong>Mr Amos Leong</strong>
 </p>
 <p>MiRXES Pte Ltd</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -195,6 +200,61 @@ interest groups.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National University of Singapore (NUS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SGTech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Clement Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation (SMF)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Don Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMF-TIC Interest Group: Certification Body</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Lo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMF-TIC Interest Group: Inspection Body</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sze Thiam Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMF-TIC Interest Group: Laboratory</p>
 </td>
 </tr>
 <tr>
