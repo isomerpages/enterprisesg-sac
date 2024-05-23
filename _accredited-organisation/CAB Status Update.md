@@ -22,26 +22,27 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 
+*  Calibration & Measurement
+   * DKSH Singapore Pte. Ltd. (23 April 2024)
+
+*  Chemical & Biological Testing
+   * Reactivo Chemical And Reagent Pte. Ltd.  (24 April 2024)
+
 *  Civil Engineering Testing
    * SA Geolab International Pte. Ltd. (11 April 2024)
    * Fugro IOVTEC Co. Ltd (15 April 2024)
+
+*  IT Testing
+   * SGS Brightsight (24 April 2024)
+
+*  Mechanical Engineering
+   * Technoform Edge Bond Solutions Singapore Pte. Ltd. (2 January 2024)
+   * Caltek Pte. Ltd. (2 January 2024)
 
 *  Mechanical Testing
    * Orchid Calibration Pte Ltd (04 April 2024)
    * Lab Services Pte Ltd (10 May 2024)
 
-*  Chemical & Biological Testing
-   * Reactivo Chemical And Reagent Pte. Ltd.  (24 April 2024)
-
-*  IT Testing
-   * SGS Brightsight (24 April 2024)
-
-*  Calibration & Measurement
-   * DKSH Singapore Pte. Ltd. (23 April 2024)
-
-*  Mechanical Engineering
-   * Technoform Edge Bond Solutions Singapore Pte. Ltd. (2 January 2024)
-   * Caltek Pte. Ltd. (2 January 2024)
 
 
 #### Inspection Body
