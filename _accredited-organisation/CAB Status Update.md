@@ -22,25 +22,19 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration & Measurement
-  * Nanyang Technological University (20 November 2023)
-  * CAST consult Sdn Bhd (27 November 2023) 
 
 
 * Chemical & Biological Testing
-  * TES-AMM (Singapore) Pte. Ltd. (14 December 2023)
 
 
 * Civil Engineering Testing
-  * Leads Specialist Services Pte Ltd (16 November 2023)
 
 
 * Electrical Testing
-  * Coilcraft Industries Singapore Pte Ltd (5 December 2023)
 
 
 * Environmental Testing
-  * DSO National Laboratories - Radiological & Nuclear Verification Laboratory (14 December 2023)
-
+ 
 
 * Mechanical Engineering
   * Technoform Edge Bond Solutions Singapore Pte. Ltd. (2 January 2024)
@@ -52,23 +46,15 @@ Click on the quick links below to jump to the CAB Status:
 
 
 * Environmental Management System
-  * AIM Certification Pte Ltd (14 November 2023)
-  * QCert Singapore Pte Ltd  (16 November 2023)
-  * Bureau Veritas Quality Assurance Pte. Ltd. (21 December 2023)
 
 
 * Medical Device-Quality Management System
-  * DEKRA Certification B.V. (30 November 2023)
 
 
-* Occupational Health and Safety Management System
-  * AIM Certification Pte Ltd (14 November 2023)
-  * QCert Singapore Pte Ltd  (16 November 2023)
-
+* Occupational Health and Safety Management 
 
 * Quality Management Systems
-  * AIM Certification Pte Ltd (14 November 2023)
-  * QCert Singapore Pte Ltd  (16 November 2023)
+
 
 
 
