@@ -21,54 +21,49 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-* Calibration & Measurement
-  * Nanyang Technological University (20 November 2023)
-  * CAST consult Sdn Bhd (27 November 2023) 
 
+* Calibration & Measurement
+   * DKSH Singapore Pte. Ltd. (23 April 2024)
 
 * Chemical & Biological Testing
-  * TES-AMM (Singapore) Pte. Ltd. (14 December 2023)
-
+   * Reactivo Chemical And Reagent Pte. Ltd.  (24 April 2024)
 
 * Civil Engineering Testing
-  * Leads Specialist Services Pte Ltd (16 November 2023)
+   * SA Geolab International Pte. Ltd. (11 April 2024)
+   * Fugro IOVTEC Co. Ltd (15 April 2024)
 
-
-* Electrical Testing
-  * Coilcraft Industries Singapore Pte Ltd (5 December 2023)
-
-
-* Environmental Testing
-  * DSO National Laboratories - Radiological & Nuclear Verification Laboratory (14 December 2023)
-
+* IT Testing
+   * SGS Brightsight (24 April 2024)
 
 * Mechanical Engineering
-  * Technoform Edge Bond Solutions Singapore Pte. Ltd. (2 January 2024)
-  * Caltek Pte. Ltd. (2 January 2024)
+   * Technoform Edge Bond Solutions Singapore Pte. Ltd. (2 January 2024)
+   * Caltek Pte. Ltd. (2 January 2024)
+
+* Mechanical Testing
+   * Orchid Calibration Pte Ltd (04 April 2024)
+   * Lab Services Pte Ltd (10 May 2024)
+
+
+
+#### Inspection Body
+
+
+* Building Façade Inspection using Drones
+   * OperaAI Pte Ltd (15 April 2024)
+
+* Site Investigation and Instrumentation & Monitoring
+   * Glostrext Technology (S) Pte Ltd (17 May 2024)
 
 
 
 #### Certification Body
 
 
-* Environmental Management System
-  * AIM Certification Pte Ltd (14 November 2023)
-  * QCert Singapore Pte Ltd  (16 November 2023)
-  * Bureau Veritas Quality Assurance Pte. Ltd. (21 December 2023)
-
-
-* Medical Device-Quality Management System
-  * DEKRA Certification B.V. (30 November 2023)
-
-
-* Occupational Health and Safety Management System
-  * AIM Certification Pte Ltd (14 November 2023)
-  * QCert Singapore Pte Ltd  (16 November 2023)
-
-
-* Quality Management Systems
-  * AIM Certification Pte Ltd (14 November 2023)
-  * QCert Singapore Pte Ltd  (16 November 2023)
+* Product Certification
+   * SGBC Pte Ltd (19 April 2024)
+ 
+* Hazard Analysis and Critical Control Point
+   * ISOCert Pte Ltd (29 April 2024)
 
 
 
