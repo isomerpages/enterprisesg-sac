@@ -144,7 +144,7 @@ and related documents for the SAC accreditation are as below:</p>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.sac-accreditation.gov.sg/files/iaf-md-16-issue1-version3-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2024 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
+<p><a href="https://go.gov.sg/iaf-md16-issue-2-21052024" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2024 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
 </p>
 </li>
 </ul>
