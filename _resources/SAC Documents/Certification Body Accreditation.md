@@ -147,13 +147,6 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="https://go.gov.sg/iaf-md16-issue-2-21052024" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2024 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
 </p>
 </li>
-</ul>
-<p></p>
-<ul>
-<li>
-<p><a href="/files/iaf-md-16-issue1-version3-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
-</p>
-</li>
 <li>
 <p><a href="/files/Documents/Management%20system%20and%20products%20certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007</a>
 </p>
