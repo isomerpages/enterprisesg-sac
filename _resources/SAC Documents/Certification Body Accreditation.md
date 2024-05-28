@@ -5,7 +5,7 @@ description: ""
 third_nav_title: SAC Documents
 variant: tiptap
 ---
-<p>3A certification body must be fully conversant and comply with the relevant
+<p>A certification body must be fully conversant and comply with the relevant
 standards and criteria to be accredited. The standards, specific criteria
 and related documents for the SAC accreditation are as below:</p>
 <h3>Publications for All Certification Programmes</h3>
@@ -140,7 +140,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/iaf-md-16-issue1-version3-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
+<p><a href="https://go.gov.sg/iaf-md16-issue-2-21052024" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2024 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
 </p>
 </li>
 <li>
@@ -169,6 +169,10 @@ and related documents for the SAC accreditation are as below:</p>
 </li>
 <li>
 <p><a href="/files/Documents/Certification/iaf_md28_issue1_26022022.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 28:2023 - IAF Mandatory Document for the Upload and Maintenance of Data on IAF Database</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/iaf-md-29-27006-1-transition-21052024" rel="noopener noreferrer nofollow" target="_blank">IAF MD 29: 2024 Transition Requirements for ISO/IEC 27006-1:2024</a>
 </p>
 </li>
 <li>
