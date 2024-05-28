@@ -71,8 +71,6 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="/files/Documents/Management%20system%20and%20products%20certification/CT-15-(29-March-2019).pdf" rel="noopener noreferrer nofollow" target="_blank">CT 15 - SAC Criteria for CBs (Management of end-of-life ICT Equipment) - 29 March 2019</a>
 </p>
 </li>
-</ul>
-<ul>
 <li>
 <p><a href="https://go.gov.sg/ct16-29march2019" rel="noopener noreferrer nofollow" target="_blank">CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019</a>
 </p>
