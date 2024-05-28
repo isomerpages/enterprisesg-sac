@@ -175,8 +175,6 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="/files/Documents/Certification/iaf_md28_issue1_26022022.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 28:2023 - IAF Mandatory Document for the Upload and Maintenance of Data on IAF Database</a>
 </p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/iaf-md-29-27006-1-transition-21052024" rel="noopener noreferrer nofollow" target="_blank">IAF MD 29: 2024 Transition Requirements for ISO/IEC 27006-1:2024</a>
 </p>
