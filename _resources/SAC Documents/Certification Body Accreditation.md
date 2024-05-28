@@ -77,13 +77,6 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="https://go.gov.sg/ct16-29march2019" rel="noopener noreferrer nofollow" target="_blank">CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019</a>
 </p>
 </li>
-</ul>
-<p></p>
-<ul>
-<li>
-<p><a href="https://go.gov.sg/ct16-29march2019" rel="noopener noreferrer nofollow" target="_blank">CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019</a>
-</p>
-</li>
 <li>
 <p><a href="https://go.gov.sg/ct18-01june2021" rel="noopener noreferrer nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) - June 2021</a>
 </p>
@@ -148,6 +141,15 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="/files/iaf-md-15-issue1-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 15:2023 - Collection of Data to provide Indicators of Management System CBs' Performance</a>
 </p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.sac-accreditation.gov.sg/files/iaf-md-16-issue1-version3-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2024 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
+</p>
+</li>
+</ul>
+<p></p>
+<ul>
 <li>
 <p><a href="/files/iaf-md-16-issue1-version3-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
 </p>
