@@ -141,8 +141,6 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="/files/iaf-md-15-issue1-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 15:2023 - Collection of Data to provide Indicators of Management System CBs' Performance</a>
 </p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/iaf-md16-issue-2-21052024" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2024 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
 </p>
