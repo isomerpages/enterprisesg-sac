@@ -114,6 +114,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Cargo Inspection
   * CMC Marine Pte. Ltd. (20 March 2024)
+  * Virgo Ship Service Pte. Ltd. (31 May 2024)
 
 * Non-Destructive Testing
   * Next Engineering & Inspections Pte Ltd (27 November 2023)
