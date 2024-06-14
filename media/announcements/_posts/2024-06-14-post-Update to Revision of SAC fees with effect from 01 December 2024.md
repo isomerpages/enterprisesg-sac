@@ -7,10 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Update to Revision of SAC fees with effect from 01 December 2024</strong>
-</p>
-<p>Please note that Singapore Accreditation Council (SAC) will be revising
-its fees with effect from 1st December 2024.</p>
+<h1>Updates to Revision of SAC fees with effect from 01 December 2024</h1>
+<p></p>
 <p>This revision, which included both increase and decrease of fees across
 different categories, is part of our ongoing efforts to ensure streamline
 and standardise processes, ensure good governance and achieve financial
