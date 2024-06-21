@@ -19,18 +19,9 @@ locations:
     title: HQ Address
 contacts:
   - content:
-      - phone: +65 6279 1800
-      - email: sac@enterprisesg.gov.sg
-      - other: SAC values feedback to improve and monitor accredited organisations.
-          Complaints or feedback about SAC accreditation or accredited
-          organisations can be sent to sac@enterprisesg.gov.sg. Written
-          complaints should have objective evidence for investigation.
-          Accredited organisations will be asked to address and correct
-          complaints related to them or their clients.
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
       - email: sacinet_admin@enterprisesg.gov.sg
       - other: ""
     title: SACiNet-related Enquiries
+feedback: ""
 ---
