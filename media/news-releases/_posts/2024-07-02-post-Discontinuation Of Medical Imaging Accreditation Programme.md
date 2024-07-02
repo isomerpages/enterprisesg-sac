@@ -11,9 +11,8 @@ variant: tiptap
 </p>
 <p></p>
 <p>Following a comprehensive review of our Medical Imaging accreditation
-programme,</p>
-<p>we would like to inform that SAC will terminate the Medical Imaging accreditation
-programme with effect from 1 July 2024.</p>
+programme, we would like to inform that SAC will terminate the Medical
+Imaging accreditation programme with effect from 1 July 2024.</p>
 <p>We would like to thank the industry stakeholders and volunteers for the
 support given to SAC for this programme.</p>
 <p></p>
