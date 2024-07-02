@@ -105,8 +105,7 @@ Click on the quick links below to jump to the CAB Status:
 * Mechanical Testing
   *  Leser LLP (19 January 2024)
 
-* Medical Testing
-  *   National Heart Centre of Singapore Pte Ltd (30 June 2024)
+
 
 
 
