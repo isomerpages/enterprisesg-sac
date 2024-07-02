@@ -17,6 +17,6 @@ Imaging accreditation programme with effect from 1 July 2024.</p>
 support given to SAC for this programme.</p>
 <p></p>
 <p><strong>For other SAC accreditation programmes, please refer </strong>
-<a href="https://www.sac-accreditation.gov.sg/services/accreditation-services/" rel="noopener noreferrer nofollow" target="_blank">her</a>
+<a href="https://www.sac-accreditation.gov.sg/services/accreditation-services/" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p>&nbsp;</p>
