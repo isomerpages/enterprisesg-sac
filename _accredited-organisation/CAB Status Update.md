@@ -79,10 +79,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 
-* Calibration and Measurement 
-    * Glostrext Technology (S) Pte Ltd  (16 January 2024 - 15 July 2024)
-
-
 * Information Technology Testing
    * UL Verification Services Pte Ltd (15 January 2024 - 14 July 2024)
 
