@@ -12,7 +12,7 @@ variant: markdown
 
 [**HSA-SAC Joint Courses 2024**]<br>[August 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/services/training-courses-and-seminars/permalink/)
 
-[**ISO 15189:2022 Course**<br>2-3 September 2024]
+[**ISO 15189:2022 Course**<br>[2-3 September 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/iso-15189-2022-course/)
 
 
 ### Training Calendar 2023
