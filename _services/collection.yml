@@ -2,10 +2,10 @@ collections:
   services:
     output: true
     order:
-      - Training, Courses & Seminars/ISO 15189:2022 Course.md
       - Training, Courses & Seminars/.keep
       - Training, Courses & Seminars/Overview.md
       - Training, Courses & Seminars/HSA and SAC Joint Courses 2024.md
+      - Training, Courses & Seminars/ISO 15189:2022 Course.md
       - Training, Courses & Seminars/Internal Audit Course.md
       - Training, Courses & Seminars/Inspection Body Course.md
       - Training, Courses & Seminars/Laboratory Management Course.md
