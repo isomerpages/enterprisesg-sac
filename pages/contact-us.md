@@ -21,7 +21,8 @@ contacts:
   - content:
       - phone: ""
       - email: sacinet_admin@enterprisesg.gov.sg
-      - other: ""
+      - other: Please note that this email is only for SACiNet related enquires and any
+          other enquires should be made through the online form below.
     title: SACiNet-related Enquiries
-feedback: ""
+feedback: https://form.gov.sg/6639e83400d3710c16051b0e
 ---
