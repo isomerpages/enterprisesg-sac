@@ -20,12 +20,13 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: sacinet_admin@enterprisesg.gov.sg
+      - email: ""
       - other: SACiNet serves as the accreditation assessment management platform for
-          CABs and volunteers. Kindly note that this email is exclusively for
-          SACiNet-related inquiries. Your queries and feedback are important to
-          us. To facilitate a prompt response, please use the online form
-          provided below to submit your enquiries and feedback. Thank you.
+          CABs and volunteers. Kindly note that this email,
+          sacinet_admin@enterprisesg.gov.sg, is exclusively for SACiNet-related
+          inquiries. Your queries and feedback are important to us. To
+          facilitate a prompt response, please use the online form provided
+          below to submit your enquiries and feedback. Thank you.
     title: For SACiNet-related Enquiries Only
 feedback: https://form.gov.sg/6639e83400d3710c16051b0e
 ---
