@@ -5,6 +5,7 @@ date: 2018-06-09
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![world-accreditation-day-2018-video-now-available](/images/press-release/documents/world-accreditation-day-2018.png)
 
@@ -15,3 +16,6 @@ World Accreditation Day 2018 focuses on how accreditation delivers a safer world
 </div>
 
 Please click [here](https://www.iaf.nu/articles/World\_Accreditation\_Day\_2018\_Video\_Now\_Available/554){:target="\_blank"} for more information.
+
+
+Please click [here](https://www.youtube.com/watch?v=zF_mNvz63Ls)
