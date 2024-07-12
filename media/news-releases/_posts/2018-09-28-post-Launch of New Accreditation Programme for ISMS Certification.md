@@ -23,11 +23,8 @@ systems. As part of the development of new programme for ISMS certification,
 SAC organised a training on ISO 27006 on 27-28 Sep 18 and the trainer was
 Ms Noriko Tominaga from ISMS Accreditation Center, Japan.</p>
 <p>Accreditation for the ISMS Certification programme is now open for CB's
-application via&nbsp;<a href="https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form" rel="noopener noreferrer nofollow" target="_blank">SACiNet</a>{:target="_blank"}.</p>
-<p></p>
-<p><a href="ESG-SACiNet 2.0 (enterprisesg.gov.sg)" rel="noopener noreferrer nofollow" target="_blank">SACINET 2.0</a>
+application via&nbsp;<a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACINET 2.0</a>
 </p>
-<p></p>
 <p></p>
 <p>For more details, please contact your Account Manager or Ms Lee Ham Eng
 at&nbsp;<a href="mailto:lee_ham_eng@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ham_eng@enterprisesg.gov.sg</a>.</p>
