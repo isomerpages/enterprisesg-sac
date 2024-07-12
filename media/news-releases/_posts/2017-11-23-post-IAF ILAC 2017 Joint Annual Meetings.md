@@ -33,9 +33,8 @@ to ISO/IEC 17024 that prevents the certification bodies from issuing non-accredi
 persons certificates in scopes for which they are accredited, and shall
 require full implementation within 3 years from 30 October 2017.</p>
 <p>SAC will keep accredited certification bodies informed on any IAF updates
-regularly. More information on the IAF resolutions can be found <a href="http://www.iaf.nu/upFiles/VancouverGAResolutions_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>{:target="_blank"}.</p>
-<p></p>
-<p></p>
+regularly. More information on the IAF resolutions can be found <a href="https://iaf.nu/en/iaf-documents/resolutions/page/5/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
 <p></p>
 <p><strong>New signatories into ILAC Mutual Recognition Arrangement:</strong>
 </p>
