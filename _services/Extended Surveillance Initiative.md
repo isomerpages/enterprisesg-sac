@@ -6,7 +6,7 @@ variant: markdown
 ---
 **Extended Surveillance Initiative**
 
-The Extended Surveillance Initiative is open to all Laboratories (except medical testing and medical imaging laboratories), Inspection Bodies and Proficiency Testing Providers. CABs who have been evaluated and found to have met the requirements for this initiative will have their surveillance assessments carried out at intervals of 1.5 years instead of annually.
+The Extended Surveillance Initiative is open to all Laboratories (except medical testing laboratories), Inspection Bodies and Proficiency Testing Providers. CABs who have been evaluated and found to have met the requirements for this initiative will have their surveillance assessments carried out at intervals of 1.5 years instead of annually.
 
 1.  Eligibility Criteria<br><br>
     There should be no outstanding payments owed to SAC/ESG.<br>
