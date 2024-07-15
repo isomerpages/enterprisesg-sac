@@ -18,7 +18,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Joint ISO-ILAC-IAF Communique on the Management Systems Requirements of ISO/IEC 17025, April 2017](/files/Documents/Laboratory%20Accreditation/Joint_ISO_IEC_17025_communique_2017finalsigned.pdf){:target="_blank"}
 
 
-### Standards and Criteria Document for Testing and Calibrations (Exclude Medical Testing &amp; Medical Imaging)
+### Standards and Criteria Document for Testing and Calibrations (Exclude Medical Testing)
 
 
 #### ISO/IEC 17025: 2017 - General Requirements for the Competence of Testing and Calibration Laboratories
@@ -83,14 +83,13 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Guidance Note NDT 001- 29 Mar 2019: Guidance Document for Estimation of MU Uncertainty in NDT](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/non-destructive-testing-field/Guidance-Note-NDT-001,-290319.pdf){:target="\_blank"}
 
 
-### Standards and Criteria Document for Medical Testing and Medical Imaging
+### Standards and Criteria Document for Medical Testing
 #### ISO 15189: 2012 - Particular Requirements for Quality and Competence
 
 * [SAC-SINGLAS 001-Cor - 1 May 2021: Accreditation Process](/files/Documents/Laboratory%20Accreditation/SAC-SINGLAS-001-01-May-2021-Cor.pdf){:target="\_blank"}
 * [SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees for Medical Testing and Medical Imaging Facilities](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf){:target="\_blank"}
+0001-Tech-Notes-25Oct21-Final.pdf){:target="\_blank"}
 
-**Medical Imaging Testing Field**
-* [MI 001 - Specific Criteria for Medical Imaging, 25 Oct 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-imaging-testing-field/M-%20001-Tech-Notes-25Oct21-Final.pdf){:target="\_blank"}
 
 **Medical Testing Field**
 
