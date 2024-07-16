@@ -206,8 +206,3 @@ implemented between the United States and Singapore, products can be tested
 and certified in the United States for conformance with Singapore's technical
 requirements. A list of the recognized U.S. testing and certification agencies
 can be found <a href="https://www.imda.gov.sg/Who-We-Are/international-relations/mutual-recognition-arrangements" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-
-[Who We Are | IMDA](https://www.imda.gov.sg/about-imda/who-we-are)
-   
-
-<a href="https://www.imda.gov.sg/about-imda/international-relations/mutual-recognition-arrangements" rel="noopener noreferrer nofollow" target="_blank">here</a>.
