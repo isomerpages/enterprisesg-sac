@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Launch of Biorisk Management Audist Programme</strong>
+</p>
 <p>The Singapore Accreditation Council (SAC) is pleased to announce the expansion
 of our Accreditation Scheme for Auditing Organisation (AO) to include the
 scope of Bio-risk Management Audits with effect from 24 July 2024. &nbsp;</p>
