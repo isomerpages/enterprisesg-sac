@@ -36,5 +36,7 @@ Accreditation of Auditing Organisations under Auditing Organisation Accreditatio
 Scheme. The specific requirements for Bio-risk Management Audits AOs are
 detailed in Appendix 4 of SAC CT 17.</p>
 <p>Application for accreditation is now open through the SAC accreditation
-portal, SACiNET. Please contact your account manager for more details.</p>
+portal, <a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACINET</a>
+</p>
+<p>Please contact your account manager for more details.</p>
 <p>&nbsp;</p>
