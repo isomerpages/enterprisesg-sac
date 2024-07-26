@@ -306,11 +306,11 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/ct01-01a-24july2024" rel="noopener noreferrer nofollow" target="_blank">CT 01A - Accreditation Process for Auditing Organisations – 23 July 2024</a>
+<p><a href="https://go.gov.sg/ct01-01a-24july2024" rel="noopener noreferrer nofollow" target="_blank">CT 01A - Accreditation Process for Auditing Organisations – 24 July 2024</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct-17-24july2024" rel="noopener noreferrer nofollow" target="_blank">CT 17 - SAC Criteria for Auditing Organisations – 23 July 2024</a>
+<p><a href="https://go.gov.sg/ct-17-24july2024" rel="noopener noreferrer nofollow" target="_blank">CT 17 - SAC Criteria for Auditing Organisations – 24 July 2024</a>
 </p>
 </li>
 <li>
