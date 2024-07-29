@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Our Organisation And Structure
 variant: tiptap
 ---
-<p>There are 6 Council Committees supporting the SAC Council to oversee the
-various accreditation programmes.&nbsp;</p>
+<p>There are 6 Committees supporting the SAC Council to oversee the various
+accreditation programmes.&nbsp;</p>
 <h2>Council Committee for Certification (CCC)</h2>
 <h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
