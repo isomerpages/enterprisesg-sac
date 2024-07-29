@@ -7,16 +7,10 @@ variant: tiptap
 ---
 <p>There are 6 Technical Committees supporting the Laboratory Accreditation
 scheme.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong><u>Engineering</u></strong>
-</p>
-<p>&nbsp;</p>
-<p><strong>Calibration &amp; Measurement</strong>
-</p>
-<p><strong>Term : 1 July 2024 - 30 June 2027</strong>
-</p>
-<p>&nbsp;</p>
+<p></p>
+<h2><u>Engineering</u></h2>
+<h2>Calibration &amp; Measurement</h2>
+<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
