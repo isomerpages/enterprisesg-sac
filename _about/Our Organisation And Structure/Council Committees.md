@@ -702,9 +702,10 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Council Committee For Business Development (CCBD)</h2>
+<h2>Coordinating  Committee For Business Development (CCBD)</h2>
 <h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
-<p>Members for this committee will be updated in due course.</p>
+<p>“<em>To be updated in due course</em>”</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
