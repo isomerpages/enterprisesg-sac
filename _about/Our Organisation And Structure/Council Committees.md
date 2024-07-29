@@ -574,7 +574,7 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Council Committee For Good Laboratory Practice  (CCGLP) </h2>
+<h2>Council Committee For Good Laboratory Practice (CCGLP)</h2>
 <h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -702,12 +702,8 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Council Committee For Business Development (CCBD)</strong>
-</p>
-<p><strong>Term : 1 July 2024 - 30 June 2027</strong>
-</p>
-<p>&nbsp;</p>
+<h2>Council Committee For Business Development  (CCBD)</h2>
+<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
