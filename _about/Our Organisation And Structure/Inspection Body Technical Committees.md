@@ -123,7 +123,7 @@ scheme.</p>
 <p>&nbsp;Mr Bernard Kwok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Manpower (MOM)</p>
+<p>Ministry of Manpower</p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ scheme.</p>
 <p>Er. Ng Han Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assocation of Consulting Engineers Singapore (ACES)</p>
+<p>Assocation of Consulting Engineers Singapore</p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ scheme.</p>
 <p>Mr Thomas Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Association of Process Industry (ASPRI)</p>
+<p>Association of Process Industry</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ scheme.</p>
 <p>Er. Tan Kee Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building and Construction Authority (BCA)</p>
+<p>Building and Construction Authority</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ scheme.</p>
 <p>Er. James Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Engineers Singapore (IES)</p>
+<p>Institute of Engineers Singapore</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ scheme.</p>
 <p>Dr Cheong Mun Kit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Land Transport Authority (LTA)</p>
+<p>Land Transport Authority</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@ scheme.</p>
 <p>Prof Upadrasta Ramamurthy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nanyang Technological University (NTU)</p>
+<p>Nanyang Technological University</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +201,7 @@ scheme.</p>
 <p>Ms Li Liwei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Environment Agency (NEA)</p>
+<p>National Environment Agency</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ scheme.</p>
 <p>A/Prof Md Raisul Islam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +223,7 @@ scheme.</p>
 <p>Ms Tan Shu Lin, Jerlyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Police Force (SPF)</p>
+<p>Singapore Police Force</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ scheme.</p>
 <p>Er Jeyatharan Kumarasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Land Transport Authority (LTA)</p>
+<p>Land Transport Authority</p>
 </td>
 </tr>
 <tr>
@@ -285,7 +285,7 @@ scheme.</p>
 <p>Dr Poh Teoh Yaw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building &amp; Construction Authority (BCA)</p>
+<p>Building &amp; Construction Authority</p>
 </td>
 </tr>
 <tr>
@@ -308,7 +308,7 @@ scheme.</p>
 <p>Mr Lionel Ang Loy Jin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Housing &amp; Development Board (HDB)</p>
+<p>Housing &amp; Development Board</p>
 </td>
 </tr>
 <tr>
@@ -363,7 +363,7 @@ scheme.</p>
 <p>Mr Ting Hua Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Institution of Engineers, Singapore (IES)</p>
+<p>Institution of Engineers Singapore</p>
 </td>
 </tr>
 <tr>
@@ -458,7 +458,7 @@ scheme.</p>
 <p>Er. Tan Yew Chai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Engineers Singapore (IES)</p>
+<p>Institute of Engineers Singapore</p>
 </td>
 </tr>
 <tr>
