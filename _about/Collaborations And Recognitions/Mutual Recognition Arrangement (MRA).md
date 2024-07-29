@@ -204,6 +204,6 @@ into either market without the need for additional testing and certification.
 Under the Asia-Pacific Economic Cooperation (APEC) Telecommunications MRA
 implemented between the United States and Singapore, products can be tested
 and certified in the United States for conformance with Singapore's technical
-requirements. 
+requirements.   A list of the recognized U.S. testing and certification agencies can be found <a href="https://www.imda.gov.sg/Who-We-Are/international-relations/mutual-recognition-arrangements" rel="noopener noreferrer nofollow" target="\_blank">here</a>.</p>
 	
-</p>
+<p></p>
