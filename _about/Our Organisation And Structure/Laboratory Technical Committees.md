@@ -218,12 +218,8 @@ scheme.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Mechanical and Civil Engineering (MCE)</strong>
-</p>
-<p><strong>Term : 1 July 2024 - 30 June 2027</strong>
-</p>
-<p>&nbsp;</p>
+<h2>Mechanical and Civil Engineering (MCE)</h2>
+<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
