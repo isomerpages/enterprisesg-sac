@@ -200,7 +200,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Silas Sng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Manpower (MOM)</p>
+<p>Ministry of Manpower</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +212,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Fan Ming Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Association of Process Industry (ASPRI)</p>
+<p>Association of Process Industry</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +223,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Poh Teoh Yaw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building and Construction Authority (BCA)</p>
+<p>Building and Construction Authorit</p>
 </td>
 </tr>
 <tr>
@@ -234,7 +234,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Er. Loo Say Kian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Housing &amp; Development Board (HDB)</p>
+<p>Housing &amp; Development Board</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Er. Melvin Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Engineers Singapore (IES)</p>
+<p>Institute of Engineers Singapore</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +256,7 @@ various accreditation programmes.&nbsp;</p>
 <p>A/Prof Leong Eng Choon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nanyang Technological University (NTU)</p>
+<p>Nanyang Technological University</p>
 </td>
 </tr>
 <tr>
@@ -267,7 +267,7 @@ various accreditation programmes.&nbsp;</p>
 <p>A/Prof Wang Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +278,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Victor Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Food Agency (SFA)</p>
+<p>Singapore Food Agency</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +340,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Rodney Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cyber Security Agency of Singapore (CSA)</p>
+<p>Cyber Security Agency of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -351,7 +351,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Asst Prof Tan Kwan Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nanyang Technological University (NTU)</p>
+<p>Nanyang Technological University</p>
 </td>
 </tr>
 <tr>
@@ -362,7 +362,7 @@ various accreditation programmes.&nbsp;</p>
 <p>A/Prof Raymond Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -373,7 +373,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Garion Kong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Association of Information Security Professionals (AiSP)</p>
+<p>Association of Information Security Professionals</p>
 </td>
 </tr>
 <tr>
@@ -384,7 +384,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Chew Soon Hoe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Institution of Engineers, Singapore (IES)</p>
+<p>The Institution of Engineers, Singapore</p>
 </td>
 </tr>
 <tr>
@@ -490,7 +490,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Prof Chew Sing Yian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nanyang Technological University (NTU)</p>
+<p>Nanyang Technological University</p>
 </td>
 </tr>
 <tr>
@@ -501,7 +501,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Yap Su Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Environment Agency (NEA)</p>
+<p>National Environment Agency</p>
 </td>
 </tr>
 <tr>
@@ -512,7 +512,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Ms Lim Soh Har</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Healthcare Group (NHG)</p>
+<p>National Healthcare Group</p>
 </td>
 </tr>
 <tr>
@@ -523,7 +523,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Chew Kean Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University Health System (NUHS)</p>
+<p>National University Health System</p>
 </td>
 </tr>
 <tr>
@@ -534,7 +534,7 @@ various accreditation programmes.&nbsp;</p>
 <p>A/Prof Rachel Ee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -606,7 +606,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Associate Professor Low Chian Ming&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -618,7 +618,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Ms Peggy Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Food Agency (SFA)</p>
+<p>Singapore Food Agency</p>
 </td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Jin Mengyi, Tara</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Environment Agency (NEA)</p>
+<p>National Environment Agency</p>
 </td>
 </tr>
 <tr>
@@ -640,7 +640,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Foo Yang Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Sciences Authority (HSA)</p>
+<p>Health Sciences Authority</p>
 </td>
 </tr>
 <tr>
@@ -651,7 +651,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Assoc Prof Aaron Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Institute of Technology (SIT)</p>
+<p>Singapore Institute of Technology</p>
 </td>
 </tr>
 <tr>
