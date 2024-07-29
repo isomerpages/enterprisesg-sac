@@ -703,7 +703,7 @@ various accreditation programmes.&nbsp;</p>
 </table>
 <p>&nbsp;</p>
 <h2>Council Committee For Business Development (CCBD)</h2>
-<h3>Term : 1 July 2021 - 30 June 2024&nbsp;</h3>
+<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -739,58 +739,37 @@ various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Members</strong>
+<p><strong>Co-Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ling Ting Ming</p>
+<p>Er. Peter Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Association of Small Medium Enterprises</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Eunice Pang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Health Promotion Board</p>
+<p>Individual Capacity</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prof Gregory Goh K. L.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Metrology Centre, A*STAR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A/Prof Lawrence Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National University of Singapore Business School</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ye Yongfeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Public Service Division</p>
+<p>Public Service Division (PSD)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -798,21 +777,10 @@ various accreditation programmes.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siew Kum Fong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Business Federation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Seah Yin Fen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Food Manufacturers’ Association</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -820,32 +788,10 @@ various accreditation programmes.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Choong Guo Wei</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TIC Interest Group (Certification)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Eric Law Wei Kwang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TIC Interest Group (Laboratory)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Gaurava Mishra</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>TIC Interest Group (Laboratory, Inspection, Certification)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -854,7 +800,7 @@ various accreditation programmes.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yee Teck</p>
+<p>Ms Gladys Leung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
