@@ -8,7 +8,7 @@ variant: tiptap
 <p>There are 6 Council Committees supporting the SAC Council to oversee the
 various accreditation programmes.&nbsp;</p>
 <h2>Council Committee for Certification (CCC)</h2>
-<h3>Term: 1 July 2021 - 30 June 2024&nbsp;</h3>
+<h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -169,7 +169,7 @@ various accreditation programmes.&nbsp;</p>
 </table>
 <p>&nbsp;</p>
 <h2>Council Committee For Inspection (CCI)</h2>
-<h3>Term: 1 July 2021 - 30 June 2024&nbsp;</h3>
+<h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -296,12 +296,8 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Council Committee For Laboratory - Engineering (CCL - E)</strong>
-</p>
-<p><strong>Term : 1 July 2024 - 30 June 2027</strong>
-</p>
-<p>&nbsp;</p>
+<h2>Council Committee For Laboratory - Engineering (CCL - E)</h2>
+<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -417,12 +413,8 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Council Committee For Laboratory - Medical &amp; Sciences (CCL - MS)</strong>
-</p>
-<p><strong>Term : 1 July 2024 - 30 June 2027</strong>
-</p>
-<p>&nbsp;</p>
+<h2>Council Committee For Laboratory - Medical &amp; Sciences (CCL - MS)</h2>
+<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
