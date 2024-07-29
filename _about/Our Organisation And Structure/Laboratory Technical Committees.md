@@ -267,17 +267,6 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,14 +278,13 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A/Prof. Qian Xu Dong</p>
+<p>A/Prof Qian Xu Dong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University</p>
-<p>of Singapore (NUS)</p>
+<p>National University of Singapore (NUS)</p>
 </td>
 </tr>
 <tr>
