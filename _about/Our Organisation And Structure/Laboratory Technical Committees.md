@@ -317,7 +317,7 @@ scheme.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Electrical &amp; Infocomm Technology</h2>
+<h2>Electrical &amp; Infocomm</h2>
 <h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
