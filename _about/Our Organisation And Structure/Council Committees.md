@@ -3,427 +3,819 @@ title: Council Committees
 permalink: /about/our-organisation-and-structure/council-committees/
 description: ""
 third_nav_title: Our Organisation And Structure
-variant: markdown
+variant: tiptap
 ---
-There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
-
----
-
-## Council Committee For Laboratory (CCL)
-### Term : 1 July 2021 - 30 June 2024
-
-
-<table>
-<thead>
-  <tr>
-    <th>Designation</th>
-    <th>Name</th>
-    <th>Organisation</th>
-  </tr>
-</thead>
+<p>There are 5 Council Committees supporting the SAC Council to oversee the
+various accreditation programmes.</p>
+<hr>
+<h2>Council Committee For Laboratory (CCL)</h2>
+<h3>Term : 1 July 2021 - 30 June 2024</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-		<td><b>Chairman</b></td>
-    <td>Dr Leslie Retnam</td>
-    <td>National University of Singapore</td>
-  </tr>
-  <tr>
-		<td><b>Deputy Chairman</b></td>
-    <td>A/P Joanne Chan Sheot Harn</td>
-    <td>Singapore Food Agency</td>
-  </tr>
-  <tr>
-		<td rowspan="12"><b>Members</b></td>
-    <td>Mrs Reshmy Pillay</td>
-    <td>National Metrology Centre</td>
-  </tr>
-  <tr>
-    <td>Mr Tony Low<br>(Alternate: Dr Steven Wong)</td>
-    <td>Association of Information Security Professionals</td>
-  </tr>
-  <tr>
-    <td>Dr Gao Chun Ping</td>
-    <td>Building and Construction Authority</td>
-  </tr>
-  <tr>
-    <td>Mr Rodney Tan</td>
-    <td>Cyber Security Agency of Singapore (CSA)</td>
-  </tr>
-  <tr>
-    <td>Dr Teo Tang Lin</td>
-    <td>Health Sciences Authority</td>
-  </tr>
-  <tr>
-    <td>Dr Kenneth Choy</td>
-    <td>Ministry of Manpower</td>
-  </tr>
-  <tr>
-    <td>Dr Joel Lee</td>
-    <td>Nanyang Polytechnic</td>
-  </tr>
-  <tr>
-    <td>Mr Tan Boon Chong</td>
-    <td>Singapore Manufacturing Federation</td>
-  </tr>
-  <tr>
-    <td>Mr Stanley Ong</td>
-    <td>Singapore Manufacturing Federation - TIC Interest Group - Laboratory</td>
-  </tr>
-  <tr>
-    <td>Dr Zong Yun</td>
-    <td>Singapore National Institute of Chemistry</td>
-  </tr>
-  <tr>
-    <td>Dr Ong Eng Hong</td>
-    <td>Singapore University of Technology &amp; Design</td>
-  </tr>
-  <tr>
-    <td>Prof Chew Soon Hoe</td>
-    <td>The Institute of Engineers, Singapore</td>
-  </tr>
-  <tr>
-		<td><b>Secretary</b></td>
-    <td>Ms Lim Lee Fang</td>
-    <td>SAC Secretariat</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Leslie Retnam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Deputy Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/P Joanne Chan Sheot Harn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Food Agency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="12" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Reshmy Pillay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Metrology Centre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tony Low
+<br>(Alternate: Dr Steven Wong)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Association of Information Security Professionals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Gao Chun Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building and Construction Authority</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Rodney Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cyber Security Agency of Singapore (CSA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Teo Tang Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Health Sciences Authority</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Kenneth Choy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Manpower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Joel Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Boon Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Stanley Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation - TIC Interest Group - Laboratory</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Zong Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore National Institute of Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Ong Eng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore University of Technology &amp; Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prof Chew Soon Hoe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Institute of Engineers, Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Lee Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Secretariat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-## Council Committee For Inspection (CCI)
-### Term: 1 July 2021 - 30 June 2024
-
-
-<table>
-<thead>
-  <tr>
-    <th>Designation</th>
-    <th>Name</th>
-    <th>Organisation</th>
-  </tr>
-</thead>
+<h2>Council Committee For Inspection (CCI)</h2>
+<h3>Term: 1 July 2021 - 30 June 2024</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-		<td><b>Chairman</b></td>
-    <td>Mr Silas Sng Wee Kiat</td>
-    <td>Ministry of Manpower</td>
-  </tr>
-  <tr>
-		<td rowspan="9"><b>Members</b></td>
-    <td>Er. Yong Fen Leong</td>
-    <td>Association of Consulting Engineers, Singapore</td>
-  </tr>
-  <tr>
-    <td>Mr Loh Lock Mun</td>
-    <td>Association of Process Industry</td>
-  </tr>
-  <tr>
-    <td>Mr Andrew Alexander Malcolm</td>
-    <td>Advanced Remanufacturing and Technology Centre (ARTC)</td>
-  </tr>
-  <tr>
-    <td>Dr Poh Teoh Yaw            </td>
-    <td>Building &amp; Construction Authority</td>
-  </tr>
-  <tr>
-    <td>Er. Merlyn Thong            </td>
-    <td>Land Transport Authority        </td>
-  </tr>
-  <tr>
-    <td>A/Prof Leong Eng Choon      </td>
-    <td>Nanyang Technological University</td>
-  </tr>
-  <tr>
-    <td>Mr Victor Li               </td>
-    <td>Singapore Food Agency</td>
-  </tr>
-  <tr>
-    <td>Mr Adrian Lo              </td>
-    <td>Singapore Manufacturing Federation – TIC Interest Group</td>
-  </tr>
-  <tr>
-    <td>Dr Ho Nyok Yong            </td>
-    <td>The Singapore Contractors Association Ltd</td>
-  </tr>
-  <tr>
-		<td><b>Secretary</b></td>
-    <td>Mr Tang Kok Min</td>
-    <td>Singapore Accreditation Council</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Silas Sng Wee Kiat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Manpower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Yong Fen Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Association of Consulting Engineers, Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Lock Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Association of Process Industry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andrew Alexander Malcolm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advanced Remanufacturing and Technology Centre (ARTC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Poh Teoh Yaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building &amp; Construction Authority</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Er. Merlyn Thong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Land Transport Authority</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/Prof Leong Eng Choon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Technological University</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Victor Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Food Agency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Lo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation – TIC Interest Group</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Ho Nyok Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore Contractors Association Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tang Kok Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Accreditation Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-
-
-
-## Council Committee for Certification (CCC)
-### Term: 1 July 2021 - 30 June 2024
-
-
-<table>
-<thead>
-  <tr>
-    <th>Designation</th>
-    <th>Name</th>
-    <th>Organisation</th>
-  </tr>
-</thead>
+<h2>Council Committee for Certification (CCC)</h2>
+<h3>Term: 1 July 2021 - 30 June 2024</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-		<td><b>Chairman</b></td>
-    <td>Er Yvonne Soh</td>
-    <td>Singapore Green Building Council</td>
-  </tr>
-  <tr>
-		<td rowspan="16"><b>Members</b></td>
-    <td>Ms Huang Wen Jia</td>
-    <td>Association of Process Industry</td>
-  </tr>
-  <tr>
-    <td>Er. Steve Ang            </td>
-    <td>Building and Construction Authority                          </td>
-  </tr>
-  <tr>
-    <td>Prof Lim Kok Hua</td>
-    <td>Institute of Engineers, Singapore</td>
-  </tr>
-  <tr>
-    <td>Dr Chin Woon Hau</td>
-    <td>Infocomm Media Development Authority</td>
-  </tr>
-  <tr>
-    <td>Mr Sebastian Tan</td>
-    <td>Ministry of Manpower</td>
-  </tr>
-  <tr>
-    <td>Mr Chen Fu Yi</td>
-    <td>National Environment Agency</td>
-  </tr>
-  <tr>
-    <td>LTC Eugene Phng</td>
-    <td>Singapore Civil Defence Force</td>
-  </tr>
-  <tr>
-    <td>Ms Cheong Lai Peng</td>
-    <td>Singapore Food Agency</td>
-  </tr>
-  <tr>
-    <td>Dr Jonathan Cheah</td>
-    <td>Singapore Food Manufacturing Association</td>
-  </tr>
-  <tr>
-    <td>Ms Jenny Chua</td>
-    <td>SkillsFuture Singapore                  </td>
-  </tr>
-  <tr>
-    <td>Ms Heidi Goh</td>
-    <td>Singapore Manufacturing Federation - Medical Technology Industry Interest Group</td>
-  </tr>
-  <tr>
-    <td>Mr Don Quek</td>
-    <td>Singapore Manufacturing Federation - TIC Interest Group - Product Certification Body</td>
-  </tr>
-  <tr>
-    <td>Ms Tan Swee Yin</td>
-    <td>Singapore Manufacturing Federation - TIC Interest Group - Personnel Certification Body</td>
-  </tr>
-  <tr>
-    <td>Mr Sze Thiam Siong</td>
-    <td>Singapore Manufacturing Federation - TIC Interest Group - Management System Certification Body</td>
-  </tr>
-  <tr>
-    <td>Ms Kavita Gandhi</td>
-    <td>Sustainable Energy Association of Singapore</td>
-  </tr>
-  <tr>
-    <td>Mr Desmond Hill            </td>
-    <td>The Singapore Contractors Association Limited                </td>
-  </tr>
-  <tr>
-		<td><b>Secretary</b></td>
-    <td>Ms Lee Ham Eng</td>
-    <td>Singapore Accreditation Council</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er Yvonne Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Green Building Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="16" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Wen Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Association of Process Industry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Er. Steve Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building and Construction Authority</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prof Lim Kok Hua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Institute of Engineers, Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Chin Woon Hau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm Media Development Authority</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sebastian Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Manpower</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Fu Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Environment Agency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LTC Eugene Phng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Civil Defence Force</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Lai Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Food Agency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Jonathan Cheah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Food Manufacturing Association</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jenny Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SkillsFuture Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Heidi Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation - Medical Technology Industry Interest
+Group</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Don Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation - TIC Interest Group - Product Certification
+Body</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Swee Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation - TIC Interest Group - Personnel Certification
+Body</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sze Thiam Siong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation - TIC Interest Group - Management System
+Certification Body</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kavita Gandhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainable Energy Association of Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Desmond Hill</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore Contractors Association Limited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Ham Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Accreditation Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-                 
-
-## Council Committee for Business Development (CCBD)
-### Term: 1 July 2021 - 30 June 2024
-
-
-<table>
-<thead>
-  <tr>
-    <th>Designation</th>
-    <th>Name</th>
-    <th>Organisation</th>
-  </tr>
-</thead>
+<h2>Council Committee for Business Development (CCBD)</h2>
+<h3>Term: 1 July 2021 - 30 June 2024</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-		<td><b>Chairman</b></td>
-    <td>Mr Jagadish C V</td>
-    <td>Singapore Accreditation Council</td>
-  </tr>
-  <tr>
-		<td rowspan="10"><b>Members</b></td>
-    <td>Mr Ling Ting Ming</td>
-    <td>Association of Small Medium Enterprises</td>
-  </tr>
-  <tr>
-    <td>Dr Eunice Pang    </td>
-    <td>Health Promotion Board</td>
-  </tr>
-  <tr>
-    <td>Prof Gregory Goh K. L.</td>
-    <td>National Metrology Centre, A*STAR</td>
-  </tr>
-  <tr>
-    <td>A/Prof Lawrence Loh</td>
-    <td>National University of Singapore Business School</td>
-  </tr>
-  <tr>
-    <td>Mr Ye Yongfeng</td>
-    <td>Public Service Division</td>
-  </tr>
-  <tr>
-    <td>Ms Siew Kum Fong  </td>
-    <td>Singapore Business Federation</td>
-  </tr>
-  <tr>
-    <td>Ms Seah Yin Fen</td>
-    <td>Singapore Food Manufacturers’ Association</td>
-  </tr>
-  <tr>
-    <td>Mr Choong Guo Wei</td>
-    <td>TIC Interest Group (Certification)</td>
-  </tr>
-  <tr>
-    <td>Mr Eric Law Wei Kwang</td>
-    <td>TIC Interest Group (Laboratory)</td>
-  </tr>
-  <tr>
-    <td>Mr Gaurava Mishra</td>
-    <td>TIC Interest Group (Laboratory, Inspection, Certification) </td>
-  </tr>
-  <tr>
-		<td rowspan="2"><b>Secretaries</b></td>
-    <td>Mr Tan Yee Teck</td>
-    <td>SAC Secretariat</td>
-  </tr>
-  <tr>
-    <td>Mr Terence Hu</td>
-    <td>SAC Secretariat</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jagadish C V</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Accreditation Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ling Ting Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Association of Small Medium Enterprises</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Eunice Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Health Promotion Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prof Gregory Goh K. L.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Metrology Centre, A*STAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/Prof Lawrence Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore Business School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ye Yongfeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Service Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siew Kum Fong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Business Federation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Seah Yin Fen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Food Manufacturers’ Association</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Choong Guo Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TIC Interest Group (Certification)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Eric Law Wei Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TIC Interest Group (Laboratory)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Gaurava Mishra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TIC Interest Group (Laboratory, Inspection, Certification)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Secretaries</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yee Teck</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Secretariat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Hu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Secretariat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-
-## Council Committee for Biomedical &amp; Health (CCBH)
-### Term: 1 July 2021 - 30 June 2024
-
-
-  <table>
-<thead>
-  <tr>
-    <th>Designation</th>
-    <th>Name</th>
-    <th>Organisation</th>
-  </tr>
-</thead>
+<h2>Council Committee for Biomedical &amp; Health (CCBH)</h2>
+<h3>Term: 1 July 2021 - 30 June 2024</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-		<td><b>Chairman</b></td>
-    <td>A/Prof Raymond Chua</td>
-    <td>Ministry of Health</td>
-  </tr>
-  <tr>
-		<td rowspan="13"><b>Members</b></td>
-    <td>A/Prof Mahesh Choolani</td>
-    <td>Academy of Medicine</td>
-  </tr>
-  <tr>
-    <td>Prof Lisa Ng</td>
-    <td>Biomedical Research Council, A*STAR</td>
-  </tr>
-  <tr>
-    <td>Asst Prof James Leong</td>
-    <td>Duke-NUS Medical School</td>
-  </tr>
-  <tr>
-    <td>A/Prof Teoh Yee Leong  </td>
-    <td>Ministry of Health                          </td>
-  </tr>
-  <tr>
-    <td>Ms Lim Soh Har          </td>
-    <td>National Healthcare Group                    </td>
-  </tr>
-  <tr>
-    <td>Dr Chew Kean Lee    </td>
-    <td>National University Health System            </td>
-  </tr>
-  <tr>
-    <td>Dr Leslie Lam Choong Weng</td>
-    <td>Parkway Laboratory Services Ltd</td>
-  </tr>
-  <tr>
-    <td>Dr Kelvin Phua Cheng Pau</td>
-    <td>SATA CommHealth</td>
-  </tr>
-  <tr>
-    <td>Prof Tony Lim</td>
-    <td>Singapore Health Services</td>
-  </tr>
-  <tr>
-    <td>Mr James Chan          </td>
-    <td>Singapore Manufacturing Federation – Medical Technology Industry Group </td>
-  </tr>
-  <tr>
-    <td>A/Prof Low Chian Ming  </td>
-    <td>Technical Committee for Good Laboratory Practice </td>
-  </tr>
-  <tr>
-    <td>A/Prof Chong Bee Kiang</td>
-    <td>Technical Committee for Medical Imaging</td>
-  </tr>
-  <tr>
-    <td>A/Prof Raymond Lin</td>
-    <td>Technical Committee for Medical Testing</td>
-  </tr>
-  <tr>
-		<td><b>Secretary</b></td>
-    <td>Mr Chong Hui Da</td>
-    <td>SAC Secretariat</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Raymond Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Health</p>
+</td>
+</tr>
+<tr>
+<td rowspan="13" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Mahesh Choolani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy of Medicine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prof Lisa Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biomedical Research Council, A*STAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst Prof James Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Duke-NUS Medical School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/Prof Teoh Yee Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Health</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Soh Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Healthcare Group</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Chew Kean Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University Health System</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Leslie Lam Choong Weng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parkway Laboratory Services Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Kelvin Phua Cheng Pau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SATA CommHealth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Prof Tony Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Health Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr James Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation – Medical Technology Industry Group</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/Prof Low Chian Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Committee for Good Laboratory Practice</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/Prof Chong Bee Kiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Committee for Medical Imaging</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A/Prof Raymond Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical Committee for Medical Testing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Hui Da</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Secretariat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
