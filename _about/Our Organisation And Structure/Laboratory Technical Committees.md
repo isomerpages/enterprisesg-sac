@@ -144,7 +144,7 @@ scheme.</p>
 <p>Mr Sze Thiam Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Welding Society (SWS)</p>
+<p>Singapore Welding Society</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ scheme.</p>
 <p>Er. Tan Chin Jiat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building and Construction Authority (BCA)</p>
+<p>Building and Construction Authority</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ scheme.</p>
 <p>Dr Babu Sajeesh Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Non-Destructive Testing Society (Singapore) (NDTSS)</p>
+<p>Non-Destructive Testing Society (Singapore)</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ scheme.</p>
 <p>A/Prof Fan Zheng, David</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Civil Defence Force (SCDF)</p>
+<p>Singapore Civil Defence Force</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ scheme.</p>
 <p>A/Prof Edmund Liew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Institute of Technology (SIT)</p>
+<p>Singapore Institute of Technology</p>
 </td>
 </tr>
 <tr>
