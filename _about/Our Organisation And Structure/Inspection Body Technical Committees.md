@@ -7,14 +7,8 @@ variant: tiptap
 ---
 <p>There are 4 Technical Committees supporting the Inspection Body Accreditation
 scheme.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Cargo Inspection</strong>
-</p>
-<p><strong>Term : 1 July 2024 - 30 June 2027</strong>
-</p>
-<p>&nbsp;</p>
+<h2>Cargo Inspection</h2>
+<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
