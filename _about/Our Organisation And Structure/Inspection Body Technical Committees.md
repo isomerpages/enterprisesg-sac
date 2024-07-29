@@ -123,7 +123,7 @@ scheme.</p>
 <p>&nbsp;Mr Bernard Kwok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ministry of Manpower (MOM)</p>
+<p>Ministry of Manpower (MOM)</p>
 </td>
 </tr>
 <tr>
