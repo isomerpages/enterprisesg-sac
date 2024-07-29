@@ -803,7 +803,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Ms Gladys Leung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAC Secretariat</p>
+<p>Enterprise Singapore</p>
 </td>
 </tr>
 <tr>
