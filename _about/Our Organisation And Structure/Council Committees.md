@@ -51,7 +51,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Sumiya Takeshi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Association of Process Industry (ASPRI)</p>
+<p>Association of Process Industry</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Er. Kong Tze Foong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building and Construction Authority (BCA)</p>
+<p>Building and Construction Authority</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Prof Lim Kok Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Engineers Singapore (IES)</p>
+<p>Institute of Engineers Singapore</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Harin S Grewal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Infocomm Media Development Authority (IMDA)</p>
+<p>Infocomm Media Development Authority</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Sebastian Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Manpower (MOM)</p>
+<p>Ministry of Manpower</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ various accreditation programmes.&nbsp;</p>
 <p>LTC Cheng Yaw Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Civil Defense Force (SCDF)</p>
+<p>Singapore Civil Defense Force</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Victor Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Food Agency (SFA)</p>
+<p>Singapore Food Agency</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Jonathan Cheah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Food Manufacturing Association (SFMA)</p>
+<p>Singapore Food Manufacturing Association</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Ms Jenny Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SkillsFuture Singapore (SSG)</p>
+<p>SkillsFuture Singapore</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Ms Kavita Gandhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sustainable Energy Association of Singapore (SEAS)</p>
+<p>Sustainable Energy Association of Singapore</p>
 </td>
 </tr>
 <tr>
