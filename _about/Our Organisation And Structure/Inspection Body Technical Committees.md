@@ -253,12 +253,8 @@ scheme.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Site Investigation&nbsp; and Instrumentation &amp; Monitoring (SIIM)</strong>
-</p>
-<p><strong>Term : 1 July 2024 - 30 June 2027</strong>
-</p>
-<p>&nbsp;</p>
+<h2>Site Investigation and Instrumentation &amp; Monitoring (SIIM)</h2>
+<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
