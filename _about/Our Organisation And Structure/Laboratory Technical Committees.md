@@ -546,11 +546,8 @@ scheme.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><strong>Chemical &amp; Biological Sciences</strong>
-</p>
-<p><strong>Term : 1 July 2024 - 30 June 2027</strong>
-</p>
-<p>&nbsp;</p>
+<h2>Chemical &amp; Biological Sciences</h2>
+<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
