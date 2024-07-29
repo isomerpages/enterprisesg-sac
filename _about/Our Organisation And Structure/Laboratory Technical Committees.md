@@ -250,8 +250,7 @@ scheme.</p>
 <p>Er. Lim Kheng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building &amp; Construction</p>
-<p>Authority (BCA)</p>
+<p>Building &amp; Construction Authority (BCA)</p>
 </td>
 </tr>
 <tr>
@@ -260,12 +259,21 @@ scheme.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Teo Soon Tiong</p>
+<p>Mr Teo Soon Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Housing &amp;</p>
-<p>Development Board</p>
-<p>(HDB)</p>
+<p>Housing &amp; Development Board (HDB)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
