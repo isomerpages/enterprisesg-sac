@@ -477,7 +477,7 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Er Dr Tan Pui Lai</p>
+<p>Er. Dr Tan Pui Lai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Land Transport Authority</p>
@@ -503,17 +503,6 @@ scheme.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National University of Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
