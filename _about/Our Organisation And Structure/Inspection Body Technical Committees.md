@@ -120,10 +120,10 @@ scheme.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mr Bernard Kwok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Ministry of Manpower (MOM)</p>
 </td>
 </tr>
 <tr>
@@ -176,21 +176,10 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Eric Cheong</p>
+<p>Dr Cheong Mun Kit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Land Transport Authority (LTA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Bernard Kwok</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ministry of Manpower (MOM)</p>
 </td>
 </tr>
 <tr>
@@ -209,8 +198,7 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Li Liwei (main)</p>
-<p>Mr Kenneth Lim (alt)</p>
+<p>Ms Li Liwei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Environment Agency (NEA)</p>
@@ -232,7 +220,7 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SUPT(1) Tan Shu Lin, Jerlyn</p>
+<p>Ms Tan Shu Lin, Jerlyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Police Force (SPF)</p>
