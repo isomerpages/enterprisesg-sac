@@ -32,7 +32,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +116,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,7 +266,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -278,7 +278,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Deputy Chairman</strong>
+<p><strong>Deputy Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -384,7 +384,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
