@@ -270,10 +270,10 @@ scheme.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Er Jeyatharan Kumarasamy</p>
+<p>Dr Chepurthy Veeresh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Land Transport Authority</p>
+<p>Land Transport Authority (LTA)</p>
 </td>
 </tr>
 <tr>
@@ -282,10 +282,10 @@ scheme.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Poh Teoh Yaw</p>
+<p>Dr Chin Kheng Ghee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building &amp; Construction Authority</p>
+<p>Building &amp; Construction Authority (BCA)</p>
 </td>
 </tr>
 <tr>
@@ -294,21 +294,10 @@ scheme.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Er Yong Fen Leong</p>
+<p>Ms Ter Woei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Association of Consulting Engineers, Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lionel Ang Loy Jin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Housing &amp; Development Board</p>
+<p>Housing &amp; Development Board (HDB)</p>
 </td>
 </tr>
 <tr>
@@ -316,21 +305,10 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Chian Siau Chen, Darren</p>
+<p>Er. Yong Fen Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Prathipa Devi Sundraju</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Manufacturing Federation</p>
+<p>KTP Consultants Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -338,21 +316,10 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Henry Tan</p>
+<p>Dr Darren Chian Siau Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Manufacturing Federation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Muthusamy Karthikeyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Geotechnical Society of Singapore (GeoSS)</p>
+<p>National University of Singapore (NUS)</p>
 </td>
 </tr>
 <tr>
@@ -360,10 +327,10 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ting Hua Keong</p>
+<p>Dr. Muthusamy Karthikeyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institution of Engineers Singapore</p>
+<p>Surbana Jurong Consultants Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -371,10 +338,10 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeffrey Yu</p>
+<p>Mr. Ting Hua Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Singapore Contractors Association Ltd</p>
+<p>Terralab Technologies Pte Ltd</p>
 </td>
 </tr>
 <tr>
