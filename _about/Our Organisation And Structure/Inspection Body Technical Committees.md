@@ -273,7 +273,7 @@ scheme.</p>
 <p>Dr Chepurthy Veeresh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Land Transport Authority (LTA)</p>
+<p>Land Transport Authority</p>
 </td>
 </tr>
 <tr>
@@ -285,7 +285,7 @@ scheme.</p>
 <p>Dr Chin Kheng Ghee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building &amp; Construction Authority (BCA)</p>
+<p>Building &amp; Construction Authority</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +297,7 @@ scheme.</p>
 <p>Ms Ter Woei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Housing &amp; Development Board (HDB)</p>
+<p>Housing &amp; Development Board</p>
 </td>
 </tr>
 <tr>
