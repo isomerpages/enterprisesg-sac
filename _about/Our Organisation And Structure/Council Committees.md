@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Organisation And Structure
 variant: tiptap
 ---
-<p>There are 6 Council Committees supporting the SAC Council to oversee the
+<p>There are 5 Council Committees supporting the SAC Council to oversee the
 various accreditation programmes.&nbsp;</p>
 <h2>Council Committee for Certification (CCC)</h2>
 <h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
@@ -70,7 +70,7 @@ various accreditation programmes.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Lim Kok Hwa</p>
+<p>A/Prof Lim Kok Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Institute of Engineers Singapore</p>
