@@ -603,7 +603,7 @@ various accreditation programmes.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Associate Professor Low Chian Ming&nbsp; &nbsp;</p>
+<p>A/Prof Low Chian Ming&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Accreditation Council</p>
@@ -648,7 +648,7 @@ various accreditation programmes.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assoc Prof Aaron Goh</p>
+<p>A/Prof Aaron Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Institute of Technology</p>
@@ -673,7 +673,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Weng Ruifen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A*Star, Biomedical Research Council (BRC)</p>
+<p>A*Star, Biomedical Research Council</p>
 </td>
 </tr>
 <tr>
@@ -693,7 +693,7 @@ various accreditation programmes.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Phuy Bee</p>
+<p>Chong Hui Da</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
