@@ -308,7 +308,9 @@ scheme.</p>
 <p>Er. Yong Fen Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KTP Consultants Pte Ltd</p>
+<p>Association of</p>
+<p>Consulting Engineers</p>
+<p>Singapore (ACES)</p>
 </td>
 </tr>
 <tr>
