@@ -120,7 +120,7 @@ scheme.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Bernard Kwok</p>
+<p>Mr Bernard Kwok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ministry of Manpower</p>
@@ -480,7 +480,7 @@ scheme.</p>
 <p>Mr Wong Keam Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Structural Steel Society (SSSS)</p>
+<p>Singapore Structural Steel Society</p>
 </td>
 </tr>
 <tr>
@@ -491,7 +491,7 @@ scheme.</p>
 <p>A/Prof Sam Conrad Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore University of Technology &amp; Design (SUTD)</p>
+<p>Singapore University of Technology &amp; Design</p>
 </td>
 </tr>
 <tr>
@@ -502,7 +502,7 @@ scheme.</p>
 <p>Mr Sze Thiam Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Welding Society (SWS)</p>
+<p>Singapore Welding Society</p>
 </td>
 </tr>
 <tr>
