@@ -406,7 +406,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Teo Tee Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Electrical and Electronics Engineers (IEEE) – Singapore Section</p>
+<p>Institute of Electrical and Electronics Engineers – Singapore Section</p>
 </td>
 </tr>
 <tr>
