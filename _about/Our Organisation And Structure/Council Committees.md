@@ -106,7 +106,7 @@ various accreditation programmes.&nbsp;</p>
 <p>LTC Cheng Yaw Joo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Civil Defense Force</p>
+<p>Singapore Civil Defence Force</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +223,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Poh Teoh Yaw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building and Construction Authorit</p>
+<p>Building and Construction Authority</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ various accreditation programmes.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kok Ming</p>
+<p>Mr Jason Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
