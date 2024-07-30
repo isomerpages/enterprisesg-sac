@@ -41,7 +41,7 @@ scheme.</p>
 <p>Dr Wang Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Metrology Centre (NMC)</p>
+<p>National Metrology Centre</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ scheme.</p>
 <p>Dr Yet Nai Song</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building and Construction Authority (BCA)</p>
+<p>Building and Construction Authority</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ scheme.</p>
 <p>Mr Teo Chye Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Civil Aviation Authority of Singapore (CAAS)</p>
+<p>Civil Aviation Authority of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ scheme.</p>
 <p>Dr Lim See Yew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Technical Education (ITE)</p>
+<p>Institute of Technical Education</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ scheme.</p>
 <p>Dr Wang Weili</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Advanced Remanufacturing and Technology Centre (ARTC)</p>
+<p>Advanced Remanufacturing and Technology Centre</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ scheme.</p>
 <p>A/Prof Kum Yung Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Institute of Technology (SIT)</p>
+<p>Singapore Institute of Technology</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ scheme.</p>
 <p>A/Prof Fan Zheng, David</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nanyang Technological University (NTU)</p>
+<p>Nanyang Technological University</p>
 </td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ scheme.</p>
 <p>Er. Lim Kheng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building &amp; Construction Authority (BCA)</p>
+<p>Building &amp; Construction Authority</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +265,7 @@ scheme.</p>
 <p>Mr Teo Soon Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Housing &amp; Development Board (HDB)</p>
+<p>Housing &amp; Development Board</p>
 </td>
 </tr>
 <tr>
@@ -276,7 +276,7 @@ scheme.</p>
 <p>CPT Muhammad Haziq Bin Mohd Raziff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Civil Defence Force (SCDF)</p>
+<p>Singapore Civil Defence Force</p>
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ scheme.</p>
 <p>A/Prof Qian Xu Dong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -309,7 +309,7 @@ scheme.</p>
 <p>Mr. Goh Chin Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Manpower (MOM)</p>
+<p>Ministry of Manpower</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@ scheme.</p>
 <p>Dr Ang Choon Keat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Institution of Engineers, Singapore (IES)</p>
+<p>The Institution of Engineers, Singapore</p>
 </td>
 </tr>
 <tr>
@@ -371,7 +371,7 @@ scheme.</p>
 <p>Er. Lim Say Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Institution of Engineers, Singapore (IES)</p>
+<p>The Institution of Engineers, Singapore</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +383,7 @@ scheme.</p>
 <p>Mr Robert Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cyber Security Agency of Singapore (CSA)</p>
+<p>Cyber Security Agency of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -394,7 +394,7 @@ scheme.</p>
 <p>Mr Lim Yong Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Energy Market Authority (EMA)</p>
+<p>Energy Market Authority</p>
 </td>
 </tr>
 <tr>
@@ -405,7 +405,7 @@ scheme.</p>
 <p>Mr Ng Soo Horng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gambling Regulatory Authority (GRA)</p>
+<p>Gambling Regulatory Authority</p>
 </td>
 </tr>
 <tr>
@@ -416,7 +416,7 @@ scheme.</p>
 <p>Dr Tan Mei Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Computer Society (SCS)</p>
+<p>Singapore Computer Society</p>
 </td>
 </tr>
 <tr>
@@ -427,7 +427,7 @@ scheme.</p>
 <p>Dr Teo Tee Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore University of Technology Design (SUTD)</p>
+<p>Singapore University of Technology Design</p>
 </td>
 </tr>
 <tr>
@@ -512,7 +512,7 @@ scheme.</p>
 <p>Dr Robert Hawkins</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Healthcare Group (NHG)</p>
+<p>National Healthcare Group</p>
 </td>
 </tr>
 <tr>
@@ -523,7 +523,7 @@ scheme.</p>
 <p>Dr Nancy Tee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University Health Systems (NUHS)</p>
+<p>National University Health Systems</p>
 </td>
 </tr>
 <tr>
@@ -534,7 +534,7 @@ scheme.</p>
 <p>Dr Benedict Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University Health Systems (NUHS)</p>
+<p>National University Health Systems</p>
 </td>
 </tr>
 <tr>
@@ -545,7 +545,7 @@ scheme.</p>
 <p>Dr Sharon Saw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Association of Clinical Biochemists (SACB)</p>
+<p>Singapore Association of Clinical Biochemists</p>
 </td>
 </tr>
 <tr>
@@ -556,7 +556,7 @@ scheme.</p>
 <p>Dr Ho Liam Pock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Health Services (Singhealth)</p>
+<p>Singapore Health Services</p>
 </td>
 </tr>
 <tr>
@@ -606,7 +606,7 @@ scheme.</p>
 <p>A/Prof Tham Kwok Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -618,7 +618,7 @@ scheme.</p>
 <p>Mr Jonathan Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Environmental Engineering Society of Singapore (EESS)</p>
+<p>Environmental Engineering Society of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -629,7 +629,7 @@ scheme.</p>
 <p>Ms Cheow Pui Sze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Sciences Authority (HSA)</p>
+<p>Health Sciences Authority</p>
 </td>
 </tr>
 <tr>
@@ -640,7 +640,7 @@ scheme.</p>
 <p>Ms Wang Mengyu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Environment Agency (NEA)</p>
+<p>National Environment Agency</p>
 </td>
 </tr>
 <tr>
@@ -651,7 +651,7 @@ scheme.</p>
 <p>Dr Wu Yuansheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Food Agency (SFA)</p>
+<p>Singapore Food Agency</p>
 </td>
 </tr>
 <tr>
@@ -662,7 +662,7 @@ scheme.</p>
 <p>Mr Richard Khaw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Institute of Food Science &amp; Technology (SIFST)</p>
+<p>Singapore Institute of Food Science &amp; Technology</p>
 </td>
 </tr>
 <tr>
@@ -673,7 +673,7 @@ scheme.</p>
 <p>Dr Wee Xi Kai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Polytechnic (SP)</p>
+<p>Singapore Polytechnic</p>
 </td>
 </tr>
 <tr>
@@ -684,7 +684,7 @@ scheme.</p>
 <p>Dr Dave Ow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Society for Microbiology &amp; Biotechnology (SSMB)</p>
+<p>Singapore Society for Microbiology &amp; Biotechnology</p>
 </td>
 </tr>
 <tr>
