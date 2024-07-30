@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Our Organisation And Structure
 variant: tiptap
 ---
-<p>There are 5 Council Committees supporting the SAC Council to oversee the
-various accreditation programmes.&nbsp;</p>
+<p>There are 1 Coordinating Commitee and 5 Council Committees supporting
+the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <h2>Council Committee for Certification (CCC)</h2>
 <h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
@@ -168,7 +168,7 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Council Committee For Inspection (CCI)</h2>
+<h2>Council Committee for Inspection (CCI)</h2>
 <h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -296,8 +296,8 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Council Committee For Laboratory - Engineering (CCL - E)</h2>
-<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
+<h2>Council Committee for Laboratory - Engineering (CCL - E)</h2>
+<h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -413,8 +413,8 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Council Committee For Laboratory - Medical &amp; Sciences (CCL - MS)</h2>
-<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
+<h2>Council Committee for Laboratory - Medical &amp; Sciences (CCL - MS)</h2>
+<h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -445,7 +445,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Dr Teo Tang Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Sciences Authority</p>
+<p>Singapore Accreditation Council</p>
 </td>
 </tr>
 <tr>
@@ -457,7 +457,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Prof Andre Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Biomedical Research Council (BMRC), A*STAR</p>
+<p>A*STAR, Biomedical Research Council</p>
 </td>
 </tr>
 <tr>
@@ -545,7 +545,7 @@ various accreditation programmes.&nbsp;</p>
 <p>A/Prof Joanne Chan Sheot Harn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Food Agency (SFA)</p>
+<p>Singapore Food Agency</p>
 </td>
 </tr>
 <tr>
@@ -693,7 +693,7 @@ various accreditation programmes.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chong Hui Da</p>
+<p>Mr Chong Hui Da</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
@@ -702,8 +702,8 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Coordinating Committee For Business Development (CCBD)</h2>
-<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
+<h2>Coordinating Committee for Business Development (CCBD)</h2>
+<h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
 <p>“<em>To be updated in due course</em>”</p>
 <p></p>
 <p></p>
