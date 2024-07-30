@@ -556,7 +556,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>Prof Tony Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Health Services (Singhealth)</p>
+<p>Singapore Health Services</p>
 </td>
 </tr>
 <tr>
