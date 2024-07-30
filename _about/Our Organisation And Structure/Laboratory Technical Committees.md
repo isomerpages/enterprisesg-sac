@@ -189,7 +189,7 @@ scheme.</p>
 <p>A/Prof Fan Zheng, David</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Civil Defence Force</p>
+<p>Nanyang Technological University (NTU)</p>
 </td>
 </tr>
 <tr>
