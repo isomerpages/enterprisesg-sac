@@ -425,7 +425,7 @@ scheme.</p>
 <p>Er. Tan Yew Chai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Engineers Singapore</p>
+<p>The Institution of Engineers, Singapore</p>
 </td>
 </tr>
 <tr>
