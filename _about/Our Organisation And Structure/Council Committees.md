@@ -32,7 +32,7 @@ various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,7 +193,7 @@ various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,7 +332,7 @@ various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -449,7 +449,7 @@ various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -610,7 +610,7 @@ various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
