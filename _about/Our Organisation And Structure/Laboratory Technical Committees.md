@@ -219,7 +219,7 @@ scheme.</p>
 </table>
 <p>&nbsp;</p>
 <h2>Mechanical and Civil Engineering (MCE)</h2>
-<h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
+<h3>Term : 1 July 2024 - 30 June 2027</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -278,7 +278,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A/Prof Qian Xu Dong</p>
@@ -300,6 +300,28 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Goh Chin Keong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Manpower (MOM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Ang Choon Keat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Institution of Engineers, Singapore (IES)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Secretary</strong>
 </p>
 </td>
@@ -312,6 +334,7 @@ scheme.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>&nbsp;</p>
 <h2>Electrical &amp; Infocomm</h2>
 <h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
