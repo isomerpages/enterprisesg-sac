@@ -308,7 +308,7 @@ scheme.</p>
 <p>Er. Yong Fen Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Association of Consulting Engineers Singapore (ACES)</p>
+<p>Association of Consulting Engineers Singapore</p>
 </td>
 </tr>
 <tr>
@@ -316,10 +316,10 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Darren Chian Sau Chen</p>
+<p>Dr Darren Chian Siau Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +330,7 @@ scheme.</p>
 <p>Dr Muthusamy Karthikeyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Geotechnical Society of Singapore (GeoSS)</p>
+<p>The Geotechnical Society of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -341,7 +341,7 @@ scheme.</p>
 <p>Mr Ting Hua Keong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Institution of Engineers, Singapore (IES)</p>
+<p>The Institution of Engineers, Singapore</p>
 </td>
 </tr>
 <tr>
