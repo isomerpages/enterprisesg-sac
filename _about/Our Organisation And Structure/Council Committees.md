@@ -73,7 +73,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>A/Prof Lim Kok Hwa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Institute of Engineers Singapore</p>
+<p>The Institution of Engineers, Singapore</p>
 </td>
 </tr>
 <tr>
@@ -328,7 +328,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>Prof Gregory Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SAC Council</p>
+<p>Singapore Accreditation Council</p>
 </td>
 </tr>
 <tr>
