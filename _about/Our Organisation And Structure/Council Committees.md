@@ -39,7 +39,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Er. Yvonne Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Green Building Council</p>
+<p>Singapore Accreditation Council</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Mr Silas Sng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Manpower</p>
+<p>Singapore Accreditation Council</p>
 </td>
 </tr>
 <tr>
@@ -574,7 +574,7 @@ various accreditation programmes.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h2>Council Committee For Good Laboratory Practice (CCGLP)</h2>
+<h2>Council Committee for Good Laboratory Practice (CCGLP)</h2>
 <h3>Term : 1 July 2024 - 30 June 2027&nbsp;</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -606,7 +606,7 @@ various accreditation programmes.&nbsp;</p>
 <p>Associate Professor Low Chian Ming&nbsp; &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore</p>
+<p>Singapore Accreditation Council</p>
 </td>
 </tr>
 <tr>
