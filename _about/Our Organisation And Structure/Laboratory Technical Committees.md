@@ -34,7 +34,8 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
+<p><strong>Chair</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Wang Li</p>
@@ -45,7 +46,8 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Yet Nai Song</p>
@@ -100,7 +102,8 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secretary</p>
+<p><strong>Secretary</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kee Sing</p>
@@ -137,7 +140,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,7 +246,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -361,7 +364,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -454,18 +457,22 @@ scheme.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Designation</p>
+<p><strong>Designation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Organisation</p>
+<p><strong>Organisation</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
+<p><strong>Chair</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>A/Prof Raymond Lin</p>
@@ -476,7 +483,8 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Members</p>
+<p><strong>Members</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Kam Wooi Seong</p>
@@ -553,7 +561,8 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secretary</p>
+<p><strong>Secretary</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Alicia Choong</p>
@@ -590,7 +599,7 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chairman</strong>
+<p><strong>Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
