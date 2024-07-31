@@ -71,6 +71,10 @@ variant: markdown
 
 <li><a target="_blank" href="https://ilac.org/publications-and-resources/ilac-promotional-brochures/">ILAC brochures</a></li>
 
+  
 
+<li><a target="\_blank" href="https://iaf.nu/en/iaf-documents/?cat_id=3">IAF brochures</a></li>
+	
 
+	
 </ul>
