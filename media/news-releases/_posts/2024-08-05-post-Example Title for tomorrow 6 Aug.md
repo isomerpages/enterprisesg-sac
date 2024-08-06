@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>holding page to test future published content</p>
+<p>holding page to test future published content.</p>
