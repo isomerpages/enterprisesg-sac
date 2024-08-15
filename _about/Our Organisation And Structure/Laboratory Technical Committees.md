@@ -108,7 +108,7 @@ scheme.</p>
 <p>Mr Elton Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Manufacturing Federation (SMF)</p>
+<p>Singapore Manufacturing Federation</p>
 </td>
 </tr>
 <tr>
