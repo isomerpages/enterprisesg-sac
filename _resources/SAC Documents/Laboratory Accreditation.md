@@ -191,7 +191,8 @@ of MU for EL Field</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees for Medical Testing and Medical Imaging Facilities</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees for Medical Testing and Medical Imaging Facilities</a>
+</p>
 </li>
 </ul>
 <p><strong>Medical Testing Field</strong>
@@ -202,37 +203,48 @@ of MU for EL Field</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/lafm03_med_mi_iso15189_2022checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">LAFM03 – 03 Jan 23 ISO 15189-2022 Checklist</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/lafm03_med_mi_iso15189_2022checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">LAFM03 – 03 Jan 23 ISO 15189-2022 Checklist</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-GenCriteria-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 001- General Criteria, Nov 2021</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-GenCriteria-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 001- General Criteria, Nov 2021</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-ClinicalChemistry26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Clinical Chemistry, Nov 2021</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-ClinicalChemistry26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Clinical Chemistry, Nov 2021</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytogenetics-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Cytogenetics, Nov 2021</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytogenetics-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Cytogenetics, Nov 2021</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytopathology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Cytopathology, Nov 2021</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytopathology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Cytopathology, Nov 2021</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Haematology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Haematology, Nov 2021</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Haematology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Haematology, Nov 2021</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Histopathology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Histopathology, Nov 2021</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Histopathology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Histopathology, Nov 2021</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Microbiology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Microbiology, Nov 2021</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Microbiology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Microbiology, Nov 2021</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-MolecularPathology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Molecular Pathology, Nov 2021</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-MolecularPathology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Molecular Pathology, Nov 2021</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Guidance-Note-MED-001-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance Notes, MED-001 - Sample Collection for Medical Testing, Mar 2019</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Guidance-Note-MED-001-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance Notes, MED-001 - Sample Collection for Medical Testing, Mar 2019</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical-Guide-4-MU-on-medica-testing-26Nov21.pdf" rel="noopener noreferrer nofollow" target="_blank">Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Nov 2021</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical-Guide-4-MU-on-medica-testing-26Nov21.pdf" rel="noopener noreferrer nofollow" target="_blank">Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Nov 2021</a>
+</p>
 </li>
 </ul>
 <p></p>
