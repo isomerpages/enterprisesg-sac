@@ -189,15 +189,15 @@ of MU for EL Field</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees for Medical Testing and Medical Imaging Facilities</a>{:target="_blank"}
-0001-Tech-Notes-25Oct21-Final.pdf){:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees for Medical Testing and Medical Imaging Facilities</a>{:target="_blank"}</p>
 </li>
 </ul>
 <p><strong>Medical Testing Field</strong>
 </p>
 <ul>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/LAFM03-MED-MI-(ISO-15189-Chklist)-29-Mar-19.docx" rel="noopener noreferrer nofollow" target="_blank">LAFM03 – 29 Mar 2019 ISO 15189-2012 Checklist</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/lafm03-med-iso15189-chklist-21aug24" rel="noopener noreferrer nofollow" target="_blank">LAFM03-MED_(ISO 15189 Chklist)_21 Aug 2024</a>
+</p>
 </li>
 <li>
 <p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/lafm03_med_mi_iso15189_2022checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">LAFM03 – 03 Jan 23 ISO 15189-2022 Checklist</a>{:target="_blank"}</p>
