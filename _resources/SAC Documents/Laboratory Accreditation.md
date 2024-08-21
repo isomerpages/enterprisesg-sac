@@ -19,22 +19,29 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01- 02 April 2018: Guidelines on Code of Ethics</a>{:target=_blank"}</p>
+<p><a href="/files/Documents/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01- 02 April 2018: Guidelines on Code of Ethics</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/SAC-SINGLAS-004-21-Sep-2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 004 - 21 September 2020: Classification of Tests</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/SAC-SINGLAS-004-21-Sep-2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 004 - 21 September 2020: Classification of Tests</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/PROF-001-18-Feb-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">PROF 001 - 18 February 2019: Policies on Proficiency Testing</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/PROF-001-18-Feb-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">PROF 001 - 18 February 2019: Policies on Proficiency Testing</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules for the Use of ILAC MRA Mark</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules for the Use of ILAC MRA Mark</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc" rel="noopener noreferrer nofollow" target="_blank">Accreditation Feedback Form</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc" rel="noopener noreferrer nofollow" target="_blank">Accreditation Feedback Form</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/Joint_ISO_IEC_17025_communique_2017finalsigned.pdf" rel="noopener noreferrer nofollow" target="_blank">Joint ISO-ILAC-IAF Communique on the Management Systems Requirements of ISO/IEC 17025, April 2017</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/Laboratory%20Accreditation/Joint_ISO_IEC_17025_communique_2017finalsigned.pdf" rel="noopener noreferrer nofollow" target="_blank">Joint ISO-ILAC-IAF Communique on the Management Systems Requirements of ISO/IEC 17025, April 2017</a>
+</p>
+<p></p>
 </li>
 </ul>
 <h3>Standards and Criteria Document for Testing and Calibrations (Exclude Medical Testing)</h3>
