@@ -11,6 +11,10 @@ documents for the SAC accreditation are as below:</p>
 <h3>Publications for All Fields</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation</a>{:target="_blank"}</p>
 </li>
 <li>
