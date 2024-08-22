@@ -5,6 +5,7 @@ date: 2014-11-21
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 SAC held its Assessors Enclave on 5 November 2014 at the Holiday Inn Orchard City Centre. The event was well attended by about 100 assessors from the Calibration & Measurement, Chemical & Biological, Environmental, Civil Engineering, Mechanical and Electrical Testing fields, as well as assessors from Site Investigation, Hook-Lift & Container Inspection.
 
@@ -15,8 +16,8 @@ In the first session, SAC updated the assessors on the various changes within SA
  
 For the second half of the session, the assessors were grouped into specific areas for discussion and sharing on common assessment findings.
 
-!\[cb-n-env\](/images/press-release/photos/CB-n-Env-Testing-breakout-grp.jpg)
-\*Chemical & Biological and Environmental Testing breakout group\*
+![cb-n-env](/images/press-release/photos/CB-n-Env-Testing-breakout-grp.jpg)
+*Chemical & Biological and Environmental Testing breakout group*
 
 ![IB](/images/press-release/photos/IB-breakout-grp.jpg)
 *Inspection breakout group*
