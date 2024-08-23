@@ -8,8 +8,12 @@ variant: tiptap
 <h2>Organisation Chart</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Org_Chart.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OrgChart_23Aug24.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
