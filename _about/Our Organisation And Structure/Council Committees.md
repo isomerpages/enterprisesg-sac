@@ -44,6 +44,18 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Deputy Chair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Jonathan Cheah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Food Manufacturing Association</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Members</strong>
 </p>
 </td>
@@ -118,17 +130,6 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Food Agency</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Jonathan Cheah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Food Manufacturing Association</p>
 </td>
 </tr>
 <tr>
