@@ -137,17 +137,6 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Jonathan Cheah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Food Manufacturing Association</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Jenny Chua</p>
 </td>
 <td rowspan="1" colspan="1">
