@@ -129,7 +129,7 @@ Click on the quick links below to jump to the CAB Status:
   * Dynamic Safety Pte. Ltd. (07 March 2024)
   * August International Pte. Ltd. (26 April 2024)
 
-* Quality Management Systems
+* Quality Management System
   * DAS Certification Singapore Pte Ltd (20 December 2023)
   * LRQA Limited (Singapore Branch) (01 September 2024)
 
