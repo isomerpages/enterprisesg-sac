@@ -131,7 +131,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Quality Management Systems
   * DAS Certification Singapore Pte Ltd (20 December 2023)
-  * LQRA Limited (Singapore Branch) (01 September 2024)
+  * LRQA Limited (Singapore Branch) (01 September 2024)
 
 * Occupational Health and Safety Management System
   * DAS Certification Singapore Pte Ltd (20 December 2023)
