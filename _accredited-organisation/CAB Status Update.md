@@ -71,6 +71,7 @@ Click on the quick links below to jump to the CAB Status:
 * Occupational Safety and Health Management System
    * CARES Certification Pte Ltd (26 August 2024)
 
+
 #### Validation/Verification Body
    * SGS International Certification Services Singapore Pte Ltd (4 September 2024)
 
