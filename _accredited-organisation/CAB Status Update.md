@@ -68,7 +68,7 @@ Click on the quick links below to jump to the CAB Status:
 * Environmental Management System
    * CARES Certification Pte Ltd (26 August 2024)
 
-* Occupational Health and  Safety Management System
+* Occupational Health and Safety Management System
    * CARES Certification Pte Ltd (26 August 2024)
 
 
