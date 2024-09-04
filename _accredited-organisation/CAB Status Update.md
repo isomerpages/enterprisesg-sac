@@ -64,8 +64,16 @@ Click on the quick links below to jump to the CAB Status:
  
 * Hazard Analysis and Critical Control Point
    * ISOCert Pte Ltd (29 April 2024)
+   
+* Environmental Management System
+   * CARES Certification Pte Ltd (26 August 2024)
+
+* Occupational Health and Safety Management System
+   * CARES Certification Pte Ltd (26 August 2024)
 
 
+#### Validation/Verification Body
+   * SGS International Certification Services Singapore Pte Ltd (4 September 2024)
 
 [Back to top ↑](#top)
 
