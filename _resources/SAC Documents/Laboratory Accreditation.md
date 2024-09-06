@@ -48,7 +48,7 @@ documents for the SAC accreditation are as below:</p>
 <h4>ISO/IEC 17025: 2017 - General Requirements for the Competence of Testing and Calibration Laboratories</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/sac-singlas-001-16july2024" rel="noopener noreferrer nofollow" target="_blank">SAC_SINGLAS_001-16July2024-Accreditation Process</a>
+<p><a href="/files/Documents/Laboratory Accreditation/SAC_SINGLAS_001_6_September_2024.pdf" rel="noopener nofollow" target="_blank">SAC_SINGLAS_001 - 6 September 2024 - Accreditation Process</a>
 </p>
 </li>
 <li>
@@ -228,7 +228,7 @@ documents for the SAC accreditation are as below:</p>
 <h4>ISO 15189: 2012 - Particular Requirements for Quality and Competence</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/sac-singlas-001-16july2024" rel="noopener noreferrer nofollow" target="_blank">SAC_SINGLAS_001-16July2024-Accreditation Process</a>
+<p><a href="/files/Documents/Laboratory Accreditation/SAC_SINGLAS_001_6_September_2024.pdf" rel="noopener nofollow" target="_blank">SAC_SINGLAS_001 - 6 September 2024 - Accreditation Process</a>
 </p>
 </li>
 <li>
