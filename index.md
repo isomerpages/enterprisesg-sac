@@ -4,12 +4,12 @@ title: Singapore Accreditation Council
 description: Your Trusted Partner in Accreditation.
 image: /images/homepage/sac-esg-logo.png
 permalink: /
-notification: We are aware of recent phishing scams involving emails
-  impersonating SAC personnel with fraudulent attachments embedded. Please do
-  not reply, click on any link/s, open any attachments or make any payment to
-  third party entities without first verifying the authenticity and legitimacy
-  of such emails. If in doubt, please email sac@enterprisesg.gov.sg or submit
-  your queries via the SAC Website’s Feedback form for assistance.
+notification: There have been recent phishing scams where SAC personnel have
+  been impersonated through calls or emails. Please do not reply, click on any
+  link/s, open any attachments or make any payment to third party entities
+  without first verifying the authenticity and legitimacy of such emails or
+  calls. If in doubt, please email sac@enterprisesg.gov.sg or submit your
+  queries via the SAC Website’s Feedback form for assistance.
 sections:
   - hero:
       title: Singapore Accreditation Council
