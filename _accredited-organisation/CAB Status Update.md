@@ -75,6 +75,10 @@ Click on the quick links below to jump to the CAB Status:
 #### Validation/Verification Body
    * SGS International Certification Services Singapore Pte Ltd (4 September 2024)
 
+#### Facility Management System
+   * ISOCert Pte Ltd (11 September 2024)
+   * SOCOTEC Certification Singapore Pte Ltd (11 September 2024)
+
 [Back to top ↑](#top)
 
 ---
