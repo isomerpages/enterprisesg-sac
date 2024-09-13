@@ -72,7 +72,7 @@ Click on the quick links below to jump to the CAB Status:
    * CARES Certification Pte Ltd (26 August 2024)
 
 * Facility Management System
-   * ISOCERT Pte Ltd (11 September 2024)
+   * ISOCert Pte Ltd (11 September 2024)
    * SOCOTEC Certification Singapore Pte Ltd (11 September 2024)
 
 
