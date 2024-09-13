@@ -162,7 +162,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>Mr Desmond Hill</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Singapore Contractors Association Limited (SCAL)</p>
+<p>The Singapore Contractors Association Limited</p>
 </td>
 </tr>
 <tr>
