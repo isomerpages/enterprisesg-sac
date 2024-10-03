@@ -421,6 +421,17 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Vengadasalam Ramasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Land Transport Authority</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -460,7 +471,7 @@ scheme.</p>
 <p>Mr Raymond Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Manufacturers Federation – Testing, Inspection and Certification
+<p>Singapore Manufacturing Federation – Testing, Inspection and Certification
 Interest Group</p>
 </td>
 </tr>
@@ -472,7 +483,7 @@ Interest Group</p>
 <p>Ms Michelle Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Manufacturers Federation – Testing, Inspection and Certification
+<p>Singapore Manufacturing Federation – Testing, Inspection and Certification
 Interest Group</p>
 </td>
 </tr>
