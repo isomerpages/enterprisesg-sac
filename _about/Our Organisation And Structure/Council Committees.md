@@ -418,7 +418,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>Mr Benedict Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Manufacturers Federation</p>
+<p>Singapore Manufacturing Federation</p>
 </td>
 </tr>
 <tr>
@@ -429,7 +429,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>Mr Stanley Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Manufacturers Federation – Testing, Inspection and Certification
+<p>Singapore Manufacturing Federation – Testing, Inspection and Certification
 Interest Group</p>
 </td>
 </tr>
