@@ -752,7 +752,8 @@ Interest Group</p>
 <p>Dr Chen Huayi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Manufacturing Federation</p>
+<p>Singapore Manufacturing Federation – Testing, Inspection and Certification
+Interest Group</p>
 </td>
 </tr>
 <tr>
