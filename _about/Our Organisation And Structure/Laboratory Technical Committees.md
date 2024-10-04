@@ -672,6 +672,17 @@ Interest Group</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Dr Hou Xinping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AOAC Southeast Asia Section</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Jonathan Goh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -702,6 +713,17 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Zhang Lifeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PUB, Singapore’s National Water Agency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -720,6 +742,17 @@ Interest Group</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Institute of Food Science &amp; Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chen Huayi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation</p>
 </td>
 </tr>
 <tr>
