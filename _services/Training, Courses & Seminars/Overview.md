@@ -54,7 +54,7 @@ For more information on the course details, please click on the options below:
 
 * [Internal Audit Course](/files/Training/Course-Objectives-IA.pdf){:target="_blank"}
 
-* [ISO/IEC 17020 Course (for Inspection Body](/files/Training/ISO-17020-Course.pdf){:target="_blank"}
+* [ISO/IEC 17020 Course (for Inspection Body)](/files/Training/ISO-17020-Course.pdf){:target="_blank"}
 
 * [ISO 15189:2012 Course (for Medical Laboratory and Medical Imaging Facility)](/files/Training/ISO-15189-Course-Overview-June-2013.pdf){:target="_blank"}
 
