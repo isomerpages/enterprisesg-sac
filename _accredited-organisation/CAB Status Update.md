@@ -95,7 +95,7 @@ Click on the quick links below to jump to the CAB Status:
 
 
 * Information Technology Testing
-   * UL Verification Services Pte Ltd (15 January 2024 - 14 July 2024)
+   * UL Verification Services Pte Ltd (15 January 2024 - 10 January 2025)
 
   	 
   
