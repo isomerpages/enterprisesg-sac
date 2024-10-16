@@ -602,7 +602,7 @@ Interest Group</p>
 <p>Dr Nancy Tee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University Health Systems</p>
+<p>National University Health System</p>
 </td>
 </tr>
 <tr>
@@ -613,7 +613,7 @@ Interest Group</p>
 <p>Dr Benedict Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University Health Systems</p>
+<p>National University Health System</p>
 </td>
 </tr>
 <tr>
