@@ -544,6 +544,28 @@ Interest Group</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Dr Jacqueline Hwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academy of Medicine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Shirlena Soh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Association of Biomedical Laboratory Professionals Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Dr Kam Wooi Seong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -580,7 +602,7 @@ Interest Group</p>
 <p>Dr Nancy Tee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University Health Systems</p>
+<p>National University Health System</p>
 </td>
 </tr>
 <tr>
@@ -591,7 +613,7 @@ Interest Group</p>
 <p>Dr Benedict Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University Health Systems</p>
+<p>National University Health System</p>
 </td>
 </tr>
 <tr>
