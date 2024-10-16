@@ -558,7 +558,7 @@ Interest Group</p>
 <p>Dr Shirlena Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Association of Biomedical Laboratory Professionals Singapore (ABMLPS)</p>
+<p>Association of Biomedical Laboratory Professionals Singapore</p>
 </td>
 </tr>
 <tr>
