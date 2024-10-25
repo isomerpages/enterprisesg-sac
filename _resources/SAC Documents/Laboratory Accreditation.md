@@ -152,7 +152,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/cb-and-env-tech-notes-002-25oct2024" rel="noopener noreferrer nofollow" target="_blank">C&amp;B and ENV 002 - 25&nbsp;Oct 2024: Quality Assurance of Equipment Commonly Used in C&amp;B and Env Testing Labs</a>
+<p><a href="https://go.gov.sg/cb-and-env-tech-notes-002-25oct2024" rel="noopener noreferrer nofollow" target="_blank">C&amp;B and ENV 002 - 25&nbsp;Oct 2024: Quality Assurance of Equipment Commonly Used in C&amp;B and ENV Testing Labs</a>
 </p>
 </li>
 <li>
