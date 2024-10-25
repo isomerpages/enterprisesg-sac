@@ -19,7 +19,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01- 02 April 2018: Guidelines on Code of Ethics</a>
+<p><a href="/files/Documents/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics</a>
 </p>
 </li>
 <li>
