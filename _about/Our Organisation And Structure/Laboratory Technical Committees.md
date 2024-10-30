@@ -219,6 +219,17 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Eng Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Secretary</strong>
 </p>
 </td>
@@ -310,6 +321,28 @@ scheme.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore University of Technology and Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Zheng Ming Quan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Gary Connah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Concrete Institute</p>
 </td>
 </tr>
 <tr>
