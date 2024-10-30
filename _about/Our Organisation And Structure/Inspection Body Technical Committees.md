@@ -368,6 +368,39 @@ scheme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeffrey Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore Contractors Association Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Henry Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Prathipa Devi Sundraju</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Secretary</strong>
 </p>
 </td>
