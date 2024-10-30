@@ -328,7 +328,7 @@ scheme.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Zheng Ming Quan</p>
+<p>Mr Zheng Ming Quan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Manufacturing Federation</p>
@@ -339,7 +339,7 @@ scheme.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Gary Connah</p>
+<p>Mr Gary Connah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Concrete Institute</p>
@@ -350,7 +350,7 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Goh Chin Keong</p>
+<p>Mr Goh Chin Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ministry of Manpower</p>
