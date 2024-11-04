@@ -122,6 +122,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Medical Testing
   *  National Heart Centre of Singapore Pte Ltd (30 June 2024)
+  *  Parkway Laboratory Services Ltd (03 November 2024)
 
 
 
