@@ -122,6 +122,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Medical Testing
   *  National Heart Centre of Singapore Pte Ltd (30 June 2024)
+  *  Parkway Laboratory Services Ltd (03 November 2024)
 
 
 
@@ -130,9 +131,6 @@ Click on the quick links below to jump to the CAB Status:
 * Cargo Inspection
   * CMC Marine Pte. Ltd. (20 March 2024)
   * Virgo Ship Service Pte. Ltd. (31 May 2024)
-
-* Non-Destructive Testing
-  * Next Engineering & Inspections Pte Ltd (27 November 2023)
 
 * Site Investigation
   *  Gammon Pte Ltd (09 January 2024)
