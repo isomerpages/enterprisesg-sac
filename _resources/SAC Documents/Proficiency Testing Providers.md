@@ -33,7 +33,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ptp-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">PTP-Fees Schedule (PTP 02) 04 Nov 2024_wef 1 December 2024</a>
+<p><a href="https://go.gov.sg/ptp-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">PTP 002 - 04 Nov 2024 Fee Schedule wef 1 Dec 2024</a>
 </p>
 </li>
 <li>
