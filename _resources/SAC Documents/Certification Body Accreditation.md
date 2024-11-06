@@ -96,7 +96,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ms-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">MS-Fees Schedule (MSDOC04) 04 Nov 2024_wef 1 December 2024</a>
+<p><a href="https://go.gov.sg/ms-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">Management System Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
 </p>
 </li>
 <li>
