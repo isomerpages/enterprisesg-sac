@@ -32,7 +32,7 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="/files/Documents/Inspection%20body%20accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">IB 02: 09 Jul 2018 - Fee Schedule</a>{:target="_blank"}</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ib-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">IB-Fees Schedule (IB 02) 04 Nov 2024_wef 1 December 2024</a>
+<p><a href="https://go.gov.sg/ib-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">IB 02 - 04 Nov 2024 – Fee Schedule wef 1 Dec 2024</a>
 </p>
 </li>
 <li>
