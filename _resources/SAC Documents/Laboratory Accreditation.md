@@ -23,6 +23,10 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/lab-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">Laboratory -Fees Schedule (SAC-SINGLAS 003) 04 Nov 2024_wef 1 December 2024</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Documents/SAC-SINGLAS-004-21-Sep-2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 004 - 21 September 2020: Classification of Tests</a>
 </p>
 </li>
