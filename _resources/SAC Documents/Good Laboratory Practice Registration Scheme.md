@@ -19,7 +19,7 @@ industrial chemicals.</p>
 <p><a href="/files/Documents/Glp/GLP02-GLP-Fee-structure-11Oct2019.pdf" rel="noopener noreferrer nofollow" target="_blank">GLP 02 Fee Schedule for Registration of GLP Facilities - 11 Oct 2019</a>{:target="_blank"}</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/glp-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">GLP-Fees Schedule (GLP 02)  04 Nov 2024_wef 1 December 2024</a>
+<p><a href="https://go.gov.sg/glp-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">GLP-Fees Schedule (GLP 02) 04 Nov 2024_wef 1 December 2024</a>
 </p>
 </li>
 <li>
