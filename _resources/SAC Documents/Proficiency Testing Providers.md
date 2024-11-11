@@ -33,6 +33,10 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/ptp-fees-schedule-04nov-2024-rev" rel="noopener nofollow" target="_blank">PTP 002 - 04 Nov 2024 Fee Schedule wef 1 Dec 2024</a>
+</p>
+</li>
+<li>
 <p><a href="https://go.gov.sg/ptpfm03-iso-17043-2023-checklist-1aug2024" rel="noopener noreferrer nofollow" target="_blank">PTPFM03 – 1 Aug 2024: Proficiency Testing Providers Assessment Checklist</a>
 </p>
 </li>

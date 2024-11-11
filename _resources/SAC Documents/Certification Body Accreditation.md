@@ -96,6 +96,10 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/ms-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">Management System Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Documents/Management%20system%20and%20products%20certification/SAC-HACCP-Doc-1_28-May-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019</a>
 </p>
 </li>
@@ -280,6 +284,10 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/pd-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">Product Certification Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Documents/Management%20system%20and%20products%20certification/17065-checklist-Sep-13.docx" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/IEC 17065) - Sept 2013</a>
 </p>
 </li>
@@ -290,6 +298,10 @@ and related documents for the SAC accreditation are as below:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Documents/Management%20system%20and%20products%20certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Personnel Certification Fee Schedule - 01 Jan 2020</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/pc-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">Personnel Certification Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
 </p>
 </li>
 <li>
@@ -311,6 +323,10 @@ and related documents for the SAC accreditation are as below:</p>
 </li>
 <li>
 <p><a href="/files/Documents/Management%20system%20and%20products%20certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Auditing Organisations Fee Schedule - 5 July 2018</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ao-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">Auditing Organisation Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
 </p>
 </li>
 <li>
