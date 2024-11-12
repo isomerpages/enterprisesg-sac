@@ -51,7 +51,7 @@ interest groups.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Jagadish CV</p>
+<p>Mr Jagadish CV</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advanced Micro Foundry Pte Ltd</p>
@@ -88,7 +88,7 @@ interest groups.</p>
 <p>Er. Tan Chun Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Building and Construction Authority (BCA)</p>
+<p>Building and Construction Authority</p>
 </td>
 </tr>
 <tr>
@@ -96,21 +96,10 @@ interest groups.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr. Teo Tang Lin</p>
+<p>Dr Teo Tang Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Sciences Agency (HSA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr. Chin Woon Hau</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Infocomm Media Development Authority (IMDA)</p>
+<p>Health Sciences Agency</p>
 </td>
 </tr>
 <tr>
@@ -118,10 +107,10 @@ interest groups.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adj. A/Prof Raymond Chua</p>
+<p>Dr Chin Woon Hau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Health (MOH)</p>
+<p>Infocomm Media Development Authority</p>
 </td>
 </tr>
 <tr>
@@ -129,10 +118,21 @@ interest groups.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Silas Sng</p>
+<p>Adj A/Prof Raymond Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Manpower (MOM)</p>
+<p>Ministry of Health</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Silas Sng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Manpower</p>
 </td>
 </tr>
 <tr>
@@ -140,21 +140,10 @@ interest groups.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Wong Toon Joon</p>
+<p>Mr Wong Toon Joon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Trade and Industry (MTI)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Lee Wee Kuang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Environment Agency (NEA)</p>
+<p>Ministry of Trade and Industry</p>
 </td>
 </tr>
 <tr>
@@ -162,10 +151,21 @@ interest groups.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr. Tan Lee Kim</p>
+<p>Mr Lee Wee Kuang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Food Agency (SFA)</p>
+<p>National Environment Agency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Tan Lee Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Food Agency</p>
 </td>
 </tr>
 <tr>
@@ -173,11 +173,10 @@ interest groups.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr. Gregory Goh</p>
+<p>Dr Gregory Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Agency for Science, Technology and Research – National Metrology Centre
-(A*STAR – NMC)</p>
+<p>Agency for Science, Technology and Research – National Metrology Centre</p>
 </td>
 </tr>
 <tr>
@@ -185,10 +184,10 @@ interest groups.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Dalson Chung</p>
+<p>Mr Dalson Chung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The Institution of Engineers, Singapore (IES)</p>
+<p>The Institution of Engineers, Singapore</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +198,7 @@ interest groups.</p>
 <p>A/Prof Low Chian Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University of Singapore (NUS)</p>
+<p>National University of Singapore</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +209,7 @@ interest groups.</p>
 <p>Ms Lim Ling Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Business Federation (SBF)</p>
+<p>Singapore Business Federation</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +231,7 @@ interest groups.</p>
 <p>Mr Clement Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Manufacturing Federation (SMF)</p>
+<p>Singapore Manufacturing Federation</p>
 </td>
 </tr>
 <tr>
@@ -284,7 +283,7 @@ interest groups.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Alex Budiman</p>
+<p>Mr Alex Budiman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Individual Capacity (Medical and Healthcare)</p>
@@ -295,7 +294,7 @@ interest groups.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Allan Lim</p>
+<p>Mr Allan Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Individual Capacity (Food, Agriculture and Environmental Sustainability)</p>
@@ -307,7 +306,7 @@ interest groups.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Choy Sauw Kook</p>
+<p>Ms Choy Sauw Kook</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Enterprise Singapore</p>
@@ -318,7 +317,7 @@ interest groups.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Leung Wai Ling</p>
+<p>Ms Leung Wai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Enterprise Singapore</p>
@@ -330,7 +329,7 @@ interest groups.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Tan Yee Teck</p>
+<p>Mr Tan Yee Teck</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
