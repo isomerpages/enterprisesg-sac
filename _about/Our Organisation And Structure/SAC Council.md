@@ -176,8 +176,7 @@ interest groups.</p>
 <p>Dr Gregory Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Agency for Science, Technology and Research – National Metrology Centre
-(A*STAR – NMC)</p>
+<p>Agency for Science, Technology and Research – National Metrology Centre</p>
 </td>
 </tr>
 <tr>
