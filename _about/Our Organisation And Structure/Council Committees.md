@@ -739,7 +739,143 @@ Interest Group</p>
 <p>&nbsp;</p>
 <h2>Coordinating Committee for Business Development (CCBD)</h2>
 <h3>Term: 1 July 2024 - 30 June 2027&nbsp;</h3>
-<p>“<em>To be updated in due course</em>”</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Designation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Organisation</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Representation</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jagadish C V</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Accreditation Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Co-Chair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Peter Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual Capacity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Members</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Jonathan Cheah Weng Kwong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Council Committee for Certification</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Teo Tee Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Council Committee for Laboratory – Engineering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Leong Eng Choon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Council Committee for Inspection</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A/Prof Rachel Ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Council Committee for Laboratory – Medical and Sciences</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ye Yongfeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Service Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Clement Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Gladys Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enterprise Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Hu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAC Secretariat</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
