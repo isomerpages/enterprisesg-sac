@@ -457,17 +457,6 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr Teo Tee Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Institute of Electrical and Electronics Engineers – Singapore Section</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
