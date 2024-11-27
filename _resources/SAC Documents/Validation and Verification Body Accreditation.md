@@ -11,16 +11,20 @@ criteria and related documents for the SAC accreditation are as below:</p>
 <h3>Publications for All Programmes</h3>
 <ul>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/sac-01-16feb2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/validation-and-verification-bodies/sac-01-16feb2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/sac-02-22-jan-20.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/validation-and-verification-bodies/sac-02-22-jan-20.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/validation-and-verification-bodies/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics</a>
+</p>
 </li>
 <li>
-<p><a href="/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc" rel="noopener noreferrer nofollow" target="_blank">Accreditation Feedback Form</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc" rel="noopener noreferrer nofollow" target="_blank">Accreditation Feedback Form</a>
+</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/ct01-23112023" rel="noopener noreferrer nofollow" target="_blank">CT 01 - 23 Nov 2023 Accreditation Process for Certification Bodies and V&amp;V Bodies</a>
@@ -54,7 +58,8 @@ for the validation and verification of greenhouse gas statements]</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Fee Schedule, 10 October 2018</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Fee Schedule, 10 October 2018</a>
+</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/vb-fees-schedule-04nov2024-" rel="noopener nofollow" target="_blank">Validation &amp; Verification bodies Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
