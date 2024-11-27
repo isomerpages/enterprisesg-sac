@@ -23,7 +23,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/lab-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">SAC-SINGLAS 003 – 04 Nov 2024 Laboratory Fee Schedule wef 1 Dec 2024</a>
+<p><a href="https://go.gov.sg/lab-fees-schedule-04nov2024-rev" rel="noopener nofollow" target="_blank">SAC-SINGLAS 003 – 04 Nov 2024 Laboratory Fee Schedule wef 1 Dec 2024</a>
 </p>
 </li>
 <li>
