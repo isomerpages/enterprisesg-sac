@@ -610,7 +610,7 @@ Interest Group</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Do Hongdo</p>
+<p>Dr Edmund Pua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lifestrands Genomics Pte Ltd</p>
