@@ -378,7 +378,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dy Chair</strong>
+<p><strong>Deputy Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -530,6 +530,18 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Deputy Chair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Tony Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Health Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Members</strong>
 </p>
 </td>
@@ -542,6 +554,17 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lionel Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AOAC Southeast Asia Section</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -549,6 +572,17 @@ Interest Group</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DUKE-NUS Medical School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Yeo Tai Wai &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KK Women's &amp; Children’s Hospital</p>
 </td>
 </tr>
 <tr>
@@ -626,17 +660,6 @@ Interest Group</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Food Agency</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prof Tony Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Health Services</p>
 </td>
 </tr>
 <tr>
