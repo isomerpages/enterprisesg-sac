@@ -542,6 +542,17 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Lionel Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AOAC Southeast Asia Section</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -549,6 +560,17 @@ Interest Group</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>DUKE-NUS Medical School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Yeo Tai Wai &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KK Women's &amp; Children’s Hospital</p>
 </td>
 </tr>
 <tr>
