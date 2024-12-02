@@ -157,7 +157,7 @@ scheme.</p>
 <p>Er. Ng Han Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assocation of Consulting Engineers Singapore</p>
+<p>Association of Consulting Engineers Singapore</p>
 </td>
 </tr>
 <tr>
