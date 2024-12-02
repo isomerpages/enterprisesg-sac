@@ -530,7 +530,7 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>'<strong>Deputy Chair</strong>
+<p><strong>Deputy Chair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
