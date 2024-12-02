@@ -530,6 +530,18 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>'<strong>Deputy Chair</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Tony Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Health Services</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Members</strong>
 </p>
 </td>
@@ -545,7 +557,7 @@ Interest Group</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Lionel Tay</p>
+<p>Mr Lionel Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AOAC Southeast Asia Section</p>
@@ -648,17 +660,6 @@ Interest Group</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Food Agency</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prof Tony Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Health Services</p>
 </td>
 </tr>
 <tr>
