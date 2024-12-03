@@ -209,17 +209,6 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Upadrasta Ramamurthy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nanyang Technological University</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Li Liwei</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -246,6 +235,17 @@ scheme.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Police Force</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yusoof Aynuddin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation</p>
 </td>
 </tr>
 <tr>
