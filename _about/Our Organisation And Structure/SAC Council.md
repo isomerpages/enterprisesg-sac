@@ -228,7 +228,7 @@ interest groups.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Clement Teo</p>
+<p>Ms Clara Kwan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Manufacturing Federation</p>
