@@ -13,9 +13,6 @@ food and feed additives, cosmetic products, veterinary drug product and
 industrial chemicals.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Documents/Glp/GLP-01-16-Feb-2020.pdf" rel="noopener noreferrer nofollow" target="_blank">GLP 01 Procedures and Conditions for GLP Registration - 16 Feb 2020</a>{:target="_blank"}</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/glp01-09dec2024" rel="noopener nofollow" target="_blank">GLP 01 Procedures and Conditions for GLP Registration - 09 Dec 2024</a>
 </p>
 </li>
