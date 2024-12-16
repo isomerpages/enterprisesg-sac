@@ -56,10 +56,6 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 003 - Mar 2019: Fee Schedule for Accreditation of Testing and Calibration Laboratories</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Documents/Laboratory%20Accreditation/SAC_SINGLAS006_1May2021_pdf_safe.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 006 - May 2021: Traceability of Measurement</a>
 </p>
 </li>
