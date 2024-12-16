@@ -276,10 +276,6 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Certification Fees Schedule - 01 Jan 2020</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/pd-fees-schedule-04nov2024" rel="noopener nofollow" target="_blank">Product Certification Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
 </p>
 </li>
