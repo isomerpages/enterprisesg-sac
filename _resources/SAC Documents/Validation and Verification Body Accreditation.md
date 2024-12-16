@@ -58,10 +58,6 @@ for the validation and verification of greenhouse gas statements]</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Fee Schedule, 10 October 2018</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/vb-fees-schedule-04nov2024-" rel="noopener nofollow" target="_blank">Validation &amp; Verification bodies Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
 </p>
 </li>
