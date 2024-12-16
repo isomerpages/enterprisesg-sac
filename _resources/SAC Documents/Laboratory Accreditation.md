@@ -231,10 +231,7 @@ documents for the SAC accreditation are as below:</p>
 <li>
 <p><a href="/files/Documents/Laboratory Accreditation/SAC_SINGLAS_001_6_September_2024.pdf" rel="noopener nofollow" target="_blank">SAC_SINGLAS_001 - 6 September 2024 - Accreditation Process</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees for Medical Testing and Medical Imaging Facilities</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Medical Testing Field</strong>
