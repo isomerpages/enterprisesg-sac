@@ -19,7 +19,7 @@ criteria and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics</a>
+<p><a href="https://go.gov.sg/sac-guidance-01-guidelines-on-code-of-ethics-02apr2018" rel="noopener nofollow" target="_blank">SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics</a>
 </p>
 </li>
 <li>
@@ -29,6 +29,7 @@ criteria and related documents for the SAC accreditation are as below:</p>
 <li>
 <p><a href="https://go.gov.sg/ct01-23112023" rel="noopener noreferrer nofollow" target="_blank">CT 01 - 23 Nov 2023 Accreditation Process for Certification Bodies and V&amp;V Bodies</a>
 </p>
+<p></p>
 </li>
 </ul>
 <h3>Standards and Criteria Document for Validation &amp; Verification</h3>
@@ -58,15 +59,12 @@ for the validation and verification of greenhouse gas statements]</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/VB-Fees-Schedule-(VBDOC04)-10-October-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">Fee Schedule, 10 October 2018</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/vb-fees-schedule-04nov2024-" rel="noopener nofollow" target="_blank">Validation &amp; Verification bodies Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/CTFM02-VB-ISO-IEC-17029.docx" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/IEC 17029:2019), 12 April 2022</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/validation-and-verification-bodies/CTFM02-VB-ISO-IEC-17029.docx" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/IEC 17029:2019), 12 April 2022</a>
+</p>
 </li>
 </ul>
 <p></p>
