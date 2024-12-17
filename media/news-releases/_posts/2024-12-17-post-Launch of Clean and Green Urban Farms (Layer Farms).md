@@ -35,7 +35,8 @@ based on ISO/IEC 17065 and SAC document – CT 26 SAC Criteria for Certification
 Bodies (GAP and Clean &amp; Green Urban Farms) under the accreditation
 scheme for Product Certification Body.</p>
 <p>Application for accreditation is now open through the SAC accreditation
-portal,&nbsp;<a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACiNet</a>
+portal, <a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACINET</a>
 </p>
+<p></p>
 <p>accreditation portal,&nbsp;<a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACiNet</a>
 </p>
