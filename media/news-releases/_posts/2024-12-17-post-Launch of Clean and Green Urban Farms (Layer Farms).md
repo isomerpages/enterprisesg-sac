@@ -38,5 +38,5 @@ scheme for Product Certification Body.</p>
 portal, <a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACINET</a>
 </p>
 <p></p>
-<p>accreditation portal,&nbsp;<a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACiNet</a>
-</p>
+<p></p>
+<p></p>
