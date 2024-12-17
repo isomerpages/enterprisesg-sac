@@ -19,9 +19,12 @@ criteria and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics</a>
+<p><a href="https://go.gov.sg/ctfm02-vb-iso-iec-17029" rel="noopener nofollow" target="_blank">SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics</a>
 </p>
+<p></p>
 </li>
+</ul>
+<ul>
 <li>
 <p><a href="/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc" rel="noopener noreferrer nofollow" target="_blank">Accreditation Feedback Form</a>
 </p>
