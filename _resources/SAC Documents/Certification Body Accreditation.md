@@ -244,7 +244,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/ct_26_29nov2023.pdf" rel="noopener noreferrer nofollow" target="_blank">CT 26 - SAC Criteria For Certification Bodies (GAP and Clean &amp; Green Urban Farms)- November 2023</a>
+<p><a href="https://go.gov.sg/ct26-16dec2024" rel="noopener nofollow" target="_blank">CT 26 - SAC Criteria For Certification Bodies (GAP and Clean &amp; Green Urban Farms)-16 December 2024</a>
 </p>
 </li>
 <li>
