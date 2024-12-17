@@ -62,7 +62,8 @@ for the validation and verification of greenhouse gas statements]</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/CTFM02-VB-ISO-IEC-17029.docx" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/IEC 17029:2019), 12 April 2022</a>{:target="_blank"}</p>
+<p><a href="/files/Documents/validation-and-verification-bodies/CTFM02-VB-ISO-IEC-17029.docx" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/IEC 17029:2019), 12 April 2022</a>
+</p>
 </li>
 </ul>
 <p></p>
