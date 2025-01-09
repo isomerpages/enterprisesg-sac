@@ -114,6 +114,9 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
+* Chemical & Biological Testing
+  *  Singapore Civil Defence Force (6 January 2025)
+
 * Civil Engineering Testing
   *  Dynamic Testing Services (S) Pte Ltd (23 February 2024)
   *  STATS Asia Pacific Pte Ltd (19 December 2024) - Main and Branch lab
