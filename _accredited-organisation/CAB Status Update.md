@@ -81,10 +81,9 @@ Click on the quick links below to jump to the CAB Status:
 {: #suspended}
 ### 2. Suspended Conformity Assessment Bodies (CABs)
 
-
+Nil
   	 
   
-
 [Back to top ↑](#top)
 
 ---
