@@ -95,7 +95,6 @@ Nil
 #### **Voluntary Withdrawal by CABs**
 
 
-
 #### Laboratory
 
 * Chemical & Biological Testing
@@ -112,8 +111,6 @@ Nil
   *  National Heart Centre of Singapore Pte Ltd (30 June 2024)
   *  Parkway Laboratory Services Ltd (03 November 2024)
 
-
-
 #### Inspection Body
 
 * Cargo Inspection
@@ -122,7 +119,6 @@ Nil
 
 * Site Investigation
   *  Gammon Pte Ltd (09 January 2024)
-
 
 #### Certification Body
 
