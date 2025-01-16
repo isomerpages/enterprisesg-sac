@@ -21,7 +21,6 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-
 * Calibration & Measurement
    * DKSH Singapore Pte. Ltd. (23 April 2024)
 
@@ -43,10 +42,7 @@ Click on the quick links below to jump to the CAB Status:
    * Orchid Calibration Pte Ltd (04 April 2024)
    * Lab Services Pte Ltd (10 May 2024)
 
-
-
 #### Inspection Body
-
 
 * Building Façade Inspection using Drones
    * OperaAI Pte Ltd (15 April 2024)
@@ -54,10 +50,7 @@ Click on the quick links below to jump to the CAB Status:
 * Site Investigation and Instrumentation & Monitoring
    * Glostrext Technology (S) Pte Ltd (17 May 2024)
 
-
-
 #### Certification Body
-
 
 * Product Certification
    * SGBC Pte Ltd (19 April 2024)
@@ -74,8 +67,7 @@ Click on the quick links below to jump to the CAB Status:
 * Facility Management System
    * ISOCert Pte Ltd (11 September 2024)
    * SOCOTEC Certification Singapore Pte Ltd (11 September 2024)
-
-
+   
 #### Validation/Verification Body
  
  * SGS International Certification Services Singapore Pte Ltd (4 September 2024)
