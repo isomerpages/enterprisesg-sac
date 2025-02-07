@@ -64,10 +64,6 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/CT-13-11-September-2020.pdf" rel="noopener noreferrer nofollow" target="_blank">CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers) - 11 September 2020</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Documents/ct%2014%20(mtcs),%2021%20dec%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">CT 14 - SAC Criteria for Certification Bodies (MTCS) - December 2020</a>
 </p>
 </li>
