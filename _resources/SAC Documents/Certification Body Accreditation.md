@@ -60,7 +60,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct13-7feb25" rel="noopener nofollow" target="_blank">CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers) – 7 Feb 2025</a>
+<p><a href="https://go.gov.sg/ct13-7feb2025-rev" rel="noopener nofollow" target="_blank">CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers) – 7 Feb 2025</a>
 </p>
 </li>
 <li>
