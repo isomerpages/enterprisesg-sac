@@ -17,11 +17,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Launch of ISO/IEC 42001 Artificial Intelligence Management Systems Accreditation Programme (AIMS)</strong>
 </p>
-<p>&nbsp;In support of Singapore's vision for responsible AI adoption, the
-Singapore Accreditation Council (SAC) is pleased to announce the launch
-of its new accreditation programme for ISO/IEC 42001, the international
-standard for Artificial Intelligence Management Systems (AIMS), with effect
-from 17 February 2025.</p>
+<p>In support of Singapore's vision for responsible AI adoption, the Singapore
+Accreditation Council (SAC) is pleased to announce the launch of its new
+accreditation programme for ISO/IEC 42001, the international standard for
+Artificial Intelligence Management Systems (AIMS), with effect from 17
+February 2025.</p>
 <p>ISO/IEC 42001 provides a comprehensive framework for organisations to
 effectively manage artificial intelligence (AI) systems. It outlines requirements
 for establishing, implementing, maintaining, and continually improving
@@ -30,7 +30,7 @@ addresses crucial aspects such as AI governance, risk management, ethical
 considerations, and responsible AI practices, ensuring that organisations
 can harness the power of AI whilst maintaining trust, transparency, and
 accountability.</p>
-<p>&nbsp;Implementing ISO/IEC 42001 offers numerous benefits to organisations.
+<p>Implementing ISO/IEC 42001 offers numerous benefits to organisations.
 It enhances AI governance structures, leading to improved decision-making
 processes and risk mitigation strategies. The standard promotes ethical
 AI practices, helping companies build trust with stakeholders and customers.
