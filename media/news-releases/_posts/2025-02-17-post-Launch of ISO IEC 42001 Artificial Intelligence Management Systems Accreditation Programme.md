@@ -53,8 +53,8 @@ intelligence management systems. Once ISO/IEC 42006 is officially published,
 the accreditation standards will be updated accordingly.&nbsp; SAC accreditation
 aims to ensure CBs are competent to certify organisations' AIMS, thereby
 promoting quality assurance and responsible AI practices across industries.</p>
-<p>&nbsp;Application for accreditation is now open through the SAC accreditation
-portal,&nbsp;<a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACINET</a>
+<p>Application for accreditation is now open through the SAC accreditation
+portal, <a href="https://sacinet2.enterprisesg.gov.sg/landing" rel="noopener noreferrer nofollow" target="_blank">SACINET</a>
 </p>
 <p>&nbsp;</p>
 </td>
