@@ -568,7 +568,7 @@ Interest Group</p>
 <p>A/Prof Raymond Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Health</p>
+<p>National University Health System</p>
 </td>
 </tr>
 <tr>
@@ -635,7 +635,7 @@ Interest Group</p>
 <p>Dr Nancy Tee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University Health System</p>
+<p>Ministry of Health</p>
 </td>
 </tr>
 <tr>
