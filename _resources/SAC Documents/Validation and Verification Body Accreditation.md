@@ -63,7 +63,7 @@ for the validation and verification of greenhouse gas statements]</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/CTFM02-VB-ISO-IEC-17029.docx" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/IEC 17029:2019), 12 April 2022</a>
+<p><a href="https://file.go.gov.sg/ctfm02-vb-assessment-checklist-isoiec17029-2019.docx" rel="noopener nofollow" target="_blank">Assessment Checklist (ISO/IEC 17029:2019) - 20 March 2025</a>
 </p>
 </li>
 </ul>
