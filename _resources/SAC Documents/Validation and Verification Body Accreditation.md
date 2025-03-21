@@ -43,10 +43,6 @@ for validation and verification bodies]</p>
 and verifying environmental information]</p>
 </li>
 <li>
-<p>[ISO 14066:2011: Green House Gases Competence requirements for Greenhouse
-validation teams and verification teams]</p>
-</li>
-<li>
 <p>[ISO 14066:2023: Environmental information - Competence requirements for
 teams validating and verifying environmental information]</p>
 </li>
