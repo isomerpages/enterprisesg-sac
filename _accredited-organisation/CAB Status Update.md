@@ -81,7 +81,8 @@ Click on the quick links below to jump to the CAB Status:
 {: #suspended}
 ### 2. Suspended Conformity Assessment Bodies (CABs)
 
-Nil
+ * Auditing Organisation 
+   * ACTS System Metrologies Pte Ltd (13 Feb 2025 to 30 Jun 2025)
   	 
   
 [Back to top ↑](#top)
