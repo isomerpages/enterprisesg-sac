@@ -913,7 +913,7 @@ Interest Group</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Clement Teo</p>
+<p>Mr Lim Ting Ji</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Manufacturing Federation</p>
@@ -928,7 +928,7 @@ Interest Group</p>
 <p>Ms Gladys Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Enterprise Singapore</p>
+<p>SAC Secretariat</p>
 </td>
 </tr>
 <tr>
@@ -936,7 +936,7 @@ Interest Group</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Hu</p>
+<p>Mr Gerald See Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
