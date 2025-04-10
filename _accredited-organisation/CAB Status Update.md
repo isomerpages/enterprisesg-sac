@@ -52,21 +52,40 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Certification Body
 
-* Product Certification
-   * SGBC Pte Ltd (19 April 2024)
- 
-* Hazard Analysis and Critical Control Point
-   * ISOCert Pte Ltd (29 April 2024)
-   
+* Anti-Bribery Management System
+  * DNV Business Assurance Singapore Pte Ltd (17 March 2025)
+
 * Environmental Management System
    * CARES Certification Pte Ltd (26 August 2024)
-
-* Occupational Health and Safety Management System
-   * CARES Certification Pte Ltd (26 August 2024)
+   * CCIC Singapore Pte Ltd (03 March 2025)
 
 * Facility Management System
    * ISOCert Pte Ltd (11 September 2024)
    * SOCOTEC Certification Singapore Pte Ltd (11 September 2024)
+   * Guardian Independent Certification Pte Ltd (18 February 2025)
+
+*  Food Safety Management System  
+   * ISOCert Pte Ltd (21 February 2025)
+
+* Hazard Analysis and Critical Control Point
+   * ISOCert Pte Ltd (29 April 2024)
+    
+* Medical Device – Quality Management System
+   *  TUV Rheinland Singapore Pte Ltd (14 February 2025)
+   *  Intertek Testing Services (Singapore) Pte Ltd  (25 March 2025)
+ 
+* Occupational Health and Safety Management System
+   * CARES Certification Pte Ltd (26 August 2024)
+   * CCIC Singapore Pte Ltd (03 March 2025)
+
+* Product Certification
+   * SGBC Pte Ltd (19 April 2024)
+   * TUV Rheinland Singapore Pte Ltd (05 February 2025)
+
+* Quality Management System
+  * CCIC Singapore Pte Ltd (03 March 2025)
+
+
    
 #### Validation/Verification Body
  
