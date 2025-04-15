@@ -254,7 +254,7 @@ scheme.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Clarence Wong</p>
+<p>Mr James Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
