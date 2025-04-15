@@ -58,8 +58,4 @@ laboratory or inspection body is accredited by a signatory of the International 
 
 
 * Please refer to  [IAF ML-2 General Principles on the use of the IAF MLA Mark](https://go.gov.sg/iaf-ml2-2023-mla-mark-use-issue4)
-
-
-
-
-* Please refer to [IAF ML-2 General Principles on the use of the IAF MLA Mark](/files/Documents/Management%20system%20and%20products%20certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"} for more information on the IAF MLA mark and sublicense agreement.
+for more information on the IAF MLA mark and sublicense agreement.
