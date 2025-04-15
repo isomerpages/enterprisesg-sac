@@ -332,7 +332,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jason Tan</p>
+<p>Ms Gladys Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
