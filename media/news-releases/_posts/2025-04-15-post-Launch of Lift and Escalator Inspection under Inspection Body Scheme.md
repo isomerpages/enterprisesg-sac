@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Launch of Accreditation Programme on Lift and Escalator Inspection under Inspection Body Scheme</strong>
+<p><strong>Launch of Accreditation Programme on Lift &amp; Escalator Inspection under Inspection Body Scheme</strong>
 </p>
 <p></p>
 <p>SAC is pleased to expand our accreditation scheme for Inspection Bodies
