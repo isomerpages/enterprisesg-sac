@@ -108,7 +108,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/iaf-md4-issue3-2025-ict" rel="noopener nofollow" target="_blank">IAF MD 4:2025 - Use of ICT) for Auditing Assessment Purposes</a>
+<p><a href="https://go.gov.sg/iaf-md4-issue3-2025-ict" rel="noopener nofollow" target="_blank">IAF MD 4:2025 - Use of ICT for Auditing Assessment Purposes</a>
 </p>
 </li>
 <li>
