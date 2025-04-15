@@ -33,10 +33,8 @@ under the accreditation scheme for Inspection Bodies:</p>
 Inspection Bodies for Lift &amp; Escalator Inspection</p>
 </li>
 </ul>
-<p>&nbsp;The application for accreditation is now open through SAC’s Accreditation
+<p>The application for accreditation is now open through SAC’s Accreditation
 Management portal, <a href="https://sacinet2.enterprisesg.gov.sg/" rel="noopener nofollow" target="_blank">SACINET</a>
 </p>
 <p></p>
-<p>&nbsp;The application for accreditation is now open through SAC’s Accreditation
-Management portal,&nbsp;<a href="https://sacinet2.enterprisesg.gov.sg/" rel="noopener nofollow" target="_blank">SACINET</a> (
-<a rel="noopener noreferrer nofollow" target="_blank">https://sacinet2.enterprisesg.gov.sg/</a>).</p>
+<p>&nbsp;</p>
