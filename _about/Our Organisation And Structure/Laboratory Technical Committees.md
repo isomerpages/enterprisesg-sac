@@ -526,7 +526,7 @@ Interest Group</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gerald See Toh</p>
+<p>Mr Terence Hu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAC Secretariat</p>
