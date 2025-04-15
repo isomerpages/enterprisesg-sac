@@ -2,6 +2,7 @@
 title: How to use SAC, ILAC, IAF Marks
 permalink: /resources/how-to-use-sac-ilac-iaf-marks/
 description: ""
+variant: markdown
 ---
 ### General Conditions for Use of SAC Accreditation Marks
 
@@ -19,7 +20,7 @@ the logo, the accredited scheme and the certificate number.
 * An accredited organisation may use the SAC accreditation mark on publicity and other stationery materials such as brochures, business cards, letterhead paper, quotations, websites and vehicles. However, the use of the SAC accreditation mark or any reference to SAC accreditation in advertising and promotional publications shall be vetted and pre-approved by SAC.
 
 * Please refer to [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks ](/files/Documents/Laboratory%20Accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"} for more information.
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
+
 
 ### Use of Accredited CAB Combined ILAC MRA Mark by Accredited Laboratories and Inspection Bodies
 
@@ -28,7 +29,7 @@ laboratory or inspection body is accredited by a signatory of the International 
 
 ![](/images/la-ib-mra-mark%20png.jpg)
 
-<!-- COMMENT: The '{: style="width: 300px"}' syntax at the end of the Markdown image is used to resize the image -->
+
 
 * The "Accredited CAB Combined ILAC MRA Mark" can be used on reports that deal solely with calibrations or tests/inspections covered under the terms of accreditation, business cards, communication tools, corporate stationery, event materials and displays and online applications such as websites. 
 
@@ -55,5 +56,10 @@ laboratory or inspection body is accredited by a signatory of the International 
   ii. On a clearly contrasting background; and  
   iii. In a size which makes all the words of the IAF MLA Mark clearly distinguishable, with the width of the IAF MLA Mark no less than 20mm for printed media and 75 pixels for digital media.
 
+
+* Please refer to  [IAF ML-2 General Principles on the use of the IAF MLA Mark](https://go.gov.sg/iaf-ml2-2023-mla-mark-use-issue4)
+
+
+
+
 * Please refer to [IAF ML-2 General Principles on the use of the IAF MLA Mark](/files/Documents/Management%20system%20and%20products%20certification/IAF-ML2-(2016-Issue-3).pdf){:target="_blank"} for more information on the IAF MLA mark and sublicense agreement.
-<!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown document link is used to open the document in a new window tab -->
