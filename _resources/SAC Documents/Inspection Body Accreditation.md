@@ -122,4 +122,14 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 </ul>
+<p><strong>Lift &amp; Escalator Inspection Field</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/lei-01-28march2025" rel="noopener nofollow" target="_blank">Technical Note LEI 01: Specific Reqts for Accreditation of IBs for Lift &amp; Escalator Inspection</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p></p>
 <p></p>
