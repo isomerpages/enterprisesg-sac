@@ -98,8 +98,8 @@ strengthening, supporting, and advancing emerging growth opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Choy Sauw Kook, Deputy-General (Quality &amp; Excellence), delivering her closing address" src="/images/press-release/SS6.png">
 </div>
-<p>Ms Choy Sauw Kook, Deputy-General (Quality &amp; Excellence), delivering
-her closing address.</p>
+<p><em>Ms Choy Sauw Kook, Deputy-General (Quality &amp; Excellence), delivering her closing address.</em>
+</p>
 <p></p>
 <p></p>
 <p>We would like to express our sincere appreciation to our distinguished
