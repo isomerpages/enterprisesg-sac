@@ -10,7 +10,6 @@ variant: tiptap
 <p><strong>Singapore Accreditation Council Customer Day 2025</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Singapore Accreditation Council Leadership and the Secretariat from Enterprise Singapore." src="/images/press-release/SS1.png">
 </div>
@@ -59,6 +58,7 @@ opportunities.</p>
 <p><em>From left to right: Er Yvonne Soh (facilitator), Mr Rodney Huang, Ms Priyanka Mehta</em>
 </p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="From left to right: Mr Jagadish CV (facilitator), A/Prof Edward Tay, Mr Alex Budiman" src="/images/press-release/SS4.png">
 </div>
@@ -84,7 +84,9 @@ create barriers to entry.</p>
 to the highlight of the day by recognising 48 newly accredited CABs for
 their commitment to excellence and contribution to enhancing Singapore's
 quality infrastructure.</p>
-<p>[Link: List of newly accredited CABs]</p>
+<p><a href="https://go.gov.sg/sac-newly-ccredited-cab-2025" rel="noopener nofollow" target="_blank">List of newly accredited CABs</a>
+</p>
+<p></p>
 <p>Ms Choy Sauw Kook, Deputy-General (Quality &amp; Excellence) at Enterprise
 Singapore, concluded the event by highlighting the crucial need for collaboration
 between SAC, the Singapore Standards Council, and the TIC industry, to
