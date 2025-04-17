@@ -11,8 +11,11 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<p>The Singapore Accreditation Council Leadership and the Secretariat from
-Enterprise Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Singapore Accreditation Council Leadership and the Secretariat from Enterprise Singapore." src="/images/press-release/SS1.png">
+</div>
+<p><em>The Singapore Accreditation Council Leadership and the Secretariat from Enterprise Singapore.</em>
+</p>
 <p></p>
 <p>The Singapore Accreditation Council (SAC) Customer Day 2025, held on 6
 March at the Suntec Singapore Convention &amp; Exhibition Centre, brought
@@ -36,8 +39,10 @@ He also shared SAC’s efforts and support for international activities,
 which included the election of SAC Director Tan Yee Teck to the Asia Pacific
 Accreditation Cooperation’s (APAC) Executive Committee in June 2024.</p>
 <p></p>
-<p></p>
-<p>Mr Amos Leong, SAC Chair, delivering his opening speech.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Amos Leong, SAC Chair, delivering his opening speech." src="/images/press-release/SS2.png">
+</div>
+<p><em>Mr Amos Leong, SAC Chair, delivering his opening speech</em>.</p>
 <p>The event featured three dynamic breakout sessions, led by SAC Deputy
 Chairs Er Peter Leong, Er Yvonne Soh, and Mr Jagadish CV. These sessions
 fostered enriching discussions on energy, sustainability and technology
@@ -48,19 +53,23 @@ created a space for participants to engage in meaningful dialogues about
 their organisations' expansion plans and strategies to capture new market
 opportunities.</p>
 <p></p>
-<p>From left to right: Er Yvonne Soh (facilitator), Mr Rodney Huang, Ms Priyanka
-Mehta</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="From left to right: Er Yvonne Soh (facilitator), Mr Rodney Huang, Ms Priyanka Mehta" src="/images/press-release/SS3.png">
+</div>
+<p><em>From left to right: Er Yvonne Soh (facilitator), Mr Rodney Huang, Ms Priyanka Mehta</em>
+</p>
 <p></p>
-<p></p>
-<p>From left to right: Er Yvonne Soh (facilitator), Mr Rodney Huang, Ms Priyanka
-Mehta</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="From left to right: Mr Jagadish CV (facilitator), A/Prof Edward Tay, Mr Alex Budiman" src="/images/press-release/SS4.png">
+</div>
 <p>From left to right: Mr Jagadish CV (facilitator), A/Prof Edward Tay, Mr
 Alex Budiman</p>
 <p></p>
-<p>rom left to right: Er Peter Leong (facilitator), Mr Ear Chow Foo, Mr Wong
-Tien Loong</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="From left to right: Er Peter Leong (facilitator), Mr Ear Chow Foo, Mr Wong Tien Loong" src="/images/press-release/SS5.png">
+</div>
+<p><em>From left to right: Er Peter Leong (facilitator), Mr Ear Chow Foo, Mr Wong Tien Loong</em>
+</p>
 <p></p>
 <p>The breakout sessions revealed significant opportunities for accredited
 testing, inspection, and certification (TIC) services across energy, sustainability,
@@ -83,6 +92,10 @@ maintain an effective national Standards &amp; Conformance ecosystem. She
 emphasised that their combined efforts would serve as the catalyst for
 strengthening, supporting, and advancing emerging growth opportunities.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Choy Sauw Kook, Deputy-General (Quality &amp; Excellence), delivering her closing address" src="/images/press-release/SS6.png">
+</div>
 <p>Ms Choy Sauw Kook, Deputy-General (Quality &amp; Excellence), delivering
 her closing address.</p>
 <p></p>
