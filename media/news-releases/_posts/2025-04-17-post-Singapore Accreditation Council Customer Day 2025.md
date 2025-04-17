@@ -62,8 +62,8 @@ opportunities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="From left to right: Mr Jagadish CV (facilitator), A/Prof Edward Tay, Mr Alex Budiman" src="/images/press-release/SS4.png">
 </div>
-<p>From left to right: Mr Jagadish CV (facilitator), A/Prof Edward Tay, Mr
-Alex Budiman</p>
+<p><em>From left to right: Mr Jagadish CV (facilitator), A/Prof Edward Tay, Mr Alex Budiman</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="From left to right: Er Peter Leong (facilitator), Mr Ear Chow Foo, Mr Wong Tien Loong" src="/images/press-release/SS5.png">
