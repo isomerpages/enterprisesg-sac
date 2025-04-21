@@ -59,7 +59,7 @@ Click on the quick links below to jump to the CAB Status:
    * CARES Certification Pte Ltd (26 August 2024)
    * CCIC Singapore Pte Ltd (03 March 2025)
    * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
-      PTE. LTD. (02 April 2025)
+      PTE LTD (02 April 2025)
 
 * Facility Management System
    * ISOCert Pte Ltd (11 September 2024)
@@ -87,7 +87,7 @@ Click on the quick links below to jump to the CAB Status:
 * Quality Management System
   * CCIC Singapore Pte Ltd (03 March 2025)
   * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
-     PTE. LTD. (02 April 2025)
+     PTE LTD (02 April 2025)
 
    
 #### Validation/Verification Body
