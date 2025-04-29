@@ -656,7 +656,7 @@ Interest Group</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A/Prof Joanne Chan Sheot Harn</p>
+<p>Ms Lim Poh Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Food Agency</p>
