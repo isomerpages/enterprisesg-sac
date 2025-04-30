@@ -148,6 +148,17 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Heidi Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMF-TIC Interest Group - Medical Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Tan Swee Yin</p>
 </td>
 <td rowspan="1" colspan="1">
