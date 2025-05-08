@@ -646,7 +646,7 @@ Interest Group</p>
 <p>Dr Benedict Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National University Health System</p>
+<p>Angsana Molecular &amp; Diagnostics Laboratory</p>
 </td>
 </tr>
 <tr>
