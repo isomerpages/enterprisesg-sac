@@ -284,13 +284,24 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Er. Loo Say Kian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Housing &amp; Development Board</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Su Chern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JTC Corporation</p>
 </td>
 </tr>
 <tr>
@@ -328,6 +339,17 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hong Wee Khong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Contractors Association Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -335,6 +357,17 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Food Agency</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Lo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Manufacturing Federation – TIC Interest Group</p>
 </td>
 </tr>
 <tr>
