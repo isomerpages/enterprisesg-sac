@@ -109,7 +109,7 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 * Non-Destructive Testing
-   * ACE Quality Testing & Inspection Services Pte Ltd (22 May 2025)
+   * ACE Quality Testing & Inspection Services Pte Ltd (22 May 2025 to 21 June 2025)
   
   	 
   
