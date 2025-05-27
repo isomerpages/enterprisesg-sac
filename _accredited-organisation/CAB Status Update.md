@@ -106,11 +106,6 @@ Click on the quick links below to jump to the CAB Status:
  
 #### Auditing Organisation  
    * ACTS System Methodologies Pte Ltd (13 Feb 2025 to 30 Jun 2025)
-
-#### Laboratory
-* Non-Destructive Testing
-   * ACE Quality Testing & Inspection Services Pte Ltd (22 May 2025 to 21 Jun 2025)
-  
   	 
   
 [Back to top ↑](#top)
