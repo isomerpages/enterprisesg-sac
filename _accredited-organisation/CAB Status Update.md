@@ -74,6 +74,17 @@ Click on the quick links below to jump to the CAB Status:
   *  Singapore Civil Defence Force (6 January 2025)
 
 
+#### **Voluntary Withdrawal by CABs**
+   
+
+CCIC Singapore Pte. Ltd (30 May 2025)
+
+*   Laboratory - Chemical & Biological Testing; Environmental Testing; Non-Destructive Testing
+*   Inspection - Cargo Inspection
+*   Certification - Environmental Management System; Occupational Health and Safety Management System; Quality Management System
+
+
+
 #### **Withdrawal by SAC**
 
 Nil
