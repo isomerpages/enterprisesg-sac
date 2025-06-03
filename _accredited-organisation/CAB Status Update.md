@@ -72,31 +72,17 @@ Click on the quick links below to jump to the CAB Status:
 
 * Chemical & Biological Testing
   *  Singapore Civil Defence Force (6 January 2025)
-  *  CCIC Singapore Pte. Ltd. (30 May 2025)
-
-* Environmental Testing
-  * CCIC Singapore Pte. Ltd. (30 May 2025)
-
-* Non-Destructive Testing
-  * CCIC Singapore Pte. Ltd. (30 May 2025)
 
 
-#### Inspection
+#### **Voluntary Withdrawal by CABs**
+   
 
-* Cargo Inspection
-  * CCIC Singapore Pte. Ltd. (30 May 2025)
+CCIC Singapore Pte. Ltd (30 May 2025)
 
+*   Laboratory - Chemical & Biological Testing; Environmental Testing; Non-Destructive Testing
+*   Inspection - Cargo Inspection
+*   Certification - Environmental Management System; Occupational Health and Safety Management System; Quality Management System
 
-#### Certification
-
-* Environmental Management System
-  * CCIC Singapore Pte. Ltd. (30 May 2025)
-
-* Occupational Health and Safety Management System
-   * CCIC Singapore Pte Ltd (30 May 2025)
-
-* Quality Management System
-  * CCIC Singapore Pte Ltd (30 May 2025)
 
 
 #### **Withdrawal by SAC**
