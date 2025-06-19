@@ -55,6 +55,15 @@ Click on the quick links below to jump to the CAB Status:
  
 #### Auditing Organisation  
    * ACTS System Methodologies Pte Ltd (13 Feb 2025 to 30 Jun 2025)
+
+
+#### Laboratory
+
+*  Chemical & Biological Testing
+    * Food Microbiology Laboratory, Department of Food and Drug 
+       Administration, Ministry of Health, Myanmar 
+       (30 May 2025 to 29 May 2026)
+
   	 
   
 [Back to top ↑](#top)
