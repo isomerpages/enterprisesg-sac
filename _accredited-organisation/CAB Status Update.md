@@ -76,8 +76,7 @@ Click on the quick links below to jump to the CAB Status:
 
 #### **Voluntary Withdrawal by CABs**
 
-#### Good Laboratory Practice Compliance 
-#### Programme 
+#### Good Laboratory Practice Compliance Programme 
 
   * Agrolex Pte Ltd (17 June 2025)
 
