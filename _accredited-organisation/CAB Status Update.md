@@ -78,7 +78,6 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Good Laboratory Programme
 
-* Good Laboratory Programme
    * Agrolex Pte Ltd (17 June 2025)
 
 
