@@ -23,7 +23,7 @@ SAC accredits V/VBs that can demonstrate compliance with the following requireme
 
 * ISO/IEC 17029 Conformity assessment – General principles and requirements for  verification and validation bodies
 * ISO 14065 General principles and requirements for bodies validating and verifying environmental information
-* Environmental information – Competence requirements for teams validating and verifying
+* ISO 14066 Greenhouse gases Environmental information – Competence requirements for teams validating and verifying environmental information
 * ISO 14064-3 Greenhouse Gases - Part 3: Specification with Guidance for the verification and validation of Greenhouse gas assertions  
 * IAF MD 6 IAF Mandatory Document for the application of ISO 14065:2020 
 
