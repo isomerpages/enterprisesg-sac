@@ -48,7 +48,7 @@ teams validating and verifying environmental information]</p>
 </li>
 <li>
 <p>[ISO 14064-3:2019: Greenhouse gases – Part 3: Specification with guidance
-for the validation and verification of greenhouse gas statements]</p>
+for the verification and validation of greenhouse gas statements]</p>
 </li>
 <li>
 <p><a href="/files/Documents/validation-and-verification-bodies/IAF_MD_6_Issue_3_Version_2_11092024.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 6:2024: IAF Mandatory Document for the Application of ISO 14065:2020</a>

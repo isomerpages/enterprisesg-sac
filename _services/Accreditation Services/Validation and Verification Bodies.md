@@ -13,7 +13,7 @@ Accreditation is an endorsement of a validation/verification body's independence
 ![Carbon Offsetting and Reduction Scheme for International Aviation](/images/services/validation-and-verification-accreditation.jpg)
 *Carbon Offsetting and Reduction Scheme for International Aviation*
 
-The Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body was launched on 24 August 2018 for organisations providing third-party validation/verification services for the reduction and removal of greenhouse gases (GHG). This new accreditation scheme was developed in response to the increasing demand for sustainability and to support the aviation industry for the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) initiated by the International Civil Aviation Organization (ICAO). CORSIA is a global voluntary market-based measure scheme to address any annual increase in total CO2 emissions from international civil aviation.  SAC also offers accreditation for verification at organisation level based on ISO 14064-1.
+The Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body was launched on 24 August 2018 for organisations providing third-party validation/verification services for the reduction and removal of greenhouse gases (GHG). This new accreditation scheme was developed in response to the increasing demand for sustainability and to support the aviation industry for the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) initiated by the International Civil Aviation Organization (ICAO). CORSIA is a global voluntary market-based measure scheme to address any annual increase in total CO2 emissions from international civil aviation.  SAC also offers accreditation for verification at organisation level based on ISO 14064-1 and verification of carbon footprint of product based on ISO 14067.
 
 
 
@@ -21,10 +21,10 @@ The Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body w
 
 SAC accredits V/VBs that can demonstrate compliance with the following requirements: 
 
-* ISO/IEC 17029 Conformity assessment – General principles and requirements for validation and verification bodies
-* ISO 14065 General principles and requirements for bodies validating and  verifying environmental information
-* ISO 14066 Greenhouse Gases - Competence requirements for Greenhouse gas validation reams and verification teams  
-* ISO 14064-3 Greenhouse Gases - Part 3: Specification with Guidance for the validation and verification of Greenhouse gas assertions  
+* ISO/IEC 17029 Conformity assessment – General principles and requirements for  verification and validation bodies
+* ISO 14065 General principles and requirements for bodies validating and verifying environmental information
+* ISO 14066 Greenhouse gases Environmental information – Competence requirements for teams validating and verifying environmental information
+* ISO 14064-3 Greenhouse Gases - Part 3: Specification with Guidance for the verification and validation of Greenhouse gas assertions  
 * IAF MD 6 IAF Mandatory Document for the application of ISO 14065:2020 
 
 
