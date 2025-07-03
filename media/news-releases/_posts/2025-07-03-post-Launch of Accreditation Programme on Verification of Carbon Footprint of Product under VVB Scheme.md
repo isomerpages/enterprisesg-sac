@@ -13,8 +13,8 @@ variant: tiptap
 <p>In support of the SG Green Plan,&nbsp;the Singapore Accreditation Council
 (SAC) is pleased to announce the expansion of our&nbsp;accreditation scheme
 for Validation and Verification Bodies to include verification of carbon
-footprint of product, with effect from 04 July 2025.&nbsp;</p>
-<p>With increasing emphasis and adoption by local and global stakeholders
+footprint of product, with effect from 04 July 2025.&nbsp;
+<br>With increasing emphasis and adoption by local and global stakeholders
 and regulators, more organisations and businesses are stepping up efforts
 to adopt climate and sustainability measures. This includes measuring carbon
 footprints of their products to meet growing demands from consumers, regulators,
@@ -22,8 +22,8 @@ investors, and supply chain partners. The accreditation programme on verificatio
 of carbon footprint of product, in accordance with ISO 14067, aims to enhance
 access to transparent and reliable GHG data, supporting the development
 of low carbon products and services, and in turn, advance Singapore’s transition
-towards a low-carbon economy.&nbsp;</p>
-<p>Interested applicants will be assessed based on the following:</p>
+towards a low-carbon economy.
+<br>Interested applicants will be assessed based on the following:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>ISO 17029 Conformity assessment — General principles and requirements
@@ -40,7 +40,6 @@ validating and verifying environmental information</p>
 <li>
 <p>ISO 14064-3 Greenhouse gases — Part 3: Specification with guidance for
 the verification and validation of greenhouse gas statements</p>
-<p></p>
 </li>
 </ol>
 <p>Application for accreditation is now open through the SAC Accreditation
