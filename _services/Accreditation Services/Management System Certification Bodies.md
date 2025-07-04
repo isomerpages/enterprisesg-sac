@@ -38,7 +38,41 @@ The Accreditation Scheme for Quality Management System Certification Bodies was 
 ![Food Safety Management System](/images/services/food-management-accreditation.jpg)
 *Accreditation Scheme for Food Safety Management System\*
 
- 
+       
+
+The accreditation scheme has progressively expanded over the years to meet industry needs:
+
+* Environmental Management System Certification (November 1999)        
+
+* Quality Management for Bunker Supply Chain certification (August 2003), supporting the Maritime and Port Authority of Singa Certification pore’s initiative to highlight Singapore’s status as a bunkering hub
+
+* Occupational Safety and Health Management System certification (July 2005)
+
+* HACCP based Food Management System certification (September 2005)
+
+* Food Safety Management System certification to ISO 22000 (October 2006)
+
+* Good Distribution Practice for Medical Devices certification (April 2008), ensuring medical device quality throughout distribution in collaboration with Health Sciences Authority
+
+* Business Continuity Management certification (April 2010)
+
+*  Energy Management System (EnMS) certification (July 2012)
+
+* Water Efficiency Management System certification (June 2013). Alongside with EnMS, these programmes support the increasing demand and need to optimise Singapore’s limited resources and the “green” movement
+
+* Learning Services Providers certification, Multi-Tiered Cloud Computing Security Management System certification and End-of-Life ICT Equipment Management System certification  (2014)
+
+* Asset Management System certification (2015)
+
+* Medical Device-Quality Management System certification and Anti-bribery Management System certification (2017)
+
+* Information Security Management System certification (2018)
+
+* Cold Chain Management of Chilled and Frozen Foods certification (2021)
+
+* Privacy Information Management System certification and Facility Management System certification (2023)
+
+* Artificial Intelligence Management Systems certification and Data Protection Trustmark certification (2025)
 
 
 ### Accreditation Criteria
