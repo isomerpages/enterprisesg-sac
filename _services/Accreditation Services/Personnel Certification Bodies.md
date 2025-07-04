@@ -38,7 +38,7 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 </thead>
 <tbody>
   <tr>
-    <td class="tg-06je">Business (Management)</td>
+    <td class="tg-06je">Business (Management) Consultants</td>
     <td class="tg-06je">ISO/IEC 17024</td>
     <td class="tg-06je">SS 680</td>
   </tr>
