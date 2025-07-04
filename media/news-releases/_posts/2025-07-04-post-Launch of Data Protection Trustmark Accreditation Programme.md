@@ -9,10 +9,10 @@ variant: tiptap
 ---
 <p><strong>Launch of Data Protection Trustmark Accreditation Programme</strong>
 </p>
-<p><strong><u>&nbsp;</u></strong>The Singapore Accreditation Council (SAC)
-is pleased to announce the launch of a new accreditation programme under
-the management system certification body scheme for SS 714:2025 Data Protection
-Trustmark (DPTM) certification, with effect on 07 July 2025.</p>
+<p>The Singapore Accreditation Council (SAC) is pleased to announce the launch
+of a new accreditation programme under the management system certification
+body scheme for SS 714:2025 Data Protection Trustmark (DPTM) certification,
+with effect on 07 July 2025.</p>
 <p>&nbsp;The SS DPTM certification was established to advance Singapore's
 digital economy strategy and reinforce its position as a trusted global
 data hub. Organisations that adopt DPTM will strengthen their accountability
