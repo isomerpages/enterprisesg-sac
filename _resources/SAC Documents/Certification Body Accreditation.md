@@ -92,7 +92,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="ct_34_7_Jul_2025" rel="noopener nofollow" target="_blank">CT 34 - SAC Criteria Certification Bodies (Data Protection Trustmark) - 7 Jul 2025</a>
+<p><a href="ct_34_7_jul_2025" rel="noopener nofollow" target="_blank">CT 34 - SAC Criteria Certification Bodies (Data Protection Trustmark) - 7 Jul 2025</a>
 </p>
 </li>
 <li>
