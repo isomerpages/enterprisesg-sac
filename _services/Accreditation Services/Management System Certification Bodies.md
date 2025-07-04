@@ -34,19 +34,12 @@ The Accreditation Scheme for Quality Management System Certification Bodies was 
 * Quality Management System (including Quality Management for Bunker Supply Chain) 
 * Water Efficiency Management System
  
-The scheme was extended in August 2003 to cover the certification of bunker suppliers, in a show of support for the Maritime and Port Authority of Singapore's initiative to highlight Singapore's status as a bunkering hub. In April 2008, the scheme was further extended to cover the certification of good distribution practice of medical devices (GDPMDS). This was an effort to support the Health Sciences Authority's initiative to ensure the quality and integrity of medical devices throughout the distribution process.
- 
-The Accreditation Scheme for Environmental Management System Certification Bodies was launched in November 1999.
-
-In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) Management System was launched, followed by the Accreditation Scheme for HACCP based Food Management System in September 2005. The accreditation scheme for food safety management system (ISO 22000) was launched in October 2006 while the accreditation scheme for business continuity management (BCM) was launched in April 2010.
 
 ![Food Safety Management System](/images/services/food-management-accreditation.jpg)
 *Accreditation Scheme for Food Safety Management System\*
 
  
-The accreditation programme for Energy Management System was launched in July 2012, followed by the Water Efficiency Management System in June 2013. These programmes support the increasing demand and need to optimise our limited resources and the "green" movement.
 
-In 2014, SAC launched the accreditation programmes for Learning Services Providers, Multi-Tiered Cloud Computing Security and End-of-Life ICT Equipment. The accreditation programme for Asset Management was launched in 2015. The accreditation programmes for Medical Device-Quality Management System and Anti-bribery Management System Certification were launched in 2017.  In 2021, the accreditation programmes for Cold Chain Management of Chilled and Frozen Foods were launched
 
 ### Accreditation Criteria
 
