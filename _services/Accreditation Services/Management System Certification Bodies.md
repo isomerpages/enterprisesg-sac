@@ -41,7 +41,6 @@ The Accreditation Scheme for Quality Management System Certification Bodies was 
        
 
 The accreditation scheme has progressively expanded over the years to meet industry needs:
-
 * Environmental Management System Certification (November 1999)        
 
 * Quality Management for Bunker Supply Chain certification (August 2003), supporting the Maritime and Port Authority of Singa Certification pore’s initiative to highlight Singapore’s status as a bunkering hub
