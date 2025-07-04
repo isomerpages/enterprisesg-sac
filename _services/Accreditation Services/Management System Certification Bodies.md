@@ -3,6 +3,7 @@ title: Management System Certification Bodies
 permalink: /services/accreditation-services/management-system-certification-bodies/
 description: ""
 third_nav_title: Accreditation Services
+variant: markdown
 ---
 ## About
 
@@ -13,12 +14,15 @@ Accreditation is an endorsement of a certification body's independence, integrit
 The Accreditation Scheme for Quality Management System Certification Bodies was launched in October 1996 to maintain the standard of certification activities in Singapore. Since then, there are other related programmes launched such as the Accreditation programmes for:
 
 * Anti-Bribery Management System
+* Artificial Intelligence Management System
 * Asset Management System
 * Business Continuity Management System
 * Cold Chain Management of Chilled and Frozen Foods
+* Data Protection Trustmark
 * End-of-Life ICT Equipment Management System
 * Energy Management System
-* Environmental Management System
+* Environmental Management SManagement System
+* Facility Management System
 * Food Safety Management System
 * Good Distribution Practice for Medical Devices
 * Hazard Analysis Critical Control Point-based Food Management System
@@ -38,7 +42,7 @@ In July 2005, the Accreditation Scheme for Occupational Safety and Health (OSH) 
 
 ![Food Safety Management System](/images/services/food-management-accreditation.jpg)
 *Accreditation Scheme for Food Safety Management System\*
-<!-- COMMENT: the italic sentence directly below the Markdown image will be displayed as an image caption -->
+
  
 The accreditation programme for Energy Management System was launched in July 2012, followed by the Water Efficiency Management System in June 2013. These programmes support the increasing demand and need to optimise our limited resources and the "green" movement.
 
