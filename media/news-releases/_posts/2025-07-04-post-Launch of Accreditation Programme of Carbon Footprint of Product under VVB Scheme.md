@@ -28,7 +28,7 @@ towards a low-carbon economy.
 <br>&nbsp;Interested applicants will be assessed based on the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>ISO 17029 Conformity assessment — General principles and requirements
+<p>ISO/IEC 17029 Conformity assessment — General principles and requirements
 for validation and verification bodies</p>
 </li>
 <li>
