@@ -3,6 +3,7 @@ title: Personnel Certification Bodies
 permalink: /services/accreditation-services/personnel-certification-bodies/
 description: ""
 third_nav_title: Accreditation Services
+variant: markdown
 ---
 ## About the Scheme
 
@@ -37,9 +38,9 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 </thead>
 <tbody>
   <tr>
-    <td class="tg-06je">Business (Management) Consultants SIRI Consultant</td>
+    <td class="tg-06je">Business (Management)</td>
     <td class="tg-06je">ISO/IEC 17024</td>
-    <td class="tg-06je">TR 43, SS 680</td>
+    <td class="tg-06je">SS 680</td>
   </tr>
   <tr>
     <td class="tg-06je">Other Programmes<br>
