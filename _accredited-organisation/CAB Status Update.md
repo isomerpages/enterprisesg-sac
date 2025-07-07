@@ -27,18 +27,13 @@ Click on the quick links below to jump to the CAB Status:
   * DNV Business Assurance Singapore Pte Ltd (17 March 2025)
 
 * Environmental Management System
-   * CCIC Singapore Pte Ltd (03 March 2025)
    * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
       PTE LTD (02 April 2025)
     
 * Medical Device – Quality Management System
     *  Intertek Testing Services (Singapore) Pte Ltd  (25 March 2025)
  
-* Occupational Health and Safety Management System
-   * CCIC Singapore Pte Ltd (03 March 2025)
-
 * Quality Management System
-  * CCIC Singapore Pte Ltd (03 March 2025)
   * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
      PTE LTD (02 April 2025)
 
