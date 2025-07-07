@@ -21,7 +21,7 @@ The Accreditation Scheme for Quality Management System Certification Bodies was 
 * Data Protection Trustmark
 * End-of-Life ICT Equipment Management System
 * Energy Management System
-* Environmental Management SManagement System
+* Environmental Management System
 * Facility Management System
 * Food Safety Management System
 * Good Distribution Practice for Medical Devices
