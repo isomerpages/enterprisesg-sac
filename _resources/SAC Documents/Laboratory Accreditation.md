@@ -246,7 +246,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-GenCriteria-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 001- General Criteria, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_001_GenCriteria_30Jun25.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 001- General Criteria, Jun 2025</a>
 </p>
 </li>
 <li>
