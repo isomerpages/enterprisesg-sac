@@ -242,10 +242,6 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/lafm03_med_mi_iso15189_2022checklist.pdf" rel="noopener noreferrer nofollow" target="_blank">LAFM03 – 03 Jan 23 ISO 15189-2022 Checklist</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_001_GenCriteria_30Jun25.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 001- General Criteria, Jun 2025</a>
 </p>
 </li>
