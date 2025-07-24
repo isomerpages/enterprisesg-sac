@@ -36,10 +36,10 @@ Click on the quick links below to jump to the CAB Status:
 * Medical Device – Quality Management System
     *  Intertek Testing Services (Singapore) Pte Ltd  (25 March 2025)
 
-* Product Certification 
+* Product Certification
+	* CODIMI Pte Ltd (15 May 2025)
   * Cyber Security Agency of Singapore (16 July 2025)
-  * CODIMI Pte Ltd (15 May 2025
- 
+   
 * Quality Management System
   * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
      PTE LTD (02 April 2025)
