@@ -38,6 +38,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Product Certification 
   * Cyber Security Agency of Singapore (16 July 2025)
+  * CODIMI Pte Ltd (15 May 2025
  
 * Quality Management System
   * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
