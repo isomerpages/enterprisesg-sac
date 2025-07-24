@@ -29,6 +29,9 @@ Click on the quick links below to jump to the CAB Status:
 * Environmental Management System
    * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
       PTE LTD (02 April 2025)
+			
+* Facility Management System
+   * EQA IMS Certification Pte Ltd (30 June 2025)
     
 * Medical Device – Quality Management System
     *  Intertek Testing Services (Singapore) Pte Ltd  (25 March 2025)
