@@ -259,8 +259,10 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="/files/Documents/ct-28-19dec2022.pdf" rel="noopener noreferrer nofollow" target="_blank">CT 28 - SAC Criteria for Specialist Builders (GSSW for ERSS) - 19 December 2022</a>
 </p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Documents/Certification/ct29_19dec2022.pdf" rel="noopener noreferrer nofollow" target="_blank">CT 29 - SAC Criteria for Product Certification Bodies (Precast Concrete Products)-19 December 2022</a>
+<p><a href="https://go.gov.sg/sac-ct29-01aug25" rel="noopener nofollow" target="_blank">CT 29 - SAC Criteria for Product Certification Bodies (Precast Concrete Products) - 01 Aug 2025</a>
 </p>
 </li>
 <li>
