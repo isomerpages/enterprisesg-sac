@@ -84,7 +84,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf" rel="noopener noreferrer nofollow" target="_blank">C&amp;B and ENV 001 - Mar 2023: Specific Requirements for C&amp;B and ENV Testing Labs</a>
+<p><a href="https://go.gov.sg/cb-env-technotes001-12aug2025" rel="noopener nofollow" target="_blank">C&amp;B and ENV 001 - 12 Aug 2025: Specific Requirements for C&amp;B and ENV Testing Labs</a>
 </p>
 </li>
 <li>
@@ -148,7 +148,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 <ul>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf" rel="noopener noreferrer nofollow" target="_blank">C&amp;B and ENV 001 - 08 March 2023: Specific Requirements for Chem &amp; Bio and Env Testing Laboratories</a>
+<p><a href="https://go.gov.sg/cb-env-technotes001-12aug2025" rel="noopener nofollow" target="_blank">C&amp;B and ENV 001 - 12 Aug 2025: Specific Requirements for C&amp;B and ENV Testing Labs</a>
 </p>
 </li>
 <li>
