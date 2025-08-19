@@ -188,12 +188,14 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ctfm02-fsms-checklist-iso-22003-1-2022" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/TS 22003-1:2022) – Feb 20   24</a>
+<p><a href="https://go.gov.sg/ctfm02-fsms-checklist-iso-22003-1-2022" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/TS 22003-1:2022) – Feb 20 24</a>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/ctfm02-ms-assessment-checklist-aims-18aug25" rel="noopener nofollow" target="_blank">Assessment Checklist (ISO/IEC 42006:2025) – 18 August 2025</a>
 </p>
+</li>
+</ul>
 </li>
 </ul>
 <p></p>
