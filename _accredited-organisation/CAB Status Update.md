@@ -51,9 +51,8 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Validation and Verification Body
 
-* Validation and Verification Body
-  * Foo Kon Tan LLP (28 April 2025)
-  * SG CO2 Pte Ltd (28 April 2025)
+* Foo Kon Tan LLP (28 April 2025)
+* SG CO2 Pte Ltd (28 April 2025)
 
 
 #### Inspection Body
