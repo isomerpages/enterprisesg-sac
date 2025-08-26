@@ -192,7 +192,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ctfm02-ms-assessment-checklist-aims-18aug25" rel="noopener nofollow" target="_blank">ssessment Checklist (ISO/IEC 42006:2025) – 18 August 2025</a>
+<p><a href="https://go.gov.sg/ctfm02-ms-assessment-checklist-aims-18aug25" rel="noopener nofollow" target="_blank">Assessment Checklist (ISO/IEC 42006:2025) – 18 August 2025</a>
 </p>
 <p></p>
 </li>
