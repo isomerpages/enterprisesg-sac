@@ -31,8 +31,12 @@ Click on the quick links below to jump to the CAB Status:
       PTE LTD (02 April 2025)
 			
 * Facility Management System
+   *  Guardian Independent Certification Pte Ltd (18 February 2025)
    * EQA IMS Certification Pte Ltd (30 June 2025)
-    
+
+* Food Safety Management System
+   * ISOCert Pte Ltd (21 February 2025)
+       
 * Medical Device – Quality Management System
     *  Intertek Testing Services (Singapore) Pte Ltd  (25 March 2025)
 
