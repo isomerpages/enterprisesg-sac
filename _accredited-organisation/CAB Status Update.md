@@ -53,13 +53,13 @@ Click on the quick links below to jump to the CAB Status:
 
 * Validation and Verification Body
   * Foo Kon Tan LLP (28 April 2025)
-  * SG CO2 Pte Ltd (28 A  pril 2025)
+  * SG CO2 Pte Ltd (28 April 2025)
 
 
 #### Inspection Body
 
 * Site Investigation and Instrumentation & Monitoring
-  * TestConsul t Singapore Pte Ltd (25 March 2025)
+  * TestConsult Singapore Pte Ltd (25 March 2025)
   * Associated Geotechnical Services Pte Ltd (08 May 2025)
 
 
