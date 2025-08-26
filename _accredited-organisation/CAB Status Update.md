@@ -48,10 +48,12 @@ Click on the quick links below to jump to the CAB Status:
   * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
      PTE LTD (02 April 2025)
 
+
+#### Validation and Verification Body
+
 * Validation and Verification Body
   * Foo Kon Tan LLP (28 April 2025)
   * SG CO2 Pte Ltd (28 A  pril 2025)
-
 
 
 #### Inspection Body
