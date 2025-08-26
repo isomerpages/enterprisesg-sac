@@ -31,8 +31,12 @@ Click on the quick links below to jump to the CAB Status:
       PTE LTD (02 April 2025)
 			
 * Facility Management System
+   *  Guardian Independent Certification Pte Ltd (18 February 2025)
    * EQA IMS Certification Pte Ltd (30 June 2025)
-    
+
+* Food Safety Management System
+   * ISOCert Pte Ltd (21 February 2025)
+       
 * Medical Device – Quality Management System
     *  Intertek Testing Services (Singapore) Pte Ltd  (25 March 2025)
 
@@ -44,6 +48,36 @@ Click on the quick links below to jump to the CAB Status:
   * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
      PTE LTD (02 April 2025)
 
+
+#### Validation and Verification Body
+
+* Foo Kon Tan LLP (28 April 2025)
+* SG CO2 Pte Ltd (28 April 2025)
+
+
+#### Inspection Body
+
+* Site Investigation and Instrumentation & Monitoring
+  * TestConsult Singapore Pte Ltd (25 March 2025)
+  * Associated Geotechnical Services Pte Ltd (08 May 2025)
+
+
+#### Laboratory
+   
+* Civil Engineering
+  * SA Geolab International Pte Ltd (23 April 2025)
+
+* Electrical Testing
+  * Transient Test Technologies Pte Ltd (12 February 2025)
+
+* Medical Testing
+  * Camtech Biomedical Pte Ltd (10 March 2025)
+
+* Non-destructive Testing
+  * SSM Engineering Solutions Pte Ltd (24 April 2025)
+
+* Technical Testing
+  * Deasco Cal Lab Pte Ltd (10 June 2025)
 
 
 
