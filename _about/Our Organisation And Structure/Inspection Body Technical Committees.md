@@ -521,7 +521,7 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Tang Kang Hai</p>
+<p>Prof Tan Kang Hai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nanyang Technological University</p>
