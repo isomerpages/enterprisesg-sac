@@ -21,7 +21,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
-    title: Enquiries Only
+      - other: https://form.gov.sg/6639e83400d3710c16051b0e
+    title: FormSG
 feedback: https://form.gov.sg/6639e83400d3710c16051b0e
 ---
