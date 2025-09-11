@@ -97,8 +97,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Brochures/SAC-Brochure-SAC-Accreditation-Mark.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
