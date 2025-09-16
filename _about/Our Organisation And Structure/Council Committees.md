@@ -762,7 +762,7 @@ Interest Group</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Peggy Chew</p>
+<p>Mr Joachim Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Food Agency</p>
