@@ -946,17 +946,6 @@ Interest Group</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ye Yongfeng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Public Service Division</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Lim Ting Ji</p>
 </td>
 <td rowspan="1" colspan="1">
