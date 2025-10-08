@@ -26,13 +26,17 @@ Click on the quick links below to jump to the CAB Status:
 * Anti-Bribery Management System
   * DNV Business Assurance Singapore Pte Ltd (17 March 2025)
 
+* Business Continuity Management System
+  * ISOCert Pte Ltd (8 September 2025)
+
 * Environmental Management System
    * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
       PTE LTD (02 April 2025)
 			
 * Facility Management System
-   *  Guardian Independent Certification Pte Ltd (18 February 2025)
+   * Guardian Independent Certification Pte Ltd (18 February 2025)
    * EQA IMS Certification Pte Ltd (30 June 2025)
+   * Bureau Veritas Quality Assurance Pte Ltd (31 July 2025)
 
 * Food Safety Management System
    * ISOCert Pte Ltd (21 February 2025)
@@ -47,6 +51,7 @@ Click on the quick links below to jump to the CAB Status:
 * Quality Management System
   * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
      PTE LTD (02 April 2025)
+	* Sustech Services Pte Ltd (25 September 2025)
 
 
 #### Validation and Verification Body
@@ -66,9 +71,14 @@ Click on the quick links below to jump to the CAB Status:
    
 * Civil Engineering
   * SA Geolab International Pte Ltd (23 April 2025)
+  * PT Fugro Indonesia (1 September 2025)
 
 * Electrical Testing
   * Transient Test Technologies Pte Ltd (12 February 2025)
+  * Beyondsoft International (Singapore) Pte Ltd (1 September 2025
+
+* Information Technology
+  * KPMG Services Pte Ltd (3 September 2025)
 
 * Medical Testing
   * Camtech Biomedical Pte Ltd (10 March 2025)
