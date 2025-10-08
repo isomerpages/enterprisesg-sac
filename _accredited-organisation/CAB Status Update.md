@@ -51,7 +51,7 @@ Click on the quick links below to jump to the CAB Status:
 * Quality Management System
   * GLOBAL INSPECTION AND CERTIFICATION NETWORK (CGLOBAL) 
      PTE LTD (02 April 2025)
-	* Sustech Services Pte Ltd (25 September 2025)
+  * Sustech Services Pte Ltd (25 September 2025)
 
 
 #### Validation and Verification Body
