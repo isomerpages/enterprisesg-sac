@@ -4,7 +4,7 @@ permalink: /resources/brochures/
 description: ""
 variant: tiptap
 ---
-<h4>Commemorative Booklet: 50 Years of Quality and Standards</h4>
+<h4>50 Years of Quality and Standards</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
