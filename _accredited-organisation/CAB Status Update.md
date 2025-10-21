@@ -23,6 +23,7 @@ Click on the quick links below to jump to the CAB Status:
 #### Auditing Organisation
 * World Biohaztec Pte. Ltd. (15 October 2025)
 
+
 #### Certification Body
 
 * Business Continuity Management System
