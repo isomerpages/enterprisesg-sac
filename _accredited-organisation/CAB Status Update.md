@@ -17,12 +17,11 @@ Click on the quick links below to jump to the CAB Status:
 
 {: #newly-accredited}
 ### 1. Newly Accredited Conformity Assessment Bodies (CABs) 
-   
+  
 
- 
- #### Auditing Organisation
+
+#### Auditing Organisation
 * World Biohaztec Pte. Ltd. (15 October 2025)
-
 
 #### Certification Body
 
