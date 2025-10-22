@@ -109,7 +109,7 @@ variant: tiptap
 <h4>Other Brochures</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="http://ilac.org/news-and-events/world-accreditation-day/" rel="noopener noreferrer nofollow" target="_blank">World Accreditation Day 2018</a>
+<p><a href="https://ilac.org/news-and-events/world-accreditation-day/world-accreditation-day-archive/world-accreditation-day-2025/" rel="noopener noreferrer nofollow" target="_blank">World Accreditation Day 2025</a>
 </p>
 </li>
 <li>
