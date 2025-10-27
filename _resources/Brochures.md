@@ -28,8 +28,7 @@ variant: tiptap
 </tbody>
 </table>
 <h4>SAC Brochures</h4>
-<p><strong><a href="https://cms.isomer.gov.sg/files/Brochures/sac-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Booklet</a></strong>
-</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -42,7 +41,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/brochures/SAC-Booklet.jpg">
 </div>
-<p></p>
+<p><a href="https://cms.isomer.gov.sg/files/Brochures/sac-booklet.pdf" rel="noopener nofollow" target="_blank">SAC Booklet</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
