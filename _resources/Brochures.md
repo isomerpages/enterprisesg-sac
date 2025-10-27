@@ -28,6 +28,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4>SAC Brochures</h4>
+<p><strong><a href="https://cms.isomer.gov.sg/files/Brochures/sac-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Booklet</a></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
