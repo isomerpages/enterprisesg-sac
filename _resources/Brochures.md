@@ -41,7 +41,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/brochures/SAC-Booklet.jpg">
 </div>
-<p><a href="https://cms.isomer.gov.sg/files/Brochures/sac-booklet.pdf" rel="noopener nofollow" target="_blank">SAC Booklet</a>
+<p><a href="https://go.gov.sg/sac-booklet" rel="noopener nofollow" target="_blank">SAC Booklet</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
