@@ -265,7 +265,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pending nomination</p>
+<p>Mr Wayne Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Association of Process Industry</p>
