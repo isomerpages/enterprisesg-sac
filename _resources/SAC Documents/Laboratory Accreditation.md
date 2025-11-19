@@ -266,6 +266,10 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Genetics_and_Genomics_Testing_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Genetics and Genomics Testing, Nov 2025</a>
+</p>
+</li>
+<li>
 <p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Microbiology_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Microbiology, Nov 2025</a>
 </p>
 </li>
