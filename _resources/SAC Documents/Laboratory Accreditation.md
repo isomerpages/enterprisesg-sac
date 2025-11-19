@@ -246,7 +246,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-ClinicalChemistry26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Clinical Chemistry, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Clinical_Chemistry_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Clinical Chemistry, Nov 2025</a>
 </p>
 </li>
 <li>
