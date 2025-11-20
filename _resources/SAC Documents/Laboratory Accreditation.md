@@ -226,7 +226,7 @@ documents for the SAC accreditation are as below:</p>
 </li>
 </ul>
 <h3>Standards and Criteria Document for Medical Testing</h3>
-<h4>ISO 15189: 2012 - Particular Requirements for Quality and Competence</h4>
+<h4>ISO 15189: 2022 - Particular Requirements for Quality and Competence</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Documents/Laboratory Accreditation/SAC_SINGLAS_001_6_September_2024.pdf" rel="noopener nofollow" target="_blank">SAC_SINGLAS_001 - 6 September 2024 - Accreditation Process</a>
