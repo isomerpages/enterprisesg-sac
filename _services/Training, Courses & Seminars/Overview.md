@@ -9,7 +9,6 @@ variant: markdown
 
 #### Q1
 
-
   
 
 SAC Good Laboratory Practice (GLP) Training Course 2026
