@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Training, Courses & Seminars
 ---
 <p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
