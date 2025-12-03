@@ -75,9 +75,11 @@ for GLP compliance and registration.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Please register via the FormSG link below:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/691bcd7193836b71feffe29d</a>
+<p>Please register via this form:-</p>
+<p><a href="https://form.gov.sg/691bcd7193836b71feffe29d" rel="noopener nofollow" target="_blank">FormSG</a>
 </p>
+<p>Alternatively, scan the QR code:</p>
+<p>&nbsp;</p>
+<p></p>
 <p>For enquiries, please do not hesitate to contact Ms Angie Ng at <a rel="noopener noreferrer nofollow" target="_blank">angie_ng@enterprisesg.gov.sg</a> or tel:
 +65 2791800.</p>
