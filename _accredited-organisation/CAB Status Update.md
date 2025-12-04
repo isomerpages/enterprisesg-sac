@@ -100,7 +100,13 @@ Click on the quick links below to jump to the CAB Status:
 #### **Voluntary Withdrawal by CABs**
    
 
-CCIC Singapore Pte. Ltd (30 May 2025)
+* Auditing Organisation
+
+  *CCIC Singapore Pte. Ltd (30 May 2025)
+
+
+* Calibration Testing
+  * Nihon Denkei Co. Ltd (22 Novovember 2025)
 
 *   Laboratory - Chemical & Biological Testing; Environmental Testing; Non-Destructive Testing
 *   Inspection - Cargo Inspection
