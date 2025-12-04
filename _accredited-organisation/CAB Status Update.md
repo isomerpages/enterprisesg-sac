@@ -45,7 +45,7 @@ Click on the quick links below to jump to the CAB Status:
 #### Validation and Verification Body
 
 * Verification of carbon footprint of product
-  *SGS Testing & Control Services Singapore  Pte Ltd (8 September 2025)
+  * SGS Testing & Control Services Singapore Pte Ltd (22 October 2025)
 
 
 #### Laboratory
