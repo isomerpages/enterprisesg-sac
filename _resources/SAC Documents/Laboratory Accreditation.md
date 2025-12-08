@@ -226,7 +226,7 @@ documents for the SAC accreditation are as below:</p>
 </li>
 </ul>
 <h3>Standards and Criteria Document for Medical Testing</h3>
-<h4>ISO 15189: 2012 - Particular Requirements for Quality and Competence</h4>
+<h4>ISO 15189: 2022 - Particular Requirements for Quality and Competence</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Documents/Laboratory Accreditation/SAC_SINGLAS_001_6_September_2024.pdf" rel="noopener nofollow" target="_blank">SAC_SINGLAS_001 - 6 September 2024 - Accreditation Process</a>
@@ -246,31 +246,35 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-ClinicalChemistry26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Clinical Chemistry, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Clinical_Chemistry_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Clinical Chemistry, Nov 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytogenetics-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Cytogenetics, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Cytogenetics_3_Nov_2025_v3.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Cytogenetics, Nov 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Cytopathology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Cytopathology, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Cytopathology_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Cytopathology, Nov 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Haematology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Haematology, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Haematology_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Haematology, Nov 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Histopathology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Histopathology, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Histopathology_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Histopathology, Nov 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-Microbiology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Microbiology, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Genetics_and_Genomics_Testing_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Genetics and Genomics Testing, Nov 2025</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-002-MolecularPathology-26Nov21-v2.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Molecular Pathology, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Microbiology_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Microbiology, Nov 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED_002_Molecular_Pathology_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MED 002 - Molecular Pathology, Nov 2025</a>
 </p>
 </li>
 <li>
@@ -278,7 +282,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical-Guide-4-MU-on-medica-testing-26Nov21.pdf" rel="noopener noreferrer nofollow" target="_blank">Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Nov 2021</a>
+<p><a href="/files/Documents/Laboratory Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/Technical_Guide_4_MU_on_medical_testing_3_Nov_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Technical Guide 4 - A Guide on Measurement Uncertainty in Medical Testing, Nov 2025</a>
 </p>
 </li>
 </ul>

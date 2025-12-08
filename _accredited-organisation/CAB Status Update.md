@@ -42,6 +42,12 @@ Click on the quick links below to jump to the CAB Status:
 * Quality Management System
   * Sustech Services Pte Ltd (25 September 2025)
 
+#### Validation and Verification Body
+
+* Verification of carbon footprint of product
+
+  * SGS Testing & Control Services Singapore Pte Ltd (22 October 2025)
+
 
 #### Laboratory
    
@@ -100,11 +106,18 @@ Click on the quick links below to jump to the CAB Status:
 #### **Voluntary Withdrawal by CABs**
    
 
-CCIC Singapore Pte. Ltd (30 May 2025)
+* Auditing Organisation
 
-*   Laboratory - Chemical & Biological Testing; Environmental Testing; Non-Destructive Testing
-*   Inspection - Cargo Inspection
-*   Certification - Environmental Management System; Occupational Health and Safety Management System; Quality Management System
+  *  CCIC Singapore Pte. Ltd (30 May 2025)
+
+
+
+
+* Calibration Testing
+  * Nihon Denkei Co. Ltd (22 Novovember 2025)
+
+
+
 
 
 
