@@ -116,9 +116,8 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration Testing
   * Nihon Denkei Co. Ltd (22 Novovember 2025)
 
-*   Laboratory - Chemical & Biological Testing; Environmental Testing; Non-Destructive Testing
-*   Inspection - Cargo Inspection
-*   Certification - Environmental Management System; Occupational Health and Safety Management System; Quality Management System
+
+
 
 
 
