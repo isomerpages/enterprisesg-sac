@@ -29,7 +29,7 @@ Click on the quick links below to jump to the CAB Status:
 
 
 * Artificial Intelligence Management System
-   * TUV SUD PSB Pte Ltd (5 November 25)
+   * TUV SUD PSB Pte Ltd (5 November 2025)
 
 * Business Continuity Management System
   * ISOCert Pte Ltd (8 September 2025)
@@ -51,7 +51,9 @@ Click on the quick links below to jump to the CAB Status:
 * Quality Management System
   * Sustech Services Pte Ltd (25 September 2025)
 
-
+* Water Efficiency Management System
+  * SC2 Pte Ltd (9 December 2025)
+  
    
 #### Validation and Verification Body
 
