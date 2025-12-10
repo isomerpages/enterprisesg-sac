@@ -60,6 +60,9 @@ Click on the quick links below to jump to the CAB Status:
 * Verification of carbon footprint of product
   * SGS Testing & Control Services Singapore Pte Ltd (22 October 2025)
 
+* Verification at Organisation Level
+  *  Bureau Veritas Quality Assurance Pte Ltd (10 December 2025)
+
 
 #### Laboratory
 
