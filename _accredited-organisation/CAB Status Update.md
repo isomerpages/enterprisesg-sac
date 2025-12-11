@@ -126,26 +126,14 @@ Click on the quick links below to jump to the CAB Status:
 
 * Calibration Testing
   * Plant Electrical Instrumentation Pte Ltd (13 June 2025)
+  * Nihon Denkei Co. Ltd (22 Novovember 2025)
 
 
-
-#### **Voluntary Withdrawal by CABs**
-   
+#### Certification
 
 * Auditing Organisation
 
   *  CCIC Singapore Pte. Ltd (30 May 2025)
-
-
-
-
-* Calibration Testing
-  * Nihon Denkei Co. Ltd (22 Novovember 2025)
-
-
-
-
-
 
 
 
