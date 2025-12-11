@@ -132,7 +132,6 @@ Click on the quick links below to jump to the CAB Status:
 #### Certification
 
 * Auditing Organisation
-
   *  CCIC Singapore Pte. Ltd (30 May 2025)
 
 
