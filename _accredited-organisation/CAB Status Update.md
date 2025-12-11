@@ -126,7 +126,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Calibration Testing
   * Plant Electrical Instrumentation Pte Ltd (13 June 2025)
-  * Nihon Denkei Co. Ltd (22 Novovember 2025)
+  * Nihon Denkei Co. Ltd (22 November 2025)
 
 
 #### Certification
