@@ -22,18 +22,27 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Auditing Organisation
 * World Biohaztec Pte. Ltd. (15 October 2025)
+* Vine Consultancy (2 December 2025)
 
 
 #### Certification Body
+
+
+* Artificial Intelligence Management System
+   * TUV SUD PSB Pte Ltd (5 November 2025)
 
 * Business Continuity Management System
   * ISOCert Pte Ltd (8 September 2025)
 
 * Data Protection Trustmark  
   * Guardian Independent Certification P L (9 October 2025)
+  * ISOCert Pte Ltd (17 November 2025)
 			
 * Facility Management System
    * Bureau Veritas Quality Assurance Pte Ltd (31 July 2025)
+
+* Multi-tiered Coud Computing
+  *  Schellman Compliance, LLC (12 November 2025)
 
 * Product Certification
   * Cyber Security Agency of Singapore (16 July 2025)
@@ -42,15 +51,24 @@ Click on the quick links below to jump to the CAB Status:
 * Quality Management System
   * Sustech Services Pte Ltd (25 September 2025)
 
+* Water Efficiency Management System
+  * SC2 Pte Ltd (9 December 2025)
+  
+   
 #### Validation and Verification Body
 
 * Verification of carbon footprint of product
-
   * SGS Testing & Control Services Singapore Pte Ltd (22 October 2025)
+
+* Verification at Organisation Level
+  *  Bureau Veritas Quality Assurance Pte Ltd (10 December 2025)
 
 
 #### Laboratory
-   
+
+* Chemical & Biological
+   * Poh Heng Jewellery (Private) Limited (12 November 2025)
+
 * Civil Engineering
   * PT Fugro Indonesia (1 September 2025)
 
@@ -59,6 +77,14 @@ Click on the quick links below to jump to the CAB Status:
 
 * Information Technology
   * KPMG Services Pte Ltd (3 September 2025)
+
+   
+
+#### Inspection
+
+*  Cargo inspection
+   * Bureau Veritas Singapore Pte. Ltd. (18 September 2025)
+
 
 
 
@@ -71,7 +97,7 @@ Click on the quick links below to jump to the CAB Status:
 
 #### Laboratory
 
-		 
+
 * Medical Testing
    * Invitrocue Pte Ltd (02 October 2025)
 
@@ -100,26 +126,11 @@ Click on the quick links below to jump to the CAB Status:
 
 * Calibration Testing
   * Plant Electrical Instrumentation Pte Ltd (13 June 2025)
+  * Nihon Denkei Co. Ltd (22 November 2025)
 
 
-
-#### **Voluntary Withdrawal by CABs**
-   
-
-* Auditing Organisation
-
+#### Auditing Organisation
   *  CCIC Singapore Pte. Ltd (30 May 2025)
-
-
-
-
-* Calibration Testing
-  * Nihon Denkei Co. Ltd (22 Novovember 2025)
-
-
-
-
-
 
 
 
