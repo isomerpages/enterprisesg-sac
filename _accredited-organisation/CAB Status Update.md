@@ -129,8 +129,7 @@ Click on the quick links below to jump to the CAB Status:
   * Nihon Denkei Co. Ltd (22 November 2025)
 
 
-
-* Auditing Organisation
+#### Auditing Organisation
   *  CCIC Singapore Pte. Ltd (30 May 2025)
 
 
