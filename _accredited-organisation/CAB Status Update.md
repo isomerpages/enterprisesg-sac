@@ -123,6 +123,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Chemical & Biological Testing
   *  Singapore Civil Defence Force (6 January 2025)
+  *  TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
 
 * Calibration Testing
   * Plant Electrical Instrumentation Pte Ltd (13 June 2025)
