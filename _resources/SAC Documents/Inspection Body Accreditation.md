@@ -59,10 +59,11 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Documents/Inspection%20body%20accreditation/CAMS-01-(09-July-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">Technical Note: CAMS-01: 09 Jul 2018 - Specific Reqts for the Accreditation of IBs for Central Alarm Monitoring Stations</a>
+<p><a href="https://go.gov.sg/cams-01-8dec2025" rel="noopener nofollow" target="_blank">Technical Note: CAMS-01: 08 Dec 2025 - Specific Reqts for the Accreditation of IBs for Central Alarm Monitoring Stations</a>
 </p>
 </li>
 </ul>
+<p></p>
 <p><strong>Motor Vehicle Inspection Field</strong>
 </p>
 <ul data-tight="true" class="tight">
