@@ -9,15 +9,18 @@ variant: tiptap
 and criteria to be accredited. The standards, specific criteria and related
 documents for the SAC accreditation are as below:</p>
 <h3>Publications for All Fields</h3>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation</a>
+<p><a href="https://go.gov.sg/sac01-1jan2026-rev" rel="noopener nofollow" target="_blank">SAC 01 - 01 Jan 2026: Terms and Conditions for Accreditation</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/SAC-02-22-Jan-20.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
+<p><a href="https://go.gov.sg/sac02-1jan2026-rev" rel="noopener nofollow" target="_blank">SAC 02 - 01 Jan 2026: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
 </p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Documents/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics</a>
 </p>
