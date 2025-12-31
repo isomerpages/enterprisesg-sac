@@ -12,11 +12,11 @@ and related documents for the SAC accreditation are as below:</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/sac01-1jan2026" rel="noopener nofollow" target="_blank">SAC 01 - 01 Jan 2026: Terms and Conditions for Accreditation</a>
+<p><a href="https://go.gov.sg/sac01-1jan2026-rev" rel="noopener nofollow" target="_blank">SAC 01 - 01 Jan 2026: Terms and Conditions for Accreditation</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/sac02-1jan2026" rel="noopener nofollow" target="_blank">SAC 02 - 01 Jan 2026: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
+<p><a href="https://go.gov.sg/sac02-1jan2026-rev" rel="noopener nofollow" target="_blank">SAC 02 - 01 Jan 2026: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
 </p>
 </li>
 </ul>
