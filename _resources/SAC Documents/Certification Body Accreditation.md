@@ -30,7 +30,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/ct_01_23Nov2023.pdf" rel="noopener noreferrer nofollow" target="_blank">CT 01 - 23 Nov 2023 Accreditation Process for CBs and V&amp;V Bodies</a>
+<p><a href="https://go.gov.sg/ct01-accreditation-process-for-cbs-and-vb-1jan2026" rel="noopener nofollow" target="_blank">CT 01 – 01 January 2026 Accreditation Process for CBs and V&amp;V Bodies</a>
 </p>
 </li>
 <li>
@@ -43,15 +43,15 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 <ul>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/CT-02-15-Jul-2020-SAC-Criteria-for-OHSMS.pdf" rel="noopener noreferrer nofollow" target="_blank">CT 02 - SAC Criteria for Certification Bodies (OSHMS) - July 2020</a>
+<p><a href="https://go.gov.sg/ct02-1jan2026" rel="noopener nofollow" target="_blank">CT 02 - SAC Criteria for Certification Bodies (Safety and Health Management System for the Chemical Industry) – 01 January 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/CT-04-(17-July-2019).pdf" rel="noopener noreferrer nofollow" target="_blank">CT 04 - SAC Criteria for Certification Bodies (GDPMDS) - July 2019</a>
+<p><a href="https://go.gov.sg/ct04-1jan2026" rel="noopener nofollow" target="_blank">CT 04 - SAC Criteria for Certification Bodies (GDPMDS) - 01 January 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/CT-08-02-March-2020-(BCM).pdf" rel="noopener noreferrer nofollow" target="_blank">CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2020</a>
+<p><a href="https://go.gov.sg/ct08-1jan2026" rel="noopener nofollow" target="_blank">CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - 01 January 2026</a>
 </p>
 </li>
 <li>
@@ -75,15 +75,15 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct16-29march2019" rel="noopener noreferrer nofollow" target="_blank">CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019</a>
+<p><a href="https://go.gov.sg/ct16-1jan2026" rel="noopener nofollow" target="_blank">CT 16 - SAC Criteria for Certification Bodies (Asset Management) – 01 January 2026</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct18-01june2021" rel="noopener noreferrer nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) - June 2021</a>
+<p><a href="https://go.gov.sg/ct18-1jan2026" rel="noopener nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) -01 January 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/ct-21-01-june-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021</a>
+<p><a href="https://go.gov.sg/ct21-1jan2026" rel="noopener nofollow" target="_blank">CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) -01 January 2026</a>
 </p>
 </li>
 <li>
