@@ -27,7 +27,7 @@ criteria and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct01-23112023" rel="noopener noreferrer nofollow" target="_blank">CT 01 - 23 Nov 2023 Accreditation Process for Certification Bodies and V&amp;V Bodies</a>
+<p><a href="https://go.gov.sg/ct01-accreditation-process-for-cbs-and-vb-1jan2026" rel="noopener nofollow" target="_blank">CT 01 – 01 January 2026 Accreditation Process for Certification Bodies and V&amp;V Bodies</a>
 </p>
 <p></p>
 </li>
