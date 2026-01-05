@@ -39,7 +39,7 @@ laboratory or inspection body is accredited by a signatory of the International 
 
 * The ILAC MRA mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. It shall not appear in a size that renders the ILAC MRA words unreadable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated. It shall maintain similar proportions to the SAC accreditation mark within the Accredited CAB Combined ILAC MRA Mark. The ILAC MRA mark must be based upon the original artwork to ensure high-quality production. 
 
-## Use of IAF MLA Mark by Accredited Certification Bodies
+## Use of IAF MLA Mark by Accredited Certification Bodies and Validation &amp; Verification Bodies
 
 <img style="width:779px" alt="IAF MLA Mark" src="/images/iaf-mark.jpg">
 
