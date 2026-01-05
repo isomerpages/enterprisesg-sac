@@ -160,7 +160,7 @@ is a merger of APLAC and PAC.
 <p>Signed in 2019 (ISMS)</p>
 </li>
 <li>
-<p>Signed in 2019 (MDQMDS)</p>
+<p>Signed in 2019 (MDQMS)</p>
 </li>
 <li>
 <p>Signed in 2019 (Certification Bodies of Persons)</p>
