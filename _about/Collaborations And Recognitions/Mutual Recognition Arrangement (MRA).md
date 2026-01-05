@@ -7,7 +7,7 @@ variant: markdown
 ---
 <p>   
 
-The objective of the Mutual Recognition Arrangement (MRA) is to develop a global network of conformity assessment bodies. This includes certification bodies, validation &amp; verification bodies, testing and calibration laboratories, and inspection bodies, which can be relied on to provide competent services, such as certification activities, validation &amp; verification, testing, calibration and inspection. Key to international trade, the MRAs promote cross border stakeholder confidence and the acceptance of accredited conformity assessment bodies.</p>
+The objective of the Mutual Recognition Arrangement (MRA) is to develop a global network of conformity assessment bodies. This includes certification bodies, validation &amp; verification bodies, testing and calibration laboratories, and inspection bodies, which can be relied on to provide competent services, such as certification, validation &amp; verification, testing, calibration and inspection. Key to international trade, the MRAs promote cross border stakeholder confidence and the acceptance of accredited conformity assessment bodies.</p>
 <h3>Benefit from MRAs?</h3>
 <p>SAC's signatory status in the MRAs is a global passport for enterprises
 in Singapore. There is no need for duplicative re-testing, re-inspection
