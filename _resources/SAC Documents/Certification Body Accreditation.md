@@ -79,11 +79,11 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct18-1jan2026" rel="noopener nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) -01 January 2026</a>
+<p><a href="https://go.gov.sg/ct18-1jan2026" rel="noopener nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) - 01 January 2026</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct21-1jan2026" rel="noopener nofollow" target="_blank">CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) -01 January 2026</a>
+<p><a href="https://go.gov.sg/ct21-1jan2026" rel="noopener nofollow" target="_blank">CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - 01 January 2026</a>
 </p>
 </li>
 <li>
