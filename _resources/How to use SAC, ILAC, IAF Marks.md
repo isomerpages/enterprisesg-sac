@@ -43,19 +43,13 @@ laboratory or inspection body is accredited by a signatory of the International 
 
 <img style="width:779px" alt="IAF MLA Mark" src="/images/iaf-mark.jpg">
 
-* An accredited certification body is encouraged to use the IAF MLA Mark to demonstrate that it is accredited by a signatory of the International Accreditation Forum (IAF) Multilateral Recognition Arrangement. The IAF MLA Mark shall only be used in combination with the SAC Accreditation Mark which is then known as the "Combined Mark". 
 
-* Accredited certification bodies must enter into a sublicensing agreement with SAC prior to the use of the "Combined Mark". The coverage of the sublicense is restricted to the scope of the MLA for which SAC is a signatory of the IAF MLA and also restricted to the certification bodies' scope of accreditation.
+*   An accredited certification body/validation &amp; verification body is encouraged to use the IAF MLA Mark to demonstrate that it is accredited by a signatory of the International Accreditation Forum (IAF) Multilateral Recognition Arrangement. The IAF MLA Mark shall only be used in combination with the SAC Accreditation Mark which is then known as the “Combined Mark”.
 
-* The "Combined Mark" in conjunction with the certification body's mark, can be used on letterheads, accredited certificates, quotations for work, advertisements, websites and other documents.
+*   Accredited certification bodies/validation &amp; verification bodies must enter into a sublicensing agreement with SAC prior to the use of the “Combined Mark”. The coverage of the sublicense is restricted to the scope of the MLA for which SAC is a signatory of the IAF MLA and also restricted to the certification bodies’ /validation &amp; verification bodies’ scope of accreditation.
+   
+*   The “Combined Mark” in conjunction with the certification body’s/validation &amp; verification body’s mark, can be used on letterheads, accredited certificates/statements/reports, quotations for work, advertisements, websites and other documents.
 
-* The certification body shall not allow its customers to use the combined mark.
-
-* The IAF MLA Mark shall be printed according to the following specifications:  
-  i. In black and white or in the colours Pantone 2747 (dark blue) Pantone 299 (light blue);  
-  ii. On a clearly contrasting background; and  
-  iii. In a size which makes all the words of the IAF MLA Mark clearly distinguishable, with the width of the IAF MLA Mark no less than 20mm for printed media and 75 pixels for digital media.
+* Please refer to IAF ML-2 General Principles on the use of the IAF MLA Mark for more information on the IAF MLA mark and sublicense agreement.
 
 
-* Please refer to  [IAF ML-2 General Principles on the use of the IAF MLA Mark](https://go.gov.sg/iaf-ml2-2023-mla-mark-use-issue4)
-for more information on the IAF MLA mark and sublicense agreement.
