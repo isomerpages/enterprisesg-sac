@@ -95,7 +95,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct34-07jul2025" rel="noopener nofollow" target="_blank">CT 34 - SAC Criteria Certification Bodies (Data Protection Trustmark) -  07 July 2025</a>
+<p><a href="https://go.gov.sg/ct34-07jul2025" rel="noopener nofollow" target="_blank">CT 34 - SAC Criteria Certification Bodies (Data Protection Trustmark) - 07 July 2025</a>
 </p>
 </li>
 <li>
