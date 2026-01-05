@@ -129,6 +129,9 @@ Click on the quick links below to jump to the CAB Status:
   * Plant Electrical Instrumentation Pte Ltd (13 June 2025)
   * Nihon Denkei Co. Ltd (22 November 2025)
 
+* Non-Destructive Testing
+  * A-Star Technical Services (Thai) Co.,Ltd. (07 October 2025)
+  * Nihon Denkei Co. Ltd (22 November 2025)
 
 
 
