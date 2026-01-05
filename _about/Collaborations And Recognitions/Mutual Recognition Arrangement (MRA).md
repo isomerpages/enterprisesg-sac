@@ -101,6 +101,17 @@ is a merger of APLAC and PAC.
 <li>
 <p>Signed in 2024 (Validation and Verification – Greenhouse Gases - ISO 14065:2013 - Sub-scope: ICAO CORSIA)</p>
 </li>
+<li>	
+<p>Signed in 2025 (FMS)</p>
+</li>
+<li>
+<p> Signed in 2025 (AIMS)</p>
+</li>
+
+	
+	
+	
+	
 </ul>
 <p></p>
 <p></p>
