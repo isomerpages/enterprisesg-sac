@@ -134,7 +134,7 @@ Click on the quick links below to jump to the CAB Status:
   * Nihon Denkei Co. Ltd (22 November 2025)
 
 * Non-Destructive Testing
-  * A-Star Technical Services (Thai) Co.,Ltd. (07 October 2025)
+  * A-STAR Technical Services (Thai) Co.,Ltd. (07 October 2025)
   * SG Engineering & Inspection Pte Ltd (20 October 2025)
 
 
