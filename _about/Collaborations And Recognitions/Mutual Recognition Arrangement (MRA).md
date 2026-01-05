@@ -160,7 +160,7 @@ is a merger of APLAC and PAC.
 <p>Signed in 2019 (ISMS)</p>
 </li>
 <li>
-<p>Signed in 2019 (MDMS)</p>
+<p>Signed in 2019 (MDQMDS)</p>
 </li>
 <li>
 <p>Signed in 2019 (Certification Bodies of Persons)</p>
@@ -168,6 +168,19 @@ is a merger of APLAC and PAC.
 <li>
 <p>Signed in 2020 [OHSMS(ISO 45001)]</p>
 </li>
+<li>	  
+<p>Signed in 2024 (Verification body - CORSIA and Environmental information)</p>
+
+</li>
+
+<li>
+
+<p>Signed in 2025 (ABMS)</p>
+
+</li>
+
+
+	
 </ul>
 <p></p>
 <p></p>
