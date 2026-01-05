@@ -15,7 +15,7 @@ criteria and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/sac02-1jan2026-rev" rel="noopener nofollow" target="_blank">SAC 02 - 01 Jan 2026: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
+<p><a href="https://go.gov.sg/sac02-1jan2026-rev2" rel="noopener nofollow" target="_blank">SAC 02 - 01 Jan 2026: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
 </p>
 </li>
 <li>
