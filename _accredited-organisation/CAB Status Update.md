@@ -68,7 +68,7 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Calibration  & Measurement
-   * GRONIK ASIA PTE. LTD. (18 December 2025)
+   * GERONIK ASIA PTE. LTD. (18 December 2025)
 
 * Chemical & Biological
    * Poh Heng Jewellery (Private) Limited (12 November 2025)
