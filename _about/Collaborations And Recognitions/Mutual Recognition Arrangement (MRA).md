@@ -45,7 +45,9 @@ organisations:</p>
 </div>
 <p><strong>   
 
-Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management Systems Certification, &nbsp;and Product Certification, Personnel Certification and Validation &amp; Verification</strong> 
+  
+
+Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, Management Systems Certification, &nbsp;Product Certification, Personnel Certification and Validation &amp; Verificationmp; Verification</strong> 
 <br><a href="https://www.apac-accreditation.org/" rel="noopener noreferrer nofollow" target="_blank">APAC</a>
 is a merger of APLAC and PAC. 
 	
