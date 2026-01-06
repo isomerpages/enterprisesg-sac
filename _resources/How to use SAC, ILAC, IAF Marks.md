@@ -19,7 +19,7 @@ the logo, the accredited scheme and the certificate number.
 
 * An accredited organisation may use the SAC accreditation mark on publicity and other stationery materials such as brochures, business cards, letterhead paper, quotations, websites and vehicles. However, the use of the SAC accreditation mark or any reference to SAC accreditation in advertising and promotional publications shall be vetted and pre-approved by SAC.
 
-* Please refer to [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks ](/files/Documents/Laboratory%20Accreditation/SAC-02-22-Jan-20.pdf){:target="_blank"} for more information.
+* Please refer to SAC 02: Rules for Use of SAC Accreditation Marks and MRA Marks
 
 
 ### Use of Accredited CAB Combined ILAC MRA Mark by Accredited Laboratories and Inspection Bodies
@@ -39,23 +39,27 @@ laboratory or inspection body is accredited by a signatory of the International 
 
 * The ILAC MRA mark shall always be used in its original, designed proportions and not to be distorted, compressed or stretched in any way. It shall not appear in a size that renders the ILAC MRA words unreadable. It shall be used on a background that will not impede readability and only be used in its normal horizontal orientation and not be rotated. It shall maintain similar proportions to the SAC accreditation mark within the Accredited CAB Combined ILAC MRA Mark. The ILAC MRA mark must be based upon the original artwork to ensure high-quality production. 
 
-## Use of IAF MLA Mark by Accredited Certification Bodies
+## Use of IAF MLA Mark by Accredited Certification Bodies and Validation &amp; Verification Bodies
 
+  
+
+Combined Mark for Certification Bodies:
 <img style="width:779px" alt="IAF MLA Mark" src="/images/iaf-mark.jpg">
 
-* An accredited certification body is encouraged to use the IAF MLA Mark to demonstrate that it is accredited by a signatory of the International Accreditation Forum (IAF) Multilateral Recognition Arrangement. The IAF MLA Mark shall only be used in combination with the SAC Accreditation Mark which is then known as the "Combined Mark". 
+  
 
-* Accredited certification bodies must enter into a sublicensing agreement with SAC prior to the use of the "Combined Mark". The coverage of the sublicense is restricted to the scope of the MLA for which SAC is a signatory of the IAF MLA and also restricted to the certification bodies' scope of accreditation.
-
-* The "Combined Mark" in conjunction with the certification body's mark, can be used on letterheads, accredited certificates, quotations for work, advertisements, websites and other documents.
-
-* The certification body shall not allow its customers to use the combined mark.
-
-* The IAF MLA Mark shall be printed according to the following specifications:  
-  i. In black and white or in the colours Pantone 2747 (dark blue) Pantone 299 (light blue);  
-  ii. On a clearly contrasting background; and  
-  iii. In a size which makes all the words of the IAF MLA Mark clearly distinguishable, with the width of the IAF MLA Mark no less than 20mm for printed media and 75 pixels for digital media.
+Combined Mark for Validation &amp; Verification Bodies: 
+![mark-vvb](/images/mark_vvb.jpg)
 
 
-* Please refer to  [IAF ML-2 General Principles on the use of the IAF MLA Mark](https://go.gov.sg/iaf-ml2-2023-mla-mark-use-issue4)
-for more information on the IAF MLA mark and sublicense agreement.
+
+
+
+
+*   An accredited certification body/validation &amp; verification body is encouraged to use the IAF MLA Mark to demonstrate that it is accredited by a signatory of the International Accreditation Forum (IAF) Multilateral Recognition Arrangement. The IAF MLA Mark shall only be used in combination with the SAC Accreditation Mark which is then known as the “Combined Mark”.
+
+*   Accredited certification bodies/validation &amp; verification bodies must enter into a sublicensing agreement with SAC prior to the use of the “Combined Mark”. The coverage of the sublicense is restricted to the scope of the MLA for which SAC is a signatory of the IAF MLA and also restricted to the certification bodies’ /validation &amp; verification bodies’ scope of accreditation.
+   
+*   The “Combined Mark” in conjunction with the certification body’s/validation &amp; verification body’s mark, can be used on letterheads, accredited certificates/statements/reports, quotations for work, advertisements, websites and other documents.
+
+* Please refer to IAF ML-2 General Principles on the use of the IAF MLA Mark for more information on the IAF MLA mark and sublicense agreement.

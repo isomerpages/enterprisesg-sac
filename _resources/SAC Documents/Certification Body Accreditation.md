@@ -16,7 +16,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/sac02-1jan2026-rev" rel="noopener nofollow" target="_blank">SAC 02 - 01 Jan 2026: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
+<p><a href="https://go.gov.sg/sac02-1jan2026-rev2" rel="noopener nofollow" target="_blank">SAC 02 - 01 Jan 2026: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
 </p>
 </li>
 </ul>
@@ -79,11 +79,11 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct18-1jan2026" rel="noopener nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) -01 January 2026</a>
+<p><a href="https://go.gov.sg/ct18-1jan2026" rel="noopener nofollow" target="_blank">CT 18 - SAC Criteria for Certification Bodies (Medical Devices - QMS) - 01 January 2026</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ct21-1jan2026" rel="noopener nofollow" target="_blank">CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) -01 January 2026</a>
+<p><a href="https://go.gov.sg/ct21-1jan2026" rel="noopener nofollow" target="_blank">CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - 01 January 2026</a>
 </p>
 </li>
 <li>
@@ -95,7 +95,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Management system and products certification/ct_34_7_jul_2025.pdf" rel="noopener nofollow" target="_blank">CT 34 - SAC Criteria Certification Bodies (Data Protection Trustmark) - July 2025</a>
+<p><a href="https://go.gov.sg/ct34-07jul2025" rel="noopener nofollow" target="_blank">CT 34 - SAC Criteria Certification Bodies (Data Protection Trustmark) - 07 July 2025</a>
 </p>
 </li>
 <li>

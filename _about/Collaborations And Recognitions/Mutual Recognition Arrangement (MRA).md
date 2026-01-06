@@ -5,13 +5,9 @@ description: ""
 third_nav_title: Collaborations And Recognitions
 variant: markdown
 ---
-<p>The objective of the Mutual Recognition Arrangement (MRA) is to develop
-a global network of conformity assessment bodies. This includes certification
-bodies, testing and calibration laboratories, and inspection bodies, which
-can be relied on to provide competent services, such as certification activities,
-testing, calibration and inspection. Key to international trade, the MRAs
-promote cross border stakeholder confidence and the acceptance of accredited
-conformity assessment bodies.</p>
+<p>   
+
+The objective of the Mutual Recognition Arrangement (MRA) is to develop a global network of conformity assessment bodies. This includes certification bodies, validation &amp; verification bodies, testing and calibration laboratories, and inspection bodies, which can be relied on to provide competent services, such as certification, validation &amp; verification, testing, calibration and inspection. Key to international trade, the MRAs promote cross border stakeholder confidence and the acceptance of accredited conformity assessment bodies.</p>
 <h3>Benefit from MRAs?</h3>
 <p>SAC's signatory status in the MRAs is a global passport for enterprises
 in Singapore. There is no need for duplicative re-testing, re-inspection
@@ -21,14 +17,9 @@ as well as those of the MRA partners, as they begin to realise the credibility
 of accreditation programmes that are based on internationally recognised
 standards.</p>
 <h3>How do MRAs work?</h3>
-<p>An MRA is based on the results of intensive peer evaluation of its signatories.
-The accreditation body to the MRA must agree to abide by the requirements
-in ISO/IEC 17011: Conformity assessment - General Requirements for accreditation
-bodies accrediting conformity assessment bodies. They must ensure that
-the conformity assessment bodies that they accredit conform to standards,
-such as ISO/IEC 17025 and ISO 15189 for laboratories, ISO/IEC 17020 for
-inspection bodies, and ISO/IEC 17065 and ISO/IEC 17021 for accreditation
-of certification bodies.</p>
+<p>   
+
+An MRA is based on the results of intensive peer evaluation of its signatories. The accreditation body to the MRA must agree to abide by the requirements in ISO/IEC 17011: Conformity assessment - General Requirements for accreditation bodies accrediting conformity assessment bodies. They must ensure that the conformity assessment bodies that they accredit conform to standards, such as ISO/IEC 17025 and ISO 15189 for laboratories, ISO/IEC 17020 for inspection bodies,  ISO/IEC 17021-1 for management system certification bodies, ISO/IEC 17065 for product certification bodies, ISO/IEC 17024 for personnel certification bodies and ISO/IEC 17029 for validation &amp; verification bodies.</p>
 <h3>How to Recognise Accredited Reports &amp; Certificates?</h3>
 <p>Once a laboratory or inspection body becomes accredited, it is granted
 exclusive use of the logo belonging to the particular accreditation body
@@ -52,7 +43,19 @@ organisations:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%" height="auto" width="30%" alt="APAC Logo" src="/images/about/APAC_logo.jpg">
 </div>
-<p><strong>Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, and Certification of Quality Management System, Environmental Management System, Energy Management System, Food Safety Management System and Product Certification</strong> 
+<p><strong>   
+
+  
+
+    
+
+Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, Management Systems Certification, &nbsp;Product Certification, Personnel Certification and Validation &amp; Verification
+
+
+
+
+
+</strong> 
 <br><a href="https://www.apac-accreditation.org/" rel="noopener noreferrer nofollow" target="_blank">APAC</a>
 is a merger of APLAC and PAC. 
 	
@@ -108,6 +111,17 @@ is a merger of APLAC and PAC.
 <li>
 <p>Signed in 2024 (Validation and Verification – Greenhouse Gases - ISO 14065:2013 - Sub-scope: ICAO CORSIA)</p>
 </li>
+<li>	
+<p>Signed in 2025 (FMS)</p>
+</li>
+<li>
+<p> Signed in 2025 (AIMS)</p>
+</li>
+
+	
+	
+	
+	
 </ul>
 <p></p>
 <p></p>
@@ -156,7 +170,7 @@ is a merger of APLAC and PAC.
 <p>Signed in 2019 (ISMS)</p>
 </li>
 <li>
-<p>Signed in 2019 (MDMS)</p>
+<p>Signed in 2019 (MDQMS)</p>
 </li>
 <li>
 <p>Signed in 2019 (Certification Bodies of Persons)</p>
@@ -164,6 +178,19 @@ is a merger of APLAC and PAC.
 <li>
 <p>Signed in 2020 [OHSMS(ISO 45001)]</p>
 </li>
+<li>	  
+<p>Signed in 2024 (Verification body - CORSIA and Environmental information)</p>
+
+</li>
+
+<li>
+
+<p>Signed in 2025 (ABMS)</p>
+
+</li>
+
+
+	
 </ul>
 <p></p>
 <p></p>

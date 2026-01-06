@@ -37,6 +37,7 @@ Click on the quick links below to jump to the CAB Status:
 * Data Protection Trustmark  
   * Guardian Independent Certification P L (9 October 2025)
   * ISOCert Pte Ltd (17 November 2025)
+  * TUV SUD PSB Pte Ltd (31 December 2025)
 			
 * Facility Management System
    * Bureau Veritas Quality Assurance Pte Ltd (31 July 2025)
@@ -65,6 +66,9 @@ Click on the quick links below to jump to the CAB Status:
 
 
 #### Laboratory
+
+* Calibration  & Measurement
+   * GERONIK ASIA PTE. LTD. (18 December 2025)
 
 * Chemical & Biological
    * Poh Heng Jewellery (Private) Limited (12 November 2025)
@@ -125,13 +129,13 @@ Click on the quick links below to jump to the CAB Status:
   *  Singapore Civil Defence Force (6 January 2025)
   *  TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
 
-* Calibration Testing
+* Calibration  & Measurement
   * Plant Electrical Instrumentation Pte Ltd (13 June 2025)
   * Nihon Denkei Co. Ltd (22 November 2025)
 
-
-#### Auditing Organisation
-  *  CCIC Singapore Pte. Ltd (30 May 2025)
+* Non-Destructive Testing
+  * A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)
+  * SG Engineering & Inspection Pte Ltd (20 October 2025)
 
 
 
