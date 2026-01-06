@@ -47,10 +47,11 @@ organisations:</p>
 
   
 
-  
+    
 
-Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, Management Systems Certification, &nbsp;Product Certification, Personnel Certification and Validation &amp; Verificationn.mp; Verification	
-   
+Asia Pacific Accreditation Cooperation for Testing, Calibration, Medical, Inspection, Proficiency Testing Providers, Management Systems Certification, &nbsp;Product Certification, Personnel Certification and Validation &amp; Verification
+
+
 
 
 
