@@ -19,7 +19,7 @@ standards.</p>
 <h3>How do MRAs work?</h3>
 <p>   
 
-An MRA is based on the results of intensive peer evaluation of its signatories. The accreditation body to the MRA must agree to abide by the requirements in ISO/IEC 17011: Conformity assessment - General Requirements for accreditation bodies accrediting conformity assessment bodies. They must ensure that the conformity assessment bodies that they accredit conform to standards, such as ISO/IEC 17025 and ISO 15189 for laboratories, ISO/IEC 17020 for inspection bodies, and ISO/IEC 17065, and ISO/IEC 17021-1 for accreditation of management system certification bodies, ISO/IEC 17065 for product certification bodies, ISO/IEC 17024 for personnel certification bodies and ISO/IEC 17029 for validation &amp; verification bodies.</p>
+An MRA is based on the results of intensive peer evaluation of its signatories. The accreditation body to the MRA must agree to abide by the requirements in ISO/IEC 17011: Conformity assessment - General Requirements for accreditation bodies accrediting conformity assessment bodies. They must ensure that the conformity assessment bodies that they accredit conform to standards, such as ISO/IEC 17025 and ISO 15189 for laboratories, ISO/IEC 17020 for inspection bodies,  ISO/IEC 17021-1 for management system certification bodies, ISO/IEC 17065 for product certification bodies, ISO/IEC 17024 for personnel certification bodies and ISO/IEC 17029 for validation &amp; verification bodies.</p>
 <h3>How to Recognise Accredited Reports &amp; Certificates?</h3>
 <p>Once a laboratory or inspection body becomes accredited, it is granted
 exclusive use of the logo belonging to the particular accreditation body
