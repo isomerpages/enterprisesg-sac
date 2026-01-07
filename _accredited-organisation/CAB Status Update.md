@@ -141,8 +141,8 @@ Click on the quick links below to jump to the CAB Status:
 
 #### **Withdrawal by SAC**
 
-* Chemical & Biological Testing
-  *  Singapore Civil Defence Force (6 January 2025)
+* Medical Testing
+  *  Asia Royal Hospital (31 December 2025)
   *  TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
 
 
