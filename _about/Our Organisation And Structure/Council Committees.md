@@ -645,7 +645,7 @@ Interest Group</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Chew Sing Yian</p>
+<p>Prof Chan Bee Eng Mary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nanyang Technological University</p>
