@@ -143,7 +143,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Medical Testing
   *  Asia Royal Hospital (31 December 2025)
-  *  TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
+  *  Right Healthcare (31 December 2025)
 
 
 
