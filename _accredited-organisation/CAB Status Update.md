@@ -141,7 +141,9 @@ Click on the quick links below to jump to the CAB Status:
 
 #### **Withdrawal by SAC**
 
-Nil
+* Chemical & Biological Testing
+  *  Singapore Civil Defence Force (6 January 2025)
+  *  TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
 
 
 
