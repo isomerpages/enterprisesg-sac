@@ -19,8 +19,6 @@ documents for the SAC accreditation are as below:</p>
 <p><a href="https://go.gov.sg/sac02-1jan2026-rev2" rel="noopener nofollow" target="_blank">SAC 02 - 01 Jan 2026: Rules for Use of SAC Accreditation Marks and MRA Marks</a>
 </p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Documents/sac-guidance-01-guidelines-on-code-of-ethics-(02-april-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics</a>
 </p>
@@ -34,8 +32,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory Accreditation/prof_001_06_january_2026.pdf" rel="noopener nofollow" target="_blank">PROF 001 - 06 January 2026</a>
-<a href="/files/Documents/Laboratory Accreditation/prof_001_06_january_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">: Policies on Proficiency Testing</a>
+<p><a href="https://www.sac-accreditation.gov.sg/files/Documents/Laboratory%20Accreditation/PROF-001-18-Feb-2019.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>PROF 001 - 06 January 2026: Policies on Proficiency Testing</u></a>
 </p>
 </li>
 <li>
