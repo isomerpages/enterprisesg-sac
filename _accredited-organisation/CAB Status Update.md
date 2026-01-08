@@ -141,7 +141,9 @@ Click on the quick links below to jump to the CAB Status:
 
 #### **Withdrawal by SAC**
 
-Nil
+* Medical Testing
+  *  Asia Royal Hospital (31 December 2025)
+  *  Right Healthcare (31 December 2025)
 
 
 
