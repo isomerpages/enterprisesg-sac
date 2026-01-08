@@ -34,7 +34,8 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/PROF-001-18-Feb-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">PROF 001 - 18 February 2019: Policies on Proficiency Testing</a>
+<p><a href="/files/Documents/Laboratory Accreditation/prof_001_06_january_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">PROF 001 - 06 January</a>
+<a href="/files/Documents/Laboratory Accreditation/prof_001_06_january_2026.pdf" rel="noopener nofollow" target="_blank">PROF-001-06-Jan-2026.pdf</a><a href="/files/Documents/Laboratory Accreditation/prof_001_06_january_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"> 2026: Policies on Proficiency Testing</a>
 </p>
 </li>
 <li>
