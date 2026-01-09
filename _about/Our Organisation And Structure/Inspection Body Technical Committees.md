@@ -242,7 +242,7 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shu Lin, Jerlyn</p>
+<p>Mr Cheah Chun Wah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Police Force</p>
