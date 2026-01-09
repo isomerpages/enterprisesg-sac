@@ -114,6 +114,9 @@ Click on the quick links below to jump to the CAB Status:
 {: #withdrawn}
 ### 3. Withdrawn Conformity Assessment Bodies (CABs)
 
+* Environmental Testing
+   * Element Construction Testing (S) Pte Ltd (12 January 2026)
+
 
 #### **Voluntary Withdrawal by CABs**
 
@@ -123,8 +126,6 @@ Click on the quick links below to jump to the CAB Status:
  * Agrolex Pte Ltd (17 June 2025)
 
 
-* Environmental Testing
-   * Element Construction Testing (S) Pte Ltd (12 January 2026)
  
 
  
