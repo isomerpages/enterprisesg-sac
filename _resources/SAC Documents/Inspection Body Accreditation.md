@@ -64,13 +64,6 @@ and related documents for the SAC accreditation are as below:</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Motor Vehicle Inspection Field</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Documents/Inspection%20body%20accreditation/MV-01-(09-July-2018).pdf" rel="noopener noreferrer nofollow" target="_blank">Technical Note: MV 01: 09 July 2018 - Specific Reqts for Accreditation of Motor Vehicles Inspection</a>{:target="_blank"}</p>
-</li>
-</ul>
 <p><strong>Pressure Vessel / Lifting Equipment Inspection Field</strong>
 </p>
 <ul data-tight="true" class="tight">
