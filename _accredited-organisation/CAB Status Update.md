@@ -115,11 +115,22 @@ Click on the quick links below to jump to the CAB Status:
 ### 3. Withdrawn Conformity Assessment Bodies (CABs)
 
 
+
 #### **Voluntary Withdrawal by CABs**
 
-#### Good Laboratory Practice Compliance Programme 
 
-  * Agrolex Pte Ltd (17 June 2025)
+* Environmental Testing
+   * Element Construction Testing (S) Pte Ltd (12 January 2026)
+   
+#### Good Laboratory Practice Compliance Programme
+
+
+ * Agrolex Pte Ltd (17 June 2025)
+
+
+ 
+
+ 
 
 
 
