@@ -22,7 +22,7 @@ with the Global Accreditation Cooperation Incorporated. This ensures continuity
 of recognition for all existing SAC accreditations previously issued under
 the ILAC Mutual Recognition Arrangement (MRA) and IAF Multilateral Recognition
 Arrangement (MLA).</p>
-<p>&nbsp;All current accreditations remain valid and recognised as the transition
+<p>All current accreditations remain valid and recognised as the transition
 to the new Global Accreditation Cooperation Incorporated MRA takes place.
 We want to assure you that there will be no interruption to your accreditation
 and our accreditation services during this transition period. The use of
