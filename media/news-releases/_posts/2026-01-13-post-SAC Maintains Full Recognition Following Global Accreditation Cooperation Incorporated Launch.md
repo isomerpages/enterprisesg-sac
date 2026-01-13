@@ -34,6 +34,6 @@ to continue accessing documents and other information.</p>
 <p>&nbsp;For detailed information about this merger and its implications,
 please refer to the full press release, <a href="https://file.go.gov.sg/global-accreditation-cooperation.pdf" rel="noopener nofollow" target="_blank">Global Accreditation Cooperation</a>.
 Additional resources and updates are available on the Global Accreditation
-Cooperation Incorporated website at <a rel="noopener noreferrer nofollow" target="_blank">www.globalaccreditationcooperationincorporated.org</a>.</p>
+Cooperation Incorporated website at <a href="www.globalaccreditationcooperationincorporated.org" rel="noopener nofollow" target="_blank">www.globalaccreditationcooperationincorporated.org</a>.</p>
 <p>&nbsp;Should you have any questions regarding this transition or its impact
 on your accreditation status, please do not hesitate to contact us.</p>
