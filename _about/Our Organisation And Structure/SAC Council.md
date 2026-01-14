@@ -140,7 +140,7 @@ interest groups.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Toon Joon</p>
+<p>Ms Denise Pereira</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ministry of Trade and Industry</p>
