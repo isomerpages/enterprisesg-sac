@@ -99,7 +99,7 @@ interest groups.</p>
 <p>Dr Teo Tang Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Health Sciences Agency</p>
+<p>Health Sciences Authority</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ interest groups.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Toon Joon</p>
+<p>Ms Denise Pereira</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ministry of Trade and Industry</p>
