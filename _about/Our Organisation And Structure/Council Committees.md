@@ -104,7 +104,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sebastian Tan</p>
+<p>Mr Goh Chin Keong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ministry of Manpower</p>
@@ -170,10 +170,10 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Law Wei Kang</p>
+<p>Pending</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SMF-TIC Interest Group – Product Certification Bodies</p>
+<p>SMF-TIC Interest Group - Product Certification Bodies</p>
 </td>
 </tr>
 <tr>
