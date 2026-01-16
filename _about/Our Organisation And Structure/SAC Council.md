@@ -54,7 +54,7 @@ interest groups.</p>
 <p>Mr Jagadish CV</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Advanced Micro Foundry Pte Ltd</p>
+<p>Individual Capacity</p>
 </td>
 </tr>
 <tr>
