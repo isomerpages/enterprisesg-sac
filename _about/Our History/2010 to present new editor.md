@@ -292,7 +292,84 @@ Food Cargo Inspection.
 <br><strong>22 February:</strong> Expanded Auditing Organisation Scheme to
 include Food Establishments Audits.</p>
 <p></p>
+<p><strong>01 July: </strong>Expanded Inspection Body Scheme to include Instrumentation
+&amp; Monitoring (I&amp;M) Works</p>
+<p>&nbsp;</p>
+<p><strong>19 December: </strong>Expanded Product Certification Scheme to
+include Specialist Builder for Ground Support and Stabilisation Works for
+Earth Retaining and Stabilising Structures (ERSS); and Specialist Builder
+for Precast Concrete Works</p>
+<p>&nbsp;</p>
 <p></p>
+<p><strong>2023</strong>
+</p>
+<p>&nbsp;</p>
+<p><strong>27 April: </strong>Expanded Product Certification Scheme to include
+Specialist Builder for Piling Works</p>
+<p>&nbsp;</p>
+<p><strong>01 July: </strong>Launch of electronic SAC Accreditation certificates
+with inclusion of unique CR code, which links to specific SAC accreditation
+content for the specific CAB</p>
+<p>&nbsp;</p>
+<p><strong>12 July: </strong>Expanded Inspection Body Scheme to include Building
+Façade Inspection using Drones</p>
+<p>&nbsp;</p>
+<p><strong>02 August: </strong>Launch of Accreditation Programme for Privacy
+Information Management System (PIMS) Certification</p>
+<p>&nbsp;</p>
+<p><strong>19 September: </strong>SAC launched LinkedIn account</p>
+<p>&nbsp;</p>
+<p><strong>23 November: </strong>Launch of Accreditation Programme for Facility
+Management System (FMS) Certification</p>
+<p>&nbsp;</p>
+<p><strong>29 November: </strong>Expanded Product Certification Scheme to
+include Clean &amp; Green Urban Farms (Aquaculture)</p>
+<p>&nbsp;</p>
+<p><strong>2024</strong>
+</p>
+<p>&nbsp;</p>
+<p><strong>03 April:</strong>&nbsp;SAC was admitted to APAC MRA for Validation
+and Verification, sub-scope – ICAO CORSIA</p>
+<p>&nbsp;</p>
+<p><strong>28 May:</strong>&nbsp;SAC was admitted to APAC MRA for Validation
+and Verification, sub-scope – Environmental Information ISO 14065:2020</p>
+<p>&nbsp;</p>
+<p><strong>02 July: </strong>Termination of Medical Imaging accreditation
+programme</p>
+<p>&nbsp;</p>
+<p><strong>24 July:</strong> Expanded Auditing Organisation Scheme to include
+Bio-risk Management Audits</p>
+<p>&nbsp;</p>
+<p><strong>08 August:</strong>&nbsp;SAC was admitted to IAF MLA for Validation
+and Verification, sub-scope – ICAO CORSIA SARPs</p>
+<p>&nbsp;</p>
+<p><strong>17 December: </strong>Expanded Product Certification Scheme to
+include Clean &amp; Green Urban Farms (Layer Farms)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>2025</strong>
+</p>
+<p>&nbsp;</p>
+<p><strong>31 January:</strong>&nbsp;SAC was admitted to IAF MLA for Validation
+and Verification, sub-scope – ISO 14064-1</p>
+<p>&nbsp;</p>
+<p><strong>17 February: </strong>Launch of Accreditation Programme for Artificial
+Intelligence Management Systems (AIMS) Certification</p>
+<p>&nbsp;</p>
+<p><strong>15 April: </strong>Expanded Inspection Body Scheme to include
+Lift &amp; Escalator Inspection</p>
+<p>&nbsp;</p>
+<p><strong>09 May:</strong>&nbsp;SAC was admitted to IAF MLA for Anti-bribery
+Management System</p>
+<p>&nbsp;</p>
+<p><strong>04 July: </strong>Launch of Accreditation Programme on Verification
+of Carbon Footprint of Product</p>
+<p>&nbsp;</p>
+<p><strong>09 July: </strong>Launch of Accreditation Programme for Data Protection
+Trustmark (DPTM) certification</p>
+<p>&nbsp;</p>
+<p><strong>07 October:</strong>&nbsp;SAC was admitted to APAC MRA for Artificial
+Intelligence Management System and Facilities Management Management System</p>
 <p></p>
 <p></p>
 <p></p>
