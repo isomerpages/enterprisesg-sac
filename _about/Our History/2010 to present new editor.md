@@ -1,85 +1,298 @@
 ---
 title: 2010 to present new editor
 permalink: /2010-to-present-new-editor/
-variant: markdown
+variant: tiptap
 description: https://cms.isomer.gov.sg/sites/enterprisesg-sac/folders/about/subfolders/Our%20History/editPage/2010%20to%20Present.md
 third_nav_title: Our History
 ---
-
-<style type="text/css"> 
-
-.milestone-arrow::before { 
-
-content: none; 
-
-} 
-
-.milestone-arrow::after { 
-
-display: inline-block; 
-
-font-family: "sgds-icons"; 
-
-content: ""; 
-
-padding-left: 0.25rem; 
-
-font-weight: 400; 
-
-} 
-
-</style> 
-
-<table>
-<thead>
-  <tr>
-    <td><b>2010</b><br><br><b>13 January:</b> The Singapore GLP Compliance Programme was admitted to OECD Mutual Acceptance of Data.<span class="milestone-arrow"></span><br><br><b>6 April:</b> Launch of Accreditation Programme for Business Continuity Management (BCM) Certification. <br><br><b>25 May:</b> Launch of Functional Food Testing Accreditation Programme.</td> 
-    <td style="vertical-align:middle"> <img style="width:250px" alt="2010" src="/images/about/milestone/sac-milestone-2010-01-13.jpg"> </td>
-  </tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td colspan="2"><b>2011 </b><br><br><b>1 January:</b> SAC took on the APLAC Chairmanship. <br><br><b>19 May:</b> Launch of Accreditation Programme for Central Alarm Monitoring Stations (CAMS).</td>
-  </tr>
-  <tr>
-    <td><b>2012</b><br><br><b>10 May:</b> Launch of Site Investigation (SI) Accreditation Programme. <br><br><b>3 July:</b> Launch of Accreditation Programme for Energy Management System (EnMS) Certification.<br><br><b>10 August:</b> Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels.&nbsp;&nbsp;<br><br><b>24 October:</b> SAC signed the ILAC MRA for Inspection Bodies.<span class="milestone-arrow"></span></td>
-    <td style="vertical-align:middle"> <img style="width:250px" alt="2012" src="/images/about/milestone/sac-milestone-2012-10-24.jpg">
-  </td></tr>
-  <tr>
-    <td><b>2013</b> <br><br><b>14 - 15 March:</b> SAC hosted the APLAC Mid-Year Meetings for APLAC MRA Council and Board of Management. <br><br><b>24 May:</b> SAC elected to the PAC Executive Committee. <br><br><b>27 June:</b> Launch of Accreditation Programme for Water Efficiency Management System (WEMS) Certification. <br><br><b>14 August:</b> Launch of Accreditation Scheme for Proficiency Testing Providers (PTP). <br><br>Launch of Accreditation Scheme for Personnel Certification. <span class="milestone-arrow"></span><br><br>SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.</td>
- <td style="vertical-align:middle"> <img style="width:250px" alt="2013" src="/images/about/milestone/sac-milestone-2013-08-14.jpg">
-  </td></tr>
-  <tr>
-    <td><b>2014</b><br><br><b>7 May:</b> Launch of Accreditation Programme for Hook-Lift and Container (HL) Inspection.<br><br><b>25 June:</b> SAC signed the APLAC MRA for Proficiency Testing Providers (PTP). <span class="milestone-arrow"></span><br><br><b>5 August:</b> SAC signed a MOU with Joint Accreditation System of Australia and New Zealand (JAS-ANZ) for closer collaboration.<br><br>SAC signed a MOU with Singapore Polytechnic to upgrade industry capability.<br><br>Launch of Accreditation Scheme for Learning Service Providers (LSP) Certification.<br><br><b>9 September:</b> SAC signed a MOU with the GCC Accreditation Centre (GAC) for closer collaboration.<br><br><b>29 October:</b><br> Launch of Accreditation Programme for Multi-Tiered Cloud Computing Security (MTCS) Certification.<br><br><b>12 November:</b> Launch of Accreditation Programme for End-of-Life ICT Equipment Management (EIMS) Certification.</td>
- <td style="vertical-align:middle"> <img style="width:250px" alt="2010" src="/images/press-release/photos/APLAC-pic3.jpg"> </td>
-  </tr><tr>
-    <td><b>2015</b><br><br><b>12 August:</b> Launch of Accreditation Programme for Asset Management (AM) Certification.<br><br><b>13 August:</b> SAC signed a MOU with the Chemical Metrology Division (CMD) of Health Sciences Authority for closer collaboration.<br><br><b>5 November:</b> SAC signed the IAF MLA for Food Safety Management System (FSMS).<span class="milestone-arrow"></span> </td>
-    <td style="vertical-align:middle"> <img style="width:250px" alt="2015" src="/images/about/milestone/sac-milestone-2015-11-05.jpg">
-  </td></tr>
-  <tr>
-    <td><b>2016</b><br><br><b>9 June:</b> SAC organised its 1st Regulator Workshop to promote accreditation as a tool to support public policy.<br><br><b>16 June:</b> SAC elected to PAC Chairmanship.<br><br><b>27 July:</b> SAC celebrated 30 years of the Singapore Accreditation Programme.<span class="milestone-arrow"></span></td>
-    <td style="vertical-align:middle"> <img style="width:250px" alt="2016" src="/images/press-release/photos/Quality-and-Standards-Dinner.jpg">
-  </td></tr>
-  <tr>
-    <td><b>2017</b><br><br><b>25 March:</b> SAC signed the PAC MLA for Energy Management System (EnMS) and Environmental Management System (EMS).<br><br><b>8 June:</b> SAC signed a MOU with Myanmar's Department of Research and Innovation (DRI) and appointed as their partner accreditation body.<span class="milestone-arrow"></span><br><br><b>27 July:</b> SAC signed the IAF MLA for Environmental Management System (EMS).<br><br><b>14 August:</b> Launch of Accreditation Programme for Medical Devices Quality Management System (ISO 13485) Certification.<br><br><b>15 September:</b> Launch of Accreditation Programme for Auditing Organisations.<br><br><b>26 December:</b> Launch of Accreditation Programme for Anti-Bribery Management System Certification.</td>
-    <td style="vertical-align:middle"> <img style="width:250px" alt="2017" src="/images/press-release/photos/Myanmar-MOU.png"> </td>
-  </tr>
-  <tr>
-    <td><b>2018</b><br><br><b>2 January:</b> Launch of Online Learning Portal.<br><br><b>2 April:</b> Merger of IE Singapore and SPRING to form Enterprise Singapore.<br><br><b>24 August:</b> Launch of Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body.<span class="milestone-arrow"></span><br><br><b>28 September:</b> Launch of Accreditation Programme for Information Security Management System (ISMS) Certification.<br><br><b>1 October:</b> Expanded Auditing Organisation Scheme to include Risk Management Audit and expanded Product Certification Scheme to include Organic Primary Produce certification.<br><br><b>26 October:</b> SAC and the Automation Standards Compliance Institute (ASCI) signed an MoU to facilitate industry recognition of SAC-accredited conformity assessment bodies (CABs) providing ISA/IEC 62443 Industrial Automation and Control Systems Cybersecurity Certification under ASCI's ISASecure Scheme.<br><br><b>12 November:</b> Expanded Product Certification Scheme to include certification of Structural Steelwork Fabricators.</td>
-    <td style="vertical-align:middle"> <img style="width:250px" alt="2018" src="/images/about/milestone/sac-milestone-2018-08-24.jpg"> </td>
-  </tr>
-  <tr>
-    <td><b>2019</b><br><br><b>1 January:</b> APAC was established by the amalgamation of APLAC and PAC.<br><br><b>4 January:</b> SAC expanded Laboratory Accreditation Scheme to include Robustness Testing under the Information Technology Field and ISASecure Certification under Product Certification Scheme.<br><br><b>14 - 22 June:</b> SAC hosted the inaugural Asia Pacific Accreditation Cooperation (APAC) 2019 Annual Meeting.<span class="milestone-arrow"></span><br><br><b>17 June:</b> Launch of Programme for Endorsement of Forest Certification (PEFC) - Chain of Custody Certification.<br><br><b>26 June:</b> SAC was admitted to APAC MRA for Medical Device - Quality Management System, Occupational Health &amp; Safety Management System and Information Security Management System.<br><br><b>30 September:</b> SAC was admitted to IAF MLA for Medical Device - Quality Management System and Information Security Management System.<br><br><b>3 October:</b> SAC was admitted to ILAC MRA for Proficiency Testing Providers.<br><br><b>2 &amp; 27 October:</b> SAC was admitted to APAC MRA and IAF MLA for Certification of Persons.</td>
-   <td style="vertical-align:middle"> <img style="width:1000px" alt="2019" src="/images/about/milestone/sac-milestone-2019-06-14.jpg"> </td>
-  </tr>
-  <tr>
-		<td colspan="2"><b>2020</b><br><br><b>30 May:</b> SAC was admitted to IAF MLA for Occupational Health &amp; Safety Management System.</td>
-  </tr>
-  <tr>
-		<td colspan="2"><b>2021</b><br><br><b>10 September:</b> SAC was admitted to APAC MRA for Business Continuity Management and Anti-bribery Management System.<br><br><b>16 November:</b> Launch of Accreditation Programme for Cold Chain Management System (CCMS) Certification.<br><br><b>25 November:</b> Expanded Product Certification Scheme to include Good Agriculture Practice (GAP) and Clean &amp; Green Urban Farms.<br><br><b>30 November:</b> Expanded Product Certification Scheme to include In-situ Post Tensioning Works and Alternative Structural Steel in BC 1.</td>
-  </tr>
-  <tr>
-		<td colspan="2"><b>2022</b><br><br><b>14 February:</b> Expanded Inspection Body Scheme to include Food Cargo Inspection.<br><br><b>22 February:</b> Expanded Auditing Organisation Scheme to include Food Establishments Audits.</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2010</strong>
+<br>
+<br><strong>13 January:</strong> The Singapore GLP Compliance Programme was
+admitted to OECD Mutual Acceptance of Data.
+<br>
+<br><strong>6 April:</strong> Launch of Accreditation Programme for Business
+Continuity Management (BCM) Certification.
+<br>
+<br><strong>25 May:</strong> Launch of Functional Food Testing Accreditation
+Programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:250px" height="auto" width="100%" alt="2010" src="/images/about/milestone/sac-milestone-2010-01-13.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2011 </strong>
+<br>
+<br><strong>1 January:</strong> SAC took on the APLAC Chairmanship.
+<br>
+<br><strong>19 May:</strong> Launch of Accreditation Programme for Central
+Alarm Monitoring Stations (CAMS).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2012</strong>
+<br>
+<br><strong>10 May:</strong> Launch of Site Investigation (SI) Accreditation
+Programme.
+<br>
+<br><strong>3 July:</strong> Launch of Accreditation Programme for Energy Management
+System (EnMS) Certification.
+<br>
+<br><strong>10 August:</strong> Launch of Accreditation Programme for Technical
+Audit of Extension Schemes for Pressure Vessels.&nbsp;&nbsp;
+<br>
+<br><strong>24 October:</strong> SAC signed the ILAC MRA for Inspection Bodies.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:250px" height="auto" width="100%" alt="2012" src="/images/about/milestone/sac-milestone-2012-10-24.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2013</strong> 
+<br>
+<br><strong>14 - 15 March:</strong> SAC hosted the APLAC Mid-Year Meetings
+for APLAC MRA Council and Board of Management.
+<br>
+<br><strong>24 May:</strong> SAC elected to the PAC Executive Committee.
+<br>
+<br><strong>27 June:</strong> Launch of Accreditation Programme for Water Efficiency
+Management System (WEMS) Certification.
+<br>
+<br><strong>14 August:</strong> Launch of Accreditation Scheme for Proficiency
+Testing Providers (PTP).
+<br>
+<br>Launch of Accreditation Scheme for Personnel Certification.
+<br>
+<br>SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:250px" height="auto" width="100%" alt="2013" src="/images/about/milestone/sac-milestone-2013-08-14.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2014</strong>
+<br>
+<br><strong>7 May:</strong> Launch of Accreditation Programme for Hook-Lift
+and Container (HL) Inspection.
+<br>
+<br><strong>25 June:</strong> SAC signed the APLAC MRA for Proficiency Testing
+Providers (PTP).
+<br>
+<br><strong>5 August:</strong> SAC signed a MOU with Joint Accreditation System
+of Australia and New Zealand (JAS-ANZ) for closer collaboration.
+<br>
+<br>SAC signed a MOU with Singapore Polytechnic to upgrade industry capability.
+<br>
+<br>Launch of Accreditation Scheme for Learning Service Providers (LSP) Certification.
+<br>
+<br><strong>9 September:</strong> SAC signed a MOU with the GCC Accreditation
+Centre (GAC) for closer collaboration.
+<br>
+<br><strong>29 October:</strong>
+<br>Launch of Accreditation Programme for Multi-Tiered Cloud Computing Security
+(MTCS) Certification.
+<br>
+<br><strong>12 November:</strong> Launch of Accreditation Programme for End-of-Life
+ICT Equipment Management (EIMS) Certification.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:250px" height="auto" width="100%" alt="2010" src="/images/press-release/photos/APLAC-pic3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2015</strong>
+<br>
+<br><strong>12 August:</strong> Launch of Accreditation Programme for Asset
+Management (AM) Certification.
+<br>
+<br><strong>13 August:</strong> SAC signed a MOU with the Chemical Metrology
+Division (CMD) of Health Sciences Authority for closer collaboration.
+<br>
+<br><strong>5 November:</strong> SAC signed the IAF MLA for Food Safety Management
+System (FSMS).</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:250px" height="auto" width="100%" alt="2015" src="/images/about/milestone/sac-milestone-2015-11-05.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2016</strong>
+<br>
+<br><strong>9 June:</strong> SAC organised its 1st Regulator Workshop to promote
+accreditation as a tool to support public policy.
+<br>
+<br><strong>16 June:</strong> SAC elected to PAC Chairmanship.
+<br>
+<br><strong>27 July:</strong> SAC celebrated 30 years of the Singapore Accreditation
+Programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:250px" height="auto" width="100%" alt="2016" src="/images/press-release/photos/Quality-and-Standards-Dinner.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2017</strong>
+<br>
+<br><strong>25 March:</strong> SAC signed the PAC MLA for Energy Management
+System (EnMS) and Environmental Management System (EMS).
+<br>
+<br><strong>8 June:</strong> SAC signed a MOU with Myanmar's Department of
+Research and Innovation (DRI) and appointed as their partner accreditation
+body.
+<br>
+<br><strong>27 July:</strong> SAC signed the IAF MLA for Environmental Management
+System (EMS).
+<br>
+<br><strong>14 August:</strong> Launch of Accreditation Programme for Medical
+Devices Quality Management System (ISO 13485) Certification.
+<br>
+<br><strong>15 September:</strong> Launch of Accreditation Programme for Auditing
+Organisations.
+<br>
+<br><strong>26 December:</strong> Launch of Accreditation Programme for Anti-Bribery
+Management System Certification.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:250px" height="auto" width="100%" alt="2017" src="/images/press-release/photos/Myanmar-MOU.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2018</strong>
+<br>
+<br><strong>2 January:</strong> Launch of Online Learning Portal.
+<br>
+<br><strong>2 April:</strong> Merger of IE Singapore and SPRING to form Enterprise
+Singapore.
+<br>
+<br><strong>24 August:</strong> Launch of Accreditation Scheme for Greenhouse
+Gas Validation &amp; Verification Body.
+<br>
+<br><strong>28 September:</strong> Launch of Accreditation Programme for Information
+Security Management System (ISMS) Certification.
+<br>
+<br><strong>1 October:</strong> Expanded Auditing Organisation Scheme to include
+Risk Management Audit and expanded Product Certification Scheme to include
+Organic Primary Produce certification.
+<br>
+<br><strong>26 October:</strong> SAC and the Automation Standards Compliance
+Institute (ASCI) signed an MoU to facilitate industry recognition of SAC-accredited
+conformity assessment bodies (CABs) providing ISA/IEC 62443 Industrial
+Automation and Control Systems Cybersecurity Certification under ASCI's
+ISASecure Scheme.
+<br>
+<br><strong>12 November:</strong> Expanded Product Certification Scheme to
+include certification of Structural Steelwork Fabricators.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:250px" height="auto" width="100%" alt="2018" src="/images/about/milestone/sac-milestone-2018-08-24.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2019</strong>
+<br>
+<br><strong>1 January:</strong> APAC was established by the amalgamation of
+APLAC and PAC.
+<br>
+<br><strong>4 January:</strong> SAC expanded Laboratory Accreditation Scheme
+to include Robustness Testing under the Information Technology Field and
+ISASecure Certification under Product Certification Scheme.
+<br>
+<br><strong>14 - 22 June:</strong> SAC hosted the inaugural Asia Pacific Accreditation
+Cooperation (APAC) 2019 Annual Meeting.
+<br>
+<br><strong>17 June:</strong> Launch of Programme for Endorsement of Forest
+Certification (PEFC) - Chain of Custody Certification.
+<br>
+<br><strong>26 June:</strong> SAC was admitted to APAC MRA for Medical Device
+- Quality Management System, Occupational Health &amp; Safety Management
+System and Information Security Management System.
+<br>
+<br><strong>30 September:</strong> SAC was admitted to IAF MLA for Medical
+Device - Quality Management System and Information Security Management
+System.
+<br>
+<br><strong>3 October:</strong> SAC was admitted to ILAC MRA for Proficiency
+Testing Providers.
+<br>
+<br><strong>2 &amp; 27 October:</strong> SAC was admitted to APAC MRA and IAF
+MLA for Certification of Persons.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:1000px" height="auto" width="100%" alt="2019" src="/images/about/milestone/sac-milestone-2019-06-14.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2020</strong>
+<br>
+<br><strong>30 May:</strong> SAC was admitted to IAF MLA for Occupational Health
+&amp; Safety Management System.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2021</strong>
+<br>
+<br><strong>10 September:</strong> SAC was admitted to APAC MRA for Business
+Continuity Management and Anti-bribery Management System.
+<br>
+<br><strong>16 November:</strong> Launch of Accreditation Programme for Cold
+Chain Management System (CCMS) Certification.
+<br>
+<br><strong>25 November:</strong> Expanded Product Certification Scheme to
+include Good Agriculture Practice (GAP) and Clean &amp; Green Urban Farms.
+<br>
+<br><strong>30 November:</strong> Expanded Product Certification Scheme to
+include In-situ Post Tensioning Works and Alternative Structural Steel
+in BC 1.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>2022</strong>
+<br>
+<br><strong>14 February:</strong> Expanded Inspection Body Scheme to include
+Food Cargo Inspection.
+<br>
+<br><strong>22 February:</strong> Expanded Auditing Organisation Scheme to
+include Food Establishments Audits.</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
