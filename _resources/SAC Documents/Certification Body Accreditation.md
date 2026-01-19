@@ -106,82 +106,76 @@ and related documents for the SAC accreditation are as below:</p>
 <p><a href="/files/Documents/Management%20system%20and%20products%20certification/SAC-HACCP-Doc-1_28-May-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019</a>
 </p>
 </li>
+</ul>
+<p></p>
+<p>The latest version of IAF Mandatory Documents (MD) and Policy Documents
+(PD) can be accessed via the <a href="https://iaf.nu/en/iaf-documents-categories/" rel="noopener noreferrer nofollow" target="_blank">IAF website</a>.</p>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/iaf-md1-issue3-181020231" rel="noopener noreferrer nofollow" target="_blank">IAF MD 1:2023 - Audit and Certification of a Management System Operated by a Multi-Site Organisation</a>
-</p>
+<p>IAF MD 1 – Audit and Certification of a Management System Operated by
+a Multi-Site Organization</p>
 </li>
 <li>
-<p><a href="/files/Documents/iaf-md-2-issue2-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 2:2023 - Transfer of Accredited Certification of Management Systems</a>
-</p>
+<p>IAF MD 2 – Transfer of Accredited Certification of Management Systems</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/iaf-md4-issue3-2025-ict" rel="noopener nofollow" target="_blank">IAF MD 4:2025 - Use of ICT for Auditing Assessment Purposes</a>
-</p>
+<p>IAF MD 4 – Use of Information and Communication Technology (ICT) for Auditing/Assessment
+Purposes</p>
 </li>
 <li>
-<p><a href="/files/iaf-md-5-issue4-version3-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and OHSMS</a>
-</p>
+<p>IAF MD 5 – Determination of Audit Time of Quality, Environmental, and
+Occupational Health &amp; Safety Management Systems</p>
 </li>
 <li>
-<p><a href="/files/iaf-md-6-issue2-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 6:2023 - Application of ISO 14065:2013</a>
-</p>
+<p>IAF MD 7 – Harmonization of Sanctions to be applied to Conformity Assessment
+Bodies</p>
 </li>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/IAF-MD7-2010.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies</a>
-</p>
+<p>IAF MD 9 – Application of ISO/IEC 17021-1 in the Field of Medical Device
+Quality Management Systems (ISO 13485)</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/iaf-md9-issue5-20112023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device QMS (ISO 13485)</a>
-</p>
+<p>IAF MD 11 – Application of ISO/IEC 17021 for Audits of Integrated Management
+Systems</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/iaf-md-11-issue3-2023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 11:2023 - For the Application of ISO/IEC 17021-1 for Audits of Integrated Management Systems</a>
-</p>
+<p>IAF MD 12 – Accreditation Assessment of Conformity Assessment Bodies with
+Activities in Multiple Countries</p>
 </li>
 <li>
-<p><a href="/files/iaf-md-12-issue2-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 12:2023 - Accreditation Assessment of CABs with Activities in Multiple Countries</a>
-</p>
+<p>IAF MD 15 – Collection of Data to Provide Indicators of Management System
+Certification Bodies' Performance</p>
 </li>
 <li>
-<p><a href="/files/iaf-md-15-issue1-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 15:2023 - Collection of Data to provide Indicators of Management System CBs' Performance</a>
-</p>
+<p>IAF MD 16 – Application of ISO/IEC 17011 for the Accreditation of Food
+Safety Management Systems (FSMS) Certification Bodies</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/iaf-md16-issue-2-21052024" rel="noopener noreferrer nofollow" target="_blank">IAF MD 16:2024 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs</a>
-</p>
+<p>IAF MD 22 – Application of ISO/IEC 17021-1 for the Certification of Occupational
+Health and Safety Management Systems (OH&amp;SMS)</p>
 </li>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007</a>
-</p>
+<p>IAF MD 23 – Control of Entities Operating on Behalf of Accredited Management
+Systems Certification Bodies</p>
 </li>
 <li>
-<p><a href="/files/iaf-md-22-issue2-version2-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 22:2023 - Application of ISO/IEC 17021-1 for the Certification of OHSMS</a>
-</p>
+<p>IAF MD 26 – Transition Requirements for ISO/IEC 27001:2022</p>
 </li>
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/iaf_md_23_2023_issue_2.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 23:2023 - Control of Entities Operating on Behalf of Accredited Management Systems CBs</a>
-</p>
+<p>IAF MD 28 – Upload and Maintenance of Data on IAF Database</p>
 </li>
 <li>
-<p><a href="/files/Documents/iaf_md26_issue_2_15012023.pdf" rel="noopener noreferrer nofollow" target="_blank">AF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022</a>
-</p>
+<p>IAF MD 29 – Transition Requirements for ISO/IEC 27006-1:2024</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/iaf-md-27-22003-1-transition-2023" rel="noopener noreferrer nofollow" target="_blank">IAF MD 27:2023 -Transition Requirements for ISO 22003-1:2022</a>
-</p>
+<p>IAF MD 30 – Transition Requirements for ISO 37001:2025</p>
 </li>
 <li>
-<p><a href="/files/Documents/Certification/iaf_md28_issue1_26022022.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 28:2023 - IAF Mandatory Document for the Upload and Maintenance of Data on IAF Database</a>
-</p>
+<p>IAF PL 9 – General Principles for the Use of the IAF CERTSEARCH Mark</p>
 </li>
-<li>
-<p><a href="https://go.gov.sg/iaf-md-29-27006-1-transition-21052024" rel="noopener noreferrer nofollow" target="_blank">IAF MD 29: 2024 Transition Requirements for ISO/IEC 27006-1:2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/iaf-pl-9-issue1-version2-023.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark</a>
-</p>
-</li>
+</ul>
+<p></p>
+<ul>
 <li>
 <p><a href="https://go.gov.sg/ctfm02ms-assessment-checklist-iso17021-1" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/IEC 17021-1) - Nov 2023</a>
 </p>
