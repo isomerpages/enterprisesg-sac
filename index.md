@@ -14,7 +14,7 @@ sections:
   - hero:
       title: Singapore Accreditation Council
       subtitle: Your Trusted Partner in Accreditation
-      background: /images/homepage/homepage-montage.jpg
+      background: /images/S_C_Anniversary___Email_Signature_Banner.jpg
       url: /contact-us/
       key_highlights:
         - title: SEARCH
@@ -29,6 +29,7 @@ sections:
         - title: RESOURCES
           description: Download SAC Publications
           url: /resources/sac-documents/
+      variant: center
   - infopic:
       title: What is Accreditation?
       button: MORE ABOUT SAC
