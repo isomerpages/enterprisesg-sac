@@ -14,7 +14,7 @@ sections:
   - hero:
       title: Singapore Accreditation Council
       subtitle: Your Trusted Partner in Accreditation
-      background: /images/S_C_Anniversary___Email_Signature_Banner.jpg
+      background: /images/homepage/homepage-montage.jpg
       url: /contact-us/
       key_highlights:
         - title: SEARCH
