@@ -121,6 +121,7 @@ Click on the quick links below to jump to the CAB Status:
 
 * Environmental Testing
    * Element Construction Testing (S) Pte Ltd (12 January 2026)
+   * Sembcorp Industries Ltd (19 January 2026)
    
 #### Good Laboratory Practice Compliance Programme
 
