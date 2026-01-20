@@ -14,7 +14,7 @@ for conformity assessments and forging mutual recognition agreements (MRAs)
 with our economic partners. SAC's primary function is to accredit conformity
 assessment services, such as testing, calibration, inspection and certification.</p>
 <p></p>
-<p><a href="2020-present/" rel="noopener noreferrer nofollow" target="_blank">2020 to Present</a>
+<p><a href="/about/our-history/2020-present/" rel="noopener noreferrer nofollow" target="_blank">2020 to Present</a>
 </p>
 <p><a href="/about/our-history/2010-2019/" rel="noopener noreferrer nofollow" target="_blank">2010 to 2019</a>
 </p>
