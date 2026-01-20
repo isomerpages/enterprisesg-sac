@@ -37,13 +37,10 @@ in BC 1.</p>
 <td rowspan="1" colspan="1">
 <p><strong>2022</strong>
 </p>
-<p>&nbsp;</p>
 <p><strong>14 February:</strong> Expanded Inspection Body Scheme to include
 Food Cargo Inspection.</p>
-<p>&nbsp;</p>
 <p><strong>22 February:</strong> Expanded Auditing Organisation Scheme to
 include Food Establishments Audits.</p>
-<p>&nbsp;</p>
 <p><strong>01 July: </strong>Expanded Inspection Body Scheme to include Instrumentation
 &amp; Monitoring (I&amp;M) Works</p>
 <p><strong>19 December: </strong>Expanded Product Certification Scheme to
