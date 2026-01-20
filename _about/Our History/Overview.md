@@ -16,7 +16,7 @@ assessment services, such as testing, calibration, inspection and certification.
 <p></p>
 <p><a href="/about/our-history/2020-present/" rel="noopener noreferrer nofollow" target="_blank">2020 to Present</a>
 </p>
-<p><a href="/about/our-history/2010-2019/" rel="noopener noreferrer nofollow" target="_blank">2010 to 2019</a>
+<p><a href="https://cms.isomer.gov.sg/sites/enterprisesg-sac/folders/about/subfolders/Our%20History/editPage/2010%20to%202019.md" rel="noopener noreferrer nofollow" target="_blank">2010 to 2019</a>
 </p>
 <p></p>
 <p><a href="/about/our-history/2010-present/" rel="noopener noreferrer nofollow" target="_blank">2010 to Present</a>
