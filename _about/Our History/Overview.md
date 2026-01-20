@@ -22,6 +22,5 @@ assessment services, such as testing, calibration, inspection and certification.
 </p>
 <p><a href="/about/our-history/1991-2000/" rel="noopener noreferrer nofollow" target="_blank">1991 to 2000</a>
 </p>
-<p></p>
 <p><a href="/about/our-history/1986-1990/" rel="noopener noreferrer nofollow" target="_blank">1986 to 1990</a>
 </p>
