@@ -121,10 +121,6 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/electrical-testing-field/Gudiance-Note-EL-001-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance Note EL 001- Mar 2019 : Guidelines on the Evaluation and Expression of MU for EL Field</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/civil-engineering-testing-field/Technical-Guide-3-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC SINGLAS Technical Guide 3 - Guidance on MU for Civil Engrg and Mech Testing Laboratories</a>
 </p>
 </li>
