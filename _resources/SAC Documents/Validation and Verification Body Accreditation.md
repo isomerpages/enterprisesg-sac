@@ -52,7 +52,7 @@ for the verification and validation of greenhouse gas statements]</p>
 </li>
 <li>
 <p>The latest version of IAF Mandatory Documents (MD) and Policy Documents
-(PD) can be accessed via the IAF website</p>
+(PD) can be accessed via the <a href="https://iaf.nu/en/iaf-documents-categories/" rel="noopener noreferrer nofollow" target="_blank">IAF website</a>.</p>
 </li>
 <li>
 <p>IAF MD 6 IAF Mandatory Document for the Application of ISO 14065:2020</p>
