@@ -19,7 +19,7 @@ The Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body w
 
 ### Accreditation Criteria
 
-SAC accredits V/VBs that can demonstrate compliance with the following requirements: 
+SAC accredits validation and verification bodies that can demonstrate compliance with the following requirements stated in SAC CT 01, which includes the following requirements:: 
 
 * ISO/IEC 17029 Conformity assessment – General principles and requirements for  verification and validation bodies
 * ISO 14065 General principles and requirements for bodies validating and verifying environmental information
