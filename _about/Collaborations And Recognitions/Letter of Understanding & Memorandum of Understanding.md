@@ -3,6 +3,7 @@ title: Letter of Understanding & Memorandum of Understanding
 permalink: /about/collaborations-and-recognitions/loumou/
 description: ""
 third_nav_title: Collaborations And Recognitions
+variant: markdown
 ---
 ### MOU with Automation Standards Compliance Institute (ASCI)
 
@@ -43,9 +44,7 @@ SAC signed a Memorandum of Understanding (MOU) with Singapore Polytechnic (SP) a
 <img style="width:418px" alt="MOU signing with SP" src="/images/press-release/photos/MOU-with-SP.jpg">
 
 
-
  
  
-### LOU for Technical Cooperation with Brunei Darussalam
 
-SAC signed a Letter of Understanding (LOU) for technical cooperation between the Ministry of Development, Brunei Darussalam and SAC on 9 April 2001. With this LOU, Brunei Darussalam recognises SAC as the accreditation body for the purpose of Laboratory Accreditation, Inspection Body Accreditation and Accreditation of Quality Management Systems Certification Bodies.
+
