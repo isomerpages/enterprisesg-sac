@@ -29,6 +29,7 @@ sections:
         - title: RESOURCES
           description: Download SAC Publications
           url: /resources/sac-documents/
+      variant: center
   - infopic:
       title: What is Accreditation?
       button: MORE ABOUT SAC

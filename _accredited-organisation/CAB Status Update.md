@@ -118,10 +118,6 @@ Click on the quick links below to jump to the CAB Status:
 
 #### **Voluntary Withdrawal by CABs**
 
-
-* Environmental Testing
-   * Element Construction Testing (S) Pte Ltd (12 January 2026)
-   * Sembcorp Industries Ltd (19 January 2026)
    
 #### Good Laboratory Practice Compliance Programme
 
@@ -144,6 +140,10 @@ Click on the quick links below to jump to the CAB Status:
 * Calibration  & Measurement
   * Plant Electrical Instrumentation Pte Ltd (13 June 2025)
   * Nihon Denkei Co. Ltd (22 November 2025)
+
+* Environmental Testing
+   * Element Construction Testing (S) Pte Ltd (12 January 2026)
+   * Sembcorp Industries Ltd (19 January 2026)
 
 * Non-Destructive Testing
   * A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)
