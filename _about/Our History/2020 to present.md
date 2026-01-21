@@ -71,53 +71,6 @@ include Clean &amp; Green Urban Farms (Aquaculture)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p><strong>2024</strong>
-</p>
-<p><strong>03 April:</strong>&nbsp;SAC was admitted to APAC MRA for Validation
-and Verification, sub-scope – ICAO CORSIA</p>
-<p><strong>28 May:</strong>&nbsp;SAC was admitted to APAC MRA for Validation
-and Verification, sub-scope – Environmental Information ISO 14065:2020</p>
-<p><strong>02 July: </strong>Termination of Medical Imaging accreditation
-programme</p>
-<p><strong>24 July:</strong> Expanded Auditing Organisation Scheme to include
-Bio-risk Management Audits</p>
-<p><strong>08 August:</strong>&nbsp;SAC was admitted to IAF MLA for Validation
-and Verification, sub-scope – ICAO CORSIA SARPs</p>
-<p><strong>17 December: </strong>Expanded Product Certification Scheme to
-include Clean &amp; Green Urban Farms (Layer Farms)</p>
-<p><strong>2025</strong>
-</p>
-<p><strong>31 January:</strong>&nbsp;SAC was admitted to IAF MLA for Validation
-and Verification, sub-scope – ISO 14064-1</p>
-<p><strong>17 February: </strong>Launch of Accreditation Programme for Artificial
-Intelligence Management Systems (AIMS) Certification</p>
-<p><strong>15 April: </strong>Expanded Inspection Body Scheme to include
-Lift &amp; Escalator Inspection</p>
-<p><strong>09 May:</strong>&nbsp;SAC was admitted to IAF MLA for Anti-bribery
-Management System</p>
-<p><strong>04 July: </strong>Launch of Accreditation Programme on Verification
-of Carbon Footprint of Product</p>
-<p><strong>09 July: </strong>Launch of Accreditation Programme for Data Protection
-Trustmark (DPTM) certification</p>
-<p><strong>07 October:</strong>&nbsp;SAC was admitted to APAC MRA for Artificial
-Intelligence Management System and Facilities Management Management System</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>2024</strong>
 </p>
 <p><strong>03 April:</strong>&nbsp;SAC was admitted to APAC MRA for Validation
