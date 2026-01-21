@@ -9,16 +9,6 @@ variant: markdown
 
 The Singapore Accreditation Council (SAC) and the Automation Standards Compliance Institute (ASCI) signed a Memorandum of Understanding (MOU) on 26 October 2018 to facilitate industry recognition of SAC-accredited conformity assessment bodies (CABs) providing ISA/IEC 62443 Industrial Automation and Control Systems Cybersecurity Certification under ASCI's ISASecure Scheme.  The scheme includes the EDSA (Embedded Device Security Assurance) certification, SSA (System Security Assurance) certification and SDLA (Security Development Lifecycle Assurance) certification.  With the signed MOU, SAC has expanded our Laboratory Accreditation Scheme to include Robustness Testing under the Information Technology Field and ISASecure Certification under Product Certification Scheme on 4 January 2019.
 
-### MOU with Myanmar's Department of Research and Innovation (DRI)
-
-The Singapore Accreditation Council (SAC), Enterprise Singapore (formerly known as SPRING Singapore) and Myanmar's Department of Research and Innovation (DRI) signed a Memorandum of Understanding (MOU) on 8 June 2017 at the 6th Singapore-Myanmar Joint Ministerial Working Committee (JMWC) meeting held in Singapore. SAC has been also appointed as Myanmar's partner accreditation body to provide accreditation services to their laboratories as well as inspection and certification bodies, and to provide technical assistance to develop their capability in accreditation.
- 
-This collaboration will provide greater assurance in the quality of products and services and facilitate market access for businesses in both countries. It will also further encourage the exchange of information, conformity assessment, accreditation services 
-and related technical and quality issues.  
-
-
-<img style="width:418px" alt="MOU signing with Myanmar" src="/images/press-release/photos/Myanmar-MOU.png">
-
 
 
 ### MOU with Health Sciences Authority
