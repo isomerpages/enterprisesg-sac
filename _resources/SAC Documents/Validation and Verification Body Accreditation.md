@@ -51,8 +51,11 @@ teams validating and verifying environmental information]</p>
 for the verification and validation of greenhouse gas statements]</p>
 </li>
 <li>
-<p><a href="/files/Documents/validation-and-verification-bodies/IAF_MD_6_Issue_3_Version_2_11092024.pdf" rel="noopener noreferrer nofollow" target="_blank">IAF MD 6:2024: IAF Mandatory Document for the Application of ISO 14065:2020</a>
-</p>
+<p>The latest version of IAF Mandatory Documents (MD) and Policy Documents
+(PD) can be accessed via the IAF website</p>
+</li>
+<li>
+<p>IAF MD 6 IAF Mandatory Document for the Application of ISO 14065:2020</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/vb-fees-schedule-04nov2024-" rel="noopener nofollow" target="_blank">Validation &amp; Verification bodies Fee Schedule - 04 Nov 2024 wef 1 Dec 2024</a>
