@@ -19,7 +19,7 @@ The Accreditation Scheme for Greenhouse Gas Validation &amp; Verification Body w
 
 ### Accreditation Criteria
 
-SAC accredits V/VBs that can demonstrate compliance with the following requirements: 
+SAC accredits validation and verification bodies that can demonstrate compliance with the following requirements stated in SAC CT 01, which includes the following requirements: 
 
 * ISO/IEC 17029 Conformity assessment – General principles and requirements for  verification and validation bodies
 * ISO 14065 General principles and requirements for bodies validating and verifying environmental information
@@ -36,7 +36,7 @@ Accreditation will:
 * <b>Increase confidence</b>: Widely recognised by regulators and the industry, SAC accredited certificates instil greater confidence in those who choose to engage the services of SAC accredited V/VBs.
  
 ### Process
-Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the V/VBs and the competence of the validators/verifiers. This will be carried out through a document review, assessments at the V/VB's office as well as on-site witnessed assessments of validation/ verification - all conducted by the V/VB. When the V/VB has demonstrated compliance with our requirements, it will be recommended for accreditation. One approved, SAC will grant a certificate or accreditation. The detailed description of the type of assessments is stipulated in CT 01, Accreditation Process.
+Upon receiving the application for accreditation, qualified assessors are assigned to assess the system of operations of the V/VBs and the competence of the validators/verifiers. This will be carried out through a document review, assessments at the V/VB's office as well as on-site witnessed assessments of validation/ verification - all conducted by the V/VB. When the V/VB has demonstrated compliance with our requirements, it will be recommended for accreditation. One approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessments is stipulated in CT 01, Accreditation Process.
  
 The detailed description of the accreditation process can be seen below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
