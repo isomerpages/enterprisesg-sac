@@ -81,7 +81,7 @@ scheme.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Firdaus Bawadi</p>
+<p>Pending</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Manufacturing Federation</p>
