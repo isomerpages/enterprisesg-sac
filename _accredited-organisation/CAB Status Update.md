@@ -31,27 +31,17 @@ Click on the quick links below to jump to the CAB Status:
 * Artificial Intelligence Management System
    * TUV SUD PSB Pte Ltd (5 November 2025)
 
-* Business Continuity Management System
-  * ISOCert Pte Ltd (8 September 2025)
-
 * Data Protection Trustmark  
   * Guardian Independent Certification P L (9 October 2025)
   * ISOCert Pte Ltd (17 November 2025)
   * TUV SUD PSB Pte Ltd (31 December 2025)
-			
-* Facility Management System
-   * Bureau Veritas Quality Assurance Pte Ltd (31 July 2025)
-
+		
 * Multi-tiered Coud Computing
   *  Schellman Compliance, LLC (12 November 2025)
 
 * Product Certification
-  * Cyber Security Agency of Singapore (16 July 2025)
   * APAVE TIV ASIA Pte. Ltd. (10 October 2025)
    
-* Quality Management System
-  * Sustech Services Pte Ltd (25 September 2025)
-
 * Water Efficiency Management System
   * SC2 Pte Ltd (9 December 2025)
   
@@ -73,23 +63,6 @@ Click on the quick links below to jump to the CAB Status:
 * Chemical & Biological
    * Poh Heng Jewellery (Private) Limited (12 November 2025)
 
-* Civil Engineering
-  * PT Fugro Indonesia (1 September 2025)
-
-* Electrical Testing
-  * Beyondsoft International (Singapore) Pte Ltd (1 September 2025)
-
-* Information Technology
-  * KPMG Services Pte Ltd (3 September 2025)
-
-   
-
-#### Inspection
-
-*  Cargo inspection
-   * Bureau Veritas Singapore Pte. Ltd. (18 September 2025)
-
-
 
 
 [Back to top ↑](#top)
@@ -105,7 +78,18 @@ Click on the quick links below to jump to the CAB Status:
 * Medical Testing
    * Invitrocue Pte Ltd (02 October 2025)
 
-  	 
+         
+{: #withdrawn}  
+  
+	
+	
+### 3. Withdrawn Conformity Assessment Bodies (CABs) 
+
+#### **Voluntary Withdrawal by CABs**
+
+          
+  
+\#### \*\*Voluntary Withdrawal by CABs\*\*  	 
   
 [Back to top ↑](#top)
 
