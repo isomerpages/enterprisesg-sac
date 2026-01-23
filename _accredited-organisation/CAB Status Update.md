@@ -122,8 +122,7 @@ Click on the quick links below to jump to the CAB Status:
 #### Good Laboratory Practice Compliance Programme
 
 
- * Agrolex Pte Ltd (17 June 2025)
-
+ 
 
  
 
@@ -134,11 +133,9 @@ Click on the quick links below to jump to the CAB Status:
 #### Laboratory
 
 * Chemical & Biological Testing
-  *  Singapore Civil Defence Force (6 January 2025)
-  *  TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
+   *  TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
 
 * Calibration  & Measurement
-  * Plant Electrical Instrumentation Pte Ltd (13 June 2025)
   * Nihon Denkei Co. Ltd (22 November 2025)
 
 * Environmental Testing
