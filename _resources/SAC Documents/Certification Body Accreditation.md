@@ -223,9 +223,7 @@ Systems Certification Bodies</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Documents/Management%20system%20and%20products%20certification/CT-05-(29-March-2019).pdf" rel="noopener noreferrer nofollow" target="_blank">C</a>
-<a href="/files/Documents/Management system and products certification/ct05_10feb2026.pdf" rel="noopener noreferrer nofollow" target="_blank">T 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) -
-February 2026</a>
+<p><a href="/files/Documents/Management system and products certification/ct05_10feb2026.pdf" rel="noopener noreferrer nofollow" target="_blank">CT 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) - February 2026</a>
 </p>
 </li>
 <li>
