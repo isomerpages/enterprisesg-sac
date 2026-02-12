@@ -181,7 +181,11 @@ Systems Certification Bodies</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/sac-ctfm02-isms-assessment-checklist-isoiec27006" rel="noopener noreferrer nofollow" target="_blank">Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020 and ISO/IEC TS 27006-2:2021) – 01 Aug 2023</a>
+<p><a href="https://go.gov.sg/ctfm02isms11feb2026" rel="noopener nofollow" target="_blank">Assessment Checklist ISO/IEC 27006-1: 2024 - 11 February 2026</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ctfm02pims11feb2026" rel="noopener nofollow" target="_blank">Assessment Checklist ISO/IEC TS 27006-2:2021 - 11 February 2026</a>
 </p>
 </li>
 <li>
