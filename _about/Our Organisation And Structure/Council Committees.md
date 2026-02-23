@@ -860,8 +860,7 @@ Interest Group</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Designation</strong>
-</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Organisation</strong>
@@ -874,8 +873,7 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Chair</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jagadish C V</p>
@@ -886,8 +884,7 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Co-Chair</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Er. Peter Leong</p>
@@ -898,8 +895,7 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Members</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Jonathan Cheah Weng Kwong</p>
@@ -946,6 +942,17 @@ Interest Group</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Hoe Wee Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Service Division</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Lim Ting Ji</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -954,8 +961,7 @@ Interest Group</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secretaries</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gladys Leong</p>
