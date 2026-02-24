@@ -88,8 +88,7 @@ and related documents for the SAC accreditation are as below:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Documents/Inspection%20body%20accreditation/SS-01-27-Aug2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Technical Note SS 01: </a>
-<a href="/files/Documents/Inspection body accreditation/SS_01_30_Jan_2026.pdf" rel="noopener nofollow" target="_blank">30</a><a href="/files/Documents/Inspection%20body%20accreditation/SS-01-27-Aug2020.pdf" rel="noopener noreferrer nofollow" target="_blank">Jan 2026 - Specific Reqts of IBs in Structural Steelwork Inspection</a>
+<p><a href="https://www.sac-accreditation.gov.sg/files/Documents/Inspection%20body%20accreditation/SS-01-30-Jan2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Technical Note SS 01: 30 Jan 2026 - Specific Reqts of IBs in Structural Steelwork Inspection</u></a>
 </p>
 </li>
 </ul>
