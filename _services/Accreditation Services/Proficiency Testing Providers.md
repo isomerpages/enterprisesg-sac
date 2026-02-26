@@ -30,17 +30,20 @@ In addition, with the pool of accredited local PTPs available, customers such as
 
 ### Process
 
-A facility seeking recognition for compliance with ISO/IEC 17043 should apply to SAC, stating its proposed scope and type of PT programme for recognition. It has to provide key information on:  
-   a) Management structure\
-   b) Key responsibilities of the personnel and units\
-   c) Persons in charge of PT programme(s)\
-   d) Quality manual and standard operating procedures, among other documents
+A facility seeking recognition for compliance with ISO/IEC 17043 should apply to SAC, stating its proposed scope and type of PT scheme for recognition. It has to provide key information on:
 
-SAC will do a documentation review before the on-site assessment, which is done to determine compliance with ISO/IEC 17043. The facility must complete at least one PT programme for the applied scope before the assessment. The on-site assessment will be conducted by a lead assessor accompanied by relevant technical experts as determined by SAC. Assessment may take more than one day, depending on the scope and size of the facility. 
+a) Management structure
 
-Once a facility has met all criteria of ISO/IEC 17043, SAC will issue a Certificate of Accreditation to the facility, with a schedule detailing the types of PT programmes under the scope of accreditation. The time taken for a facility to be accredited may range from three to six months, depending on the readiness of the facility in meeting the accreditation requirements as well as the type and complexity of the PT programmes. 
+b) Key responsibilities of the personnel and units
 
-Surveillance assessment will be conducted annually and reassessment will be conducted every four years for the renewal of accreditation. The schematic diagram of the accreditation process is described below:  
-![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
+c) Persons in charge of PT programme(s)
 
-Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg)
+d) Quality manual and standard operating procedures, among other documents
+
+SAC will do a documentation review before the on-site assessment, which is done to determine compliance with ISO/IEC 17043. The facility must complete at least one PT scheme for the applied scope before the assessment. The on-site assessment will be conducted by a Team Leader accompanied by relevant technical assessors as determined by SAC. Assessment may take more than one day, depending on the scope and size of the PT provider.
+
+Once a PT Provider has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in PTP-003, Accreditation Process.
+
+The schematic diagram of the accreditation process is described below:
+
+ !\[Accreditation Process\](/images/services/sac-accreditation-process-flowchart.jpg)
