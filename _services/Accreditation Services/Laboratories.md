@@ -13,13 +13,13 @@ The Singapore Laboratory Accreditation Scheme (SAC-SINGLAS) plays an important r
 The process of accreditation under SAC-SINGLAS assesses and recognises the technical competence and effective management processes of a professional service provider and its staff. The scheme kickstarted in November 1986 and aims to upgrade the standard of testing and calibration services in Singapore.
  
 ### Accreditation Criteria
-SAC-accredited laboratories and radiology services are set against the best international technical and management system standards of ISO/IEC 17025 – General Requirements for the Competence of testing and calibration laboratories – and ISO 15189 – Particular Requirements for Quality and Competence (for medical laboratories only). 
+SAC-accredited laboratories and radiology services are set against the best international technical and management system standards of ISO/IEC 17025 – General Requirements for the Competence of testing and calibration laboratories – and ISO 15189 –Medical Laboratories - Requirements for Quality and Competence (for medical laboratories only).
 
-SAC-SINGLAS works on a peer assessment basis, whereby laboratories are assessed by technical experts from specific fields of testing and calibration. These experts come from the industry, government bodies and tertiary institutions. 
+SAC-SINGLAS works on a peer assessment basis, whereby laboratories are assessed by technical experts from specific fields of testing and calibration. These experts come from the industry, government bodies and tertiary institutions.
 
 This is a voluntary scheme that is open to all laboratories. To date, laboratories that are SINGLAS-accredited come from manufacturing firms, research bodies, commercial organisations and government departments.
 
-SAC-SINGLAS accreditation is only granted for specific tests and calibrations in specific fields. Laboratories are only allowed to issue endorsed reports for accredited tests and calibrations. 
+SAC-SINGLAS accreditation is only granted for specific tests and calibrations in specific fields. Laboratories are only allowed to issue accredited reports for accredited tests and calibrations.
  
 ### Benefits
    
@@ -32,14 +32,6 @@ Accreditation will:
 
 As a pioneer member of the Mutual Recognition Arrangement (MRA) of the Asia Pacific Accreditation Cooperation (APAC) and the International Laboratory Accreditation Cooperation (ILAC), as well as having bilateral contract with the European Cooperation for Accreditation (EA), [\[AC1\]](file:///C:/Users/esg-an6673/Desktop/2026/SAC%20website%20changes/fr%20PB/Changes%20to%20SAC%20Website%20-%20PTP,%20LA.docx#_msocom_1) reports and certificates issued by SAC-accredited laboratories are recognised worldwide by MRA members that span across 121 [\[AC2\]](file:///C:/Users/esg-an6673/Desktop/2026/SAC%20website%20changes/fr%20PB/Changes%20to%20SAC%20Website%20-%20PTP,%20LA.docx#_msocom_2) economies.
  
-### Accreditation Criteria
-SAC-accredited laboratories and radiology services are set against the best international technical and management system standards of ISO/IEC 17025 – General Requirements for the Competence of testing and calibration laboratories – and ISO 15189 –Medical Laboratories - Requirements for Quality and Competence (for medical laboratories only).
-
-SAC-SINGLAS works on a peer assessment basis, whereby laboratories are assessed by technical experts from specific fields of testing and calibration. These experts come from the industry, government bodies and tertiary institutions.
-
-This is a voluntary scheme that is open to all laboratories. To date, laboratories that are SINGLAS-accredited come from manufacturing firms, research bodies, commercial organisations and government departments.
-
-SAC-SINGLAS accreditation is only granted for specific tests and calibrations in specific fields. Laboratories are only allowed to issue accredited reports for accredited tests and calibrations.
 
 ### Process
 Upon receiving the accreditation application, the secretariat will send a quotation to the laboratory and arrange for a initial assessment. This assessment is conducted by a team of qualified assessors, comprising of a Team Leader and Technical Assessor(s). When the laboratory has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in SAC-SINGLAS-001, Accreditation Process.
