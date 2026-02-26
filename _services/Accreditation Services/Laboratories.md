@@ -29,7 +29,7 @@ Accreditation will:
 *   Minimise your risk: A SAC-accredited laboratory ensures that your product is competently tested, thus avoiding the risk of re-testing and re-working of your products.
 *   Increase customer buy-in: Using an accredited laboratory will improve your company’s image and gain customers buy-in.
 
-As a pioneer member of the Mutual Recognition Arrangement (MRA) of the Asia Pacific Accreditation Cooperation (APAC) and the International Laboratory Accreditation Cooperation (ILAC), as well as having bilateral contract with the European Cooperation for Accreditation (EA), [\[AC1\]](file:///C:/Users/esg-an6673/Desktop/2026/SAC%20website%20changes/fr%20PB/Changes%20to%20SAC%20Website%20-%20PTP,%20LA.docx#_msocom_1) reports and certificates issued by SAC-accredited laboratories are recognised worldwide by MRA members that span across 121 [\[AC2\]](file:///C:/Users/esg-an6673/Desktop/2026/SAC%20website%20changes/fr%20PB/Changes%20to%20SAC%20Website%20-%20PTP,%20LA.docx#_msocom_2) economies.
+As a pioneer member of the Mutual Recognition Arrangement (MRA) of the Asia Pacific Accreditation Cooperation (APAC) and the International Laboratory Accreditation Cooperation (ILAC), as well as having bilateral contract with the European Cooperation for Accreditation (EA), reports and certificates issued by SAC-accredited laboratories are recognised worldwide by MRA members that span across 121 economies.
  
 
 ### Process
