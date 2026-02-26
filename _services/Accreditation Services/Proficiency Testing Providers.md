@@ -45,5 +45,4 @@ SAC will do a documentation review before the on-site assessment, which is done 
 Once a PT Provider has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in PTP-003, Accreditation Process.
 
 The schematic diagram of the accreditation process is described below:
-
 ![Accreditation Process](/images/about/Accreditation_process.jpg)
