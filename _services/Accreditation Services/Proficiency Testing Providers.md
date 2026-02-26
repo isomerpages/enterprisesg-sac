@@ -3,25 +3,24 @@ title: Proficiency Testing Providers
 permalink: /services/accreditation-services/proficiency-testing-providers/
 description: ""
 third_nav_title: Accreditation Services
+variant: markdown
 ---
 ## About
 ![Accreditation of Proficiency Testing Providers](/images/services/proficiency-testing-accreditation-services.jpg)
 
-Proficiency testing involves the use of inter-laboratory comparisons for the determination of laboratory performance. The need for ongoing confidence in laboratory performance is not only essential for laboratories and their customers, but also for other interested parties such as regulators and accreditation bodies. 
+Proficiency testing involves the use of inter-laboratory comparisons for the determination of laboratory performance. The need for ongoing confidence in laboratory performance is not only essential for laboratories and their customers, but also for other interested parties such as regulators and accreditation bodies.
 
-Proficiency testing providers play an important role in the value chain for assurance of products and services. Their proficiency testing programmes should be properly designed and statistically robust, so that the benchmarking of participants' performance is properly conducted, and the participants can monitor trends and identify gaps in their own performances for corrective actions and improvements.
+Proficiency testing (PT) providers play an important role in the value chain for assurance of products and services. Their proficiency testing schemes should be properly designed and statistically robust, so that the benchmarking of participants’ performance is properly conducted, and the participants can monitor trends and identify gaps in their own performances for corrective actions and improvements.
 
-Third-party endorsements of proficiency testing providers' capabilities are needed to demonstrate they have met international standards. SAC can provide that recognition so as to give credibility to their programmes and boost confidence in customers. With accreditation, the local PT providers will be able to market their services confidently within Singapore and also in the ASEAN and international arena.
+Third-party endorsements of proficiency testing providers’ capabilities are needed to demonstrate they have met international standards. SAC can provide that recognition so as to give credibility to their programmes and boost confidence in customers. With accreditation, the local PT providers will be able to market their services confidently within Singapore and also in the ASEAN and international arena.
 
 SAC officially launched the Accreditation Scheme for Proficiency Testing Providers (PTP) on 14 August 2013.
 
-### Accreditation Criteria
+### Accreditation Criteria   
 
-The primary standard used for accreditation of proficiency testing providers is ISO/IEC 17043 (Conformity Assessment – General Requirements for proficiency testing). The requirements in this standard apply to areas such as management, planning and design, personnel, assuring quality and confidentiality for organising PT programme. 
+The primary standard used for accreditation of proficiency testing providers is ISO/IEC 17043 (Conformity Assessment – General Requirements for the competence of proficiency testing providers). The requirements in this standard apply to areas such as management, planning and design, personnel, assuring quality and confidentiality for organising PT schemes.
 
-Technical note, PTP 001 – Requirements for the Application of ISO/IEC 17043, will be used in conjunction with the standard as assessment criteria. It provides the policies and guidance for organisations in their application of ISO/IEC 17043: 2010.
-
-This is a voluntary scheme that is open to all facilities. SAC accreditation is only granted for the specific scope(s) put up for accreditation. 
+This is a voluntary scheme that is open to all facilities. SAC accreditation is only granted for the specific scope(s) put up for accreditation.
 
 ### Benefits
 
