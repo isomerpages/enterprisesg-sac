@@ -24,7 +24,7 @@ This is a voluntary scheme that is open to all facilities. SAC accreditation is 
 
 ### Benefits
 
-Being an accredited PTP gives the organisation credibility for their PT services. Once a MRA for PTP is established, this credibility goes beyond the local market.
+Being an accredited PTP gives the organisation credibility for their PT services. Aside from attaining a systematic and well-designed quality system, accredited organisations also stand to gain from the Mutual Recognition Arrangements (MRAs) that SAC has signed. This allows them access to international markets.
 
 In addition, with the pool of accredited local PTPs available, customers such as laboratories will have access to more affordable and reliable sources of PT programmes.
 
