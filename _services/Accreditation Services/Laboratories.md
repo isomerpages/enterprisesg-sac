@@ -22,7 +22,6 @@ This is a voluntary scheme that is open to all laboratories. To date, laboratori
 SAC-SINGLAS accreditation is only granted for specific tests and calibrations in specific fields. Laboratories are only allowed to issue accredited reports for accredited tests and calibrations.
  
 ### Benefits
-   
 Accreditation will:
 
 *   Gain assurance of competence: Using an accredited laboratory allows you peace of mind that the competence of the laboratory engaged for testing of your products complies with international standards.
