@@ -46,4 +46,4 @@ Once a PT Provider has demonstrated compliance with our requirements, it will be
 
 The schematic diagram of the accreditation process is described below:
 
- !\[Accreditation Process\](/images/services/sac-accreditation-process-flowchart.jpg)
+![Accreditation Process](/images/about/Accreditation_process.jpg)
