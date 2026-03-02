@@ -25,7 +25,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/proficiency-testing-providers/PTP-001-15-May-18.pdf" rel="noopener noreferrer nofollow" target="_blank">PTP 001 - 15 May 2018: Requirements for the Application of ISO/IEC 17043 Site Settings</a>
+<p><a href="/files/Documents/proficiency-testing-providers/PTP_001_27_Feb_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">PTP 001 - 27 Feb 2026: Requirements for the Application of ISO/IEC 17043 Site Settings</a>
 </p>
 </li>
 <li>
