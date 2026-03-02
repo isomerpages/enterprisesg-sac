@@ -46,3 +46,5 @@ Once a PT Provider has demonstrated compliance with our requirements, it will be
 
 The schematic diagram of the accreditation process is described below:
 ![Accreditation Process](/images/about/Accreditation_process.jpg)
+
+Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg).
