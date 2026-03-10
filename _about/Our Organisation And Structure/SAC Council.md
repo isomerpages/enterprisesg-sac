@@ -23,7 +23,7 @@ interest groups.</p>
 </p>
 <p><strong>Mr Amos Leong</strong>
 </p>
-<p>MiRXES Pte Ltd</p>
+<p>Meiban Corp Holdings Pte Ltd</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
