@@ -28,7 +28,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/SAC-SINGLAS-004-21-Sep-2020.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 004 - 21 September 2020: Classification of Tests</a>
+<p><a href="/files/Documents/Laboratory Accreditation/SAC_SINGLAS_004_09_March_26.pdf" rel="noopener noreferrer nofollow" target="_blank">SAC-SINGLAS 004 - 09 March 2026: Classification of Tests</a>
 </p>
 </li>
 <li>
