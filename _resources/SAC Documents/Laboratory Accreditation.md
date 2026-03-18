@@ -85,11 +85,11 @@ documents for the SAC accreditation are as below:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/cb-env-technotes001-12aug2025" rel="noopener nofollow" target="_blank">C&amp;B and ENV 001 - 12 Aug 2025: Specific Requirements for C&amp;B and ENV Testing Labs</a>
+<p><a href="/files/Documents/Laboratory Accreditation/testing-and-calibration-documents/environmental-testing-field/CB_ENV_Tech_Notes_001_16_Mar_2026.pdf" rel="noopener nofollow" target="_blank">C&amp;B and ENV 001 - 16 Mar 2026: Specific Requirements for C&amp;B and ENV Testing Labs</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/cb-and-env-tech-notes-002-25oct2024" rel="noopener noreferrer nofollow" target="_blank">C&amp;B and ENV 002 - 25&nbsp;Oct 2024: Quality Assurance of Equipment Commonly Used in C&amp;B and ENV Testing Labs</a>
+<p><a href="/files/Documents/Laboratory Accreditation/testing-and-calibration-documents/environmental-testing-field/CB_and_ENV_Tech_Notes_002_16_Mar_2026.pdf" rel="noopener nofollow" target="_blank">C&amp;B and ENV 002-16 Mar 2026: Quality Assurance of Equipment Commonly Used in C&amp;B and ENV Testing Labs</a>
 </p>
 </li>
 <li>
@@ -145,11 +145,11 @@ documents for the SAC accreditation are as below:</p>
 </p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/cb-env-technotes001-12aug2025" rel="noopener nofollow" target="_blank">C&amp;B and ENV 001 - 12 Aug 2025: Specific Requirements for C&amp;B and ENV Testing Labs</a>
+<p><a href="/files/Documents/Laboratory Accreditation/testing-and-calibration-documents/environmental-testing-field/CB_ENV_Tech_Notes_001_16_Mar_2026.pdf" rel="noopener nofollow" target="_blank">C&amp;B and ENV 001 - 16 Mar 2026: Specific Requirements for C&amp;B and ENV Testing Labs</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/cb-and-env-tech-notes-002-25oct2024" rel="noopener noreferrer nofollow" target="_blank">C&amp;B and ENV 002 - 25&nbsp;Oct 2024: Quality Assurance of Equipment Commonly Used in C&amp;B and ENV Testing Labs</a>
+<p><a href="/files/Documents/Laboratory Accreditation/testing-and-calibration-documents/environmental-testing-field/CB_and_ENV_Tech_Notes_002_16_Mar_2026.pdf" rel="noopener nofollow" target="_blank">C&amp;B and ENV 002-16 Mar 2026: Quality Assurance of Equipment Commonly Used in C&amp;B and ENV Testing Labs</a>
 </p>
 </li>
 <li>
