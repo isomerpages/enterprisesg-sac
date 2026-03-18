@@ -77,9 +77,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/calibration-and-measurement-field/Technical-Guide-1-29-Mar-2019.pdf" rel="noopener noreferrer nofollow" target="_blank">Technical Guide </a>
-<a href="/files/Documents/Laboratory Accreditation/testing-and-calibration-documents/calibration-and-measurement-field/Technical_Guide_1_18_Mar_26.pdf" rel="noopener nofollow" target="_blank">Technical Guide 1 - 18 Mar 2026 : Guidelines on the Evaluation and Expression
-of MU</a>
+<p><a href="/files/Documents/Laboratory Accreditation/testing-and-calibration-documents/calibration-and-measurement-field/Technical_Guide_1_18_Mar_26.pdf" rel="noopener nofollow" target="_blank">Technical Guide 1 - 18 Mar 2026 : Guidelines on the Evaluation and Expression of MU</a>
 </p>
 </li>
 </ul>
