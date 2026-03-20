@@ -75,7 +75,7 @@ Click on the quick links below to jump to the CAB Status:
 
 
 * Medical Testing
-   * Invitrocue Pte Ltd (02 October 2025)
+   * Invitrocue Pte Ltd (02 October 2025 to 02 October 2026)
 
 #### Inspection Body
 
