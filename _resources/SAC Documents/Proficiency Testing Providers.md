@@ -5,11 +5,11 @@ description: ""
 third_nav_title: SAC Documents
 variant: tiptap
 ---
-<p>A facility must be fully conversant and comply with the relevant standards
+<p>A PT Provider must be fully conversant and comply with the relevant standards
 and criteria to be accredited. The standards, specific criteria and related
 documents for the SAC accreditation are as below:</p>
 <h3>Standards and Criteria Document for PTP</h3>
-<p><strong>ISO/IEC 17043:2010 (Conformity Assessment – General Requirements for proficiency testing)</strong>
+<p><strong>ISO/IEC 17043:2023 (Conformity Assessment – General Requirements for the competence of proficiency testing providers)</strong>
 </p>
 <ul>
 <li>
