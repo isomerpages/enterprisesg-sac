@@ -30,7 +30,7 @@ In addition, with the pool of accredited local PTPs available, customers such as
 
 ### Process
 
-A facility seeking recognition for compliance with ISO/IEC 17043 should apply to SAC, stating its proposed scope and type of PT scheme for recognition. It has to provide key information on:
+A PT Provider seeking recognition for compliance with ISO/IEC 17043 should apply to SAC, stating its proposed scope and type of PT scheme for recognition. It has to provide key information on:
 
 a) Management structure
 
