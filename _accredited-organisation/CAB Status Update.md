@@ -120,6 +120,9 @@ Click on the quick links below to jump to the CAB Status:
 * Medical Testing
   *  Asia Royal Hospital (31 December 2025)
   *  Right Healthcare (31 December 2025)
+  
+* Chemical & Biological Testing
+   *  Phu Bia Mining Ltd (09 February 2026)
 
 
 
