@@ -89,7 +89,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory Accreditation/testing-and-calibration-documents/environmental-testing-field/CB_and_ENV_Tech_Notes_002_16_Mar_2026.pdf" rel="noopener nofollow" target="_blank">C&amp;B and ENV 002 - 16 Mar 2026: Quality Assurance of Equipment Commonly Used in C&amp;B and ENV Testing Labs</a>
+<p><a href="/files/Documents/Laboratory Accreditation/CB_ENV_Tech_Notes_002_24Mar26v3.pdf" rel="noopener nofollow" target="_blank">C&amp;B and ENV 002 - 24 Mar 2026: Quality Assurance of Equipment Commonly Used in C&amp;B and ENV Testing Labs</a>
 </p>
 </li>
 <li>
@@ -149,7 +149,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory Accreditation/testing-and-calibration-documents/environmental-testing-field/CB_and_ENV_Tech_Notes_002_16_Mar_2026.pdf" rel="noopener nofollow" target="_blank">C&amp;B and ENV 002-16 Mar 2026: Quality Assurance of Equipment Commonly Used in C&amp;B and ENV Testing Labs</a>
+<p><a href="/files/Documents/Laboratory Accreditation/CB_ENV_Tech_Notes_002_24Mar26v3.pdf" rel="noopener nofollow" target="_blank">C&amp;B and ENV 002-24 Mar 2026: Quality Assurance of Equipment Commonly Used in C&amp;B and ENV Testing Labs</a>
 </p>
 </li>
 <li>
