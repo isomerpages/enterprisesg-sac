@@ -283,4 +283,5 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://go.gov.sg/lafm03iso170252017chklist27mar2026" rel="noopener nofollow" target="_blank">LAFM03 - 27 March 2026 ISO 17025-2017 Checklist</a>
+</p>
