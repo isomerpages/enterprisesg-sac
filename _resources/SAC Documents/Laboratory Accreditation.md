@@ -61,11 +61,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/Documents/Laboratory Accreditation/LAFM03_ISO_17025_2017_Chklist__27_Mar_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>LAFM03 - 27 March 2026 ISO 17025-2017 Checklist</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://file.go.gov.sg/lafm03iso170252017chklist27mar2026.docx" rel="noopener nofollow" target="_blank">LAFM03 - 27 March 2026 ISO 17025-2017 Checklist</a>
+<p><a href="/files/Documents/Laboratory Accreditation/LAFM03_ISO_17025_2017_Chklist__27_Mar_2026_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>LAFM03 - 27 March 2026 ISO 17025-2017 Checklis</u></a>
 </p>
 </li>
 </ul>
