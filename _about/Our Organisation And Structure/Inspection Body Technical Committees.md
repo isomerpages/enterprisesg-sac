@@ -70,7 +70,7 @@ scheme.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chang Jian Quan</p>
+<p>Mr Chao Yu De</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Food Agency</p>
