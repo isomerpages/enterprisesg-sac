@@ -77,12 +77,7 @@ Click on the quick links below to jump to the CAB Status:
 * Medical Testing
    * Invitrocue Pte Ltd (02 October 2025 to 02 October 2026)
 
-#### Inspection Body
 
-
-* Cargo Inspection
-   * Seahawk Services Pte Ltd (27 February 2026 to 26 May 2026)
- 
 
 
 [Back to top ↑](#top)
