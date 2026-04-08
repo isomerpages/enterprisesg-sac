@@ -112,7 +112,7 @@ Click on the quick links below to jump to the CAB Status:
 #### Certification Body
 
 * Management Systems
-   * Quality Management Systems
+   * Quality Management System
       * Sustech Services Pte Ltd
 
 
