@@ -109,6 +109,13 @@ Click on the quick links below to jump to the CAB Status:
   * SG Engineering & Inspection Pte Ltd (20 October 2025)
 
 
+#### Certification Body
+
+* Management Systems
+   * Quality Management Systems
+      * Sustech Services Pte Ltd
+
+
 
 #### **Withdrawal by SAC**
 
