@@ -126,7 +126,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Victor Li</p>
+<p>Ms Clare Chowi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Food Agency</p>
@@ -170,7 +170,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pending</p>
+<p>Mr Ong Beng Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SMF-TIC Interest Group - Product Certification Bodies</p>
