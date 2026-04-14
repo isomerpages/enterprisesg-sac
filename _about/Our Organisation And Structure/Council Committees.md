@@ -126,7 +126,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Clare Chowi</p>
+<p>Ms Clare Chow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Food Agency</p>
