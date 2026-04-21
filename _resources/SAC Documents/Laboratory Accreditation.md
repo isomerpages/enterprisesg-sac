@@ -37,10 +37,6 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/prof001_16apr2026_policies_on_proficiency_testing.pdf" rel="noopener noreferrer nofollow" target="_blank">PROF 001 - 06 January 2026: Policies on Proficiency Testing</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Documents/Laboratory%20Accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules for the Use of ILAC MRA Mark</a>
 </p>
 </li>
