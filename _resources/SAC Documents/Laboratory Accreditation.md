@@ -32,8 +32,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 </li>
 <li>
-<p><a href="/files/prof001_16apr2026_policies_on_proficiency_testing.pdf" rel="noopener noreferrer nofollow" target="_blank">PROF </a>
-<a href="/files/prof001_16apr2026_policies_on_proficiency_testing.pdf" rel="noopener nofollow" target="_blank">001 - 16 April 2026 - Policies on Proficiency Testing</a>
+<p><a href="https://go.gov.sg/prof001-16apr2026-policies-on-proficiency-testing" rel="noopener nofollow" target="_blank">PROF 001 - 16 April 2026 - Policies on Proficiency Testing</a>
 </p>
 </li>
 <li>
