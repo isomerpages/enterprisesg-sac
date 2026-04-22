@@ -107,6 +107,14 @@ Trustmark (DPTM) certification</p>
 Intelligence Management System and Facilities Management Management System</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+<p><strong>20 April: </strong>Migration of Privacy Information Management
+System (PIMS) Certification as a standalone Accreditation Programme</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
