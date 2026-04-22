@@ -26,11 +26,12 @@ The Accreditation Scheme for Quality Management System Certification Bodies was 
 * Food Safety Management System
 * Good Distribution Practice for Medical Devices
 * Hazard Analysis Critical Control Point-based Food Management System
-* Information Security Management System (including Privacy Information Management System)
+* Information Security Management System
 * Learning Service Providers
 * Medical Device Quality Management System
 * Multi-Tiered Cloud Computing Security Management System
 * Occupational Health &amp; Safety Management System
+* Privacy Information Management System
 * Quality Management System (including Quality Management for Bunker Supply Chain) 
 * Water Efficiency Management System
  
