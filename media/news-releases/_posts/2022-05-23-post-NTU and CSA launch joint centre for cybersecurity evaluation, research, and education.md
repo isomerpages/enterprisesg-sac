@@ -68,7 +68,7 @@ click [here](https://www.csa.gov.sg/news-events/press-releases/ntu-singapore-and
 
 More media news available below: 
 
-[Ministry of Digital Development and Information[Ministry of Digital Development and Information](https://www.mddi.gov.sg/newsroom/minister-josephine-at-the-opening-of-the-nice/)](https://www.mddi.gov.sg/)
+[Ministry of Digital Development and Information[Ministry of Digital Development and Information](https://www.mddi.gov.sg/newsroom/minister-josephine-at-the-opening-of-the-nice/)]
 
 [Nanyang Technological University, Singapore (NTU Singapore)](https://www.ntu.edu.sg/news/detail/new-security-evaluation-centre-to-ensure-hardware-devices-play-nice)
 
