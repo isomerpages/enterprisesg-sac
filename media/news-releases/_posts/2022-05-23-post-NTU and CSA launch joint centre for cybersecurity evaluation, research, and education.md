@@ -6,6 +6,7 @@ date: 2022-05-23
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **NTU Singapore and CSA Singapore launch joint centre for cybersecurity evaluation, research, and education**
 
@@ -61,12 +62,13 @@ As at end-April 2022, the two schemes have seen healthy take-up by manufacturers
 To make it easier for manufacturers to attain the highest CLS security rating, CSA has introduced an initiative known as “CLS-Ready”. Security functionalities provided by CLS-Ready hardware will no longer be needed to be tested again at the end-device level, allowing developers and manufactures to save time and cost while not compromising on security.
 
 
-Extracted from Cyber Security Agency of Singapore (CSA), click [here](https://www.csa.gov.sg/News/Press-Releases/ntu-singapore-and-csa-singapore-launch-joint-centre-for-cybersecurity-evaluation-research-and-education) to read the full release. 
+Extracted from Cyber Security Agency of Singapore (CSA), 
+click [here](https://www.csa.gov.sg/news-events/press-releases/ntu-singapore-and-csa-singapore-launch-joint-center-for-cybersecurity-evaluation-research-and-education/) to read the full release. 
 
 
 More media news available below: 
 
-[Ministry of Communications and Information (MCI)](https://www.mci.gov.sg/pressroom/news-and-stories/pressroom/2022/5/opening-speech-by-minister-josephine-teo-at-the-official-opening-of-the-national-integrated-centre-for-evaluation?page=19_6)
+[Ministry of Digital Development and Information](https://www.mddi.gov.sg/newsroom/minister-josephine-at-the-opening-of-the-nice/)
 
 [Nanyang Technological University, Singapore (NTU Singapore)](https://www.ntu.edu.sg/news/detail/new-security-evaluation-centre-to-ensure-hardware-devices-play-nice)
 
