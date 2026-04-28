@@ -77,10 +77,9 @@ Click on the quick links below to jump to the CAB Status:
    * Invitrocue Pte Ltd (02 October 2025 to 02 October 2026)
 
 
-#### Certification
+#### Auditing Organisation
 
-* Auditing Organisation
-   * AEON DS Global Certification Pte. Ltd. (13 April 2026 to 03 
+* AEON DS Global Certification Pte. Ltd. (13 April 2026 to 03 
     April 2027)
 		
 
