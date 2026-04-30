@@ -7,6 +7,7 @@ third_nav_title: Training, Courses & Seminars
 ---
 <p><strong>Course Details</strong>
 </p>
+<p></p>
 <p><strong>July 2026</strong>
 </p>
 <p></p>
