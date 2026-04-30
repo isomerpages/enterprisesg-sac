@@ -12,6 +12,11 @@ variant: markdown
 [**SAC Good Laboratory Practice (GLP) Training Course 2026**]<br>[January 2026](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/sac-good-laboratory-practice-glp-training-course-2026/)  
 
 
+#### Q3
+
+[**HSA-SAC Joint Courses 2026**]<br>[July 2026](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/services/training-courses-and-seminars/permalink/)
+
+
 
 ### Training Calendar 2024
 
