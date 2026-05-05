@@ -182,10 +182,13 @@ If you have any questions or doubts, you can drop us an email or call us directl
 
 SAC considers feedback as opportunities for improvement and to monitor the performance of our accredited organisations.&nbsp;
 
+	
 If you have a complaint or wish to give feedback about SAC accreditation or performance of SAC accredited organisations, please write to sac@enterprisesg.gov.sg. Any written complaints should be accompanied with objective evidence(s) to support the complaints and to facilitate our investigation.&nbsp;
 
+	
 For feedback or complaints pertaining to SAC accredited organisations or their clients, the accredited organisations will be requested to address the complaint and to take appropriate corrective actions.&nbsp;
 
+	
 Please refer to SAC 01 Terms and Conditions for Accreditation for procedures on Appeals and Complaints.	
 		
 	
