@@ -349,7 +349,6 @@ After registration, there will be an annual visit for study audits and inspectio
 Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the  
 Group and is available at;  <a href="https://www.oecd.org/" target="_blank">OECD Website</a>
 
-	
     
 
 </div></li>
@@ -378,6 +377,4 @@ Please refer to SAC 01 Terms and Conditions for Accreditation for procedures on 
 
 If you have any questions or doubts, you can drop us an email or call us directly through the </a><a href="/contact-us" target="\_blank">Contact Us</a> section.<p></p>
 
-</div></li></ul>  
-
-
+</div></li></ul>   
