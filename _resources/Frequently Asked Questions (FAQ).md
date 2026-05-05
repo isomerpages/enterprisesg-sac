@@ -349,7 +349,7 @@ After registration, there will be an annual visit for study audits and inspectio
 Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the  
 Group and is available at;  <a href="https://www.oecd.org/" target="_blank">OECD Website</a>
 
-    
+   
 
 </div></li>
 
@@ -357,24 +357,31 @@ Group and is available at;  <a href="https://www.oecd.org/" target="_blank">OECD
 
 <label for="accordion15g">Where can I get more information?</label><div>
 
-Further information on the Singapore compliance monitoring programme should be sent to <a href="mailto:lsac@enterprisesg.gov.sg">
+Further information on the Singapore compliance monitoring programme should be sent to <a href="mailto:lim\_lee\_fang@enterprisesg.gov.sg">lim\_lee\_fang@enterprisesg.gov.sg</a>
 
-</a></div></li><li><a href="mailto:lsac@enterprisesg.gov.sg"><input id="accordion16g" type="checkbox">
+</div></li><li><input id="accordion116g" type="checkbox">
 
-<label for="accordion16g">How do I submit complaints, feedback and appeals?</label><div>
+<label for="accordion116g">Any other enquiries?</label><div>
 
-<p>SAC considers feedback as opportunities for improvement and to monitor the performance of our accredited organisations.&nbsp;
+If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact-us" target="\_blank">Contact Us</a> section.<p></p>
 
-If you have a complaint or wish to give feedback about SAC accreditation or performance of SAC accredited organisations, please write to sac@enterprisesg.gov.sg.&nbsp; Any written complaints should be accompanied with objective evidence(s) to support the complaints and to facilitate our investigation.&nbsp;
+
+	
+</div></li><li><input id="accordion117g" type="checkbox">
+
+<label for="accordion117g">Any other enquiries?</label><div>
+
+How do I submit complaints, feedback and appeals?
+
+SAC considers feedback as opportunities for improvement and to monitor the performance of our accredited organisations.&nbsp;
+
+If you have a complaint or wish to give feedback about SAC accreditation or performance of SAC accredited organisations, please write to [sac@enterprisesg.gov.sg](mailto:sac@enterprisesg.gov.sg).&nbsp; Any written complaints should be accompanied with objective evidence(s) to support the complaints and to facilitate our investigation.&nbsp;
 
 For feedback or complaints pertaining to SAC accredited organisations or their clients, the accredited organisations will be requested to address the complaint and to take appropriate corrective actions.&nbsp;
 
-Please refer to SAC 01 Terms and Conditions for Accreditation for procedures on Appeals and Complaints. </p><p></p>
-
-</div></a></li><li><a href="mailto:lsac@enterprisesg.gov.sg"><input id="accordion17g" type="checkbox">
-
-<label for="accordion17g">Any other enquiries?</label></a><div><a href="mailto:lsac@enterprisesg.gov.sg">
-
-If you have any questions or doubts, you can drop us an email or call us directly through the </a><a href="/contact-us" target="\_blank">Contact Us</a> section.<p></p>
-
-</div></li></ul>   
+Please refer to SAC 01 Terms and Conditions for Accreditation for procedures on Appeals and Complaints.	
+	
+	
+	
+</div></li></ul>    
+   
