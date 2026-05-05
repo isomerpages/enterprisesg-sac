@@ -358,7 +358,8 @@ Group and is available at;  <a href="https://www.oecd.org/" target="_blank">OECD
 
 Further information on the Singapore compliance monitoring programme should be sent to <a id="accordion16g" href="mailto:lsac@enterprisesg.gov.sg</a>
 
-</div></li><li><input type=">
+
+<li><input type=">
 
 <label for="accordion16g">How do I submit complaints, feedback and appeals?</label><div>
 
@@ -370,15 +371,25 @@ For feedback or complaints pertaining to SAC accredited organisations or their c
 
 Please refer to SAC 01 Terms and Conditions for Accreditation for procedures on Appeals and Complaints. </p><p></p>
 
-</div></a></div></li><li><a id="accordion16g" href="mailto:lsac@enterprisesg.gov.sg</a>
+   
 
-</div></li><li><input type="><input id="accordion17g" type="checkbox">
+</div></a></div></li><a id="accordion16g" href="mailto:lsac@enterprisesg.gov.sg</a>
 
-<label for="accordion17g">Any other enquiries?</label></a><div><a id="accordion16g" href="mailto:lsac@enterprisesg.gov.sg</a>
 
-</div></li><li><input type=">
+<li><input type=">
+
+
+
+</a><li><a id="accordion16g" href="mailto:lsac@enterprisesg.gov.sg</a>
+
+
+<li><input type="><input id="accordion116g" type="checkbox">
+
+<label for="accordion116g">Any other enquiries?</label></a><div><a id="accordion16g" href="mailto:lsac@enterprisesg.gov.sg</a>
+
+
+<li><input type=">
 
 If you have any questions or doubts, you can drop us an email or call us directly through the </a><a href="/contact-us" target="\_blank">Contact Us</a> section.<p></p>
 
-</div></li></ul>	
-	
+</div></li></ul>
