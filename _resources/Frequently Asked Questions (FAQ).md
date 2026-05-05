@@ -374,19 +374,27 @@ For feedback or complaints pertaining to SAC accredited organisations or their c
 Please refer to SAC 01 Terms and Conditions for Accreditation for procedures on Appeals and Complaints. </p><p></p>
 
  
-
-</div></a></div></li><li><a id="accordion16g" href="mailto: sac@enterprisesg.gov.sg</a>
-	
-   
-
-</div></li><li><input type="><input id="accordion17g" type="checkbox">
-
-<label for="accordion17g">Any other enquiries?</label></a><div><a id="accordion16g" href="mailto: sac@enterprisesg.gov.sg</a>
+</div></a></div></li><a id="accordion16g" href="mailto: sac@enterprisesg.gov.sg</a>
 	
    
 
 </div></li><li><input type=">
 
-If you have any questions or doubts, you can drop us an email or call us directly through the </a><a href="/contact-us" target="\_blank">Contact Us</a> section.<p></p>
+</a><li><a id="accordion16g" href="mailto: sac@enterprisesg.gov.sg</a>
+	
+   
+
+</div></li><li><input type="><input id="accordion17" type="checkbox">
+
+<label for="accordion17">Any other enquiries?</label></a><div><a id="accordion16g" href="mailto: sac@enterprisesg.gov.sg</a>
+	
+   
+
+</div></li><li><input type=">
+
+If you have any questions or doubts, you can drop us an email or call us directly through the </a><a href="/contact-us" target="_blank">Contact Us</a> section.<p></p>
+
+  
+
 
 </div></li></ul>
