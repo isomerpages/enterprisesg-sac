@@ -369,9 +369,7 @@ If you have any questions or doubts, you can drop us an email or call us directl
 	
 </div></li><li><input id="accordion117g" type="checkbox">
 
-<label for="accordion117g">Any other enquiries?</label><div>
-
-How do I submit complaints, feedback and appeals?
+<label for="accordion117g">How do I submit complaints, feedback and appeals?</label><div>
 
 SAC considers feedback as opportunities for improvement and to monitor the performance of our accredited organisations.&nbsp;
 
