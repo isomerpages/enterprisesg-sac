@@ -19,33 +19,6 @@ variant: markdown
 
 
 
-### Training Calendar 2024
-
-#### Q3
-
-
-[**HSA-SAC Joint Courses 2024**]<br>[August 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/services/training-courses-and-seminars/permalink/)
-
-[**ISO 15189:2022 Course**]<br>[2-3 September 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/iso-15189-2022-course/)
-
-
-### Training Calendar 2023
-
-#### Q1
-
-[**Internal Audit Course**<br>27-28 Feb 2023](/services/training/ia-course-feb-2023/)
-
-[**Inspection Body Course**<br>23-24 Feb 2023](/services/training/ia-course-feb-2023/)
-
-[**Laboratory Management Course**<br>1 - 3 March 2023](/services/training/lab-mgt-course-mar2023/)
-
-#### Q3
-
-
-[**HSA-SAC Joint Courses 2023**<br>July and August 2023](/services/training/hsa-sac-joint/)
-
-
-
 ### Training Programmes
 
 SAC facilitates the following training sesssions when available.
