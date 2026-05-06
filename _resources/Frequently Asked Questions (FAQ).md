@@ -2,14 +2,13 @@
 title: Frequently Asked Questions (FAQ)
 permalink: /resources/faq/
 description: ""
+variant: markdown
 ---
-<!-- COMMENT: This page uses customised 'faq' layout to organise the content below. Go to "\_layouts->faq.html" if you need to edit the layout for this page, or change the layout to 'leftnav-page-content' in the header code snippet above to switch to a standard page layout -->
-
 ### Frequently Asked Questions on SAC Accreditation Programmes
 
 Below are some questions and answers that would help you understand what accreditation is and how to attain accreditation.
 
-<!-- NOTE: Each Q&A must be preceded with a '{: #qn{Number}}' (e.g. {: #qn1}) as a unique identifier -->
+
 
  
 
@@ -42,7 +41,7 @@ Below are some questions and answers that would help you understand what accredi
 
 ILAC and&nbsp; IAF have published an informative article titled <a href="http://ilac.org/?download=119879" target="_blank">“Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace”</a> in <i>Standards Engineering</i>, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
 
-<!-- COMMENT: The {:target="\\\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
+</p>
 
 </div></li>
 
@@ -176,6 +175,22 @@ There will also be periodic surveillance assessments to ensure your continued co
 
 If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact-us" target="_blank">Contact Us</a> section.<p></p>
 	
+
+</div></li><li><input id="accordion9g" type="checkbox">
+
+<label for="accordion9g">How do I submit complaints, feedback and appeals?</label><div>
+
+SAC considers feedback as opportunities for improvement and to monitor the performance of our accredited organisations.&nbsp;
+
+	
+If you have a complaint or wish to give feedback about SAC accreditation or performance of SAC accredited organisations, please write to sac@enterprisesg.gov.sg. Any written complaints should be accompanied with objective evidence(s) to support the complaints and to facilitate our investigation.&nbsp;
+
+	
+For feedback or complaints pertaining to SAC accredited organisations or their clients, the accredited organisations will be requested to address the complaint and to take appropriate corrective actions.&nbsp;
+
+	
+Please refer to SAC 01 Terms and Conditions for Accreditation for procedures on Appeals and Complaints.	
+		
 	
 	
 </div></li>
@@ -218,7 +233,7 @@ Product registration in overseas markets are typically referred to the US FDA fo
 This document is produced by the OECD GLP Working Group and is available at; <a href="https://www.oecd.org/" target="_blank">OECD Website</a>
 	
 	
-<!-- COMMENT: The {:target="\\\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
+</p>
 
 </div></li>
 
@@ -350,33 +365,22 @@ After registration, there will be an annual visit for study audits and inspectio
 Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the  
 Group and is available at;  <a href="https://www.oecd.org/" target="_blank">OECD Website</a>
 
-	
-	
-	</div></li>
+   
+
+</div></li>
 
 <li><input id="accordion15g" type="checkbox">
 
 <label for="accordion15g">Where can I get more information?</label><div>
-	
-Further information on the Singapore compliance monitoring programme should be sent to <a href="mailto:lim_lee_fang@enterprisesg.gov.sg">lim_lee_fang@enterprisesg.gov.sg</a>
-	
-	
+
+Further information on the Singapore compliance monitoring programme should be sent to <a href="mailto:lim\_lee\_fang@enterprisesg.gov.sg">lim\_lee\_fang@enterprisesg.gov.sg</a>
+
 </div></li><li><input id="accordion116g" type="checkbox">
 
 <label for="accordion116g">Any other enquiries?</label><div>
 
-If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact-us" target="_blank">Contact Us</a> section.<p></p>
-
-	
-	
-<!-- COMMENT: The {:target=" end="" is="" open="" in=""><p></p>
-
+If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact-us" target="\_blank">Contact Us</a> section.<p></p>
 
 
 	
-</a></div></li><a href=">Contact Us></a>	
-	
-	
-<!-- COMMENT: The {:target=" end="" is="" open="" in="">
-
-</a></ul>--></div></li></ul>
+</div></li></ul>
