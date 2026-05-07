@@ -7,18 +7,15 @@ third_nav_title: Training, Courses & Seminars
 ---
 <p><strong>Course Details</strong>
 </p>
-<p></p>
 <p><strong>July 2023</strong>
 </p>
-<p></p>
-<p>Click <a href="https://go.gov.sg/2023-hsa-sac-joint-courses" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://go.gov.sg/2023-hsa-sac-joint-courses" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 download the course brochure.</p>
-<p></p>
 <p>Please register at <a href="http://go.gov.sg/hsa-sac-courses" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/hsa-sac-courses.</a>
 </p>
-<p></p>
 <p>Please email <a href="mailto:HSA_CML@hsa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Thang Jia Sui</a> or
 contact her at <strong>(65) 6775 1605</strong> ext 125</p>
+<p>&nbsp;</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -86,23 +83,6 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,4 +100,4 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
