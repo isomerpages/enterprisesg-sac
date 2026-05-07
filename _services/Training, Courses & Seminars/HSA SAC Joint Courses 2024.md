@@ -11,7 +11,7 @@ third_nav_title: Training, Courses & Seminars
 <p><strong>August 2024</strong>
 </p>
 <p></p>
-<p>Click <a href="https://go.gov.sg/2026-hsa-sac-joint-courses" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://go.gov.sg/2024-hsa-sac-joint-courses" rel="noopener nofollow" target="_blank">here</a> to
 download the course brochure.</p>
 <p></p>
 <p>Please register at <a href="http://go.gov.sg/hsa-sac-courses" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/hsa-sac-courses.</a>
