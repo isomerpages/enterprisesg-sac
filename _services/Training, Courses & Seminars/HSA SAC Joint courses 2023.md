@@ -9,15 +9,12 @@ third_nav_title: Training, Courses & Seminars
 <p><strong>July and August 2023</strong>
 </p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Click [here](/files/Registration%20forms/2023_hsa-sac_joint_courses.pdf){:target="\_blank"}
 to download the course brochure.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>Please email &lt;a href="mailto:<a href="mailto:HSA_CML@hsa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">HSA_CML@hsa.gov.sg</a>"&gt;Thang Jia Sui&lt;/a&gt;
 or contact her at <strong>(65) 6775 1605</strong> ext 125</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <p>&lt;table&gt;</p>
 <p>&lt;thead&gt;</p>
 <p>&nbsp; &lt;tr&gt;</p>
