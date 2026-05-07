@@ -24,6 +24,7 @@ variant: markdown
 
 [**ISO 15189:2022 Course**]<br>[2-3 September 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/iso-15189-2022-course/)
 
+
 ### Training Calendar 2023
 
 #### Q1
