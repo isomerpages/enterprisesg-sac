@@ -38,7 +38,7 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Fee (inclusive of GST)</strong>
+<p><strong>Fee (before GST)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,7 +58,7 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 <p>Basic Statistical Tools</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$270.00</p>
+<p>$250.00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 July 2023</p>
@@ -75,7 +75,7 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 <p>Method Validation for Chemical Testing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$270.00</p>
+<p>$250.00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>25 July 2023</p>
@@ -109,7 +109,7 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 <p>Measurement Uncertainty for Chemical Testing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$410.40</p>
+<p>$380.00</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>22 - 23 July 2023 (1.5 days)</p>
