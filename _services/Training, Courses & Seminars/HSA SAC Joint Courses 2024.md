@@ -78,7 +78,7 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 <p>$294.30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 August2024</p>
+<p>13 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Closed</p>
