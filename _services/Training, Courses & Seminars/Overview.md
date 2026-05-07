@@ -20,11 +20,11 @@ variant: markdown
 
 #### Q3
 
-\[HSA-SAC Joint Courses 2024\]
+[**HSA-SAC Joint Courses 2024]
 
 [August 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/services/training-courses-and-seminars/permalink/)
 
-\[ISO 15189:2022 Course\]
+[**ISO 15189:2022 Course]
 
 [2-3 September 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/iso-15189-2022-course/)
 
