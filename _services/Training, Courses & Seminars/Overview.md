@@ -42,9 +42,8 @@ variant: markdown
 
 #### Q3
 
-[**HSA-SAC Joint Courses 2023**](https://www.sac-accreditation.gov.sg/services/training/hsa-sac-joint/)
+[**HSA-SAC Joint Courses 2023**]<br>[July and August 2023](https://www.sac-accreditation.gov.sg/services/training/hsa-sac-joint/)
 
-[July and August 2023](https://www.sac-accreditation.gov.sg/services/training/hsa-sac-joint/)
 
 
 ### Training Programmes
