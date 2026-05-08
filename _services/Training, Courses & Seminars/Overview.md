@@ -28,9 +28,6 @@ variant: markdown
 [**ISO 15189:2022 Course**]<br>[2-3 September 2024](https://www.sac-accreditation.gov.sg/iso-15189-2022-course/)
 
 
-[**ISO 15189:2022 Course**]<br>[2-3 September 2024](https://cms.isomer.gov.sg/sites/enterprisesg-sac/folders/services/subfolders/Training%2C%20Courses%20%26%20Seminars/editPage/ISO%2015189%202022%20course%20on%202%20to%203%20September%202024.md)
-
-
 ### Training Calendar 2023
 
 #### Q1
