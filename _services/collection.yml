@@ -2,6 +2,8 @@ collections:
   services:
     output: true
     order:
+      - Training, Courses & Seminars/ISO 15189 2022 course on 2 to 3 September
+        2024.md
       - Training, Courses & Seminars/.keep
       - Training, Courses & Seminars/Overview.md
       - Training, Courses & Seminars/HSA and SAC Joint Courses 2026.md
