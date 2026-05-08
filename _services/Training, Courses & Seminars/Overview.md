@@ -29,17 +29,12 @@ variant: markdown
 
 #### Q1
 
-[Internal Audit Course](https://www.sac-accreditation.gov.sg/services/training/ia-course-feb-2023/)
+[Internal Audit Course]<br>[27-28 Feb 2023](https://www.sac-accreditation.gov.sg/services/training/ia-course-feb-2023/)
 
-[27-28 Feb 2023](https://www.sac-accreditation.gov.sg/services/training/ia-course-feb-2023/)
+[Inspection Body Course]<br>[23-24 Feb 2023](https://www.sac-accreditation.gov.sg/services/training/ia-course-feb-2023/)
 
-[Inspection Body Course](https://www.sac-accreditation.gov.sg/services/training/ia-course-feb-2023/)
+[Laboratory Management Course]<br>[1 - 3 March 2023](https://www.sac-accreditation.gov.sg/services/training/lab-mgt-course-mar2023/)
 
-[23-24 Feb 2023](https://www.sac-accreditation.gov.sg/services/training/ia-course-feb-2023/)
-
-[Laboratory Management Course](https://www.sac-accreditation.gov.sg/services/training/lab-mgt-course-mar2023/)
-
-[1 - 3 March 2023](https://www.sac-accreditation.gov.sg/services/training/lab-mgt-course-mar2023/)
 
 #### Q3
 
