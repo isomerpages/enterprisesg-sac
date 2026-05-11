@@ -16,8 +16,6 @@ variant: markdown
 
 [**HSA-SAC Joint Courses 2026**]<br>[July 2026](https://go.gov.sg/hsa-sac-joint-coursese-2026-rev1)
 
-[**HSA-SAC Joint Courses 2026**]<br>[July 2026](https://cms.isomer.gov.sg/sites/enterprisesg-sac/folders/services/subfolders/Training%2C%20Courses%20%26%20Seminars/editPage/HSA%20and%20SAC%20Joint%20Courses%202026.md)
-
   
 ### Training Calendar 2024
 
