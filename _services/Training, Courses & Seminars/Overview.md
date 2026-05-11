@@ -21,7 +21,7 @@ variant: markdown
 
 #### Q3
 
- [**HSA-SAC Joint Courses 2024**]<br>[August 2024][https://go.gov.sg/hsa-sac-joint-courses-2024-rev1]
+ [**HSA-SAC Joint Courses 2024**]<br>[August 2024](https://go.gov.sg/hsa-sac-joint-courses-2024-rev1)
 
 [**ISO 15189:2022 Course**]<br>[2-3 September 2024](https://www.sac-accreditation.gov.sg/iso-15189-2022-course/)
 
