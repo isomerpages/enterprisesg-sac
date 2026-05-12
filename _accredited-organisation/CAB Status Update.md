@@ -2,147 +2,235 @@
 title: CAB Status Update
 permalink: /accredited-org/cab-status-update/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Click on the quick links below to jump to the CAB Status:
-
-**[1. Newly Accredited](#newly-accredited)**
-
-**[2. Suspended](#suspended)**
-
-**[3. Withdrawn](#withdrawn)**
-
-
-
-
-{: #newly-accredited}
-### 1. Newly Accredited Conformity Assessment Bodies (CABs) 
-  
-
-
-#### Auditing Organisation
-* World Biohaztec Pte. Ltd. (15 October 2025)
-* Vine Consultancy (2 December 2025)
-
-
-#### Certification Body
-
-
-* Artificial Intelligence Management System
-   * TUV SUD PSB Pte Ltd (5 November 2025)
-
-* Data Protection Trustmark  
-  * Guardian Independent Certification P L (9 October 2025)
-  * ISOCert Pte Ltd (17 November 2025)
-  * TUV SUD PSB Pte Ltd (31 December 2025)
-		
-* Multi-tiered Coud Computing
-  *  Schellman Compliance, LLC (12 November 2025)
-
-* Product Certification
-  * APAVE TIV ASIA Pte. Ltd. (10 October 2025)
-   
-* Water Efficiency Management System
-  * SC2 Pte Ltd (9 December 2025)
-  
-   
-#### Validation and Verification Body
-
-* Verification of carbon footprint of product
-  * SGS Testing & Control Services Singapore Pte Ltd (22 October 2025)
-
-* Verification at Organisation Level
-  *  Bureau Veritas Quality Assurance Pte Ltd (10 December 2025)
-
-
-#### Laboratory
-
-* Calibration  & Measurement
-   * GERONIK ASIA PTE. LTD. (18 December 2025)
-
-
-
-
-
-[Back to top ↑](#top)
-
----
-
-{: #suspended}
-### 2. Suspended Conformity Assessment Bodies (CABs)
-
-#### Laboratory
-
-* Medical Testing
-   * Invitrocue Pte Ltd (02 October 2025 to 02 October 2026)
-
-
-#### Auditing Organisation
-
-* AEON DS Global Certification Pte. Ltd. (13 April 2026 to 03 
-    April 2027)
-		
-
-
-[Back to top ↑](#top)
-
----
-
-         
-{: #withdrawn}  
-  
-		
-### 3. Withdrawn Conformity Assessment Bodies (CABs) 
-
-#### **Voluntary Withdrawal by CABs**
-
-#### Laboratory
-
-* Chemical & Biological Testing
-   *  TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
-
-* Calibration  & Measurement
-  * Nihon Denkei Co. Ltd (22 November 2025)
-
-* Environmental Testing
-   * Element Construction Testing (S) Pte Ltd (12 January 2026)
-   * Sembcorp Industries Ltd (19 January 2026)
-
-* Non-Destructive Testing
-  * A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)
-  * SG Engineering & Inspection Pte Ltd (20 October 2025)
-
-
-#### Inspection Body
-
-* Cargo Inspection
-  * PacMarine Services Pte Ltd (15 April 2026)
-
-
-#### Certification Body
-
-* Management Systems
-   * Quality Management System
-      * Sustech Services Pte Ltd (7 April 2026)
-
-
-
-#### **Withdrawal by SAC**
-
-* Medical Testing
-  *  Asia Royal Hospital (31 December 2025)
-  *  Right Healthcare (31 December 2025)
-  
-* Chemical & Biological Testing
-   *  Phu Bia Mining Ltd (09 February 2026)
-
-
-
-[Back to top ↑](#top)
-
-
-
-
-
-
----
+<p>Click on the quick links below to jump to the CAB Status:</p>
+<p><strong><a href="#newly-accredited" rel="noopener noreferrer nofollow" target="_blank">1. Newly Accredited</a></strong>
+</p>
+<p><strong><a href="#suspended" rel="noopener noreferrer nofollow" target="_blank">2. Suspended</a></strong>
+</p>
+<p><strong><a href="#withdrawn" rel="noopener noreferrer nofollow" target="_blank">3. Withdrawn</a></strong>
+</p>
+<p>{: #newly-accredited}</p>
+<h3>1. Newly Accredited Conformity Assessment Bodies (CABs)</h3>
+<h4>Auditing Organisation</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>World Biohaztec Pte. Ltd. (15 October 2025)</p>
+</li>
+<li>
+<p>Vine Consultancy (2 December 2025)</p>
+</li>
+</ul>
+<h4>Certification Body</h4>
+<ul>
+<li>
+<p>Artificial Intelligence Management System</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>TUV SUD PSB Pte Ltd (5 November 2025)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Data Protection Trustmark</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guardian Independent Certification P L (9 October 2025)</p>
+</li>
+<li>
+<p>ISOCert Pte Ltd (17 November 2025)</p>
+</li>
+<li>
+<p>TUV SUD PSB Pte Ltd (31 December 2025)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Multi-tiered Coud Computing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Schellman Compliance, LLC (12 November 2025)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Product Certification</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>APAVE TIV ASIA Pte. Ltd. (10 October 2025)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Water Efficiency Management System</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SC2 Pte Ltd (9 December 2025)</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Validation and Verification Body</h4>
+<ul>
+<li>
+<p>Verification of carbon footprint of product</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGS Testing &amp; Control Services Singapore Pte Ltd (22 October 2025)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Verification at Organisation Level</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bureau Veritas Quality Assurance Pte Ltd (10 December 2025)</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Laboratory</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Calibration &amp; Measurement</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GERONIK ASIA PTE. LTD. (18 December 2025)</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+</p>
+<hr>
+<p>{: #suspended}</p>
+<h3>2. Suspended Conformity Assessment Bodies (CABs)</h3>
+<h4>Laboratory</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Medical Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Invitrocue Pte Ltd (02 October 2025 to 02 October 2026)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Area: Molecular Pathology</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Auditing Organisation</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>AEON DS Global Certification Pte. Ltd. (13 April 2026 to 03 April 2027)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Areas: Safety and Health Management System (SHMS) -&nbsp; Construction
+worksite, Risk Management (bizSAFE)</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+</p>
+<hr>
+<p>{: #withdrawn}</p>
+<h3>3. Withdrawn Conformity Assessment Bodies (CABs)</h3>
+<h4><strong>Voluntary Withdrawal by CABs</strong></h4>
+<h4>Laboratory</h4>
+<ul>
+<li>
+<p>Chemical &amp; Biological Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>TES-AMM (Singapore) Pte. Ltd. (15 December 2025)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Calibration &amp; Measurement</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nihon Denkei Co. Ltd (22 November 2025)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Environmental Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Element Construction Testing (S) Pte Ltd (12 January 2026)</p>
+</li>
+<li>
+<p>Sembcorp Industries Ltd (19 January 2026)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Non-Destructive Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)</p>
+</li>
+<li>
+<p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Inspection Body</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cargo Inspection</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PacMarine Services Pte Ltd (15 April 2026)</p>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Certification Body</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Management Systems</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Quality Management System</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sustech Services Pte Ltd (7 April 2026)</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4><strong>Withdrawal by SAC</strong></h4>
+<ul>
+<li>
+<p>Medical Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Asia Royal Hospital (31 December 2025)</p>
+</li>
+<li>
+<p>Right Healthcare (31 December 2025)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Chemical &amp; Biological Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Phu Bia Mining Ltd (09 February 2026)</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+</p>
+<hr>
+<p></p>
