@@ -11,38 +11,35 @@ variant: markdown
 
 [**SAC Good Laboratory Practice (GLP) Training Course 2026**]<br>[January 2026](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/sac-good-laboratory-practice-glp-training-course-2026/)  
 
-
 #### Q3
 
-[**HSA-SAC Joint Courses 2026**]<br>[July 2026](https://cms.isomer.gov.sg/sites/enterprisesg-sac/folders/services/subfolders/Training%2C%20Courses%20%26%20Seminars/editPage/HSA%20and%20SAC%20Joint%20Courses%202026.md)
 
+[**HSA-SAC Joint Courses 2026**]<br>[July 2026](https://go.gov.sg/hsa-sac-joint-coursese-2026-rev1)
 
-
-
+  
 ### Training Calendar 2024
 
 #### Q3
 
+ [**HSA-SAC Joint Courses 2024**]<br>[August 2024](https://go.gov.sg/hsa-sac-joint-courses-2024-rev1)
 
-[**HSA-SAC Joint Courses 2024**]<br>[August 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/services/training-courses-and-seminars/permalink/)
-
-[**ISO 15189:2022 Course**]<br>[2-3 September 2024](https://staging-lite.d6jmx6van1tbf.amplifyapp.com/iso-15189-2022-course/)
+[**ISO 15189:2022 Course**]<br>[2-3 September 2024](https://www.sac-accreditation.gov.sg/iso-15189-2022-course/)
 
 
 ### Training Calendar 2023
 
 #### Q1
 
-[**Internal Audit Course**<br>27-28 Feb 2023](/services/training/ia-course-feb-2023/)
+[Internal Audit Course]<br>[27-28 Feb 2023](https://www.sac-accreditation.gov.sg/services/training/ia-course-feb-2023/)
 
-[**Inspection Body Course**<br>23-24 Feb 2023](/services/training/ia-course-feb-2023/)
+[Inspection Body Course]<br>[23-24 Feb 2023](https://www.sac-accreditation.gov.sg/services/training/ia-course-feb-2023/)
 
-[**Laboratory Management Course**<br>1 - 3 March 2023](/services/training/lab-mgt-course-mar2023/)
+[Laboratory Management Course]<br>[1 - 3 March 2023](https://www.sac-accreditation.gov.sg/services/training/lab-mgt-course-mar2023/)
+
 
 #### Q3
 
-
-[**HSA-SAC Joint Courses 2023**<br>July and August 2023](/services/training/hsa-sac-joint/)
+[**HSA-SAC Joint Courses 2023**]<br>[July and August](https://go.gov.sg/hsa-sac-joint-course-2023-rev1)
 
 
 

@@ -1,6 +1,6 @@
 ---
-title: HSA and SAC Joint Courses 2026
-permalink: /hsa-and-sac-joint-courses-2026/
+title: HSA SAC Joint Courses 2024
+permalink: /hsa-sac-joint-courses-2024/
 variant: tiptap
 description: ""
 third_nav_title: Training, Courses & Seminars
@@ -8,10 +8,10 @@ third_nav_title: Training, Courses & Seminars
 <p><strong>Course Details</strong>
 </p>
 <p></p>
-<p><strong>July 2026</strong>
+<p><strong>August 2024</strong>
 </p>
 <p></p>
-<p>Click <a href="https://go.gov.sg/2026-hsa-sac-joint-courses" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://go.gov.sg/2024-hsa-sacjointcoursesflyer" rel="noopener nofollow" target="_blank">here</a> to
 download the course brochure.</p>
 <p></p>
 <p>Please register at <a href="http://go.gov.sg/hsa-sac-courses" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/hsa-sac-courses.</a>
@@ -61,10 +61,10 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 <p>$294.30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 July 2026</p>
+<p>6 August2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open</p>
+<p>Closed</p>
 </td>
 </tr>
 <tr>
@@ -78,10 +78,10 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 <p>$294.30</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 July 2026</p>
+<p>13 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open</p>
+<p>Closed</p>
 </td>
 </tr>
 <tr>
@@ -95,14 +95,13 @@ contact her at <strong>(65) 6775 1605</strong> ext 125</p>
 <p>$446.90</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>21 - 22 July 2026 (1.5 days)</p>
+<p>20 -21 August 2024 (1.5 days)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open</p>
+<p>Closed</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
 <p></p>
