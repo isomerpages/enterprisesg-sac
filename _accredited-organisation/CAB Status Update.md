@@ -169,7 +169,7 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 <li>
 <p>Sembcorp Industries Ltd (19 January 2026)
-<br>-Certificate No: LA-2022-0801-F</p>
+<br>- Certificate No: LA-2022-0801-F</p>
 </li>
 </ul>
 </li>
