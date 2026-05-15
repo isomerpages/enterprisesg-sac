@@ -178,11 +178,11 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)
-<br>Certificate No: LA-2013-0534-D-3</p>
+<br>- Certificate No: LA-2013-0534-D-3</p>
 </li>
 <li>
 <p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)
-<br>Certificate No: LA-2021-0793-D</p>
+<br>- Certificate No: LA-2021-0793-D</p>
 </li>
 </ul>
 </li>
@@ -194,7 +194,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>PacMarine Services Pte Ltd (15 April 2026)
-<br>Certificate No: IB-2010-021-C</p>
+<br>- -Certificate No: IB-2010-021-C</p>
 </li>
 </ul>
 </li>
@@ -209,7 +209,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sustech Services Pte Ltd (7 April 2026)
-<br>Certificate No: QS-2025-45</p>
+<br>- Certificate No: QS-2025-45</p>
 </li>
 </ul>
 </li>
@@ -223,11 +223,11 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Asia Royal Hospital (31 December 2025)
-<br>Certificate No: LA-2018-0673-H</p>
+<br>- Certificate No: LA-2018-0673-H</p>
 </li>
 <li>
 <p>Right Healthcare (31 December 2025)
-<br>Certificate No: LA-2019-0715-H</p>
+<br>- Certificate No: LA-2019-0715-H</p>
 </li>
 </ul>
 </li>
@@ -236,7 +236,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Phu Bia Mining Ltd (09 February 2026)
-<br>Certificate No: LA-2011-0482-</p>
+<br>- Certificate No: LA-2011-0482-</p>
 </li>
 </ul>
 </li>
