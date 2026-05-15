@@ -236,7 +236,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Phu Bia Mining Ltd (09 February 2026)
-<br>- Certificate No: LA-2011-0482-</p>
+<br>- Certificate No: LA-2011-0482-A</p>
 </li>
 </ul>
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
