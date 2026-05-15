@@ -222,10 +222,12 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Medical Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Asia Royal Hospital (31 December 2025)</p>
+<p>Asia Royal Hospital (31 December 2025)
+<br>Certificate No: LA-2018-0673-H</p>
 </li>
 <li>
-<p>Right Healthcare (31 December 2025)</p>
+<p>Right Healthcare (31 December 2025)
+<br>Certificate No: LA-2019-0715-H</p>
 </li>
 </ul>
 </li>
@@ -233,12 +235,15 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Chemical &amp; Biological Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Phu Bia Mining Ltd (09 February 2026)</p>
+<p>Phu Bia Mining Ltd (09 February 2026)
+<br>Certificate No: LA-2011-0482-</p>
 </li>
 </ul>
 </li>
-</ul>
+<li>
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
 </p>
+</li>
+</ul>
 <hr>
 <p></p>
