@@ -156,7 +156,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nihon Denkei Co. Ltd (22 November 2025)
-<br>- Certificate No: CerLA-2006-0361-C</p>
+<br>- Certificate No: LA-2006-0361-C</p>
 </li>
 </ul>
 </li>
