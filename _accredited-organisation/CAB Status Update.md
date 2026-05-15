@@ -146,7 +146,8 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Chemical &amp; Biological Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>TES-AMM (Singapore) Pte. Ltd. (15 December 2025)</p>
+<p>TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
+<br>Certificate No: LA-2023-0850-A</p>
 </li>
 </ul>
 </li>
@@ -154,7 +155,8 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Calibration &amp; Measurement</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nihon Denkei Co. Ltd (22 November 2025)</p>
+<p>Nihon Denkei Co. Ltd (22 November 2025)
+<br>Certificate No: CerLA-2006-0361-C</p>
 </li>
 </ul>
 </li>
@@ -162,10 +164,12 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Environmental Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Element Construction Testing (S) Pte Ltd (12 January 2026)</p>
+<p>Element Construction Testing (S) Pte Ltd (12 January 2026)
+<br>Certificate No: LA-2013-0546-F</p>
 </li>
 <li>
-<p>Sembcorp Industries Ltd (19 January 2026)</p>
+<p>Sembcorp Industries Ltd (19 January 2026)
+<br>Certificate No: LA-2022-0801-F</p>
 </li>
 </ul>
 </li>
@@ -173,10 +177,12 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Non-Destructive Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)</p>
+<p>A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)
+<br>Certificate No: LA-2013-0534-D-3</p>
 </li>
 <li>
-<p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)</p>
+<p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)
+<br>Certificate No: LA-2021-0793-D</p>
 </li>
 </ul>
 </li>
@@ -187,7 +193,8 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Cargo Inspection</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PacMarine Services Pte Ltd (15 April 2026)</p>
+<p>PacMarine Services Pte Ltd (15 April 2026)
+<br>Certificate No: IB-2010-021-C</p>
 </li>
 </ul>
 </li>
@@ -201,7 +208,8 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Quality Management System</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sustech Services Pte Ltd (7 April 2026)</p>
+<p>Sustech Services Pte Ltd (7 April 2026)
+<br>Certificate No: QS-2025-45</p>
 </li>
 </ul>
 </li>
