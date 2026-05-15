@@ -194,7 +194,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>PacMarine Services Pte Ltd (15 April 2026)
-<br>- -Certificate No: IB-2010-021-C</p>
+<br>- Certificate No: IB-2010-021-C</p>
 </li>
 </ul>
 </li>
