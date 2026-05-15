@@ -128,7 +128,7 @@ variant: tiptap
 <p>AEON DS Global Certification Pte. Ltd. (13 April 2026 to 03 April 2027)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Areas: Safety and Health Management System (SHMS) -&nbsp; Construction
+<p>Areas: Safety and Health Management System (SHMS) -&nbsp;Construction
 worksite, Risk Management (bizSAFE)</p>
 </li>
 </ul>
