@@ -239,16 +239,10 @@ worksite, Risk Management (bizSAFE)</p>
 <br>- Certificate No: LA-2011-0482-</p>
 </li>
 </ul>
-</li>
-<li>
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
 </p>
 </li>
 </ul>
 <hr>
-<ul data-tight="true" class="tight">
-<li>
 <p></p>
-</li>
-</ul>
 <p></p>
