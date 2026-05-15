@@ -147,7 +147,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
-<br>Certificate No: LA-2023-0850-A</p>
+<br>- Certificate No: LA-2023-0850-A</p>
 </li>
 </ul>
 </li>
@@ -156,7 +156,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nihon Denkei Co. Ltd (22 November 2025)
-<br>Certificate No: CerLA-2006-0361-C</p>
+<br>- Certificate No: CerLA-2006-0361-C</p>
 </li>
 </ul>
 </li>
@@ -165,11 +165,11 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Element Construction Testing (S) Pte Ltd (12 January 2026)
-<br>Certificate No: LA-2013-0546-F</p>
+<br>- -Certificate No: LA-2013-0546-F</p>
 </li>
 <li>
 <p>Sembcorp Industries Ltd (19 January 2026)
-<br>Certificate No: LA-2022-0801-F</p>
+<br>-Certificate No: LA-2022-0801-F</p>
 </li>
 </ul>
 </li>
@@ -246,4 +246,9 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 </ul>
 <hr>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <p></p>
