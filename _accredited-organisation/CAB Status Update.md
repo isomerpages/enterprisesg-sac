@@ -209,7 +209,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sustech Services Pte Ltd (7 April 2026)
-<br>- Certificate No: QS-2025-45</p>
+<br>- Full Scopes under Certificate No: QS-2025-45</p>
 </li>
 </ul>
 </li>
@@ -223,11 +223,11 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Asia Royal Hospital (31 December 2025)
-<br>- Certificate No: LA-2018-0673-H</p>
+<br>- Full Scopes under Certificate No: LA-2018-0673-H</p>
 </li>
 <li>
 <p>Right Healthcare (31 December 2025)
-<br>- Certificate No: LA-2019-0715-H</p>
+<br>- Full Scopes under Certificate No: LA-2019-0715-H</p>
 </li>
 </ul>
 </li>
@@ -236,7 +236,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Phu Bia Mining Ltd (09 February 2026)
-<br>- Certificate No: LA-2011-0482-A</p>
+<br>- Full Scopes under Certificate No: LA-2011-0482-A</p>
 </li>
 </ul>
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
@@ -244,4 +244,4 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 </ul>
 <hr>
-<p>oFull Scopes under</p>
+<p>oFull Scopes underFull Scopes under</p>
