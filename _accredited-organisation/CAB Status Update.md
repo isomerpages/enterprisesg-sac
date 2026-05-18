@@ -187,8 +187,7 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 <li>
 <p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)
-<br>- Full Scopes under Certificate No:
-<br>LA-2021-0793-D</p>
+<br>- Full Scopes under Certificate No: LA-2021-0793-D</p>
 </li>
 </ul>
 </li>
@@ -236,8 +235,7 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 <li>
 <p>Right Healthcare (31 December 2025)
-<br>- Full Scopes under Certificate No:
-<br>LA-2019-0715-H</p>
+<br>Full Scopes under Certificate No: LA-2019-0715-H</p>
 </li>
 </ul>
 </li>
@@ -246,8 +244,9 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Phu Bia Mining Ltd (09 February 2026)
-<br>- Full Scopes under Certificate No:
-<br>LA-2011-0482-A</p>
+<br>Full Scopes under Certificate No: LA-2011-0482-A
+<br>
+</p>
 </li>
 </ul>
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
