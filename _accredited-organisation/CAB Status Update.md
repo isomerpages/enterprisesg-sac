@@ -147,7 +147,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
-<br>- Certificate No: LA-2023-0850-A</p>
+<br>- Full Scopes under Certificate No: LA-2023-0850-A</p>
 </li>
 </ul>
 </li>
@@ -156,7 +156,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nihon Denkei Co. Ltd (22 November 2025)
-<br>- Certificate No: LA-2006-0361-C</p>
+<br>- Full Socpes under Certificate No: LA-2006-0361-C</p>
 </li>
 </ul>
 </li>
