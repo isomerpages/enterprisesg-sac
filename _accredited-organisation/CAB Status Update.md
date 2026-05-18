@@ -165,7 +165,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Element Construction Testing (S) Pte Ltd (12 January 2026)
-<br>- Certificate No: LA-2013-0546-F</p>
+<br>- Full Scopes under Certificate No: LA-2013-0546-F</p>
 </li>
 <li>
 <p>Sembcorp Industries Ltd (19 January 2026)
