@@ -138,7 +138,6 @@ worksite, Risk Management (bizSAFE)</p>
 </p>
 <hr>
 <p>{: #withdrawn}</p>
-<h3>3. Withdrawn Conformity Assessment Bodies (CABs)</h3>
 <h4><strong>Voluntary Withdrawal by CABs</strong></h4>
 <h4>Laboratory</h4>
 <ul>
@@ -147,8 +146,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
-<br>- Full Scopes under Certificate No:
-<br>LA-2023-0850-A</p>
+<br>Full Scopes under Certificate No: LA-2023-0850-A</p>
 </li>
 </ul>
 </li>
@@ -157,8 +155,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nihon Denkei Co. Ltd (22 November 2025)
-<br>- Full Scopes under Certificate No:
-<br>LA-2006-0361-C</p>
+<br>Full Scopes under Certificate No: LA-2006-0361-C</p>
 </li>
 </ul>
 </li>
@@ -166,9 +163,8 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Environmental Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Element Construction Testing (S) Pte Ltd (12 January 2026)
-<br>- Full Scopes under Certificate No:
-<br>LA-2013-0546-F</p>
+<p>Element Construction Testing (S) Pte Ltd (12 January 2026)</p>
+<p>Full Scopes under Certificate No: LA-2013-0546-F</p>
 </li>
 <li>
 <p>Sembcorp Industries Ltd (19 January 2026)
@@ -254,4 +250,4 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 </ul>
 <hr>
-<p>oFull Scopes underFull Scopes under</p>
+<p></p>
