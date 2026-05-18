@@ -128,7 +128,7 @@ variant: tiptap
 <p>AEON DS Global Certification Pte. Ltd. (13 April 2026 to 03 April 2027)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Areas: Safety and Health Management System (SHMS) -&nbsp; Construction
+<p>Areas: Safety and Health Management System (SHMS) -&nbsp;Construction
 worksite, Risk Management (bizSAFE)</p>
 </li>
 </ul>
@@ -138,7 +138,6 @@ worksite, Risk Management (bizSAFE)</p>
 </p>
 <hr>
 <p>{: #withdrawn}</p>
-<h3>3. Withdrawn Conformity Assessment Bodies (CABs)</h3>
 <h4><strong>Voluntary Withdrawal by CABs</strong></h4>
 <h4>Laboratory</h4>
 <ul>
@@ -146,7 +145,8 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Chemical &amp; Biological Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>TES-AMM (Singapore) Pte. Ltd. (15 December 2025)</p>
+<p>TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
+<br>Full Scopes under Certificate No: LA-2023-0850-A</p>
 </li>
 </ul>
 </li>
@@ -154,7 +154,8 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Calibration &amp; Measurement</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nihon Denkei Co. Ltd (22 November 2025)</p>
+<p>Nihon Denkei Co. Ltd (22 November 2025)
+<br>Full Scopes under Certificate No: LA-2006-0361-C</p>
 </li>
 </ul>
 </li>
@@ -162,10 +163,12 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Environmental Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Element Construction Testing (S) Pte Ltd (12 January 2026)</p>
+<p>Element Construction Testing (S) Pte Ltd (12 January 2026)
+<br>Full Scopes under Certificate No: LA-2013-0546-F</p>
 </li>
 <li>
-<p>Sembcorp Industries Ltd (19 January 2026)</p>
+<p>Sembcorp Industries Ltd (19 January 2026)
+<br>Full Scopes under Certificate No: LA-2022-0801-F</p>
 </li>
 </ul>
 </li>
@@ -173,10 +176,12 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Non-Destructive Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)</p>
+<p>A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)
+<br>Full Scopes under Certificate No: LA-2013-0534-D-3</p>
 </li>
 <li>
-<p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)</p>
+<p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)
+<br>Full Scopes under Certificate No: LA-2021-0793-D</p>
 </li>
 </ul>
 </li>
@@ -187,7 +192,8 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Cargo Inspection</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PacMarine Services Pte Ltd (15 April 2026)</p>
+<p>PacMarine Services Pte Ltd (15 April 2026)
+<br>Full Scopes under Certificate No: IB-2010-021-C</p>
 </li>
 </ul>
 </li>
@@ -201,7 +207,8 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Quality Management System</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sustech Services Pte Ltd (7 April 2026)</p>
+<p>Sustech Services Pte Ltd (7 April 2026)
+<br>Full Scopes under Certificate No: QS-2025-45</p>
 </li>
 </ul>
 </li>
@@ -214,10 +221,12 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Medical Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Asia Royal Hospital (31 December 2025)</p>
+<p>Asia Royal Hospital (31 December 2025)
+<br>Full Scopes under Certificate No: LA-2018-0673-H</p>
 </li>
 <li>
-<p>Right Healthcare (31 December 2025)</p>
+<p>Right Healthcare (31 December 2025)
+<br>Full Scopes under Certificate No: LA-2019-0715-H</p>
 </li>
 </ul>
 </li>
@@ -225,12 +234,15 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Chemical &amp; Biological Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Phu Bia Mining Ltd (09 February 2026)</p>
-</li>
-</ul>
+<p>Phu Bia Mining Ltd (09 February 2026)
+<br>Full Scopes under Certificate No: LA-2011-0482-A
+<br>
+</p>
 </li>
 </ul>
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
 </p>
+</li>
+</ul>
 <hr>
 <p></p>
