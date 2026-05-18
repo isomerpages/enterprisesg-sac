@@ -188,7 +188,7 @@ worksite, Risk Management (bizSAFE)</p>
 <li>
 <p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)
 <br>- Full Scopes under Certificate No:
-<br>A-2021-0793-D</p>
+<br>LA-2021-0793-D</p>
 </li>
 </ul>
 </li>
