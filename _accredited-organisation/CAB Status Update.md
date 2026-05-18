@@ -156,7 +156,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nihon Denkei Co. Ltd (22 November 2025)
-<br>- Full Socpes under Certificate No: LA-2006-0361-C</p>
+<br>- Full Scopes under Certificate No: LA-2006-0361-C</p>
 </li>
 </ul>
 </li>
@@ -244,5 +244,4 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 </ul>
 <hr>
-<p></p>
-<p></p>
+<p>o</p>
