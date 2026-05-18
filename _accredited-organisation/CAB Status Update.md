@@ -169,7 +169,7 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 <li>
 <p>Sembcorp Industries Ltd (19 January 2026)
-<br>- Certificate No: LA-2022-0801-F</p>
+<br>- Full Scopes under Certificate No: LA-2022-0801-F</p>
 </li>
 </ul>
 </li>
@@ -178,11 +178,11 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)
-<br>- Certificate No: LA-2013-0534-D-3</p>
+<br>- Full Scopes under Certificate No: LA-2013-0534-D-3</p>
 </li>
 <li>
 <p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)
-<br>- Certificate No: LA-2021-0793-D</p>
+<br>- Full Scopes under Certificate No: LA-2021-0793-D</p>
 </li>
 </ul>
 </li>
@@ -244,4 +244,4 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 </ul>
 <hr>
-<p>o</p>
+<p>oFull Scopes under</p>
