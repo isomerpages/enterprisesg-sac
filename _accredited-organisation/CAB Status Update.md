@@ -208,8 +208,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sustech Services Pte Ltd (7 April 2026)
-<br>- Full Scopes under Certificate No:
-<br>QS-2025-45</p>
+<br>Full Scopes under Certificate No: QS-2025-45</p>
 </li>
 </ul>
 </li>
@@ -223,8 +222,7 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Asia Royal Hospital (31 December 2025)
-<br>- Full Scopes under Certificate No:
-<br>LA-2018-0673-H</p>
+<br>Full Scopes under Certificate No: LA-2018-0673-H</p>
 </li>
 <li>
 <p>Right Healthcare (31 December 2025)
