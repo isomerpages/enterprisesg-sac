@@ -147,7 +147,8 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>TES-AMM (Singapore) Pte. Ltd. (15 December 2025)
-<br>- Full Scopes under Certificate No: LA-2023-0850-A</p>
+<br>- Full Scopes under Certificate No:
+<br>LA-2023-0850-A</p>
 </li>
 </ul>
 </li>
@@ -156,7 +157,8 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nihon Denkei Co. Ltd (22 November 2025)
-<br>- Full Scopes under Certificate No: LA-2006-0361-C</p>
+<br>- Full Scopes under Certificate No:
+<br>LA-2006-0361-C</p>
 </li>
 </ul>
 </li>
@@ -165,11 +167,13 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Element Construction Testing (S) Pte Ltd (12 January 2026)
-<br>- Full Scopes under Certificate No: LA-2013-0546-F</p>
+<br>- Full Scopes under Certificate No:
+<br>LA-2013-0546-F</p>
 </li>
 <li>
 <p>Sembcorp Industries Ltd (19 January 2026)
-<br>- Full Scopes under Certificate No: LA-2022-0801-F</p>
+<br>- Full Scopes under Certificate No:
+<br>LA-2022-0801-F</p>
 </li>
 </ul>
 </li>
@@ -178,11 +182,13 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)
-<br>- Full Scopes under Certificate No: LA-2013-0534-D-3</p>
+<br>- Full Scopes under Certificate No:
+<br>LA-2013-0534-D-3</p>
 </li>
 <li>
 <p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)
-<br>- Full Scopes under Certificate No: LA-2021-0793-D</p>
+<br>- Full Scopes under Certificate No:
+<br>A-2021-0793-D</p>
 </li>
 </ul>
 </li>
@@ -194,7 +200,8 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>PacMarine Services Pte Ltd (15 April 2026)
-<br>- Full Scopes under Certificate No: IB-2010-021-C</p>
+<br>- Full Scopes under Certificate No:
+<br>IB-2010-021-C</p>
 </li>
 </ul>
 </li>
@@ -209,7 +216,8 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sustech Services Pte Ltd (7 April 2026)
-<br>- Full Scopes under Certificate No: QS-2025-45</p>
+<br>- Full Scopes under Certificate No:
+<br>QS-2025-45</p>
 </li>
 </ul>
 </li>
@@ -223,11 +231,13 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Asia Royal Hospital (31 December 2025)
-<br>- Full Scopes under Certificate No: LA-2018-0673-H</p>
+<br>- Full Scopes under Certificate No:
+<br>LA-2018-0673-H</p>
 </li>
 <li>
 <p>Right Healthcare (31 December 2025)
-<br>- Full Scopes under Certificate No: LA-2019-0715-H</p>
+<br>- Full Scopes under Certificate No:
+<br>LA-2019-0715-H</p>
 </li>
 </ul>
 </li>
@@ -236,7 +246,8 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Phu Bia Mining Ltd (09 February 2026)
-<br>- Full Scopes under Certificate No: LA-2011-0482-A</p>
+<br>- Full Scopes under Certificate No:
+<br>LA-2011-0482-A</p>
 </li>
 </ul>
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
