@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p><strong><a href="#withdrawn" rel="noopener noreferrer nofollow" target="_blank">3. Withdrawn</a></strong>
 </p>
-<p>{: #newly-accredited}</p>
+<p></p>
 <h3>1. Newly Accredited Conformity Assessment Bodies (CABs)</h3>
 <h4>Auditing Organisation</h4>
 <ul data-tight="true" class="tight">
@@ -104,7 +104,7 @@ variant: tiptap
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
 </p>
 <hr>
-<p>{: #suspended}</p>
+<p></p>
 <h3>2. Suspended Conformity Assessment Bodies (CABs)</h3>
 <h4>Laboratory</h4>
 <ul data-tight="true" class="tight">
@@ -137,7 +137,7 @@ worksite, Risk Management (bizSAFE)</p>
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
 </p>
 <hr>
-<p>{: #withdrawn}</p>
+<p></p>
 <h4><strong>Voluntary Withdrawal by CABs</strong></h4>
 <h4>Laboratory</h4>
 <ul>
