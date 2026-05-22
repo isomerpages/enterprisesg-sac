@@ -141,12 +141,11 @@ Toppan Leefung Pte Ltd or online at <a href="https://www.singaporestandardseshop
 <li>
 <p>Accredited inspection bodies are encouraged to purchase a copy to understand
 the changes and ensure timely transition to this revised standard.</p>
+<p></p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong><u>E. General or training related enquiries</u></strong>
 </p>
-<p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>For any queries on updates or SAC’s transition policy, please contact
@@ -155,7 +154,6 @@ your SAC Account Manager or submit your queries via the SAC Website here:
 </p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p>For queries on upcoming training, please indicate your interest to Ms
 Angie Ng via email to <a href="mailto:sac@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sac@enterprisesg.gov.sg</a>. Please
 note that priority for the training will be given to SAC-accredited inspection
