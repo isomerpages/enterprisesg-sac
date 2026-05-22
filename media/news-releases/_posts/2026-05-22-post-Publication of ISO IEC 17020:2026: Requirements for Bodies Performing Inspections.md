@@ -82,9 +82,9 @@ SAC accreditation will be based on ISO/IEC 17020: 2026.</p>
 <p>For new applicants who are ready to be assessed based on the ISO/IEC 17020:
 2026 before 1 January 2027, please inform SAC on this preferred approach
 during the application process.</p>
+<p></p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong><u>ii. For Existing Accredited Inspection Bodies</u></strong>
 </p>
 <ol start="5" data-tight="true" class="tight">
@@ -93,36 +93,27 @@ during the application process.</p>
 inspection bodies could still be based on ISO/IEC 17020: 2012, upon request
 by the accredited inspection body if they are not ready to transit to the
 new standard.</p>
+<p></p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="6" data-tight="true" class="tight">
 <li>
 <p>For existing accredited inspection bodies that are ready to transit to
 ISO/IEC 17020: 2026 earlier than 1 January 2027, please contact your respective
 account managers to indicate your preferred approach.</p>
+<p></p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="7" data-tight="true" class="tight">
 <li>
 <p>From 1 January 2028, all SAC assessments for existing accredited inspection
 bodies shall be based only on ISO/IEC 17020: 2026. This will allow the
 inspection bodies, which are currently accredited to ISO/IEC 17020: 2012,
 to complete their transitions before 27 March 2029.</p>
+<p></p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="8" data-tight="true" class="tight">
 <li>
 <p>SAC will issue a new Certificate of Accreditation to the accredited inspection
 body upon successful transition.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong><u>C. SAC Training to support the ISO/IEC 17020 transition</u></strong>
-</p>
-<p><u>&nbsp;</u>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -131,8 +122,6 @@ committee members and accredited inspection bodies on the new changes during
 the transition period.</p>
 </li>
 </ol>
-<p><u>&nbsp;</u>
-</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>The next training for the accredited inspection bodies will be conducted
