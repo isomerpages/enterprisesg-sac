@@ -129,19 +129,15 @@ in Q3 of 2026. The training is expected to be a one-day course. More details
 will be shared at a later date.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong><u>D. Adoption of ISO/IEC 17020: 2026 to SS ISO/IEC 17020</u></strong>
 </p>
-<p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>This standard is in the process of being adopted as a Singapore Standard,
 and a copy of this standard will soon be made available for purchase at
 Toppan Leefung Pte Ltd or online at <a href="https://www.singaporestandardseshop.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.singaporestandardseshop.sg/</a>.</p>
+<p></p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Accredited inspection bodies are encouraged to purchase a copy to understand
 the changes and ensure timely transition to this revised standard.</p>
