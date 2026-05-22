@@ -62,27 +62,22 @@ of inspection results.</p>
 Cooperation Incorporated’s (Global ACI) recommendation to give accredited
 inspection bodies a 3-year transition period from 27 March 2026 to 27 March
 2029.</p>
+<p></p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="2" data-tight="true" class="tight">
 <li>
 <p>Existing accredited inspection bodies who have not transited to ISO/IEC
 17020: 2026 standard by 27 March 2029 will be suspended by SAC and not
 be allowed to issue SAC-accredited inspection reports or certificates.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
-<p><strong><u>i. For New Inspection Body Applicants</u></strong>
+<p>&nbsp;<strong><u>i. For New Inspection Body Applicants</u></strong>
 </p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>From 1 January 2027, assessment for new applicant inspection bodies for
 SAC accreditation will be based on ISO/IEC 17020: 2026.</p>
+<p></p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="4" data-tight="true" class="tight">
 <li>
 <p>For new applicants who are ready to be assessed based on the ISO/IEC 17020:
 2026 before 1 January 2027, please inform SAC on this preferred approach
