@@ -121,6 +121,16 @@ variant: tiptap
 </li>
 </ul>
 </li>
+<li>
+<p>Chemical &amp; Biological Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Microbiology Laboratory, Department of Food and Drug Administration,
+Ministry of Health, Mynmar (30 May 2025 to 13 June 2027)
+<br>Full Scopes under Certificate No: LA-2019-0723-A</p>
+</li>
+</ul>
+</li>
 </ul>
 <h4>Auditing Organisation</h4>
 <ul data-tight="true" class="tight">
