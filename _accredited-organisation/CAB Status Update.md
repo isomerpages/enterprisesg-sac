@@ -126,7 +126,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Food Microbiology Laboratory, Department of Food and Drug Administration,
-Ministry of Health, Mynmar (30 May 2025 to 13 June 2027)
+Ministry of Health, Myanmar (30 May 2025 to 13 June 2027)
 <br>Full Scopes under Certificate No: LA-2019-0723-A</p>
 </li>
 </ul>
