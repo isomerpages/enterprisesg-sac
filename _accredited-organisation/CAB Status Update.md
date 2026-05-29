@@ -106,6 +106,7 @@ variant: markdown
 </p>
 <hr>
 <p></p>
+<a name="suspended"></a>
 <h3>2. Suspended Conformity Assessment Bodies (CABs)</h3>
 <h4>Laboratory</h4>
 <ul data-tight="true" class="tight">
@@ -226,6 +227,7 @@ worksite, Risk Management (bizSAFE)</p>
 </ul>
 </li>
 </ul>
+<a name="withdrawn"></a>
 <h4><strong>Withdrawal by SAC</strong></h4>
 <ul>
 <li>
