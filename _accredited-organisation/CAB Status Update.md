@@ -5,13 +5,14 @@ description: ""
 variant: markdown
 ---
 <p>Click on the quick links below to jump to the CAB Status:</p>
-<p><strong><a href="#newly-accredited" rel="noopener noreferrer nofollow" target="_blank">1. Newly Accredited</a></strong>
+<p><strong><a href="#newly-accredited" rel="noopener noreferrer nofollow">1. Newly Accredited</a></strong>
 </p>
-<p><strong><a href="#suspended" rel="noopener noreferrer nofollow" target="_blank">2. Suspended</a></strong>
+<p><strong><a href="#suspended" rel="noopener noreferrer nofollow">2. Suspended</a></strong>
 </p>
-<p><strong><a href="#withdrawn" rel="noopener noreferrer nofollow" target="_blank">3. Withdrawn</a></strong>
+<p><strong><a href="#withdrawn" rel="noopener noreferrer nofollow">3. Withdrawn</a></strong>
 </p>
 <p></p>
+<a name="newly-accredited"></a>
 <h3>1. Newly Accredited Conformity Assessment Bodies (CABs)</h3>
 <h4>Auditing Organisation</h4>
 <ul data-tight="true" class="tight">
@@ -101,7 +102,7 @@ variant: markdown
 </ul>
 </li>
 </ul>
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+<p><a href="#top" rel="noopener noreferrer nofollow">Back to top ↑</a>
 </p>
 <hr>
 <p></p>
@@ -144,7 +145,7 @@ worksite, Risk Management (bizSAFE)</p>
 </ul>
 </li>
 </ul>
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+<p><a href="#top" rel="noopener noreferrer nofollow">Back to top ↑</a>
 </p>
 <hr>
 <p></p>
@@ -250,7 +251,7 @@ worksite, Risk Management (bizSAFE)</p>
 </p>
 </li>
 </ul>
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+<p><a href="#top" rel="noopener noreferrer nofollow">Back to top ↑</a>
 </p>
 </li>
 </ul>
