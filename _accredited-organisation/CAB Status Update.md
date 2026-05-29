@@ -2,16 +2,17 @@
 title: CAB Status Update
 permalink: /accredited-org/cab-status-update/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p>Click on the quick links below to jump to the CAB Status:</p>
-<p><strong><a href="#newly-accredited" rel="noopener noreferrer nofollow" target="_blank">1. Newly Accredited</a></strong>
+<p><strong><a href="#newly-accredited" rel="noopener noreferrer nofollow">1. Newly Accredited</a></strong>
 </p>
-<p><strong><a href="#suspended" rel="noopener noreferrer nofollow" target="_blank">2. Suspended</a></strong>
+<p><strong><a href="#suspended" rel="noopener noreferrer nofollow">2. Suspended</a></strong>
 </p>
-<p><strong><a href="#withdrawn" rel="noopener noreferrer nofollow" target="_blank">3. Withdrawn</a></strong>
+<p><strong><a href="#withdrawn" rel="noopener noreferrer nofollow">3. Withdrawn</a></strong>
 </p>
 <p></p>
+<a name="newly-accredited"></a>
 <h3>1. Newly Accredited Conformity Assessment Bodies (CABs)</h3>
 <h4>Auditing Organisation</h4>
 <ul data-tight="true" class="tight">
@@ -101,10 +102,11 @@ variant: tiptap
 </ul>
 </li>
 </ul>
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+<p><a href="#top" rel="noopener noreferrer nofollow">Back to top ↑</a>
 </p>
 <hr>
 <p></p>
+<a name="suspended"></a>
 <h3>2. Suspended Conformity Assessment Bodies (CABs)</h3>
 <h4>Laboratory</h4>
 <ul data-tight="true" class="tight">
@@ -121,6 +123,16 @@ variant: tiptap
 </li>
 </ul>
 </li>
+<li>
+<p>Chemical &amp; Biological Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Microbiology Laboratory, Department of Food and Drug Administration,
+Ministry of Health, Myanmar (30 May 2025 to 13 June 2027)
+<br>Full Scopes under Certificate No: LA-2019-0723-A</p>
+</li>
+</ul>
+</li>
 </ul>
 <h4>Auditing Organisation</h4>
 <ul data-tight="true" class="tight">
@@ -134,7 +146,7 @@ worksite, Risk Management (bizSAFE)</p>
 </ul>
 </li>
 </ul>
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+<p><a href="#top" rel="noopener noreferrer nofollow">Back to top ↑</a>
 </p>
 <hr>
 <p></p>
@@ -215,6 +227,7 @@ worksite, Risk Management (bizSAFE)</p>
 </ul>
 </li>
 </ul>
+<a name="withdrawn"></a>
 <h4><strong>Withdrawal by SAC</strong></h4>
 <ul>
 <li>
@@ -240,7 +253,7 @@ worksite, Risk Management (bizSAFE)</p>
 </p>
 </li>
 </ul>
-<p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
+<p><a href="#top" rel="noopener noreferrer nofollow">Back to top ↑</a>
 </p>
 </li>
 </ul>
