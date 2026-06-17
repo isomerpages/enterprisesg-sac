@@ -132,6 +132,17 @@ Ministry of Health, Myanmar (30 May 2025 to 13 June 2027)
 </ul>
 </li>
 </ul>
+<p></p>
+<h4>Inspection Body </h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hook-Lift &amp; Container Inspection</p>
+<p>* Zenith Engineering Pte Ltd (16 June 2026 to 15</p>
+<p>June 2027)</p>
+<p>Full Scopes under Certificate No:&nbsp;IB- 2020-185-H</p>
+</li>
+</ul>
+<p></p>
 <h4>Auditing Organisation</h4>
 <ul data-tight="true" class="tight">
 <li>
