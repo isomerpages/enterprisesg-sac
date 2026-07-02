@@ -103,19 +103,15 @@ the global accreditation ecosystem.</p>
 </p>
 <p>&nbsp;</p>
 <p>Once again, we would like to congratulate all 41 newly accredited CABs:</p>
-<p>&nbsp;</p>
 <p>List of newly accredited CABs [link to the PDF]</p>
-<p>&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
 <p>We would like to express our sincere appreciation to Mr Brahim Houla for
 his presence and valuable sharing, and to all our CABs and partners for
 your continued commitment to Singapore's accreditation ecosystem.</p>
-<p>&nbsp;</p>
 <p>We look forward to welcoming you to the next SAC Customer Day.</p>
-<p>&nbsp;</p>
 <p>If you are interested to find out more about SAC and Enterprise Singapore,
-or in seeking accreditation by SAC, please email us at <a href="mailto:sac@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sac@enterprisesg.gov.sg</a>.</p>
+or in seeking accreditation by SAC, please email us at <a href="mailto:sac@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sac@enterprisesg.gov.sg</a>
+</p>
+<p></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
