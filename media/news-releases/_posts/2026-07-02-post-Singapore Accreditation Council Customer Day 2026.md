@@ -99,19 +99,17 @@ the global accreditation ecosystem.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SAC Customer Day 2026" src="/images/Photo_6.jpg">
 </div>
-<p><em>&nbsp;</em>
-</p>
-<p>&nbsp;</p>
-<p>Once again, we would like to congratulate all 41 newly accredited CABs:</p>
+<p><em>&nbsp;</em>Once again, we would like to congratulate all 41 newly
+accredited CABs:</p>
 <p>List of newly accredited CABs [link to the PDF]</p>
 <p>We would like to express our sincere appreciation to Mr Brahim Houla for
 his presence and valuable sharing, and to all our CABs and partners for
 your continued commitment to Singapore's accreditation ecosystem.</p>
 <p>We look forward to welcoming you to the next SAC Customer Day.</p>
 <p>If you are interested to find out more about SAC and Enterprise Singapore,
-or in seeking accreditation by SAC, please email us at <a href="mailto:sac@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sac@enterprisesg.gov.sg</a>
+or in seeking accreditation by SAC, please email us at <a href="mailto:sac@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sac@enterprisesg.gov.sg</u></a>
 </p>
-<p></p>
 <p>&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
 <p></p>
