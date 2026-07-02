@@ -99,7 +99,12 @@ the global accreditation ecosystem.</p>
 </div>
 <p><em>&nbsp;Mr Tan Yee Teck, Executive Director, Quality and Excellence, delivering his presentation on Reflections and Next Phase of Growth for SAC</em>
 </p>
-<p><em>&nbsp;</em>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SAC Customer Day 2026" src="/images/Photo_6.jpg">
+</div>
+<p><em>&nbsp;</em>
+</p>
 <p>&nbsp;</p>
 <p>Once again, we would like to congratulate all 41 newly accredited CABs:</p>
 <p>&nbsp;</p>
@@ -117,7 +122,4 @@ your continued commitment to Singapore's accreditation ecosystem.</p>
 or in seeking accreditation by SAC, please email us at <a href="mailto:sac@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sac@enterprisesg.gov.sg</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Tan Yee Teck, Executive Director, Quality and Excellence" src="/images/Photo_5.jpg">
-</div>
 <p></p>
