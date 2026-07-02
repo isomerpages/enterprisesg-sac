@@ -75,7 +75,7 @@ the global accreditation ecosystem.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The SAC Leadership with Mr Brahim Houla" src="/images/Photo_2.jpg">
 </div>
-<p><em>The SAC Leadership with Mr Brahim Houl</em>
+<p><em>The SAC Leadership with Mr Brahim Houla</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
