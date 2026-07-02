@@ -71,24 +71,20 @@ the global accreditation ecosystem.</p>
 </div>
 <p><em>The SAC Leadership with Mr Brahim Houla and newly accredited CABs</em>
 </p>
-<p><em>&nbsp;T</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The SAC Leadership with Mr Brahim Houla" src="/images/Photo_2.jpg">
 </div>
-<p><em>&nbsp;The SAC Leadership with Mr Brahim Houla</em>
+<p><em>The SAC Leadership with Mr Brahim Houl</em>
 </p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Amos Leong, Chair, SAC, delivering his opening address" src="/images/Photo_3.jpg">
 </div>
 <p><em>Mr Amos Leong, Chair, SAC, delivering his opening address</em>
 </p>
-<p><em>&nbsp;Mr Tan Yee Teck, Executive Director, Quality and Excellence, delivering his presentation on Reflections and Next Phase of Growth for SAC</em>
-</p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Brahim Houla, Chair, Global ACI, delivering his presentation on Global ACI:" src="/images/Photo_4.jpg">
 </div>
