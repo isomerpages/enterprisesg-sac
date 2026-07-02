@@ -99,8 +99,9 @@ the global accreditation ecosystem.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SAC Customer Day 2026" src="/images/Photo_6.jpg">
 </div>
-<p>Once again, we would like to congratulate all 41 newly accredited CABs:</p>
-<p>List of newly accredited CABs [link to the PDF]</p>
+<p>Once again, we would like to congratulate all 41 accredited CABs:</p>
+<p><a href="https://go.gov.sg/sac-new-cabs-2026" rel="noopener nofollow" target="_blank">List of newly accredited CABs</a>
+</p>
 <p>We would like to express our sincere appreciation to Mr Brahim Houla for
 his presence and valuable sharing, and to all our CABs and partners for
 your continued commitment to Singapore's accreditation ecosystem.</p>
