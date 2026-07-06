@@ -197,6 +197,15 @@ worksite, Risk Management (bizSAFE)</p>
 </ul>
 </li>
 <li>
+<p>Infocomm Technology Security</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>T-Systems Singapore Pte Ltd (01 July 2026)
+<br>Full Scopes under Certificate No: LA-2022-0808-L</p>
+</li>
+</ul>
+</li>
+<li>
 <p>Non-Destructive Testing</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -205,7 +214,9 @@ worksite, Risk Management (bizSAFE)</p>
 </li>
 <li>
 <p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)
-<br>Full Scopes under Certificate No: LA-2021-0793-D</p>
+<br>Full Scopes under Certificate No: LA-2021-0793-D
+<br>
+</p>
 </li>
 </ul>
 </li>
