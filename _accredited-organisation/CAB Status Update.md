@@ -181,6 +181,10 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Nihon Denkei Co. Ltd (22 November 2025)
 <br>Full Scopes under Certificate No: LA-2006-0361-C</p>
 </li>
+<li>
+<p>Thermo Fisher Scientific Pte Ltd (30 June 2026)
+<br>Full Scopes under Certificate No: LA-2023-0842-C</p>
+</li>
 </ul>
 </li>
 <li>
