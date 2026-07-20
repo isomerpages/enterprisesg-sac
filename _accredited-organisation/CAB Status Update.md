@@ -131,8 +131,17 @@ Ministry of Health, Myanmar (30 May 2025 to 13 June 2027)
 </li>
 </ul>
 </li>
+<li>
+<p>Information Technology</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CSA Group Test and Certification Singapore Pte Ltd (17 July 2026 to 16
+July 2027)
+<br>Full Scopes under Certificate No: LA-2026-0907-L</p>
+</li>
 </ul>
-<p></p>
+</li>
+</ul>
 <h4>Inspection Body</h4>
 <ul data-tight="true" class="tight">
 <li>
