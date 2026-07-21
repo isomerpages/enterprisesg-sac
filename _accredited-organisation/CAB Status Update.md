@@ -219,6 +219,15 @@ worksite, Risk Management (bizSAFE)</p>
 </ul>
 </li>
 <li>
+<p>Medical Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Invitrocue Pte Ltd (7 July 2026)
+<br>Full Scopes under Certificate No: LA-2024-0864-H</p>
+</li>
+</ul>
+</li>
+<li>
 <p>Non-Destructive Testing</p>
 <ul data-tight="true" class="tight">
 <li>
