@@ -109,19 +109,6 @@ variant: tiptap
 <h4>Laboratory</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Medical Testing</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Invitrocue Pte Ltd (02 October 2025 to 02 October 2026)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Area: Molecular Pathology</p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
 <p>Chemical &amp; Biological Testing</p>
 <ul data-tight="true" class="tight">
 <li>
