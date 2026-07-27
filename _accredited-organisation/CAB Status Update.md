@@ -109,19 +109,6 @@ variant: tiptap
 <h4>Laboratory</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Medical Testing</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Invitrocue Pte Ltd (02 October 2025 to 02 October 2026)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Area: Molecular Pathology</p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
 <p>Chemical &amp; Biological Testing</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -215,6 +202,15 @@ worksite, Risk Management (bizSAFE)</p>
 <li>
 <p>T-Systems Singapore Pte Ltd (01 July 2026)
 <br>Full Scopes under Certificate No: LA-2022-0808-L</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Medical Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Invitrocue Pte Ltd (7 July 2026)
+<br>Full Scopes under Certificate No: LA-2024-0864-H</p>
 </li>
 </ul>
 </li>
