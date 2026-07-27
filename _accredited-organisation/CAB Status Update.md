@@ -19,7 +19,7 @@ variant: tiptap
 <p>World Biohaztec Pte. Ltd. (15 October 2025)</p>
 </li>
 <li>
-<p>Vine Consultancy (2 December 2025)</p>
+<p>Vine Consultancy (02 December 2025)</p>
 </li>
 </ul>
 <h4>Certification Body</h4>
@@ -36,7 +36,7 @@ variant: tiptap
 <p>Data Protection Trustmark</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Guardian Independent Certification P L (9 October 2025)</p>
+<p>Guardian Independent Certification P L (09 October 2025)</p>
 </li>
 <li>
 <p>ISOCert Pte Ltd (17 November 2025)</p>
@@ -66,7 +66,7 @@ variant: tiptap
 <p>Water Efficiency Management System</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>SC2 Pte Ltd (9 December 2025)</p>
+<p>SC2 Pte Ltd (09 December 2025)</p>
 </li>
 </ul>
 </li>
@@ -197,6 +197,15 @@ worksite, Risk Management (bizSAFE)</p>
 </ul>
 </li>
 <li>
+<p>Electrical Testing</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SIA Engineering Company Limited (21 July 2026)
+<br>Full Scopes under Certificate No: LA-2021-0783-E</p>
+</li>
+</ul>
+</li>
+<li>
 <p>Infocomm Technology Security</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -209,7 +218,7 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Medical Testing</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Invitrocue Pte Ltd (7 July 2026)
+<p>Invitrocue Pte Ltd (07 July 2026)
 <br>Full Scopes under Certificate No: LA-2024-0864-H</p>
 </li>
 </ul>
@@ -251,7 +260,7 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Quality Management System</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sustech Services Pte Ltd (7 April 2026)
+<p>Sustech Services Pte Ltd (07 April 2026)
 <br>Full Scopes under Certificate No: QS-2025-45</p>
 </li>
 </ul>
