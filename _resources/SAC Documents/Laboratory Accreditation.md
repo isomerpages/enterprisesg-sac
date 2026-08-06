@@ -182,7 +182,7 @@ documents for the SAC accreditation are as below:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/information-technology-security-testing/IT-001-02-April-2018.pdf" rel="noopener noreferrer nofollow" target="_blank">IT001 - 2 April 2018: General Requirements for the Accreditation of IT Security Testing Labs</a>
+<p><a href="https://go.gov.sg/it-001-08aug2026" rel="noopener nofollow" target="_blank">IT001 - 08 August 2026: General Requirements for the Accreditation of IT Security Testing Labs</a>
 </p>
 </li>
 <li>
