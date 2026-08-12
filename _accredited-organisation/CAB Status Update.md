@@ -271,10 +271,9 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>PacMarine Services Pte Ltd (15 April 2026)
-<br>Full Scopes under Certificate No:</p>
-</li>
-<li>
-<p>IB-2010-021-C</p>
+<br>Full Scopes under Certificate No: <a href="https://go.gov.sg/ib-2010-021-c" rel="noopener nofollow" target="_blank">IB-2010-021-C</a>
+</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -289,10 +288,9 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Sustech Services Pte Ltd (07 April 2026)
-<br>Full Scopes under Certificate No:</p>
-</li>
-<li>
-<p>QS-2025-45</p>
+<br>Full Scopes under Certificate No: <a href="https://go.gov.sg/qs-2025-45" rel="noopener nofollow" target="_blank">QS-2025-45</a>
+</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -306,14 +304,15 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Asia Royal Hospital (31 December 2025)
-<br>Full Scopes under Certificate No: LA-2018-0673-H</p>
+<br>Full Scopes under Certificate No: <a href="https://go.gov.sg/la-2018-0673-h" rel="noopener nofollow" target="_blank">LA-2018-0673-H</a>
+</p>
+<p></p>
 </li>
 <li>
 <p>Right Healthcare (31 December 2025)
-<br>Full Scopes under Certificate No:</p>
-</li>
-<li>
-<p>LA-2019-0715-H</p>
+<br>Full Scopes under Certificate No: <a href="https://go.gov.sg/la-2019-0715-h" rel="noopener nofollow" target="_blank">LA-2019-0715-H</a>
+</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -322,10 +321,9 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Phu Bia Mining Ltd (09 February 2026)
-<br>Full Scopes under Certificate No:</p>
-</li>
-<li>
-<p>LA-2011-0482-A
+<br>Full Scopes under Certificate No: <a href="https://go.gov.sg/la-2011-0482-a" rel="noopener nofollow" target="_blank">LA-2011-0482-A</a>
+</p>
+<p>
 <br>
 </p>
 </li>
