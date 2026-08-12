@@ -201,17 +201,13 @@ worksite, Risk Management (bizSAFE)</p>
 <p>Element Construction Testing (S) Pte Ltd (12 January 2026)
 <br>Full Scopes under Certificate No: <a href="https://go.gov.sg/la-2013-0546-f" rel="noopener nofollow" target="_blank">LA-2013-0546-F</a>
 </p>
-</li>
-<li>
-<p>LA-2013-0546-F</p>
+<p></p>
 </li>
 <li>
 <p>Sembcorp Industries Ltd (19 January 2026)
 <br>Full Scopes under Certificate No: <a href="https://go.gov.sg/la-2022-0801-f" rel="noopener nofollow" target="_blank">LA-2022-0801-F</a>
 </p>
-</li>
-<li>
-<p>LA-2022-0801-F</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -220,10 +216,9 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SIA Engineering Company Limited (21 July 2026)
-<br>Full Scopes under Certificate No:</p>
-</li>
-<li>
-<p>LA-2021-0783-E</p>
+<br>Full Scopes under Certificate No:<a href="https://go.gov.sg/la-2021-0783-e" rel="noopener nofollow" target="_blank">LA-2021-0783-E</a>
+</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -232,7 +227,9 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>T-Systems Singapore Pte Ltd (01 July 2026)
-<br>Full Scopes under Certificate No: LA-2022-0808-L</p>
+<br>Full Scopes under Certificate No: <a href="https://go.gov.sg/la-2022-0808-l" rel="noopener nofollow" target="_blank">LA-2022-0808-L</a>
+</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -241,10 +238,9 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Invitrocue Pte Ltd (07 July 2026)
-<br>Full Scopes under Certificate No:</p>
-</li>
-<li>
-<p>LA-2024-0864-H</p>
+<br>Full Scopes under Certificate No: <a href="https://go.gov.sg/la-2024-0864-h" rel="noopener nofollow" target="_blank">LA-2024-0864-H</a>
+</p>
+<p></p>
 </li>
 </ul>
 </li>
@@ -253,17 +249,15 @@ worksite, Risk Management (bizSAFE)</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>A-STAR Technical Services (Thai) Co., Ltd. (07 October 2025)
-<br>Full Scopes under Certificate No:</p>
-</li>
-<li>
-<p>LA-2013-0534-D-3</p>
+<br>Full Scopes under Certificate No: <a href="https://go.gov.sg/la-2013-0534-d-3" rel="noopener nofollow" target="_blank">LA-2013-0534-D-3</a>
+</p>
+<p></p>
 </li>
 <li>
 <p>SG Engineering &amp; Inspection Pte Ltd (20 October 2025)
-<br>Full Scopes under Certificate No:</p>
-</li>
-<li>
-<p>LA-2021-0793-D
+<br>Full Scopes under Certificate No: <a href="https://go.gov.sg/la-2021-0793-d" rel="noopener nofollow" target="_blank">LA-2021-0793-D</a>
+</p>
+<p>
 <br>
 </p>
 </li>
@@ -340,5 +334,4 @@ worksite, Risk Management (bizSAFE)</p>
 </p>
 </li>
 </ul>
-<hr>
 <p></p>
