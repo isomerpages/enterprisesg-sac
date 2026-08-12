@@ -155,8 +155,11 @@ July 2027)
 <li>
 <p>Areas: Safety and Health Management System (SHMS) -&nbsp;Construction
 worksite, Risk Management (bizSAFE)</p>
+<p>Full Scopes under Certificate No: <a href="https://go.gov.sg/ao-2019-41" rel="noopener nofollow" target="_blank">AO-2019-41</a>
+</p>
 </li>
 </ul>
+<p></p>
 </li>
 </ul>
 <p><a href="#top" rel="noopener noreferrer nofollow" target="_blank">Back to top ↑</a>
