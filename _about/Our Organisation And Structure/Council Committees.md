@@ -115,7 +115,7 @@ the SAC Council to oversee the various accreditation programmes.&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LTC Cheng Yaw Joo</p>
+<p>COL Cheng Yaw Joo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Civil Defence Force</p>
