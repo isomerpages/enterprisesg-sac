@@ -87,6 +87,9 @@ variant: tiptap
 <li>
 <p>Bureau Veritas Quality Assurance Pte Ltd (10 December 2025)</p>
 </li>
+<li>
+<p>Blue Star Tech Pte. Ltd. (5 August 2026)</p>
+</li>
 </ul>
 </li>
 </ul>
